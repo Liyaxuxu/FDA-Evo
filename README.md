@@ -38,4 +38,19 @@ Use `data/manifest.json` to locate source files and their original FDA URLs. Som
 
 Stages were reconstructed from archived pages rather than separately captured historical snapshots. The dataset is a research resource, not current recall guidance. No official train/dev/test split is provided.
 
-Citation details and the annotation reuse license remain pending author approval.
+## Version and citation
+
+This is **version 1.0.0**, released on 14 November 2026. For a fixed snapshot,
+use [the v1.0.0 tag](https://github.com/Liyaxuxu/FDA-Evo/tree/v1.0.0).
+
+Xu, L. (2026). *FDA-Evo* (Version 1.0.0) [Data set]. GitHub.
+https://github.com/Liyaxuxu/FDA-Evo/tree/v1.0.0
+
+Machine-readable citation metadata is provided in `CITATION.cff`.
+
+## Reuse terms
+
+This version does not specify a dataset-wide reuse license. Original FDA
+source materials and author-created annotations are distinct components;
+do not assume that the source material's terms also license the annotations.
+See `RIGHTS.md` for the current licensing status.
