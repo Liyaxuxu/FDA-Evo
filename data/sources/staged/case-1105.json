@@ -1,0 +1,291 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1105",
+  "title": "Outbreak Investigation of Salmonella: Seafood (October 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-seafood-october-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1105.txt",
+  "frozen_source_sha256": "06fdf6f8cf1f833ba992aa4c5c3d107a3a10a6e6b24c0bd8773416274b60ae0c",
+  "stage_count": 4,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2022-10-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "October 19, 2022"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Litchfield infections linked to fresh, raw salmon supplied to restaurants in California and Arizona by Mariscos Bahia, Inc."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Based on epidemiologic information provided by CDC and interviews conducted by state and local public health officials, of 16 people interviewed, 12 reported eating sushi, sashimi, or poke. Of those interviewed, 11 people remembered details about the type of fish consumed and 9 report eating raw salmon before getting sick. The FDA’s investigation traced the distribution of fresh, raw salmon back to Mariscos Bahia, Inc."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "In addition, the FDA collected an environmental sample that included multiple swabs at Mariscos Bahia, Inc. (Pico Rivera, CA). Multiple environmental swabs collected at the facility are positive for Salmonella and subsequent Whole Genome Sequencing (WGS) analysis is ongoing. The WGS completed to date indicates the Salmonella detected in at least one of the swabs from the facility matches the outbreak strain. While epidemiological evidence indicates that ill people consumed fresh, raw salmon processed at this firm, the presence of Salmonella in the processing environment indicates that additional types of fish processed in the same area of the facility could also be contaminated which includes fresh, raw halibut, Chilean seabass, tuna, and swordfish. Salmon, halibut, Chilean seabass, tuna, and swordfish processed in Marisco Bahia Inc.’s Pico Rivera, CA, facility could have also been sent to the Mariscos Bahia, Inc. facilities in Phoenix, AZ and then sent to restaurants."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "The firm is cooperating with the FDA investigation and has agreed to initiate a voluntary recall. As a part of the firm’s voluntary recall, the firm will contact its direct customers who received recalled product."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "The FDA’s investigation is ongoing. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044"
+      ],
+      "stage_source_sha256": "cd3baaa5059765437c10afd9dd8e9666de6ab8c7717626f1edf2d3fbc898d196"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-10-25",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "October 25, 2022"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Litchfield infections linked to fresh, raw salmon supplied to restaurants in California and Arizona by Mariscos Bahia, Inc."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Based on epidemiologic information provided by CDC and interviews conducted by state and local public health officials, of 16 people interviewed, 12 reported eating sushi, sashimi, or poke. Of those interviewed, 11 people remembered details about the type of fish consumed and 9 report eating raw salmon before getting sick. The FDA’s investigation traced the distribution of fresh, raw salmon back to Mariscos Bahia, Inc."
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "In addition, the FDA collected an environmental sample that included multiple swabs at Mariscos Bahia, Inc. (Pico Rivera, CA). Multiple environmental swabs collected at the facility are positive for Salmonella and subsequent Whole Genome Sequencing (WGS) analysis is ongoing. The WGS completed to date indicates the Salmonella detected in at least one of the swabs from the facility matches the outbreak strain. While epidemiological evidence indicates that ill people consumed fresh, raw salmon processed at this firm, the presence of Salmonella in the processing environment indicates that additional types of fish processed in the same area of the facility could also be contaminated which includes fresh, raw halibut, Chilean seabass, tuna, and swordfish. Salmon, halibut, Chilean seabass, tuna, or swordfish processed in Marisco Bahia Inc.’s Pico Rivera, CA, facility could have also been sent to the Mariscos Bahia, Inc. facilities in Phoenix, AZ and then sent to restaurants."
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "The firm initiated a voluntary recall on October 20, 2022. As a result, the firm has contacted direct customers who received recalled product."
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "The FDA’s investigation is ongoing. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038"
+      ],
+      "stage_source_sha256": "6ca1e959cbeca7fd31123d151aafbc516f3e3e441656f91b9d30b5bb614e26b8"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-12-14",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "December 14, 2022"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Litchfield infections linked to fresh, raw salmon supplied to restaurants in California and Arizona by Mariscos Bahia, Inc."
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "As of December 14, 2022, CDC announced that the outbreak is over. CDC reports a total of 39 illnesses in four states. The last illness onset was October 23, 2022."
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA and the California Department of Public Health conducted a joint inspection at Mariscos Bahia, Inc., Pico Rivera, CA and collected environmental samples from the facility. Multiple samples collected from the firm came back positive for Salmonella. Whole Genome Sequencing (WGS) indicated the Salmonella detected in at least one of the swabs from the facility matched the strain causing illnesses in this outbreak. The epidemiological evidence indicated that ill people consumed fresh, raw salmon processed at this firm; however, the presence of Salmonella in the processing environment also indicated that additional types of fish processed in the same area of the facility could have been contaminated."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "On October 20, 2022, Mariscos Bahia, Inc., Pico Rivera, CA initiated a voluntary recall. Recalled products included fresh, raw salmon along with all other types of fresh fish processed in the same area as the salmon which included fresh, raw halibut, Chilean seabass, tuna, and swordfish."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032"
+      ],
+      "stage_source_sha256": "ad76b22c800959388b114c819f2dc27c477db6a9df3e065540b273ae23937311"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Litchfield infections linked to fresh, raw salmon supplied to restaurants in California and Arizona by Mariscos Bahia, Inc."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "As of December 14, 2022, CDC announced that the outbreak is over. CDC reports a total of 39 illnesses in four states. The last illness onset was October 23, 2022."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA and the California Department of Public Health conducted a joint inspection at Mariscos Bahia, Inc., Pico Rivera, CA and collected environmental samples from the facility. Multiple samples collected from the firm came back positive for Salmonella . Whole Genome Sequencing (WGS) indicated the Salmonella detected in at least one of the swabs from the facility matched the strain causing illnesses in this outbreak. The epidemiological evidence indicated that ill people consumed fresh, raw salmon processed at this firm; however, the presence of Salmonella in the processing environment also indicated that additional types of fish processed in the same area of the facility could have been contaminated."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On October 20, 2022, Mariscos Bahia, Inc., Pico Rivera, CA initiated a voluntary recall. Recalled products included fresh, raw salmon along with all other types of fresh fish processed in the same area as the salmon which included fresh, raw halibut, Chilean seabass, tuna, and swordfish."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "On February 7, 2023, FDA issued a Warning Letter to Mariscos Bahia, Inc., following an inspection initiated as part of the multistate foodborne outbreak investigation."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "According to Mariscos Bahia, Inc., seafood was only sold directly to restaurants in California and Arizona and would not be available for purchase by consumers in retail stores. The firm contacted direct restaurant customers that received recalled product. Recalled seafood was sold fresh and is now past shelf-life unless it was frozen after purchase."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Restaurants who might have purchased or received recalled fresh, raw salmon, halibut, Chilean seabass, tuna, or swordfish from Mariscos Bahia, Inc. (Pico Rivera, CA, and Phoenix, AZ) between June 14 - October 17, 2022, should check their freezers and throw away recalled product. Restaurants should also be sure to wash and sanitize locations where recalled fish from Mariscos Bahia, Inc. were stored or prepared."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Mariscos Bahia, Inc. voluntarily recalled the following list of fresh (not frozen) fish sold to restaurants between June 14 - October 17, 2022:"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Fresh Salmon Fillet"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Fresh Deep Skin Salmon Fillet"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Fresh Salmon Portions"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Chilean Seabass (Fillet and Portions)"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Halibut (Fillet and Portions)"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Tuna (Fillet and Loin)"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Swordfish (Loin, Fillet, and Wheel)"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Total Illnesses: 39 Hospitalizations: 15 Deaths: 0 Last illness onset: October 23, 2022 States with Cases: AZ (13), CA (24), IL (1), TX (1) Product Distribution*: AZ, CA *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020"
+      ],
+      "stage_source_sha256": "9eeb8587ac3090bc12d023444a4a2b632cbfee600854a2173afdc3e4339e12f5"
+    }
+  ]
+}

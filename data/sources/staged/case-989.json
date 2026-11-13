@@ -1,0 +1,265 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "989",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Peaches, Plums, & Nectarines (November 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-peaches-plums-nectarines-november-2023",
+  "frozen_source_path": "t1/frozen_sources/case-989.txt",
+  "frozen_source_sha256": "f658d914e0570d96a44a31f1344f644f7216dcda590042664cfc5de48e57b6df",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2023-11-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "November 20, 2023"
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections linked to peaches, plums, and nectarines (stone fruit)."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Federal and state partners have continued to investigate the outbreak as new matching cases have been identified over the past several years. Samples from sick people were collected from August 22, 2018, to August 16, 2023. According to a case-case analysis conducted by CDC, people in this outbreak were 18 times more likely to eat peaches, plums, or nectarines. This suggests that peaches, plums, and nectarines, are a likely source of this outbreak. On October 23, 2023, FDA collected samples of 2lb bagged peaches at The HMC Group Cold Storage, Inc (Kingsburg, CA) and on November 7, 2023, the samples were reported positive and a match to the outbreak strain by Whole Genome Sequencing."
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "In response to this investigation, HMC Farms has voluntarily recalled peaches, plums, and nectarines sold in retail stores from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023. The recalled fruit was sold at retail stores as individual pieces of fruit bearing PLU stickers or in consumer packaging; however, the recalled fruit is no longer available for sale and any previously purchased fruit should be past shelf life. If you previously purchased recalled fresh peaches, plums and nectarines and then froze them, you should throw them away if they are part of the recall or if you cannot tell if they are part of the recall."
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "Fresh whole peaches, plums, and nectarines currently available for sale at retail are not included in this recall."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046"
+      ],
+      "stage_source_sha256": "931e4318d8d1d1ad9443f43f100baccea647deb62df302d0965c1a339c8cedb7"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-01-30",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled fruit is past expiration and no longer available for sale in retail stores but could have been frozen by consumers. Fresh whole peaches, plums, and nectarines currently available for sale at retail are not included in this recall."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recalled conventional (non-organic) peaches, plums, and nectarines sold in retail stores from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023. The recalled fruit was sold at retail stores nationwide in bags or as individual pieces of fruit with PLU stickers, under multiple brand names."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Additional information and product images can be found in the company recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "The list of retail locations, that FDA has reason to believe received the peaches, plums & nectarines included in the HMC Farms recall is available in the recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of Listeriosis ( Listeria Infection)"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms usually start within 2 weeks after eating food contaminated with Listeria , but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include a fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Ended."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Do not eat, sell, or serve recalled peaches, plums, or nectarines. The recalled fruit is no longer available for sale and any previously purchased fruit should be past shelf life."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "If you previously purchased fresh peaches, plums, and nectarines and then froze them, you should throw them away if they are part of the recall or if you cannot tell if they are part of the recall."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Anyone who received or purchased recalled peaches, plums and nectarines should use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with the recalled fruit to reduce the risk of cross-contamination. This includes baking or canning tools, cutting boards, knives, countertops, refrigerators, freezers, and storage bins."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "If you have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Recommendations for At-Risk Groups"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have symptoms of a Listeria infection."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "January 30, 2024"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Listeria monocytogenes infections linked to recalled peaches, plums, and nectarines (stone fruit)."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA initiated an inspection and collected environmental samples from the facility that packed the recalled stone fruit. Two environmental sub-samples collected from the facility were positive for Listeria monocytogenes . Whole Genome Sequencing (WGS) analysis confirmed that the strain of Listeria found in the positive sub-samples matched the same strain of Listeria making people sick in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "As of January 30, 2024, CDC announced that the outbreak is over. CDC reports a total of 11 illnesses in seven states. There has been a total of 10 hospitalizations and one death attributed to listeriosis. The last specimen collection date was August 16, 2023. FDA’s investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Total Illnesses: 11 Hospitalizations: 10 Deaths: 1 Last Sample Collection: August 16, 2023 States with Cases: CA, CO, FL, IL, KS, MI, OH Product Distribution: Nationwide and internationally in Canada, Mexico, and Taiwan"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Recalled Product"
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Recalled fruit is past expiration and no longer available for sale in retail stores but could have been frozen by consumers. Fresh whole peaches, plums, and nectarines currently available for sale at retail are not included in this recall."
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "In response to this investigation, on November 17, 2023, HMC Group Marketing, Inc. voluntarily recalled peaches, plums, and nectarines sold in retail stores nationally from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023. Additional information and product images can be found in the recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "International Distribution for Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "The recall impacts markets outside of the United States. Customer information provided by the firm shows that the fruit was also distributed to customers in Canada, Mexico, and Taiwan. The firm has directly notified international customers who received recalled fruit."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "For additional information, international officials and customers can visit the company’s recall announcement from November 17, 2023."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0035",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040"
+      ],
+      "stage_source_sha256": "171a352fc3045a9cbc5d5f08179cb010ae9d47ee74ea364cde7576b624ec555c"
+    }
+  ]
+}

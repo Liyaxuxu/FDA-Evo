@@ -1,0 +1,35 @@
+# CASE 1019 reviewed source
+Title: Outbreak Investigation of Salmonella Typhimurium: BrightFarms Packaged Salad Greens (July 2021) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-typhimurium-brightfarms-packaged-salad-greens-july-2021
+Source blocks SHA256: 8285467c386cd7972e8e2a727610a67437f6acd14ab186e641bc8d67bfbbde82
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Typhimurium infections linked to the consumption of BrightFarms packaged salad greens produced in the firm’s Rochelle, IL facility.
+[BLOCK-0001 | role=report_evidence] The FDA released Outbreak Investigation Report: Factors Potentially Contributing to the Contamination of Packaged Leafy Greens Implicated in the Outbreak of Salmonella Typhimurium During the Summer of 2021
+[BLOCK-0002 | role=report_evidence] Recommendation
+[BLOCK-0003 | role=report_evidence] CDC has declared this outbreak to be over.
+[BLOCK-0004 | role=report_evidence] Investigation Background
+[BLOCK-0005 | role=report_evidence] On July 15, 2021, BrightFarms recalled packaged salad greens produced in its Rochelle, Illinois (Ogle County) greenhouse farm sold in Illinois, Indiana, Iowa, and Wisconsin. On July 21, 2021, Michigan was added to the list of states that received recalled products. Interview data and shopper card records show that 15 people ate or bought multiple types of BrightFarms brand salad products before they got sick, including Sunny Crunch, 50/50 Spring & Spinach, Harvest Crunch, and Butter Crisp. FDA conducted a traceback investigation and identified the farm in Rochelle, IL, as the likely source of the BrightFarms brand salad bought by people who became ill. On July 28, 2021, following positive sample results, BrightFarms expanded their recall to include Baby Spinach packaged in clear, plastic clamshells with "Best By" dates through 7/26/2021.
+[BLOCK-0006 | role=report_evidence] Product Images
+[BLOCK-0007 | role=report_evidence] View Larger Images
+[BLOCK-0008 | role=report_evidence] Map of U.S. Distribution of Recalled BrightFarms Products
+[BLOCK-0009 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0010 | role=report_evidence] Case Counts
+[BLOCK-0011 | role=report_evidence] Total Illnesses: 31 Hospitalizations: 4 Deaths: 0 Last Illness Onset: August 18, 2021 States with Cases: IL (18), MI(1), PA (2), WI (10) Product Distribution*: IA, IL, IN, MI, WI *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states
+[BLOCK-0019 | role=report_evidence] Previous Updates
+[BLOCK-0020 | role=report_evidence] October 6, 2021
+[BLOCK-0021 | role=report_evidence] The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Typhimurium infections linked to the consumption of BrightFarms packaged salad greens produced in the firm’s Rochelle, IL facility.
+[BLOCK-0022 | role=report_evidence] FDA visited the facility and collected samples. Some environmental samples taken inside the facility tested positive for Salmonella Liverpool, but were not a match to the outbreak strain. In addition, a sample collected from an outdoor storm water drainage pond adjacent to the facility was analyzed and reported to be Salmonella Typhimurium and a genetic match to the outbreak strain.
+[BLOCK-0023 | role=report_evidence] Although no clear route of contamination was readily identified, the FDA is preparing a report to discuss findings and provide information to assist in future prevention efforts.
+[BLOCK-0024 | role=report_evidence] July 28, 2021
+[BLOCK-0025 | role=report_evidence] The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Typhimurium infections linked to the consumption of BrightFarms packaged salad greens produced in the firm’s Rochelle, IL facility.
+[BLOCK-0026 | role=report_evidence] After FDA visited the facility and collected samples, some environmental samples tested positive for Salmonella Liverpool. Whole Genome Sequencing analysis revealed that the Salmonella found in these environmental samples was different from the outbreak strain. FDA is continuing its investigation and additional sample results are pending.
+[BLOCK-0027 | role=report_evidence] BrightFarms recalled additional packaged salad greens (see 2nd Recall Expansion ) to include the Baby Spinach salad greens with a “Best By” date through 7/26/2021 produced in its Rochelle, IL, (Ogle County) greenhouse farm. The firm is not producing or distributing product from areas associated with environmental samples that tested positive for Salmonella .
+[BLOCK-0028 | role=report_evidence] FDA continues to work with BrightFarms to determine if there are additional products or "Best By" dates that could have been affected. Additional information will be provided as it becomes available.
+[BLOCK-0029 | role=report_evidence] July 22, 2021
+[BLOCK-0030 | role=report_evidence] On July 15, 2021, BrightFarms recalled (see Initial Recall ) packaged salad greens produced in its Rochelle, Illinois (Ogle County) greenhouse farm sold in Illinois, Wisconsin, Iowa, and Indiana. On July 21, 2021, Michigan was added to the list of states that received recalled products (see 1st Recall Expansion ). Interview data and shopper card records show that before they got sick, seven people ate or bought multiple types of BrightFarms brand salad products, including Sunny Crunch, 50/50 Spring & Spinach, Harvest Crunch, and Butter Crisp. FDA conducted a traceback investigation and identified the farm in Rochelle, IL, as the likely source of the BrightFarms brand salad bought by people who became ill.
+[BLOCK-0031 | role=report_evidence] Recalled products were sold in Illinois, Wisconsin, Iowa, Indiana, and Michigan. FDA visited the farm and collected samples. More information will be provided once available.
+[BLOCK-0032 | role=report_evidence] July 14, 2021
+[BLOCK-0033 | role=report_evidence] Although it is early in the investigation, epidemiological and traceback evidence from sick people indicate that this outbreak is linked to BrightFarms Sunny Crunch Salad produced in Rochelle, IL. Interview data and shopper card records show that five people ate or bought BrightFarms brand Sunny Crunch salad before they got sick. FDA conducted a traceback investigation and identified the farm in Rochelle, IL, as the likely source of the BrightFarms brand Sunny Crunch salad bought by people who became ill.

@@ -1,0 +1,268 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1218",
+  "title": "Outbreak Investigation of Salmonella: Organic Basil (April 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Infinite Herbs-brand organic basil in 2.5-oz clamshell packaging",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0051",
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Trader Joe’s voluntarily removed the product, but this stage does not report a formal recall."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0047",
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic basil recalled by Infinite Herbs, LLC",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "fresh organic basil",
+              "recalling_company": "Infinite Herbs",
+              "brands": [],
+              "recall_scope": "2.5-oz packages; sold at select Trader Joe’s and Fruit Center Marketplace stores from February 1 through April 6, 2024"
+            },
+            {
+              "product_name": "organic basil",
+              "recalling_company": "Infinite Herbs, LLC",
+              "brands": [
+                "Melissa’s"
+              ],
+              "recall_scope": "2.0-oz and 4.0-oz packages; sold at Dierberg’s stores in Illinois and Missouri between February 10 through February 20, 2024"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0047",
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 36,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0042",
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Infinite Herbs-brand fresh organic basil",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Melissa’s-brand fresh organic basil",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic basil",
+              "recalling_company": "Infinite Herbs",
+              "brands": [],
+              "recall_scope": "2.5-oz clamshell; UPC 8 18042 02147 7; sold February 1 through April 6, 2024"
+            },
+            {
+              "product_name": "fresh organic basil",
+              "recalling_company": "Infinite Herbs, LLC",
+              "brands": [
+                "Melissa’s"
+              ],
+              "recall_scope": "2.0-oz UPC 0 45255 14142 9 and 4.0-oz UPC 0 45255 14439 0; sold February 10 through February 20, 2024"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0042",
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

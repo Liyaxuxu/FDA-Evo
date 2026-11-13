@@ -1,0 +1,207 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "E-441626",
+  "title": "Outbreak Investigation of E. coli - Leafy Greens (December 2020) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "leafy greens (specific type not determined)",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No initiated formal recall is reported through the target stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "leafy greens (specific type not determined)",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 40,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0011"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0011"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0011"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No initiated formal recall is reported through the target stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "leafy greens (specific type not determined)",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0001"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

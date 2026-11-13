@@ -1,0 +1,910 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "E-435502",
+  "title": "Outbreak Investigation of Salmonella Enteritidis: Peaches (August 2020) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No formal recall is established by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Wawona-brand bagged peaches",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0258"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0254",
+            "BLOCK-0255"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0254",
+            "BLOCK-0255",
+            "BLOCK-0256"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0254",
+            "BLOCK-0255"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0250"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0250"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0246"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0242"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0242"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0239"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0239"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 101,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0231"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0231"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches packed or supplied by Prima Wawona or Wawona Packing Company",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0230",
+            "BLOCK-0231"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 101,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0216"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 28,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0216"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0216"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches packed or supplied by Prima Wawona or Wawona Packing Company",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing recalled Prima Wawona peaches",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0000"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": "multiple varieties"
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "Wawona Packing Company LLC",
+              "brands": [
+                "Prima Wawona"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bagged peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "bulk or loose peaches",
+              "recalling_company": "ALDI",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "in-store produced bakery items containing recalled peaches",
+              "recalling_company": "Wegmans",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "peach salsa",
+              "recalling_company": "Russ Davis Wholesale",
+              "brands": [],
+              "recall_scope": "made from recalled Prima Wawona peaches"
+            },
+            {
+              "product_name": "gift baskets",
+              "recalling_company": "Russ Davis Wholesale",
+              "brands": [],
+              "recall_scope": "made from recalled Prima Wawona peaches"
+            },
+            {
+              "product_name": "peaches",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": "including affiliated retailers Jay-C, King Soopers, City Market, Fry's, Ralphs, Food 4 Less, Foods Co., Smiths"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0006",
+            "BLOCK-0007",
+            "BLOCK-0008",
+            "BLOCK-0009",
+            "BLOCK-0018",
+            "BLOCK-0020",
+            "BLOCK-0024",
+            "BLOCK-0037",
+            "BLOCK-0039",
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

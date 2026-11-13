@@ -1,0 +1,186 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1115",
+  "title": "Outbreak Investigation of E. coli O121:H19 Frozen Falafel (October 2022) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Eighteen interviewed people are described, but the total outbreak case count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Earth Grown frozen falafel",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "The update reports patient shopping/eating histories and recalled products, but does not explicitly call either named variety suspected, under investigation, or linked. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "vegan traditional falafel",
+              "recalling_company": "Cuisine Innovations",
+              "brands": [
+                "Earth Grown"
+              ],
+              "recall_scope": "frozen; distributed and sold exclusively by ALDI; 18-month shelf life"
+            },
+            {
+              "product_name": "garlic & herb falafel",
+              "recalling_company": "Cuisine Innovations",
+              "brands": [
+                "Earth Grown"
+              ],
+              "recall_scope": "frozen; distributed and sold exclusively by ALDI; 18-month shelf life"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 24,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0001",
+            "BLOCK-0010"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0010"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0010"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0003"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Earth Grown frozen falafel",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "vegan traditional falafel",
+              "recalling_company": "Cuisine Innovations",
+              "brands": [
+                "Earth Grown"
+              ],
+              "recall_scope": "frozen; distributed and sold exclusively by ALDI; 18-month shelf life"
+            },
+            {
+              "product_name": "garlic & herb falafel",
+              "recalling_company": "Cuisine Innovations",
+              "brands": [
+                "Earth Grown"
+              ],
+              "recall_scope": "frozen; distributed and sold exclusively by ALDI; 18-month shelf life"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0005"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

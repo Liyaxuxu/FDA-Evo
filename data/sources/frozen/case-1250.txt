@@ -1,0 +1,54 @@
+# CASE 1250 reviewed source
+Title: Outbreak Investigation of Salmonella: Eggs (Sept 2024) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-sept-2024
+Source blocks SHA256: d7b2237b1463b3356997173ae69288fb56c3eaea211ce1885c53da0f00b960d0
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Images of Additional Products
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] Recalled eggs are past expiration and should no longer be available for sale.
+[BLOCK-0003 | role=report_evidence] All types (conventional cage-free, organic, and non-GMO chicken and duck eggs) and sizes (M, L, XL, Jumbo) of eggs supplied by Milo's Poultry Farms, LLC in Bonduel, WI, were recalled.
+[BLOCK-0004 | role=report_evidence] This recall covered all expiration dates for the following eggs:
+[BLOCK-0005 | role=report_evidence] All carton sizes and all egg types labeled with “Milo’s Poultry Farms”
+[BLOCK-0006 | role=report_evidence] All carton sizes of “Tony’s Fresh Market” branded eggs
+[BLOCK-0007 | role=report_evidence] All carton sizes of duck eggs branded as “Happy Quackers Farm”
+[BLOCK-0008 | role=report_evidence] All cases and expiration dates of all eggs for retail foodservice distribution (this includes M&E branded eggs)
+[BLOCK-0009 | role=report_evidence] Symptoms of Salmonella Infection:
+[BLOCK-0010 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0011 | role=report_evidence] Stores Affected
+[BLOCK-0012 | role=report_evidence] Recalled eggs were distributed to food service locations and retailers located in Wisconsin, Illinois, and Michigan. The firm has directly notified foodservice customers who received recalled product.
+[BLOCK-0013 | role=report_evidence] Status
+[BLOCK-0014 | role=report_evidence] Ended
+[BLOCK-0015 | role=report_evidence] Recommendation
+[BLOCK-0016 | role=report_evidence] Recalled eggs are past shelf life and should no longer be available for sale. Consumers, restaurants, and retailers who purchased recalled eggs should check their refrigerators and should not eat them. If recalled eggs were previously purchased, surfaces and containers they touched should be carefully cleaned and sanitized.
+[BLOCK-0017 | role=report_evidence] Wash hands, utensils, and surfaces with hot, soapy water before and after handling raw eggs and raw egg-containing foods. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with this product to reduce the risk of cross-contamination.
+[BLOCK-0018 | role=report_evidence] Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection after eating eggs.
+[BLOCK-0019 | role=report_evidence] Current Update
+[BLOCK-0020 | role=report_evidence] October 17, 2024
+[BLOCK-0021 | role=report_evidence] The FDA and CDC assisted state and local partners from the Wisconsin Department of Agriculture Trade and Consumer Protection and Wisconsin Department of Health Services in an investigation of Salmonella Enteritidis infections linked to eggs supplied by Milo's Poultry Farms, LLC of Bonduel, Wisconsin (WI).
+[BLOCK-0022 | role=report_evidence] As of October 17, 2024, CDC has declared the outbreak over.
+[BLOCK-0023 | role=report_evidence] In response to this investigation, Milo’s Poultry Farm, LLC voluntarily recalled all eggs supplied by their farm. Recalled eggs were distributed to retailers and foodservice distributors in Wisconsin, Illinois, and Michigan. The recall includes:
+[BLOCK-0024 | role=report_evidence] All carton sizes, expiration dates, and egg types labeled with “Milo’s Poultry Farms”
+[BLOCK-0025 | role=report_evidence] All carton sizes and expiration dates of “Tony’s Fresh Market” brand eggs
+[BLOCK-0026 | role=report_evidence] All carton sizes of duck eggs branded as “Happy Quackers Farm”
+[BLOCK-0027 | role=report_evidence] All cases and expiration dates of all eggs for retail foodservice distribution (this includes M&E branded eggs)
+[BLOCK-0028 | role=report_evidence] At this time, all recalled eggs should be off the market and beyond shelf life. FDA’s investigation is complete.
+[BLOCK-0029 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0030 | role=report_evidence] Map of U.S. Distribution of Recalled Eggs Sold at Retail
+[BLOCK-0031 | role=report_evidence] Case Counts
+[BLOCK-0032 | role=report_evidence] Total Illnesses: 93 Hospitalizations: 34 Deaths: 0 Last Illness Onset: September 13, 2024 States with Cases: AZ (1), CA (5), CO (1), IA (2), IL (12), MI (3), MN (5), NY (1), OR (1), UT (1), VA (1), WI (60)
+[BLOCK-0033 | role=report_evidence] Product Distribution*: WI, IL, MI
+[BLOCK-0034 | role=report_evidence] *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states.
+[BLOCK-0042 | role=report_evidence] Product Images
+[BLOCK-0043 | role=report_evidence] Previous Updates
+[BLOCK-0044 | role=report_evidence] September 6, 2024
+[BLOCK-0045 | role=report_evidence] The FDA and CDC are assisting state and local partners from the Wisconsin Department of Agriculture Trade and Consumer Protection and Wisconsin Department of Health Services in an investigation of Salmonella Enteritidis infections linked to eggs supplied by Milo's Poultry Farms, LLC of Bonduel, Wisconsin (WI).
+[BLOCK-0046 | role=report_evidence] As of September 6, 2024, a total of 65 people infected with the outbreak strain of Salmonella have been reported from nine states. Illnesses started on dates ranging from May 23, 2024 to August 10, 2024. Of the 63 people with information available, 24 have been hospitalized and no deaths have been reported.
+[BLOCK-0047 | role=report_evidence] FDA is conducting an onsite inspection and collected samples at Milo’s Poultry Farms, LLC. Salmonella Enteritidis was detected in samples collected from Milo’s Poultry Farm, LLC’s packing facility and poultry house. Whole Genome Sequencing analysis determined that Salmonella detected in these samples match the strain of Salmonella that is causing illnesses in this outbreak.
+[BLOCK-0048 | role=report_evidence] In response to this investigation, Milo’s Poultry Farm, LLC voluntarily recalled all eggs supplied by their farm. Recalled eggs were distributed to retailers and foodservice distributors in Wisconsin, Illinois, and Michigan. The recall includes:
+[BLOCK-0049 | role=report_evidence] All carton sizes, expiration dates, and egg types labeled with “Milo’s Poultry Farms”.
+[BLOCK-0050 | role=report_evidence] All carton sizes and expiration dates of “Tony’s Fresh Market” brand eggs.
+[BLOCK-0051 | role=report_evidence] All cases and expiration dates of eggs for retail foodservice distribution.
+[BLOCK-0052 | role=report_evidence] FDA will update this advisory as more information becomes available.

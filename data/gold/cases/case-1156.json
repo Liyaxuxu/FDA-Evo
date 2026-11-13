@@ -1,0 +1,156 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1156",
+  "title": "Outbreak Investigation of Salmonella: Raw Cookie Dough (May 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 14,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": "The source explicitly describes the epidemiological denominator as 14 cases."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Stopping sales and destroying stock is not described as a recall."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Papa Murphy’s Chocolate Chip Cookie dough",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Papa Murphy’s S’mores Bars dough",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0037",
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Products were removed and destroyed, but no recall is reported."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0022",
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "The firm stopped sales; the page never reports a recall."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Papa Murphy’s Chocolate Chip Cookie dough purchased before May 23, 2023",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Papa Murphy’s S’mores Bars dough purchased before May 23, 2023",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "The page directs disposal and reports stopped sales, but does not identify a recall."
+        }
+      }
+    }
+  }
+}

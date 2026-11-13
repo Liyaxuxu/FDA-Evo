@@ -1,0 +1,390 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1304",
+  "title": "Outbreak Investigation of Salmonella: Cucumbers (May 2025) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025",
+  "frozen_source_path": "t1/frozen_sources/case-1304.txt",
+  "frozen_source_sha256": "0f3e064411da5fce4650306cca962e9ad298f2717e90a2a2dd7b090c910d8254",
+  "stage_count": 7,
+  "stages": [
+    {
+      "source_order": 6,
+      "report_date": "2025-05-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "May 19, 2025"
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Montevideo infections linked to cucumbers grown by Bedner Growers, Inc., in Boynton Beach, Florida, and distributed by Fresh Start Produce Sales, Inc., of Delray, Florida."
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "As part of a follow-up inspection in April 2025, FDA investigators collected an environmental sample from Bedner Growers, Inc. that was positive for Salmonella and matched recent clinical samples from ill people, by Whole Genome Sequencing (WGS) analysis. The recent follow-up inspection was in response to the 2024 Salmonella Africana and Salmonella Braenderup outbreaks linked to cucumbers grown at Bedner Growers, Inc. Additionally, FDA’s traceback investigation has identified Bedner Growers, Inc. as the common grower of cucumbers in this current outbreak."
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "As of May 16, 2025, a total of 26 people infected with the outbreak strain of Salmonella Montevideo have been reported from 15 states. Of the 23 people for whom information is available, 9 people have been hospitalized. Of the 13 people interviewed, 11 (85%) reported eating cucumbers."
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058"
+      ],
+      "stage_source_sha256": "e7eb28d4df0768fb1ef250db3b8a07ef11115c991d03dae76d634a702b21f053"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2025-05-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "May 20, 2025"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Montevideo infections linked to cucumbers grown by Bedner Growers, Inc., in Boynton Beach, Florida, and distributed by Fresh Start Produce Sales, Inc., of Delray, Florida."
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Bedner Growers, Inc., voluntarily recalled cucumbers sold at Bedner’s Farm Fresh Market between April 29, 2025, and May 14, 2025. The recalled cucumbers were available at Bedner’s Farm Fresh Market in three Florida locations including Boynton Beach, Delray Beach, and West Palm Beach between April 29, 2025, and May 14, 2025."
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "FDA is working to determine where potentially contaminated product was distributed."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053"
+      ],
+      "stage_source_sha256": "3e02d7b04c312247f9894dba38526991beadb0c9b63882f943fb7221108b2500"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2025-05-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "May 22, 2025"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Montevideo infections linked to cucumbers grown by Bedner Growers, Inc., in Boynton Beach, Florida, and distributed by Fresh Start Produce Sales, Inc., of Delray, Florida."
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "Additional recalls are being conducted by companies that used or repackaged recalled cucumbers grown by Bedner Growers, Inc.:"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Harris Teeter – fresh cucumbers and vegetable trays"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "PennRose Farms, LLC - 5-pound mesh bags of whole cucumbers"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Ukrop’s Homestyle Foods, LLC - Marinated Cucumber salads"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049"
+      ],
+      "stage_source_sha256": "077554dda784914af8df85446ff6014c84b1077701f9169f5779946bb6735b57"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2025-05-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "May 23, 2025"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Montevideo infections linked to cucumbers grown by Bedner Growers, Inc., in Boynton Beach, Florida, and distributed by Fresh Start Produce Sales, Inc., of Delray, Florida."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "FDA has posted a list of additional recalls being conducted by retailers that may have received potentially contaminated recalled cucumbers from Bedner Growers, Inc. This list includes recalls conducted by companies that further processed the cucumbers by using them as ingredients in new products or by repackaging them."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043"
+      ],
+      "stage_source_sha256": "a137a82faf7cbae9e1a6c20624e17b2a82f466ed618f37027ad9657ea4683823"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2025-05-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "May 30, 2025"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Montevideo infections linked to cucumbers grown by Bedner Growers, Inc., in Boynton Beach, Florida, and distributed by Fresh Start Produce Sales, Inc., of Delray, Florida."
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA collected a product sample of Bedner Growers, Inc., cucumbers from a distribution center in Pennsylvania. Salmonella was detected in the sample of cucumbers. Whole Genome Sequencing analysis determined that the product sample contained Salmonella Montevideo, which match the strain of Salmonella linked to illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "Other types of Salmonella were detected in the cucumber sample collected, originating from Bedner Growers, Inc. In addition to Salmonella Montevideo, multiple other strains of Salmonella , unrelated to this outbreak investigation, matched other isolates in the National Center for Biotechnology Information’s ( NCBI ) database that occurred in 2025 and previous years. CDC is working to determine if additional human illnesses match these additional strains. Further analysis of the sample is pending."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "An additional recall is being conducted by Target for products that used recalled cucumbers grown by Bedner Growers, Inc."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040"
+      ],
+      "stage_source_sha256": "7f78751b15c3669e7f3183daee3e61cfbd8f5884c2293956752f174bf7b603e7"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2025-06-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "June 30, 2025"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Montevideo infections linked to cucumbers grown by Bedner Growers, Inc., of Boynton Beach, Florida, and distributed by Fresh Start Produce Sales, Inc., of Delray, Florida. As of June 30, 2025, 69 people infected with the outbreak strain of Salmonella were reported from 21 states. Of the 60 people for whom information was available, 22 were hospitalized. Of the 35 people interviewed, 29 (83%) reported eating or likely eating cucumbers. CDC has declared the outbreak over."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Epidemiologic and traceback information demonstrated that cucumbers grown by Bedner Growers, Inc., in Boynton Beach, Florida, were the source of illnesses in this outbreak. Several companies issued recalls for cucumbers and products containing recalled cucumbers. Recalled product is past shelf-life and should no longer be available for sale in stores."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA collected a product sample of Bedner Growers, Inc., cucumbers from a distribution center in Pennsylvania. Salmonella was detected in the sample of cucumbers. Whole Genome Sequencing analysis determined that the product sample contained Salmonella Montevideo, which matched the strain of Salmonella linked to illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Additional analysis of the cucumber sample from the Pennsylvania distribution center found a Salmonella Braenderup strain that matched a strain of Salmonella linked to some illnesses in the 2024 outbreak of Salmonella Africana and Salmonella Braenderup likely in cucumbers grown by Bedner Grower’s Inc."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Food safety is a shared responsibility that involves growers, packers, distributors, retailers, and regulators. While FDA’s investigation is complete, FDA is committed to working with all stakeholders to advance critical work to improve prevention of future outbreaks."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035"
+      ],
+      "stage_source_sha256": "5fc12c7e1b88e4e5d34e3b5233a3ef4926658b00fd2db6880d40001efa946c2c"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2025-12-23",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Product:"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Cucumbers grown by Bedner Growers, Inc., and distributed by Fresh Start Produce Sales, Inc., to retailers, distribution centers, wholesalers, and food service distributors from April 29, 2025, to May 19, 2025."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On May 19, 2025, Bedner Growers, Inc., recalled cucumbers sold directly to consumers at Bedner’s Farm Fresh Market and to its wholesale distributor. More information can be found in the recall notice."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Additional product information is available in the recall notices from the companies that used or repackaged recalled cucumbers grown by Bedner Growers, Inc."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recalled cucumbers should no longer be available on the market."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella infection:"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Some potentially contaminated cucumbers were available at Bedner’s Farm Fresh Market in three Florida locations including Boynton Beach, Delray Beach, and West Palm Beach between April 29, 2025, and May 14, 2025. The recalled cucumbers were also sold to its wholesale distributor. FDA is aware that contaminated product was available at both restaurant and retail locations."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Ended."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Recalled cucumbers should no longer be available on the market."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "December 23, 2025"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "This outbreak was declared over, and FDA’s outbreak investigation was completed in June 2025."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "On November 17, 2025, the U.S. Food & Drug Administration (FDA) issued a Warning Letter to Bedner Growers, Inc., for conditions observed during two inspections of their farm located in Boynton Beach, FL. The first inspection followed up from the 2024 multistate foodborne outbreak investigation of Salmonella Africana and Salmonella Braenderup linked to cucumbers grown at the farm. The second was initiated during the 2025 multistate foodborne outbreak investigation of Salmonella Montevideo also linked to cucumbers grown at the farm. Additional information can be found in the Warning Letter."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Total Illnesses: 69 Hospitalizations: 22 Deaths: 0 Last Illness Onset: May 29, 2025 States with Cases: AL, CA, CO, FL, GA, IL, IN, KS, KY, MD, MA, MI, MS, NC, NJ, NY, OH, PA, SC, TN, and VA Product Distribution: Nationwide"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019"
+      ],
+      "stage_source_sha256": "8d6530f4166bc4aadf576916c3f2630df04b2b78423f3da36e6eff1539cca53f"
+    }
+  ]
+}

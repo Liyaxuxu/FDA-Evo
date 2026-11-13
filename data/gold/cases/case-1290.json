@@ -1,0 +1,970 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1290",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Prepared Pasta Meals (June 2025) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 17,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 16,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "chicken fettuccine alfredo meals",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0064",
+            "BLOCK-0069",
+            "BLOCK-0070",
+            "BLOCK-0071",
+            "BLOCK-0072"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0064",
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 19,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "chicken fettuccine alfredo meals",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Marketside linguine with beef meatballs & marinara sauce",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "linguine pasta used to produce the meatball product",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0057",
+            "BLOCK-0059",
+            "BLOCK-0060",
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 19,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0049",
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "prepared meals",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cooked pasta recalled by Nate's Fine Foods, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051",
+            "BLOCK-0053",
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            },
+            {
+              "product_name": "pre-cooked pasta",
+              "recalling_company": "Nate's Fine Foods, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "store-made deli items containing bowtie pasta",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": "sold at Carrs-Safeway, Eagle, and Safeway stores in Alaska"
+            },
+            {
+              "product_name": "bowtie pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Scott & Jon's Shrimp Scampi with Linguini Bowls",
+              "recalling_company": "Demers Food Group",
+              "brands": [
+                "Scott & Jon's"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0051",
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 19,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "prepared meals",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cooked pasta recalled by Nate's Fine Foods, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            },
+            {
+              "product_name": "pre-cooked pasta",
+              "recalling_company": "Nate's Fine Foods, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "store-made deli items containing bowtie pasta",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": "sold at Carrs-Safeway, Eagle, and Safeway stores in Alaska"
+            },
+            {
+              "product_name": "bowtie pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Scott & Jon's Shrimp Scampi with Linguini Bowls",
+              "recalling_company": "Demers Food Group",
+              "brands": [
+                "Scott & Jon's"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Smoked Mozzarella Pasta Salad",
+              "recalling_company": "Giant Eagle",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 19,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "prepared meals",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cooked pasta recalled by Nate's Fine Foods, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            },
+            {
+              "product_name": "pre-cooked pasta",
+              "recalling_company": "Nate's Fine Foods, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "store-made deli items containing bowtie pasta",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": "sold at Carrs-Safeway, Eagle, and Safeway stores in Alaska"
+            },
+            {
+              "product_name": "bowtie pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Smoked Mozzarella Pasta Salad",
+              "recalling_company": "Giant Eagle",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Scott & Jon's Shrimp Scampi with Linguini Bowls",
+              "recalling_company": "Demers Food Group",
+              "brands": [
+                "Scott & Jon's"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "smoked mozzarella pasta salad",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 27,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 25,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "prepared meals",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cooked pasta recalled by Nate's Fine Foods, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0036"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            },
+            {
+              "product_name": "pre-cooked pasta",
+              "recalling_company": "Nate's Fine Foods, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "store-made deli items containing bowtie pasta",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": "sold at Carrs-Safeway, Eagle, and Safeway stores in Alaska"
+            },
+            {
+              "product_name": "bowtie pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Smoked Mozzarella Pasta Salad",
+              "recalling_company": "Giant Eagle",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Scott & Jon's Shrimp Scampi with Linguini Bowls",
+              "recalling_company": "Demers Food Group",
+              "brands": [
+                "Scott & Jon's"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "smoked mozzarella pasta salad",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0039",
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 28,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 27,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "prepared meals",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cooked pasta recalled by Nate's Fine Foods, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0000"
+          ],
+          "evidence_exempt": false,
+          "note": "Downstream recall lists are excluded from implicated product; the outbreak-linked product scope is retained. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "32.8-oz tray; best-by date 06/27/25 or prior"
+            },
+            {
+              "product_name": "GRILLED CHICKEN ALFREDO WITH FETTUCCINE",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "12.3-oz tray; best-by date 06/26/25 or prior"
+            },
+            {
+              "product_name": "Heat & Eat Chicken Fettuccine Alfredo",
+              "recalling_company": "FreshRealm, Inc.",
+              "brands": [
+                "Home Chef"
+              ],
+              "recall_scope": "12.5-oz tray; best-by date 06/19/25 or prior"
+            },
+            {
+              "product_name": "pre-cooked pasta",
+              "recalling_company": "Nate's Fine Foods, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "store-made deli items containing bowtie pasta",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Albertsons",
+              "brands": [],
+              "recall_scope": "sold at Carrs-Safeway, Eagle, and Safeway stores in Alaska"
+            },
+            {
+              "product_name": "bowtie pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "penne pasta salads",
+              "recalling_company": "Kroger",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Smoked Mozzarella Pasta Salad",
+              "recalling_company": "Giant Eagle",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Scott & Jon's Shrimp Scampi with Linguini Bowls",
+              "recalling_company": "Demers Food Group",
+              "brands": [
+                "Scott & Jon's"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "smoked mozzarella pasta salad",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0004",
+            "BLOCK-0008",
+            "BLOCK-0012"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

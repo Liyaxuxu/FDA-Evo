@@ -1,0 +1,70 @@
+# CASE 1345 reviewed source
+Title: Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025
+Source blocks SHA256: 405ee84b8ca04c82e654ada7f57565ad0ef92a67299a25d357b15cdfbd7f224a
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Product Images
+[BLOCK-0001 | role=report_evidence] Product:
+[BLOCK-0002 | role=report_evidence] Recalled products were manufactured using a single lot (Batch No.: VFD/ORG/MORP/L/24 with the best by date (BBD) of November 2027) of recalled organic moringa leaf powder from Vallon Farmdirect PVT LTD of Johdpur, India. All product has been recalled and should no longer be available for sale. Consumers should check their homes for recalled products and throw these products away or return them to the place of purchase.
+[BLOCK-0003 | role=report_evidence] Recalled products include:
+[BLOCK-0004 | role=report_evidence] Food To Live brand ORGANIC MORINGA LEAF POWDER, in 8-ounce, 1-pound, 2-pound, 4-pound, 8-pound, 16-pound, and 44-pound bags starting with lot codes of “SO-69006” through lot code “SO-72558.”
+[BLOCK-0005 | role=report_evidence] Food To Live brand ORGANIC SUPERGREENS POWDER MIX in 8-ounce, 1-pound, 1.5-pound, 3-pound, 6-pound, and 12-pound bags starting with lot codes of “SO-69006” through lot code “SO-72558.”
+[BLOCK-0006 | role=report_evidence] Organic Moringa Leaf Powder (1-kilogram box) sold on Africa Imports’ website (africaimports.com) after 06/05/2025.
+[BLOCK-0007 | role=report_evidence] All Member’s Mark Super Greens dietary supplement powder, regardless of lot codes and best by/use before dates. Recalled product had best by dates extending to November 2026.
+[BLOCK-0008 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0009 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0010 | role=report_evidence] Stores affected
+[BLOCK-0011 | role=report_evidence] All product has been recalled and should no longer be for sale. Consumers should check their homes for recalled products and throw these products away or return them to the place of purchase.
+[BLOCK-0012 | role=report_evidence] Recalled Food To Live products containing Organic Moringa Powder were distributed nationwide through both retail and wholesale channels. It was sold directly from Food To Live’s website and shipped to customers across the United States. The product was also available on third-party e-commerce platforms, including Amazon.com, Walmart.com, Target, Etsy, and eBay. In addition, bulk quantities from the affected lot were sold to food manufacturers and other businesses through Food To Live’s wholesale division.
+[BLOCK-0013 | role=report_evidence] Recalled Organic Moringa Leaf Powder purchased after 06/05/2025 and sold through Africa Imports’ website, africaimports.com.
+[BLOCK-0014 | role=report_evidence] Recalled Member’s Mark Super Greens powder was sold at Sam’s Clubs in stores nationwide and online.
+[BLOCK-0015 | role=report_evidence] Status
+[BLOCK-0016 | role=report_evidence] Ended
+[BLOCK-0017 | role=report_evidence] Recommendation
+[BLOCK-0018 | role=report_evidence] All product has been recalled and should no longer be for sale. Consumers and retailers should not eat, sell, or serve recalled products and should throw these products away or return them to the place of purchase.
+[BLOCK-0019 | role=report_evidence] Distributors and retailers who received recalled moringa leaf powder manufactured by Vallon Farmdirect should not use, sell, or distribute products or ingredients from lot (Batch No.: VFD/ORG/MORP/L/24 with the BBD of November 2027).
+[BLOCK-0020 | role=report_evidence] Consumers and retailers who purchased or received the recalled products should carefully clean and sanitize any surfaces or containers that they touched. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with this product to reduce the risk of cross-contamination.
+[BLOCK-0021 | role=report_evidence] Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection after using the recalled products.
+[BLOCK-ADD-TABLE-1345-01 | role=report_evidence] [TABLE BLOCK-ADD-TABLE-1345-01]
+Section: Current Update
+Rows and columns reconstructed from the original HTML table:
+
+| Sample Collected By | Product | Test Result | Whole Genome Sequencing [LINK: https://www.fda.gov/food/microbiology-research-food/whole-genome-sequencing-wgs-program] |
+| --- | --- | --- | --- |
+| FDA | Closed sample of Member’s Mark Super Greens dietary supplements | Salmonella Richmond | Yes |
+| FDA | Closed sample of Member’s Mark Super Greens dietary supplements | Salmonella Richmond | Yes |
+| FDA | Closed sample of Member’s Mark Super Greens dietary supplements | Salmonella Teko | No. No matching illnesses |
+| Michigan Department of Agriculture and Rural Development | Open sample of Member’s Mark Super Greens dietary supplements | Salmonella Richmond | Yes |
+| Florida Department of Health | Open sample of Food To Live Moringa Leaf Powder | Salmonella Richmond | Yes |
+| Virginia Department of Health | Open sample of Africa Imports Moringa Leaf Powder | Salmonella Richmond | Yes |
+[BLOCK-ADD-1786030431506-1 | role=report_evidence] Current Update
+[BLOCK-0023 | role=report_evidence] December 4, 2025
+[BLOCK-0024 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Richmond infections linked to a single lot (Batch No.: VFD/ORG/MORP/L/24 with the best by date (BBD) of November 2027) of moringa leaf powder supplied to the United States by Vallon Farmdirect PVT LTD of Johdpur, India.
+[BLOCK-0025 | role=report_evidence] As of December 4, 2025, CDC has declared the outbreak to be over. A total of 11 people infected with the outbreak strain of Salmonella were reported from 7 states. Illnesses started on dates ranging from May 12, 2025, to September 4, 2025. Of 11 people with information available, 3 were hospitalized. No deaths were reported.
+[BLOCK-0026 | role=report_evidence] As part of this investigation, FDA and state partners collected product samples for laboratory analysis. Positive sample results from this investigation are included in the table below.
+[BLOCK-0055 | role=report_evidence] Recalled product should no longer be on the market for sale; however, this product has a long shelf life. Consumers should check their homes for recalled products and throw these products away or return them to the place of purchase. FDA’s outbreak investigation is complete.
+[BLOCK-0056 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0057 | role=report_evidence] Case Counts
+[BLOCK-0058 | role=report_evidence] Total Illnesses: 11 Hospitalizations: 3 Deaths: 0 Last Illness Onset: September 4, 2025 States with Cases: FL, KS, MI, NY, NC, SC, VA Product Distribution: Nationwide
+[BLOCK-0067 | role=report_evidence] Product Images
+[BLOCK-0068 | role=report_evidence] Food to Live Organic Supergreens Powder Mix
+[BLOCK-0069 | role=report_evidence] Food to Live Organic Moringa Leaf Powder
+[BLOCK-0070 | role=report_evidence] Previous Updates
+[BLOCK-0071 | role=report_evidence] November 13, 2025
+[BLOCK-0072 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Richmond infections linked to a single lot (Batch No.: VFD/ORG/MORP/L/24 with the best by date (BBD) of November 2027) of moringa leaf powder supplied to the United States by Vallon Farmdirect PVT LTD of Johdpur, India.
+[BLOCK-0073 | role=report_evidence] On November 12, 2025, Food To Live, of Brooklyn, NY, recalled its packaged Organic Moringa Leaf Powder (dried Moringa oleifera) and its Organic Supergreens Powder Mix distributed under the Food To Live brand that are in the following sizes:
+[BLOCK-0074 | role=report_evidence] Food To Live brand ORGANIC MORINGA LEAF POWDER, in 8-ounce, 1-pound, 2-pound, 4-pound, 8-pound, 16-pound, and 44-pound bags starting with lot codes of “SO-69006” through lot code “SO-72558.”
+[BLOCK-0075 | role=report_evidence] Food To Live brand ORGANIC SUPERGREENS POWDER MIX in 8-ounce, 1-pound, 1.5-pound, 3-pound, 6-pound, and 12-pound bags starting with lot codes of “SO-69006” through lot code “SO-72558.”
+[BLOCK-0076 | role=report_evidence] The recalled Food To Live products containing Organic Moringa Powder were distributed nationwide through both retail and wholesale channels. It was sold directly from Food To Live’s website and shipped to customers across the United States. The product was also available on third-party e-commerce platforms, including Amazon.com, Walmart.com, Target, Etsy, and eBay. In addition, bulk quantities from the affected lot were sold to food manufacturers and other businesses through Food To Live’s wholesale division.
+[BLOCK-0077 | role=report_evidence] November 7, 2025
+[BLOCK-0078 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Richmond infections linked to a single lot (Batch No.: VFD/ORG/MORP/L/24 with the best by date (BBD) of November 2027) of moringa leaf powder supplied to the United States by Vallon Farmdirect PVT LTD of Johdpur, India.
+[BLOCK-0079 | role=report_evidence] As part of this investigation, the Virginia Department of Health collected an open sample of Africa Imports moringa leaf powder from an ill person’s home. This sample tested positive for Salmonella and based on whole-genome sequencing matches the strain causing illnesses in this outbreak. On November 4, 2025, Africa Imports, located in South Hackensack, NJ, issued a recall of Organic Moringa Leaf Powder. The recalled Organic Moringa Leaf Powder was sold nationwide through the company’s website, africaimports.com. The affected product is packaged in 1-kilogram boxes labeled “Organic Moringa Leaf Powder.” All Organic Moringa Leaf Powder purchased after 06/05/2025 is included in this recall. Refer to the recall announcement for additional information.
+[BLOCK-0080 | role=report_evidence] October 31, 2025
+[BLOCK-0081 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Richmond infections linked to a single lot of moringa leaf powder supplied to the United States by Vallon Farmdirect PVT LTD of Johdpur, India. As part of this investigation, all Member’s Mark Super Greens dietary supplement powder has been recalled, regardless of lot codes and best by/use before dates.
+[BLOCK-0082 | role=report_evidence] According to CDC, of the 10 people interviewed, 9 (90%) reported eating powdered dietary supplements. Six of these people reported eating Member’s Mark Super Greens Powder. Three people reported other products containing moringa leaf powder.
+[BLOCK-0083 | role=report_evidence] FDA conducted a traceback investigation based on what ill people reported eating before becoming sick. Traceback records for organic moringa leaf powder collected from the supply chain for all eight points of sale converged at a direct importer of organic moringa leaf powder sourced from Vallon Farmdirect PVT LTD in India. A single lot of organic moringa leaf powder (lot code VFD/ORG/MORP/L/24 with the best by date (BBD) of November 2027) from Vallon Farmdirect of India can explain all illnesses included in the traceback investigation.
+[BLOCK-0084 | role=report_evidence] As part of this investigation, the Virginia Department of Health collected an open sample of moringa leaf powder from an ill person’s home. This sample tested positive for Salmonella and based on whole-genome sequencing matches the strain causing illnesses in this outbreak. Additionally, an open sample of Member’s Mark Super Greens dietary supplement powder was collected from an ill person's home by the Michigan Department of Agriculture and Rural Development and analyzed by the Michigan Department of Health and Human Services. This sample tested positive for Salmonella and based on whole-genome sequencing matches the strain causing illnesses in this outbreak. These sample results in combination with FDA’s traceback investigation, and a strong epidemiological signal for dietary supplements containing moringa leaf powder, support that moringa leaf from Vallon Farmdirect of Jodhpur, India, explain the illnesses in this outbreak.
+[BLOCK-0085 | role=report_evidence] Sam’s Club has ceased distribution and sales of this product; however, consumers who may still have this product in their homes should not eat or serve recalled Member’s Mark Super Greens dietary supplement powder and should throw this product away or return to place of purchase. Sam’s Club has also contacted their customers directly to notify them of the recall.

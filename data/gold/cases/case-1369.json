@@ -1,0 +1,515 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1369",
+  "title": "Outbreak Investigation of E. coli O157:H7: Raw Cheddar Cheese (March 2026) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "RAW FARM-brand raw cheddar cheese",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0066",
+            "BLOCK-0068"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "FDA recommended removal, but the firm declined; no recall had begun."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No initiated formal recall is reported through the target stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "RAW FARM-brand raw dairy products",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0057",
+            "BLOCK-0059",
+            "BLOCK-0060"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "FDA recommended removal, but the firm declined; no recall had begun."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No initiated formal recall is reported through the target stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "RAW FARM-brand raw dairy products",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "FDA recommended removal, but the firm declined; no recall had begun."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "RAW FARM-brand raw dairy products",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "certain RAW FARM-brand cheeses",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "RAW FARM-brand raw dairy products",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0042",
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "certain RAW FARM-brand cheeses",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0024",
+            "BLOCK-0030"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0024",
+            "BLOCK-0030"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0024",
+            "BLOCK-0030"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0007"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "RAW FARM-brand raw dairy products",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Raw Cheddar Original cheese blocks",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": "8 oz and 16 oz; expiration dates on or before 8/23/2026"
+            },
+            {
+              "product_name": "Raw Cheddar Jalapeno cheese blocks",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": "8 oz and 16 oz; expiration dates on or before 9/24/2026"
+            },
+            {
+              "product_name": "Raw Cheddar Simply Shredded Cheese, original flavor",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": "8 oz; expiration dates on or before 5/13/2026"
+            },
+            {
+              "product_name": "Raw Cheddar Original Cheese blocks",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": "80 oz bulk; expiration dates on or before 8/11/2026"
+            },
+            {
+              "product_name": "Raw Cheddar Simply Shredded Cheese, original flavor",
+              "recalling_company": "RAW FARM, LLC",
+              "brands": [
+                "RAW FARM"
+              ],
+              "recall_scope": "80 oz bulk; expiration dates on or before 5/6/2026"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0007"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

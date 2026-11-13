@@ -1,0 +1,285 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1067",
+  "title": "Outbreak Investigation of Salmonella: Peanut Butter (May 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-peanut-butter-may-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1067.txt",
+  "frozen_source_sha256": "4a26d80b75a1efda5185401e26d4018ac68011dc542398443cf23f922d0f0fd1",
+  "stage_count": 4,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2022-05-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "May 20, 2022"
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Salmonella Senftenberg infections linked to certain Jif brand peanut butter products produced at the J.M. Smucker Company facility in Lexington, Kentucky."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "CDC’s review of epidemiological information indicates that five out of five people reported consuming peanut butter and four of the five people specifically reported consuming different varieties of Jif brand peanut butter prior to becoming ill. FDA conducted Whole Genome Sequencing (WGS) analysis on an environmental sample collected at the Lexington, KY, J.M. Smucker Company facility in 2010. The analysis shows that this 2010 environmental sample matches the strain causing illnesses in this current outbreak. Epidemiologic evidence indicates that Jif brand peanut butter produced in the J.M. Smucker Company facility located in Lexington, KY, is the likely cause of illnesses in this outbreak."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044"
+      ],
+      "stage_source_sha256": "a44458b7c7f51ce6ac97f8d2befa7216ec2c109bedde352fbfefb66f2eb1c14e"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-05-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "May 26, 2022"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Salmonella Senftenberg infections linked to certain Jif brand peanut butter products produced at the J.M. Smucker Company facility in Lexington, Kentucky."
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "J.M. Smucker Company has voluntarily recalled certain Jif brand peanut butter products that have the lot codes described below. Photo examples are included below."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "FDA has posted a list of additional recalls being conducted by companies that have used the recalled Jif peanut butter as an ingredient in the manufacturing of a new product (e.g., chocolate products) or in repackaging the product (e.g., snack cups). This list will be updated as the agency receives notification of new recalls."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "As of May 25, 2022, CDC reports that of the 10 people interviewed, 10 (100%) reported eating peanut butter prior to becoming ill. Nine people reported brand information, and all nine (100%) reported eating different varieties of Jif brand peanut butter."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041"
+      ],
+      "stage_source_sha256": "e22ea6fa0bbc259b0f3f0dfbb84716f3320dc5e25fb35e271a6a6c259546210f"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-06-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "June 22, 2022"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "J.M. Smucker Company has voluntarily recalled certain Jif brand peanut butter products that have the lot codes described below. Photo examples are included below."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "FDA has posted a list of additional recalls being conducted by companies that have used the recalled Jif peanut butter as an ingredient in the manufacturing of a new product (e.g., chocolate products) or in repackaging the product (e.g., snack cups). This list will be updated as the agency receives notification of new recalls."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "In addition, USDA has issued a recall on ready-to-eat Super Asian Chicken Salads that were made with recalled Jif peanut butter and sold at an Amazon Go retail location in Washington state."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "As of May 25, 2022, CDC reports that of the 10 people interviewed, 10 (100%) reported eating peanut butter prior to becoming ill. Nine people reported brand information, and all nine (100%) reported eating different varieties of Jif brand peanut butter."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035"
+      ],
+      "stage_source_sha256": "358071dcfca64c127683a1a5f343093981413b28373a9552b895a32151507485"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Senftenberg infections linked to certain Jif brand peanut butter products produced at the J.M. Smucker Company facility in Lexington, Kentucky."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "J.M. Smucker Company voluntarily recalled certain Jif brand peanut butter products that have the lot codes described below. Photo examples are included below."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On January 24, 2023, FDA issued a Warning Letter to J.M. Smucker, LLC, the maker of Jif brand peanut butter, following a joint inspection with the Kentucky Cabinet for Health and Family Service Food Safety Branch (CHFS0FSB), as part of the multistate foodborne outbreak investigation."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "The affected recalled products should no longer be available for sale. However, the product has a long shelf life and could still be in consumers’ homes. Consumers, restaurants, and retailers should not eat, sell, or serve any recalled Jif brand peanut butter, including recalled products that contain the recalled Jif peanut butter. Consumers should also avoid feeding recalled peanut butter to pets or other animals, including wild birds."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "For Consumers"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Follow these steps:"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Check if you have Jif peanut butter in your home."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Locate the lot code on the back of the jar, under the Best If Used By Date (the lot code may be next to the Best If Used By Date for cups or squeeze pouches)."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "In the lot code, if the first four digits are between 1274 and 2140, and if the next three numbers after that are '425', this product has been recalled and you should not consume this product. An example is below."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "If you are unsure what to do with your recalled product, you can call or email J.M. Smucker Company for more information: The J.M. Smucker Co. Hotline: 800-828-9980 Website: jif.com/contact-us"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "FDA recommends that if you have used the recalled Jif brand peanut butter that have lot code numbers 1274425 through 2140425 and the first seven digits end with 425, you should wash and sanitize surfaces and utensils that could have touched the peanut butter. If you or someone in your household ate this peanut butter and have symptoms of salmonellosis, please contact your healthcare provider."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "For Retailers, Re-packers, and Manufacturers"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "In addition to the steps above, FDA recommends referring to the firm's recall press for the UPC codes and other retailer information. Do not sell or serve recalled peanut butter or products containing recalled peanut butter."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Total Illnesses: 21 Hospitalizations: 4 Deaths: 0 Last Illness Onset: May 23, 2022 States with Cases: AR (1), AZ (1), FL (1), GA (2), IL (1), IN (1), MA (1), MI (1), MO (2), NC (2), NY (1), OH (1), SC (1), TX (2), VA (1), WA (1), WV (1) Product Distribution: Nationwide and International (see below)"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "International Distribution for Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "The recall impacts markets outside of the U.S."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Customer information provided by J.M. Smucker on May 23, 2022 shows that it was distributed to the following countries and locations: Canada, Dominican Republic, Singapore, Malaysia, Taiwan, Korea, Thailand, Honduras, Spain, Japan."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "For additional information, international officials and customers can visit the company’s recall page ."
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028"
+      ],
+      "stage_source_sha256": "a38a15335be99d795394188ba65a05d1903eee64f5e3181c0dfe5310fd020fb6"
+    }
+  ]
+}

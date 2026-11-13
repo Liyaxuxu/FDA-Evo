@@ -1,0 +1,837 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1350",
+  "title": "Outbreak Investigation of Infant Botulism: Infant Formula (November 2025) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025",
+  "frozen_source_path": "t1/frozen_sources/case-1350.txt",
+  "frozen_source_sha256": "4f250b97c7afd8f2b6cf9d419b70cf5a8e1347649c2c415f70946b929bda84e3",
+  "stage_count": 10,
+  "stages": [
+    {
+      "source_order": 9,
+      "report_date": "2025-11-11",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0154",
+          "source_page": "Main",
+          "text": "November 11, 2025"
+        },
+        {
+          "block_id": "BLOCK-0155",
+          "source_page": "Main",
+          "text": "FDA is expanding its recommendation to include all ByHeart infant formula products due to the number of ill infants reported to have consumed this product, the identification of additional lot codes, the identification of new cases of suspected infant botulism, and the preliminary positive sample collected and tested by the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP)."
+        },
+        {
+          "block_id": "BLOCK-0156",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with CDPH IBTPP, and state and local partners, are investigating a multistate outbreak of infant botulism. Epidemiologic and laboratory data show that ByHeart Whole Nutrition infant formula might be contaminated with Clostridium botulinum , which is causing infant illness in multiple regions of the country."
+        },
+        {
+          "block_id": "BLOCK-0157",
+          "source_page": "Main",
+          "text": "As of November 10, 2025, a total of 15 infants with suspected or confirmed infant botulism and confirmed exposure to Byheart Whole Nutrition infant formula (various lots) have been reported from 12 states (see map). Laboratory confirmation for some cases is ongoing. For 14 cases with illness onset information available, illnesses started on dates ranging from August 9 to November 10, 2025. All 15 infants were hospitalized. No deaths have been reported to date. For 14 infants with age and sex information available, they range in age from 16 to 157 days and 7 (50%) are female."
+        },
+        {
+          "block_id": "BLOCK-0158",
+          "source_page": "Main",
+          "text": "State and local public health officials are interviewing caregivers about the foods the infants were fed in the month before they got sick. Fifteen infant botulism cases have been identified that were fed ByHeart Whole Nutrition powdered infant formula before getting sick."
+        },
+        {
+          "block_id": "BLOCK-0159",
+          "source_page": "Main",
+          "text": "According to information shared by IBTPP, since August 1, 2025 through November 10, 2025, 84 infants nationwide have received treatment for infant botulism. Among them, 36 (43%) had any powdered infant formula exposure. Notably, more than 40% (15) infants who had powdered infant formula exposure consumed ByHeart Whole Nutrition infant formula. This information shows that ByHeart brand formula is disproportionately represented among sick infants in this outbreak, especially given that ByHeart represents an estimated 1% of all infant formula sales in the United States. Investigations remain ongoing but have not identified any other infant formula brands or shared exposures that pose a risk to infants."
+        },
+        {
+          "block_id": "BLOCK-0160",
+          "source_page": "Main",
+          "text": "As part of this investigation, officials in several states have collected leftover infant formula for testing. On November 8, 2025, preliminary laboratory results reported by the California Department of Public Health suggest the presence of the bacteria that produce botulinum toxin in an open can of ByHeart infant formula (lot 206VABP/251131P2) that was fed to an infant with infant botulism. Additional testing is underway, and results are expected in the coming weeks. Detection of Clostridium botulinum in infant formula is difficult, and a negative test result does not rule out the presence of the bacteria in the product."
+        },
+        {
+          "block_id": "BLOCK-0161",
+          "source_page": "Main",
+          "text": "FDA has been in contact with the firm and has requested a recall expansion to include all ByHeart infant formula on the market. On November 11, 2025, ByHeart expanded its recall to include all ByHeart formula nationwide, including cans and single-serve sticks. November 8, 2025"
+        },
+        {
+          "block_id": "BLOCK-0162",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and state and local partners, are investigating a multistate outbreak of 13 infant botulism illnesses from 10 states: Arizona, California (2), Illinois (2), Minnesota, New Jersey, Oregon, Pennsylvania, Rhode Island, Texas (2), Washington. Laboratory confirmation for some cases is ongoing. There are no deaths reported at this time. The CDPH IBTPP reported an increase in number of botulism type A infections among infants consuming ByHeart powdered infant formula from August 2025 to November 2025. All 13 cases included in this outbreak are reported to have consumed ByHeart- brand powdered infant formula. Officials in several states have collected leftover infant formula for testing. This testing is underway, and results are not yet available but expected in the coming weeks."
+        },
+        {
+          "block_id": "BLOCK-0163",
+          "source_page": "Main",
+          "text": "FDA has been in contact with the firm and has recommended the firm conduct a voluntary recall due to the number of cases, severity of illness, and the strong epidemiological signal. Today, ByHeart, Inc. agreed to initiate a recall of the two lots of ByHeart Whole Nutrition Infant formula (Lot: 206VABP/251261P2 and Lot: 206VABP/251131P2) that were reported to have been consumed by the infants. FDA is continuing to work with the firm to ensure all potentially impacted product is removed from the market."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0154",
+        "BLOCK-0155",
+        "BLOCK-0156",
+        "BLOCK-0157",
+        "BLOCK-0158",
+        "BLOCK-0159",
+        "BLOCK-0160",
+        "BLOCK-0161",
+        "BLOCK-0162",
+        "BLOCK-0163"
+      ],
+      "stage_source_sha256": "a4fb22b053cc1963fb24c583d9c621d8a419372123a83ad73f90672233b6be44"
+    },
+    {
+      "source_order": 8,
+      "report_date": "2025-11-14",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0150",
+          "source_page": "Main",
+          "text": "November 14, 2025"
+        },
+        {
+          "block_id": "BLOCK-0151",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, continue to investigate a multistate outbreak of infant botulism. Epidemiologic and laboratory data show that ByHeart Whole Nutrition infant formula might be contaminated with Clostridium botulinum , which is causing infant illness in multiple regions of the country."
+        },
+        {
+          "block_id": "BLOCK-0152",
+          "source_page": "Main",
+          "text": "As of November 14, 2025, a total of 23 infants with suspected or confirmed infant botulism and confirmed exposure to ByHeart Whole Nutrition infant formula (various lots) have been reported from 13 states (see map). Laboratory confirmation for some cases is ongoing. For 22 cases with illness onset information available, illnesses started on dates ranging from August 9 to November 11, 2025. All 23 infants were hospitalized. No deaths have been reported to date. For 22 infants with age and sex information available, they range in age from 16 to 200 days and 10 (45%) are female."
+        },
+        {
+          "block_id": "BLOCK-0153",
+          "source_page": "Main",
+          "text": "As part of this investigation, officials in several states have collected leftover infant formula for testing. On November 8, 2025, preliminary laboratory results reported by the California Department of Public Health suggest the presence of the bacteria that produce botulinum toxin in an open can of ByHeart infant formula (lot 206VABP/251131P2) that was fed to an infant with infant botulism. Additional testing is underway, and results are expected in the coming weeks. Detection of Clostridium botulinum in infant formula is difficult, and a negative test result does not rule out the presence of the bacteria in the product."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0150",
+        "BLOCK-0151",
+        "BLOCK-0152",
+        "BLOCK-0153"
+      ],
+      "stage_source_sha256": "01eabf3f88dae7d6904db11ba5f50cc8936e7f491d96ac2225389be0dcc25209"
+    },
+    {
+      "source_order": 7,
+      "report_date": "2025-11-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0143",
+          "source_page": "Main",
+          "text": "November 19, 2025"
+        },
+        {
+          "block_id": "BLOCK-0144",
+          "source_page": "Main",
+          "text": "As of November 19, 2025, a total of 31 infants with suspected or confirmed infant botulism and confirmed exposure to ByHeart Whole Nutrition infant formula (various lots) have been reported from 15 states (see map). Laboratory confirmation for some cases is ongoing. For 27 cases with illness onset information available, illnesses started on dates ranging from August 9 to November 13, 2025. All 31 infants were hospitalized. No deaths have been reported to date. For 23 infants with age and 24 with sex information available, they range in age from 16 to 200 days and 11 (46%) are female."
+        },
+        {
+          "block_id": "BLOCK-0145",
+          "source_page": "Main",
+          "text": "State and local public health officials are interviewing caregivers about the foods the infants were fed in the month before they got sick. Thirty-one infant botulism cases have been identified that were fed ByHeart Whole Nutrition powdered infant formula before getting sick."
+        },
+        {
+          "block_id": "BLOCK-0146",
+          "source_page": "Main",
+          "text": "As part of this investigation, officials in several states have collected leftover infant formula for testing. On November 8, 2025, the California Department of Public Health (CDPH) preliminarily detected the presence of botulinum neurotoxin type A in a culture of ByHeart powdered infant formula from an opened can (lot 206VABP/251131P2) that was fed to an infant with laboratory confirmed infant botulism. Additional work by CDPH confirmed the identification of the bacterium, Clostridium botulinum type A from the culture."
+        },
+        {
+          "block_id": "BLOCK-0147",
+          "source_page": "Main",
+          "text": "As part of its onsite inspections, FDA collected and is analyzing samples of unopened product. Analysis is ongoing and results will be provided as they become available."
+        },
+        {
+          "block_id": "BLOCK-0148",
+          "source_page": "Main",
+          "text": "Additional testing by FDA, CDC, and state partners is underway, and results are expected in the coming weeks. Detection of Clostridium botulinum in infant formula is complex, and a negative test result does not rule out the presence of the bacteria in the product."
+        },
+        {
+          "block_id": "BLOCK-0149",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination. This advisory will be updated as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0143",
+        "BLOCK-0144",
+        "BLOCK-0145",
+        "BLOCK-0146",
+        "BLOCK-0147",
+        "BLOCK-0148",
+        "BLOCK-0149"
+      ],
+      "stage_source_sha256": "828d44f1b40131a4477f80a717849de09be482e98cdc54d4257f04a50f6875ac"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2025-11-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0138",
+          "source_page": "Main",
+          "text": "November 20, 2025"
+        },
+        {
+          "block_id": "BLOCK-0139",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, continue to investigate a multistate outbreak of infant botulism. Epidemiologic and laboratory data show that ByHeart Whole Nutrition infant formula might be contaminated with Clostridium botulinum , which is causing infant illness in multiple regions of the country."
+        },
+        {
+          "block_id": "BLOCK-0140",
+          "source_page": "Main",
+          "text": "FDA has received reports that recalled formula is still being found on store shelves in multiple states, including at multiple Walmart, Target, and Kroger locations, and at one or more Sprouts Organic Market, Safeway, Jewel-Osco, Shaw’s, and Star Market locations. FDA is working with state partners and retailers to ensure an effective recall and immediate removal of these products from store shelves across the country. All ByHeart infant formula products have been recalled, and these products should not be available for sale in stores or online. This includes all formula cans and single-serve “anywhere pack” sticks."
+        },
+        {
+          "block_id": "BLOCK-0141",
+          "source_page": "Main",
+          "text": "Additionally, recalled product was sold through online marketplaces and was shipped to customers outside of the United States. Consumers worldwide should not use any ByHeart brand infant formula as all ByHeart products are included in this recall. More information on international distribution, including a list of countries where consumers received recalled product, is available in the International Distribution section."
+        },
+        {
+          "block_id": "BLOCK-0142",
+          "source_page": "Main",
+          "text": "As part of the investigation, ByHeart tested unopened infant formula products retained at its facility. According to ByHeart, third party laboratory analysis of some of these samples identified Clostridium botulinum , which produces the toxin that is making infants sick in this outbreak. ByHeart states that it will continue to investigate these findings and perform ongoing testing to identify the source of contamination."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0138",
+        "BLOCK-0139",
+        "BLOCK-0140",
+        "BLOCK-0141",
+        "BLOCK-0142"
+      ],
+      "stage_source_sha256": "129646c922253075c5f86a7faaef7c373f7f46c5f666267a4e26d0678b2aca92"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2025-11-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0131",
+          "source_page": "Main",
+          "text": "November 26, 2025"
+        },
+        {
+          "block_id": "BLOCK-0132",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, continue to investigate a multistate outbreak of infant botulism. Epidemiologic and laboratory data show that ByHeart Whole Nutrition infant formula might be contaminated with Clostridium botulinum , which is causing infant illness in multiple regions of the country. As of November 26, 2025, a total of 37 infants with suspected or confirmed infant botulism and confirmed exposure to ByHeart Whole Nutrition infant formula (various lots) have been reported from 17 states (see map). Laboratory confirmation for some cases is ongoing. For 36 cases with illness onset information available, illnesses started on dates ranging from August 9 to November 19, 2025. All 37 infants were hospitalized. No deaths have been reported to date. For 35 infants with age and sex information available, they range in age from 16 to 264 days and 15 (43%) are female. State and local public health officials are interviewing caregivers about the foods the infants were fed in the month before they got sick. Thirty-seven infants have been identified that were fed ByHeart Whole Nutrition powdered infant formula before getting sick."
+        },
+        {
+          "block_id": "BLOCK-0133",
+          "source_page": "Main",
+          "text": "FDA has received reports that recalled formula is still being found on store shelves in multiple states, including at multiple Walmart, Target, and Kroger locations, and at one or more Sprouts Organic Market, Safeway, Acme, Jewel-Osco, Shaw’s, Star Market, Smith’s, King Sooper’s, Albertson’s, Whole Foods, Wegman’s, and Publix locations. FDA is working with state partners and retailers to ensure an effective recall and immediate removal of these products from store shelves across the country. All ByHeart infant formula products have been recalled, and these products should not be available for sale in stores or online. This includes all formula cans and single-serve “anywhere pack” sticks. Additional testing by ByHeart, FDA, CDC, and state partners is underway, and results are expected in the coming weeks. Positive sample results will be included and updated in the Sample Information."
+        },
+        {
+          "block_id": "BLOCK-0134",
+          "source_page": "Main",
+          "text": "FDA’s investigation, including onsite inspections, is ongoing to determine the point of contamination. FDA is releasing the FDA Establishment Inspection Reports (EIRs) and FDA Form 483s, Inspectional Observations from completed inspections previously conducted between 2022 and March 2025 at ByHeart facilities. ByHeart, Inc. is the parent company of three Blendhouse manufacturing facilities in Allerton, Iowa; Portland, Oregon; and Reading, Pennsylvania."
+        },
+        {
+          "block_id": "BLOCK-0135",
+          "source_page": "Main",
+          "text": "Blendhouse Allerton: the facility was last inspected in February 2025 and classified Voluntary Action Indicated (VAI), which cited GMP deficiencies"
+        },
+        {
+          "block_id": "BLOCK-0136",
+          "source_page": "Main",
+          "text": "Blendhouse Portland: the facility was last inspected in March 2025 and classified No Action Indicated (NAI)"
+        },
+        {
+          "block_id": "BLOCK-0137",
+          "source_page": "Main",
+          "text": "Blendhouse Reading: the facility was last inspected in January 2024 and classified Official Action Indicated (OAI), which cited GMP deficiencies. This facility has not been in operation since September 2023."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0131",
+        "BLOCK-0132",
+        "BLOCK-0133",
+        "BLOCK-0134",
+        "BLOCK-0135",
+        "BLOCK-0136",
+        "BLOCK-0137"
+      ],
+      "stage_source_sha256": "947797deab7108e71160d958e4964006da1a6b2170000c6591d01a2b5f3a6c74"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2025-12-03",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0125",
+          "source_page": "Main",
+          "text": "December 3, 2025"
+        },
+        {
+          "block_id": "BLOCK-0126",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, continue to investigate a multistate outbreak of infant botulism. Epidemiologic and laboratory data show that ByHeart Whole Nutrition infant formula might be contaminated with Clostridium botulinum , which is causing infant illness in multiple regions of the country."
+        },
+        {
+          "block_id": "BLOCK-0127",
+          "source_page": "Main",
+          "text": "As of December 3, 2025, a total of 39 infants with suspected or confirmed infant botulism and confirmed exposure to ByHeart Whole Nutrition infant formula (various lots) have been reported from 18 states ( see map ). Laboratory confirmation for some cases is ongoing. Illnesses started on dates ranging from August 9 to November 19, 2025. All 39 infants were hospitalized. No deaths have been reported to date. For 38 infants with age and 39 with sex information available, they range in age from 16 to 264 days and 15 (38%) are female. State and local public health officials are interviewing caregivers about the foods the infants were fed in the month before they got sick. Thirty-nine infants have been identified that were fed ByHeart Whole Nutrition powdered infant formula before getting sick."
+        },
+        {
+          "block_id": "BLOCK-0128",
+          "source_page": "Main",
+          "text": "FDA continues to receive reports that recalled formula is still being found on store shelves at Walmart, Target, Kroger, Acme, and Shaw’s, despite the ongoing recall of all ByHeart infant formula products. FDA continues to work with state partners and retailers to ensure an effective recall and immediate removal of these products from store shelves across the country. All ByHeart infant formula products have been recalled, and these products should not be available for sale in stores or online. This includes all formula cans and single-serve “anywhere pack” sticks."
+        },
+        {
+          "block_id": "BLOCK-0129",
+          "source_page": "Main",
+          "text": "Additional testing by ByHeart, FDA, CDC, and state partners is underway, and results are expected in the coming weeks. On November 19, ByHeart reported that they tested 36 samples of infant formula across three lots and five of those samples tested positive for Clostridium botulinum Type A. The specific lots that were tested have not been publicly reported by ByHeart. Positive sample results for finished product testing will be included and updated in the Sample Information section below ."
+        },
+        {
+          "block_id": "BLOCK-0130",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination. This advisory will be updated as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0125",
+        "BLOCK-0126",
+        "BLOCK-0127",
+        "BLOCK-0128",
+        "BLOCK-0129",
+        "BLOCK-0130"
+      ],
+      "stage_source_sha256": "1121891d40e34b8c16e66c1af39142208f275aa98e20b29ea555b1952393334d"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2025-12-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0120",
+          "source_page": "Main",
+          "text": "December 17, 2025"
+        },
+        {
+          "block_id": "BLOCK-0121",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, continue to investigate a multistate outbreak of infant botulism. Epidemiologic and laboratory analyses indicate that ByHeart Whole Nutrition infant formula is the source of this multistate outbreak of infant botulism."
+        },
+        {
+          "block_id": "BLOCK-0122",
+          "source_page": "Main",
+          "text": "Since the last update on December 10, 2025, reports of cases linked to this outbreak have slowed, and public health officials have not added any new cases to this investigation. Going forward, instead of weekly updates, CDC will provide updates on this outbreak investigation when new information becomes available. FDA will continue to provide investigational updates as needed."
+        },
+        {
+          "block_id": "BLOCK-0123",
+          "source_page": "Main",
+          "text": "All ByHeart infant formula products have been recalled, and these products should not be available for sale in stores or online. This includes all formula cans and single-serve “anywhere pack” sticks. On December 12, 2025, FDA sent warning letters to four major retailers for failing to remove recalled ByHeart infant formula from their store shelves despite being notified of the recall. On December 15, 2025, FDA issued a press release and reminded industry about its legal duties regarding food recalls under the Federal Food Drug and Cosmetic Act."
+        },
+        {
+          "block_id": "BLOCK-0124",
+          "source_page": "Main",
+          "text": "FDA asked companies to follow best practices when carrying out recalls. This is especially important for recalls involving foods for infants and young children, who are among our most vulnerable populations. Additional testing by ByHeart, FDA, CDC, and state partners is underway, and results are expected in the coming weeks. Positive sample results for finished product testing will be included and updated in the Sample Results section below."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0120",
+        "BLOCK-0121",
+        "BLOCK-0122",
+        "BLOCK-0123",
+        "BLOCK-0124"
+      ],
+      "stage_source_sha256": "9be27f26813d7edeaa4eeb80f50b34b7b46feff4024275be55cdaa6e4c835a5d"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2026-01-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0109",
+          "source_page": "Main",
+          "text": "January 23, 2026"
+        },
+        {
+          "block_id": "BLOCK-0110",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, continue to investigate a multistate outbreak of infant botulism. Epidemiologic and laboratory analyses indicate that ByHeart Whole Nutrition infant formula is the source of this multistate outbreak of infant botulism. No new cases have been added to the investigation since December 10, 2025."
+        },
+        {
+          "block_id": "BLOCK-0111",
+          "source_page": "Main",
+          "text": "Product sampling and testing is being conducted by FDA, CDC, state partners, and ByHeart. Additionally, FDA collected ByHeart ingredient samples for analysis, as part of the investigation."
+        },
+        {
+          "block_id": "BLOCK-0112",
+          "source_page": "Main",
+          "text": "As of January 23, 2026, two samples collected by FDA tested positive for Clostridium botulinum (toxin), Type A. One is a ByHeart powdered infant formula closed product sample that matches a clinical isolate from an infant included in this outbreak according to whole genome sequencing (WGS) analysis. These samples also match two isolates of organic whole milk powder, an ingredient that ByHeart uses in the production of ByHeart Whole Nutrition powdered infant formula, which were collected and tested by ByHeart."
+        },
+        {
+          "block_id": "BLOCK-0113",
+          "source_page": "Main",
+          "text": "The second whole milk powder sample was collected by FDA at a processor for a supplier to ByHeart and analyzed by the New York Wadsworth Laboratory. WGS analysis showed that the Clostridium botulinum found in the sample of organic whole milk powder is a genetic match to the Clostridium botulinum detected in the finished product sample of ByHeart’s infant formula according to analysis conducted by ByHeart."
+        },
+        {
+          "block_id": "BLOCK-0114",
+          "source_page": "Main",
+          "text": "While these results advance FDA’s understanding of the outbreak, FDA’s investigation is ongoing to determine the source of contamination."
+        },
+        {
+          "block_id": "BLOCK-0115",
+          "source_page": "Main",
+          "text": "Previously, on December 23, 2025, ByHeart publicly reported positive test results for Clostridium botulinum in six of 36 samples of finished product. These six samples were taken from two batches (Batch 251261P2 and Batch 251131P2), which were both included in the initial product recall."
+        },
+        {
+          "block_id": "BLOCK-0116",
+          "source_page": "Main",
+          "text": "Sample analysis is ongoing, and results will be reported as they become available. The detection of Clostridium botulinum in infant formula, or ingredients, is complex, and confirmation of results can take several weeks. This in part is due to the heat-resistant spores which require special activation before they can be detected. Additionally, testing for C. botulinum in infant formula requires specialized testing and lab equipment. While initial screening tests are performed, a preliminary positive result requires confirmatory tests. This complex process can take two or more weeks for final results. There are a limited number of labs that have the specialized equipment and resources to conduct these tests, which further reduces testing capacity. FDA is working with partners to improve and update these methods, so that results can be confirmed and compared across stakeholders more easily."
+        },
+        {
+          "block_id": "BLOCK-0117",
+          "source_page": "Main",
+          "text": "FDA's investigation is focused on gaining a clearer understanding of contributing factors in this outbreak. This is the first documented outbreak of botulism in the United States attributed to contaminated infant formula and there are fundamental differences between spore-forming bacteria like Clostridium botulinum and vegetative bacteria such as Cronobacter and Salmonella . These are important considerations as FDA continues to respond to this outbreak and implement risk reduction strategies going forward. FDA has established the FDA’s Actions to Respond to Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula page to capture ongoing efforts to ensure the safety of powdered infant formula, including general information about formula safety."
+        },
+        {
+          "block_id": "BLOCK-0118",
+          "source_page": "Main",
+          "text": "All ByHeart infant formula products have been recalled, and these products should not be available for sale in stores or online. This includes all formula cans and single-serve “anywhere pack” sticks."
+        },
+        {
+          "block_id": "BLOCK-0119",
+          "source_page": "Main",
+          "text": "FDA continues to receive reports that recalled formula is still being found on store shelves, despite the ongoing recall of all ByHeart infant formula products. FDA continues to work with state partners and retailers to ensure an effective recall and immediate removal of these products from store shelves across the country. On December 15, 2025, FDA issued a press release and reminded industry about its legal duties regarding food recalls under the Federal Food, Drug, and Cosmetic Act. FDA asked companies to follow best practices when carrying out recalls. This is especially important for recalls involving foods for infants and young children, who are among our most vulnerable populations."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-0109",
+        "BLOCK-0110",
+        "BLOCK-0111",
+        "BLOCK-0112",
+        "BLOCK-0113",
+        "BLOCK-0114",
+        "BLOCK-0115",
+        "BLOCK-0116",
+        "BLOCK-0117",
+        "BLOCK-0118",
+        "BLOCK-0119"
+      ],
+      "stage_source_sha256": "e771665ab77fbb4c6906d4395a18daeb789c3d707ebd979e3d448308eadc7bde"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2026-02-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0090",
+          "source_page": "Main",
+          "text": "February 26, 2026"
+        },
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and other state and local partners, investigated a multistate outbreak of infant botulism. Epidemiologic and laboratory analyses indicated that ByHeart Whole Nutrition infant formula is the source of this multistate outbreak of infant botulism."
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "As of February 26, 2026, CDC declares the outbreak over. During recent weeks, public health officials at state and local health departments, IBTPP, and CDC reviewed the medical records of the 51 infants who were initially included in the investigation and used additional criteria to further describe the cases. Since December 10, 2025, no new cases were added, and 3 previously reported cases from 3 states were ultimately diagnosed with other illnesses and excluded from the case count. As of February 26, 2026, the investigation includes 28 cases of confirmed infant botulism and 20 cases of probable infant botulism. Refer to CDC’s Food Safety Alert for definitions of confirmed and probable cases."
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "As of February 26, 2026, two isolates from one lot of organic whole milk powder, collected and analyzed by FDA, have been shown by whole genome sequencing (WGS) analysis to match a cluster of isolates reported by FDA on January 23, 2026. These two new isolates were collected by FDA at Dairy Farmers of America, the processor for Organic West Milk, which supplies ByHeart. This cluster now also includes:"
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "one closed powdered infant formula sample (tested by ByHeart),"
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "one closed powdered infant formula sample (tested by the New York State Department of Health, Wadsworth Laboratory),"
+        },
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "one clinical isolate,"
+        },
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "three isolates from one lot of organic whole milk powder (tested by ByHeart)."
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "Additionally, WGS analysis of clinical isolates has shown that two recently analyzed clinical isolates collected and analyzed by CDPH match clusters of isolates from product samples."
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "One clinical isolate matches a cluster that now includes:"
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "three clinical isolates and"
+        },
+        {
+          "block_id": "BLOCK-0101",
+          "source_page": "Main",
+          "text": "an open powdered infant formula sample (tested by CDPH and previously reported as confirmed positive on November 18, 2025)"
+        },
+        {
+          "block_id": "BLOCK-0102",
+          "source_page": "Main",
+          "text": "The second recently analyzed clinical isolate matches a cluster that now includes:"
+        },
+        {
+          "block_id": "BLOCK-0103",
+          "source_page": "Main",
+          "text": "one clinical isolate,"
+        },
+        {
+          "block_id": "BLOCK-0104",
+          "source_page": "Main",
+          "text": "four isolates from one lot of powdered infant formula (tested by ByHeart and previously reported in FDA’s January 23, 2026 update) (This lot was reported by one patient), and"
+        },
+        {
+          "block_id": "BLOCK-0105",
+          "source_page": "Main",
+          "text": "one sample of base mix used to make powdered infant formula (tested by ByHeart)"
+        },
+        {
+          "block_id": "BLOCK-0106",
+          "source_page": "Main",
+          "text": "The detection of Clostridium botulinum in infant formula, or ingredients, is complex. To date, WGS analysis has identified 17 different strains of this bacterium in samples from patients, finished products, and ingredients. While these sample results add to the available evidence needed to investigate the root cause of this outbreak, due to the complexities of Clostridium botulinum and limited scientific evidence currently available, FDA has not yet determined a root cause(s). Additional sample analysis and research is being conducted and is necessary to inform possible conclusions about this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0107",
+          "source_page": "Main",
+          "text": "This outbreak is no longer ongoing, and FDA is transitioning from its initial response activities, managed by FDA’s Office of Coordinated Outbreak Response, Evaluation & Prevention (CORE+EP) which focused on containing the event so that no additional illnesses occurred. The agency is now focused on post-incident response actions and activities, which may include additional surveillance, as well as prevention and compliance activities."
+        },
+        {
+          "block_id": "BLOCK-0108",
+          "source_page": "Main",
+          "text": "FDA will continue investigating the root cause(s) and future updates will be reported on FDA’s Actions to Respond to Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula . This webpage will be updated with specific information on FDA’s ongoing efforts to ensure the safety of powdered infant formula, including general information about formula safety"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0090",
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095",
+        "BLOCK-0096",
+        "BLOCK-0097",
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100",
+        "BLOCK-0101",
+        "BLOCK-0102",
+        "BLOCK-0103",
+        "BLOCK-0104",
+        "BLOCK-0105",
+        "BLOCK-0106",
+        "BLOCK-0107",
+        "BLOCK-0108"
+      ],
+      "stage_source_sha256": "97052e9d4a07ad5eb83d3f3b9f3ffc45c9a0c55015c06971d5fa6c83fcc8af77"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-06-03",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "All ByHeart Whole Nutrition Infant Formula products have been recalled . This includes all lots of ByHeart formula cans and single-serve “anywhere pack” sticks."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "ByHeart infant formula products make up approximately 1% of all infant formula sold in the United States and this outbreak does not create shortage concerns of infant formula for parents and caregivers."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Symptoms of Infant Botulism"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Most infants with infant botulism will initially develop constipation, poor feeding, loss of head control, and difficulty swallowing, which can progress to difficulty breathing and respiratory arrest. Symptoms of infant botulism, which is diagnosed clinically, can take as long as several weeks to develop following formula ingestion."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "ByHeart Whole Nutrition Infant Formula was available for sale online and in store at major retailers nationwide. All ByHeart infant formula products have been recalled, and these products should not be available for sale in stores or online. This includes all formula cans and single-serve “anywhere pack” sticks."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "The outbreak is over and the outbreak investigation has ended."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Please see Post-Outbreak Response Activities: Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula for more information about FDA’s ongoing efforts to investigate the root cause of this outbreak, with a focus on ingredients, and ensure the safety of infant formula. The agency is now focused on post-incident response actions and activities, which include additional surveillance, as well as prevention and compliance activities."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Parents and Caregivers should stop using any ByHeart infant formula products immediately."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "If your child consumed ByHeart formula and is experiencing symptoms (see below) seek immediate medical attention."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "If your child consumed ByHeart formula and is not currently showing symptoms, continue monitoring them and seek medical attention if symptoms develop."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Wash items and surfaces that may have touched the formula using hot soapy water or a dishwasher."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Retailers should ensure recalled product is not on store shelves, including product that has been returned by customers."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Botulism can be fatal, and you should take action right away. If your child has consumed ByHeart formula and is experiencing signs and symptoms of botulism such as poor feeding, loss of head control, difficulty swallowing, or decreased facial expression, seek immediate medical attention."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "If you are a Physician and suspect an infant patient has botulism, immediately call the CDPH clinical support line at 510-231-7600 for case consultation. Consultation is available 24/7."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "June 3, 2026"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "As part of FDA’s investigation, FDA has completed its on-site inspections of ByHeart facilities. These inspections led to the identification of Clostridium botulinum in a powdered milk ingredient. These inspections did not identify any additional factors within ByHeart’s facilities that could explain the cause of this outbreak. FDA’s root cause investigation is ongoing and will continue with a focus on ingredients."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Please see Post-Outbreak Response Activities: Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula for more information about FDA’s ongoing efforts to investigate the cause of this outbreak and ensure the safety of powdered infant formula. The agency is now focused on post-incident response actions and activities, which include additional surveillance, as well as prevention and compliance activities."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Total Illnesses: 48"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Confirmed cases: 28"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Probable cases: 20"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Hospitalizations: 48 Deaths: 0 Last Illness Onset: November 29, 2025 States with Cases: AZ, CA, ID, IL, KY, MA, MI, MN, NC, NJ, OR, PA, RI, TX, VA, WA, WI Product Distribution: Online and nationwide (including Guam and Puerto Rico), and internationally"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Sample Results (Last updated 2/26/2026)"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Product sampling and testing analysis is being conducted by FDA, CDC, state partners, and ByHeart. Available information on positive samples is included below, as of February 26, 2026. FDA is transitioning from its initial response activities managed by FDA’s CORE +EP to post-incident response actions and activities, which will continue working to understand more about the possible root cause(s) of contamination and inform prevention efforts. Refer to FDA’s Actions to Respond to Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula webpage for future updates and specific information about FDA’s ongoing efforts to ensure the safety of powdered infant formula, including positive sample results and general information about formula safety."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "Due to the large number of samples, only positive results in finished products are being reported here. The detection of Clostridium botulinum in infant formula is complex, and a negative test result does not rule out the presence of the bacteria in the product."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Parents and caregivers should not use any ByHeart infant formula, regardless of test results."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786033209188-8",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1350-01]"
+        },
+        {
+          "block_id": "BLOCK-0081",
+          "source_page": "Main",
+          "text": "Ingredient Sample Results"
+        },
+        {
+          "block_id": "BLOCK-0082",
+          "source_page": "Main",
+          "text": "As of February 26, 2026, one sample of base mix used to make powdered infant formula, tested by ByHeart, has been shown by whole genome sequencing (WGS) analysis to match four isolates from one lot of ByHeart Infant Formula (included in the table above). These isolates also match one clinical isolate."
+        },
+        {
+          "block_id": "BLOCK-0083",
+          "source_page": "Main",
+          "text": "As of February 26, 2026, two additional isolates from one lot of organic whole milk powder, collected and analyzed by FDA, have been shown by WGS analysis to match the previously reported two ByHeart powdered infant formula closed product samples (one of which was tested by ByHeart and the other was tested by the New York State Department of Health, Wadsworth Laboratory), a clinical isolate (tested by CDC), and the three isolates from one lot of organic whole milk powder (collected and tested by ByHeart). The two new isolates from organic whole milk powder were collected by FDA at Dairy Farmers of America, the processor for ByHeart’s supplier, Organic West Milk."
+        },
+        {
+          "block_id": "BLOCK-0084",
+          "source_page": "Main",
+          "text": "As of January 23, 2026, two samples collected by FDA tested positive for Clostridium botulinum (toxin), Type A. One is a ByHeart powdered infant formula closed product sample that matches a clinical isolate from an infant included in this outbreak according to WGS analysis. These samples also match two isolates of organic whole milk powder, an ingredient that ByHeart uses in the production of ByHeart Whole Nutrition powdered infant formula, which were collected and tested by ByHeart."
+        },
+        {
+          "block_id": "BLOCK-0085",
+          "source_page": "Main",
+          "text": "The second organic whole milk powder sample was collected by FDA at a processor for a supplier to ByHeart and analyzed by the New York Wadsworth Laboratory. WGS analysis showed that the Clostridium botulinum found in the sample of organic whole milk powder is a genetic match to the Clostridium botulinum detected in the finished product sample of ByHeart’s infant formula according to analysis conducted by ByHeart."
+        },
+        {
+          "block_id": "BLOCK-0086",
+          "source_page": "Main",
+          "text": "International Distribution"
+        },
+        {
+          "block_id": "BLOCK-0087",
+          "source_page": "Main",
+          "text": "The ByHeart infant formula recall impacted markets outside the United States. Customer information provided by Amazon shows that a limited quantity of recalled ByHeart infant formula was distributed to Argentina, Brazil, Brunei, Canada, Chile, China, Colombia, Ecuador, Egypt, Hong Kong, Israel, Jamaica, Japan, Republic of Korea, Peru, Philippines, Romania, Singapore, South Africa, Thailand, and the British Virgin Islands."
+        },
+        {
+          "block_id": "BLOCK-0088",
+          "source_page": "Main",
+          "text": "Consumers worldwide should not use any ByHeart brand infant formula as all ByHeart products are included in this recall."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 10,
+      "stage_id": "R10",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-ADD-1786033209188-8",
+        "BLOCK-0081",
+        "BLOCK-0082",
+        "BLOCK-0083",
+        "BLOCK-0084",
+        "BLOCK-0085",
+        "BLOCK-0086",
+        "BLOCK-0087",
+        "BLOCK-0088"
+      ],
+      "stage_source_sha256": "9305f1cee060f3bbc349e70aeb8e11f5c352b4e955e4932aec6caec53215b717"
+    }
+  ]
+}

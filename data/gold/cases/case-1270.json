@@ -1,0 +1,417 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1270",
+  "title": "Outbreak Investigation of E. coli O157:H7: Onions (October 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "slivered onions served on Quarter Pounder burgers",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Quarter Pounder beef patties",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0061",
+            "BLOCK-0062",
+            "BLOCK-0063"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 75,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 22,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions recalled by Taylor Farms",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Quarter Pounder beef patties",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions",
+              "recalling_company": "Taylor Farms",
+              "brands": [],
+              "recall_scope": "sent to McDonald’s and other food service customers"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 27,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions recalled by Taylor Farms",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0045",
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions",
+              "recalling_company": "Taylor Farms",
+              "brands": [],
+              "recall_scope": "sent to McDonald’s and other food service customers"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 104,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 34,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions recalled by Taylor Farms",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0040",
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions",
+              "recalling_company": "Taylor Farms",
+              "brands": [],
+              "recall_scope": "sent to McDonald’s and other food service customers"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 104,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 34,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0025"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0016"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions recalled by Taylor Farms",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0016",
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "yellow onions",
+              "recalling_company": "Taylor Farms",
+              "brands": [],
+              "recall_scope": "sent to McDonald’s and other food service customers"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0016"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

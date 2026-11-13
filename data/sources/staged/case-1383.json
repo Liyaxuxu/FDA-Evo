@@ -1,0 +1,272 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1383",
+  "title": "Outbreak Investigation of Infant Botulism: Powdered Infant Formula (June 2026) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026",
+  "frozen_source_path": "t1/frozen_sources/case-1383.txt",
+  "frozen_source_sha256": "b15fef93b16e3db60708ab995f3df44c92f8db50d5aa2e6500f79307ac285f20",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2026-06-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "June 13, 2026"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and state and local partners, are investigating a multistate outbreak of three confirmed or suspected infant botulism illnesses from three states: California, Pennsylvania, and Washington. The CDPH IBTPP reported three toxin type A infections among infants consuming Nara Organics Whole Milk Organic Powdered Infant Formula with illness onset between April and May 2026. All three cases included in this outbreak consumed Nara Organics-brand powdered infant formula. Officials in two states have collected leftover infant formula for testing. This testing is underway, and results are expected in the coming weeks."
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "On June 12, 2026, FDA contacted the firm to notify them about this outbreak and recommended that the firm conduct a recall due to the severity of illness and the epidemiological signal. On June 13, 2026, Nara Organics agreed to recall all of their Nara Organics brand Whole Milk Organic Powdered Infant Formula. All of Nara Organics' formula was manufactured in Europe. Consumers should not use recalled infant formula."
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing. This advisory will be updated as information becomes available. For more information about FDA’s ongoing efforts to ensure the safety of infant formula please see FDA’s Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula webpage."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049"
+      ],
+      "stage_source_sha256": "91c24b8fd6ef22ce9d12665800f0942ad3116a7209a7db664c6e563b06c8cf95"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2026-06-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "June 26, 2026"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and state and local partners, are investigating a multistate outbreak of three confirmed infant botulism illnesses from three states: California, Pennsylvania, and Washington. The CDPH IBTPP reported three toxin type A infections among infants consuming Nara Organics Whole Milk Organic Powdered Infant Formula with illness onset between April and May 2026. All three cases included in this outbreak consumed Nara Organics-brand powdered infant formula."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Officials in two states have collected leftover infant formula for testing. FDA has collected unopened samples from the lot numbers fed to the affected infants for testing. This testing is underway, and results are expected in the coming weeks."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Prior to learning of the illnesses, FDA conducted inspections at the two firms that manufacture Nara Organics Whole Milk Organic Infant Formula in Europe. At the conclusion of both inspections, observations citing deficiencies were issued to both facilities. Both firms have submitted corrective action responses to FDA, which are currently under review."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "FDA is also in the process of conducting a traceback investigation and has determined that the Nara Organics infant formula lots linked to illnesses in this outbreak were made with milk supplied by Organic West Milk and spray dried by Dairy Farmers of America. While these are the same suppliers of organic whole milk and organic whole milk powder from the outbreak of infant botulism linked to ByHeart Powdered Infant Formula in November 2025 , currently there is not enough evidence to determine if this is the source or route of contamination."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Further, FDA conducted a traceforward investigation during the 2025 outbreak to determine if Organic West Milk supplied milk to any other powdered infant formula manufacturers. At that time, Organic West Milk provided an incomplete customer list that did not indicate that their milk was supplied to manufacturers of Nara Organics infant formula. As part of the current investigation, Organic West Milk informed FDA that the customer information previously provided was incomplete and should have included suppliers to Nara Organics."
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "FDA continues to work with the firms included in this investigation to determine the root cause of this outbreak and if any additional products are impacted. The FDA has also been in contact with relevant European authorities. This advisory will be updated as information becomes available. For more information about FDA’s ongoing efforts to ensure the safety of infant formula please see FDA’s Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula webpage."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045"
+      ],
+      "stage_source_sha256": "83bc8942d9e6b0b1d4d0feb20f5cc6ab9969c74ca9728eb3a5391d3c31ec0dab"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-07-06",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled Nara Organics Whole Milk Organic Powdered Infant Formula."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "FDA is in the early stages of this investigation and further testing by FDA and state partners is underway."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Nara Organics Whole Milk Organic Infant Formula makes up less than 1% of all infant formula sold in the United States and this outbreak does not create shortage concerns of infant formula for parents and caregivers."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Symptoms of Infant Botulism"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Most infants with infant botulism will initially develop constipation, poor feeding, loss of head control, and difficulty swallowing, which can progress to difficulty breathing and respiratory arrest. Symptoms of infant botulism, which is diagnosed clinically, can take as long as several weeks to develop following formula ingestion."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Nara Organics Powdered Infant Formula was distributed nationally across Target retail stores, Target.com, and Nara.com between July 2025 and June 2026. Nara Organics infant formula is not distributed outside of the USA."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Ongoing"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Parents and Caregivers should stop using Nara Organics Whole Milk Organic Infant Formula immediately. If your child is experiencing symptoms after consuming Nara Organics Whole Milk Organic Infant Formula seek immediate health care. If you still have the formula in your home, please take a picture and record the lot number and use-by date on the container."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Consider retaining any opened cans of formula. If your infant develops signs and symptoms of infant botulism, the state health department may want to test the product."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Label it “DO NOT USE” and keep it stored in a safe place away from other items you feed your baby for at least a month."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "If no symptoms appear after a month, throw the leftover formula away."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Wash items and surfaces that may have touched the formula using hot soapy water or a dishwasher."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Botulism can be fatal. If your child has consumed Nara Organics Whole Milk Organic Infant Formula and is experiencing signs and symptoms of botulism such as poor feeding, loss of head control, difficulty swallowing, or decreased facial expression, seek immediate health care."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "If you are a Physician and suspect an infant patient has botulism, immediately call the Infant Botulism Treatment and Prevention Program at 510-231-7600 for case consultation. Consultation is available 24/7."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "July 6, 2026"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with the California Department of Public Health (CDPH), Infant Botulism Treatment and Prevention Program (IBTPP), and state and local partners, are investigating a multistate outbreak of four cases of infant botulism illnesses from three states: California, Pennsylvania, and Washington. The CDPH IBTPP reported four infants with confirmed infant botulism, with illness onset between April and May 2026. All four infants included in this outbreak consumed Nara Organics Whole Milk Organic Powdered Infant Formula."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "FDA has collected unopened samples from the lot numbers fed to the affected infants for testing. This testing is underway, and results are expected in the coming weeks."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "State officials have also collected infant formula from families of sick infants for testing. CDPH is one of the laboratories performing testing of opened cans of formula associated with outbreak cases. CDPH detected Clostridium botulinum in an opened can of Nara Organics powdered infant formula obtained from the home of one of the infants who got sick in this outbreak. Analyses are being conducted in addition to FDA’s analysis of the unopened sample from the same lot."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "FDA continues to work with the firms included in this investigation to determine the root cause of this outbreak and if any additional products are impacted. This advisory will be updated as information becomes available. For more information about FDA’s ongoing efforts to ensure the safety of infant formula please see FDA’s Clostridium botulinum Illnesses Associated with Consumption of Powdered Infant Formula webpage."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Total Illnesses: 4 Hospitalizations: 4 Deaths: 0 Last Illness Onset: May 31, 2026 States with Cases: CA, PA, WA Product Distribution: Online and nationwide"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027"
+      ],
+      "stage_source_sha256": "0312e0e7bbd70e37c0f859e565a38776bf3c3e4df384d9b5f52b8661d9afc80b"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1172",
+  "title": "Outbreak Investigation of Listeria: Ice Cream (August 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0070"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go cups",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0068",
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go ice cream cups",
+              "recalling_company": "Real Kosher Ice Cream",
+              "brands": [
+                "Soft Serve On The Go"
+              ],
+              "recall_scope": "all flavors; 8-oz cups"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0070"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go cups",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0064",
+            "BLOCK-0065",
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go ice cream cups",
+              "recalling_company": "Real Kosher Ice Cream",
+              "brands": [
+                "Soft Serve On The Go"
+              ],
+              "recall_scope": "all flavors; 8-oz cups"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0060",
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go cups",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Ice Cream House dairy and non-dairy products manufactured at the Brooklyn facility",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0059",
+            "BLOCK-0060"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go ice cream cups",
+              "recalling_company": "Real Kosher Ice Cream",
+              "brands": [
+                "Soft Serve On The Go"
+              ],
+              "recall_scope": "all flavors; 8-oz cups"
+            },
+            {
+              "product_name": "dairy and non-dairy products with the Ice Cream House logo",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "all products manufactured at the Brooklyn, NY facility"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0060",
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0055",
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go cups",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "recalled dairy and non-dairy products with the Ice Cream House logo sold at Ice Cream House and Real Kosher Ice Cream",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0055",
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go ice cream cups",
+              "recalling_company": "Real Kosher Ice Cream",
+              "brands": [
+                "Soft Serve On The Go"
+              ],
+              "recall_scope": "all flavors; 8-oz cups"
+            },
+            {
+              "product_name": "dairy and non-dairy products with the Ice Cream House logo",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "all products manufactured at the Brooklyn, NY facility"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0038",
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Soft Serve On The Go cups",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "dairy and non-dairy products with the Ice Cream House logo sold at Ice Cream House and Real Kosher Ice Cream",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0038",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "ice creams",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "dairy or non-dairy (parve); manufactured at Brooklyn facility"
+            },
+            {
+              "product_name": "cakes",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "dairy or non-dairy (parve); manufactured at Brooklyn facility"
+            },
+            {
+              "product_name": "pies",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "dairy or non-dairy (parve); manufactured at Brooklyn facility"
+            },
+            {
+              "product_name": "logs",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "dairy or non-dairy (parve); manufactured at Brooklyn facility"
+            },
+            {
+              "product_name": "novelty items with the Ice Cream House logo",
+              "recalling_company": "Ice Cream House",
+              "brands": [],
+              "recall_scope": "dairy or non-dairy (parve); manufactured at Brooklyn facility"
+            },
+            {
+              "product_name": "Soft Serve On The Go ice cream cups",
+              "recalling_company": "Real Kosher Ice Cream",
+              "brands": [
+                "Soft Serve On The Go"
+              ],
+              "recall_scope": "8-oz cup"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0038",
+            "BLOCK-0039",
+            "BLOCK-0040",
+            "BLOCK-0041",
+            "BLOCK-0042",
+            "BLOCK-0043",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

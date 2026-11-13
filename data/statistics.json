@@ -1,0 +1,11 @@
+{
+  "source_blocks": 3318,
+  "stages": 304,
+  "recall_YES": 265,
+  "implicated_items": 627,
+  "recalled_records": 1149,
+  "cases": 60,
+  "undated_summary_cases": 23,
+  "recall_NO": 39,
+  "count_variable_slots": 912
+}

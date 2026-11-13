@@ -1,0 +1,1046 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1056",
+  "title": "FDA Investigation of Cronobacter Infections: Powdered Infant Formula (February 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/fda-investigation-cronobacter-infections-powdered-infant-formula-february-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1056.txt",
+  "frozen_source_sha256": "c3a4d4537169e55f1bb31977829be0f6a08567b96863ede9a0cf7272319eb914",
+  "stage_count": 15,
+  "stages": [
+    {
+      "source_order": 13,
+      "report_date": "2022-02-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0154",
+          "source_page": "Main",
+          "text": "February 17, 2022"
+        },
+        {
+          "block_id": "BLOCK-0155",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners are investigating four consumer complaints of infant illness related to products from Abbott Nutrition’s Sturgis, MI facility received from 9/20/2021 to 12/18/2021. All of the cases are reported to have consumed powdered infant formula (IF) produced from Abbott Nutrition’s Sturgis, MI facility. These complaints include three reports of Cronobacter sakazakii infections and one report of Salmonella Newport infection in infants. All four cases related to these complaints were hospitalized and Cronobacter may have contributed to a death in one case."
+        },
+        {
+          "block_id": "BLOCK-0156",
+          "source_page": "Main",
+          "text": "FDA has initiated an onsite inspection at the facility. Findings to date include several positive Cronobacter results from environmental samples taken by FDA, and adverse inspectional observations by FDA investigators. A review of the firm’s internal records also indicate environmental contamination with Cronobacter sakazakii and the firm’s destruction of product due to the presence of Cronobacter ."
+        },
+        {
+          "block_id": "BLOCK-0157",
+          "source_page": "Main",
+          "text": "FDA is issuing this advisory to alert consumers to avoid purchasing or using certain powdered infant formula produced in the Sturgis, MI facility."
+        },
+        {
+          "block_id": "BLOCK-0158",
+          "source_page": "Main",
+          "text": "This is an ongoing investigation and the firm is working with the FDA to initiate a voluntary recall of potentially affected product. FDA is continuing to investigate and will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0154",
+        "BLOCK-0155",
+        "BLOCK-0156",
+        "BLOCK-0157",
+        "BLOCK-0158"
+      ],
+      "stage_source_sha256": "dfce82eec29696bb575b2681eea778c25d0acec8ab375afbbbcbee307c17bfca"
+    },
+    {
+      "source_order": 12,
+      "report_date": "2022-02-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0152",
+          "source_page": "Main",
+          "text": "February 20, 2022"
+        },
+        {
+          "block_id": "BLOCK-0153",
+          "source_page": "Main",
+          "text": "On 2/17/2022, Abbott Nutrition initiated a voluntary recall of certain powdered infant formulas. Products made at the Sturgis facility can be found across the United States and were likely exported to other countries/locations as well. Canadian health officials have also issued a recall warning ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0152",
+        "BLOCK-0153"
+      ],
+      "stage_source_sha256": "41be015ab7b3c9540cbaa794163059aa34da58b553640224ca9dbd9186e560e1"
+    },
+    {
+      "source_order": 11,
+      "report_date": "2022-02-25",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0146",
+          "source_page": "Main",
+          "text": "February 25, 2022"
+        },
+        {
+          "block_id": "BLOCK-0147",
+          "source_page": "Main",
+          "text": "As a result of the ongoing investigation, Abbott Nutrition has recalled certain powdered infant formula products and the FDA is advising consumers not to use recalled Similac, Alimentum, or EleCare powdered infant formulas produced in the Sturgis, MI facility."
+        },
+        {
+          "block_id": "BLOCK-0148",
+          "source_page": "Main",
+          "text": "We recognize that the Abbott Nutrition recall resulted in consumers seeking alternative brands or types of infant formula and that the recall has created new concerns about the availability of certain types of infant formula, particularly given the overall strains on supply chains experienced during the COVID-19 pandemic."
+        },
+        {
+          "block_id": "BLOCK-0149",
+          "source_page": "Main",
+          "text": "We understand that infant formula is the sole source of nutrition for many infants and is an essential product."
+        },
+        {
+          "block_id": "BLOCK-0150",
+          "source_page": "Main",
+          "text": "FDA is working with Abbott Nutrition to better assess the impacts of the recall and understand production capacity at other Abbott facilities that produce some of the impacted brands. We are also working with Abbott Nutrition on safe resumption of production at the Sturgis, MI facility. Throughout the pandemic, FDA has also been monitoring potential supply chain risks for this category of products and has been reaching out to infant formula manufacturers and their trade groups. As Abbott Nutrition was initiating its recall, FDA intensified this outreach to infant formula manufacturers to inquire about their capacity and potential impacts given this developing situation. We will continue discussion with Abbott Nutrition and other infant formula manufacturers and consider all tools available to support the supply of infant formula products."
+        },
+        {
+          "block_id": "BLOCK-0151",
+          "source_page": "Main",
+          "text": "We are also partnering with the United State Department of Agriculture’s Food and Nutrition Service (FNS) to monitor the impact of the recall on the WIC Program."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0146",
+        "BLOCK-0147",
+        "BLOCK-0148",
+        "BLOCK-0149",
+        "BLOCK-0150",
+        "BLOCK-0151"
+      ],
+      "stage_source_sha256": "43de6438f3cb1112e98c2fb6f993bb9b4cdb2f8921c75c0ec8275a8777d67f26"
+    },
+    {
+      "source_order": 10,
+      "report_date": "2022-02-28",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0141",
+          "source_page": "Main",
+          "text": "February 28, 2022"
+        },
+        {
+          "block_id": "BLOCK-0142",
+          "source_page": "Main",
+          "text": "As of February 28, CDC has announced one additional illness of Cronobacter sakazakii with exposure to powdered infant formula produced at Abbott Nutrition’s Sturgis, MI facility. Cronobacter infection may have been a contributing cause of death for this patient. In total, this investigation includes four reports of Cronobacter sakazakii infections in infants (three from FDA complaints and one from a CDC case finding) and one complaint of a Salmonella Newport infection in an infant. All five (four Cronobacter infections and one Salmonella Newport infection) illnesses resulted in hospitalization and Cronobacter may have contributed to death in two patients."
+        },
+        {
+          "block_id": "BLOCK-0143",
+          "source_page": "Main",
+          "text": "The most recent patient was reported to have consumed Abbott Nutrition’s Similac PM 60/40 product with the lot code 27032K800 prior to Cronobacter sakazakii infection. FDA and CDC informed the firm of these findings and on February 28, 2022, Abbott Nutrition voluntarily recalled Similac PM 60/40 powdered infant formula with the lot code 27032K800. This is a specialty formula for certain infants who would benefit from lowered mineral intake and was not included in the previous recall. At this time, Similac PM 60/40 with lot code 27032K80 (can) / 27032K800 (case) are the only type and lots of this specialty formula being recalled."
+        },
+        {
+          "block_id": "BLOCK-0144",
+          "source_page": "Main",
+          "text": "This particular lot of Similac PM 60/40 was distributed to the U.S. and Israel. If your regular formula is not available, contact your child’s healthcare provider for recommendations on changing feeding practices."
+        },
+        {
+          "block_id": "BLOCK-0145",
+          "source_page": "Main",
+          "text": "We understand that infant formula is the sole source of nutrition for many infants and is an essential product. FDA is working with Abbott Nutrition to better assess the impacts of the recall and understand production capacity at other Abbott facilities that produce some of the impacted brands. We are also working with Abbott Nutrition on safe resumption of production at the Sturgis, MI facility. FDA is continuing to investigate and will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0141",
+        "BLOCK-0142",
+        "BLOCK-0143",
+        "BLOCK-0144",
+        "BLOCK-0145"
+      ],
+      "stage_source_sha256": "5cfd44d4f9cdc95e68c2327012a196756f707c62197c1b73f66cb3a8c0b2b875"
+    },
+    {
+      "source_order": 9,
+      "report_date": "2022-03-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0139",
+          "source_page": "Main",
+          "text": "March 9, 2022"
+        },
+        {
+          "block_id": "BLOCK-0140",
+          "source_page": "Main",
+          "text": "The Salmonella Newport illness previously included in this investigation of complaints and illnesses has been removed. In the early stages of this investigation, FDA included all consumer complaints of illness with exposure to products from the Sturgis, MI, facility. After further investigation, the FDA has determined that there is not enough information to definitively link this illness to powdered infant formula. CDC confirmed that this single Salmonella illness is not linked to an outbreak. The FDA and CDC are continuing to monitor for Salmonella cases and consumer complaints that may be related to this incident."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0139",
+        "BLOCK-0140"
+      ],
+      "stage_source_sha256": "ab5006a5b6aaeacfe2eb44728940c34fa61fc6dd118484a0a94075299291f9dd"
+    },
+    {
+      "source_order": 8,
+      "report_date": "2022-03-15",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0136",
+          "source_page": "Main",
+          "text": "March 15, 2022"
+        },
+        {
+          "block_id": "BLOCK-0137",
+          "source_page": "Main",
+          "text": "To provide clarity about which products are included in the Abbott Nutrition recall, FDA is publishing a full list of recalled brands that have been included in the initial and expanded recall. Recalled products should no longer be available for sale, but if consumers have these products in their homes, they should check the lot code on the bottom of the package to determine if it is included in the recall."
+        },
+        {
+          "block_id": "BLOCK-0138",
+          "source_page": "Main",
+          "text": "The FDA is also providing additional information for parents and caregivers of infants receiving medical specialty infant formula and individuals using certain medical foods."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0136",
+        "BLOCK-0137",
+        "BLOCK-0138"
+      ],
+      "stage_source_sha256": "971eb2b4a4d99e7583e3a4be2c4cba11fbea9fa3d9a5868e4d43e085f03da29b"
+    },
+    {
+      "source_order": 7,
+      "report_date": "2022-03-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0129",
+          "source_page": "Main",
+          "text": "March 22, 2022"
+        },
+        {
+          "block_id": "BLOCK-0130",
+          "source_page": "Main",
+          "text": "The FDA is releasing the FDA Form 483s from three inspections conducted at Abbott Nutrition’s facility on Sept. 16-24, 2019, Sept. 20-24, 2021, and Jan. 31-March 18, 2022. The inspectional observations in these Form 483s do not constitute final FDA determinations of whether any condition was or is in violation of the Federal Food, Drug, and Cosmetic Act or any of its implementing regulations. The FDA will take appropriate action in the future - if warranted - as we continue to evaluate the 2022 inspectional findings."
+        },
+        {
+          "block_id": "BLOCK-0131",
+          "source_page": "Main",
+          "text": "Important observations noted in the 2022 Form 483 include, but are not limited to:"
+        },
+        {
+          "block_id": "BLOCK-0132",
+          "source_page": "Main",
+          "text": "[Abbott Nutrition] did not establish a system of process controls covering all stages of processing that was designed to ensure that infant formula does not become adulterated due to the presence of microorganisms in the formula or in the processing environment."
+        },
+        {
+          "block_id": "BLOCK-0133",
+          "source_page": "Main",
+          "text": "[Abbott Nutrition] did not ensure that all surfaces that contacted infant formula were maintained to protect infant formula from being contaminated by any source."
+        },
+        {
+          "block_id": "BLOCK-0134",
+          "source_page": "Main",
+          "text": "Once the immediate public health risk is minimized, the FDA will conduct a programmatic review to ensure the maximum effectiveness of agency programs and policies related to infant formula and special medical food complaints, illnesses, and recalls."
+        },
+        {
+          "block_id": "BLOCK-0135",
+          "source_page": "Main",
+          "text": "Conducting this review is a top priority for the FDA and will be done as efficiently as possible, and we can ensure this effort will not interfere with the immediate recall response activities. We will and must continue focusing on taking all steps possible to protect the health of those who rely on safe powdered infant formula."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0129",
+        "BLOCK-0130",
+        "BLOCK-0131",
+        "BLOCK-0132",
+        "BLOCK-0133",
+        "BLOCK-0134",
+        "BLOCK-0135"
+      ],
+      "stage_source_sha256": "5ba7006f522f1366dc64954ccc9597fc8584859ec5b94779f32a5d65b20e512a"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2022-03-31",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0121",
+          "source_page": "Main",
+          "text": "March 31, 2022"
+        },
+        {
+          "block_id": "BLOCK-0122",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners are investigating consumer complaints and/or reports, received from 9/20/2021 to 1/11/2022, of infant illness related to products from Abbott Nutrition’s Sturgis, MI, facility. The four ill patients are reported to have consumed powdered infant formula produced from Abbott Nutrition’s Sturgis, MI, facility."
+        },
+        {
+          "block_id": "BLOCK-0123",
+          "source_page": "Main",
+          "text": "The FDA investigators at the Abbott Nutrition facility in Sturgis, MI, collected numerous product and environmental samples:"
+        },
+        {
+          "block_id": "BLOCK-0124",
+          "source_page": "Main",
+          "text": "Five environmental subsamples collected from the Sturgis, MI facility were positive for Cronobacter sakazakii; four were detected by the FDA and one was detected through firm-initiated testing. The positive Cronobacter sakazakii environmental samples at the Sturgis, MI, facility have been analyzed using Whole Genome Sequencing (WGS), revealing five different strains of Cronobacter sakazakii ."
+        },
+        {
+          "block_id": "BLOCK-0125",
+          "source_page": "Main",
+          "text": "Product samples collected by FDA at the facility were analyzed for Cronobacter by FDA and were found negative."
+        },
+        {
+          "block_id": "BLOCK-0126",
+          "source_page": "Main",
+          "text": "There are no additional FDA samples pending analysis at this time. On March 18, 2022, the FDA inspection at the Abbott Nutrition facility in Sturgis, MI, was completed and a Form 483 was issued that included four observations. The inspectional observations in this Form 483 do not constitute final FDA determinations of whether any condition was or is in violation of the Federal Food, Drug, and Cosmetic Act or any of its implementing regulations. FDA will take appropriate action in the future - if warranted - as we continue to evaluate the 2022 inspectional findings."
+        },
+        {
+          "block_id": "BLOCK-0127",
+          "source_page": "Main",
+          "text": "At this time, CDC has completed laboratory testing for two clinical samples received related to this investigation. Analysis performed by WGS did not find these samples from patients to be a genetic match to the multiple strains of Cronobacter found in the environmental samples obtained from Abbott Nutrition’s Sturgis, MI, facility or to any other clinical isolates in the National Center for Biotechnology Informatics (NCBI) database."
+        },
+        {
+          "block_id": "BLOCK-0128",
+          "source_page": "Main",
+          "text": "The FDA is working with Abbott Nutrition to better assess the impacts of the recall and understand production capacity at other Abbott facilities that produce some of the impacted brands. We are also working with Abbott Nutrition on safe resumption of production at the Sturgis, MI, facility. We will continue discussion with Abbott Nutrition and other infant formula manufacturers and consider all tools available to support the supply of infant formula products. We are also partnering with the United State Department of Agriculture’s Food and Nutrition Service (FNS) to monitor the impact of the recall on The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) Program."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-0121",
+        "BLOCK-0122",
+        "BLOCK-0123",
+        "BLOCK-0124",
+        "BLOCK-0125",
+        "BLOCK-0126",
+        "BLOCK-0127",
+        "BLOCK-0128"
+      ],
+      "stage_source_sha256": "10110eb738ab1449399665482ed007fe7952c580528ceb8ada767cc511c619b9"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2022-04-29",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "April 29, 2022"
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners are investigating consumer complaints and/or reports, received from 9/20/2021 to 1/11/2022, of infant illness related to products from Abbott Nutrition’s Sturgis, MI, facility. The four ill patients are reported to have consumed powdered infant formula produced from Abbott Nutrition’s Sturgis, MI, facility."
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "Following the voluntary recall and hold of certain powdered infant formula products produced at the Abbott Nutrition facility in Sturgis, MI, Abbott has committed to completing enhanced testing of stored product batches prior to making release determinations. While the FDA recognizes that Abbott has conducted standard product testing, there were a limited number of samples tested. Additionally, although finished product testing does not eliminate the risk of contamination, the enhanced testing will provide for a greater chance to detect Cronobacter sakazakii , if present; however, this enhanced level of testing will take additional time."
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "In the meantime, the FDA has informed Abbott Nutrition that the agency has no objection to the company immediately releasing product to individuals needing urgent, life-sustaining supplies of the specialty and metabolic formulas listed below on a case-by-case basis. The FDA is concerned that the risk of not having certain specialty and metabolic products available could significantly worsen underlying medical conditions and in some cases pose life-threatening risks for infants and individuals who rely on these products. In these circumstances, the benefit of allowing parents, in consultation with their healthcare providers, to access these products may outweigh the potential risk of bacterial infection."
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "Abbott has confirmed with the FDA that the company will consider release of these products on a case-by-case basis, depending on product availability and the severity of the individual’s need. Patients and caregivers seeking access to these products should contact Abbott directly to request that a product be made available to them by calling 1-800-881-0876."
+        },
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "It is important for parents and caregivers to understand that any products released on a case-by-case basis at this time were made at Abbott Nutrition’s Sturgis, MI, facility, and that the processes, procedures, and conditions that the FDA observed during its inspection of the Sturgis MI production facility from January 31 – March 18, 2022, raise concerns that powdered infant formula produced at this facility prior to the FDA’s inspection carry a risk of contamination. Therefore, those seeking access should consult with their healthcare provider in considering whether the benefit of consuming such product outweighs the potential risk of bacterial infection in the user’s particular circumstances. Parents and caregivers should continue to work with their medical provider to consider whether comparable alternative products may be appropriate."
+        },
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "Parents and caregivers who obtain these products should carefully follow Abbott’s preparation instructions as indicated on the product container. Should product released on a case-by-case basis be used, parents and caregiver should pay close attention to the user’s health status and alert a healthcare provider immediately of any change in health status. In the meantime, the FDA is continuing to work diligently to ensure the safe resumption of production of infant formula at Abbott Nutrition’s Sturgis, Michigan facility."
+        },
+        {
+          "block_id": "BLOCK-NEW-0006",
+          "source_page": "Main",
+          "text": "Specialty and Metabolic Formulas that may be Released on a Case-By-Case Basis:"
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "Glutarex-1"
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "Glutarex-2"
+        },
+        {
+          "block_id": "BLOCK-0101",
+          "source_page": "Main",
+          "text": "Cyclinex-1"
+        },
+        {
+          "block_id": "BLOCK-0102",
+          "source_page": "Main",
+          "text": "Cyclinex-2"
+        },
+        {
+          "block_id": "BLOCK-0103",
+          "source_page": "Main",
+          "text": "Hominex-1"
+        },
+        {
+          "block_id": "BLOCK-0104",
+          "source_page": "Main",
+          "text": "Hominex-2"
+        },
+        {
+          "block_id": "BLOCK-0105",
+          "source_page": "Main",
+          "text": "I-Valex-1"
+        },
+        {
+          "block_id": "BLOCK-0106",
+          "source_page": "Main",
+          "text": "I-Valex-2"
+        },
+        {
+          "block_id": "BLOCK-0107",
+          "source_page": "Main",
+          "text": "Ketonex-1"
+        },
+        {
+          "block_id": "BLOCK-0108",
+          "source_page": "Main",
+          "text": "Ketonex-2"
+        },
+        {
+          "block_id": "BLOCK-0109",
+          "source_page": "Main",
+          "text": "Phenex-1"
+        },
+        {
+          "block_id": "BLOCK-0110",
+          "source_page": "Main",
+          "text": "Phenex-2"
+        },
+        {
+          "block_id": "BLOCK-0111",
+          "source_page": "Main",
+          "text": "Phenex-2 Vanilla"
+        },
+        {
+          "block_id": "BLOCK-0112",
+          "source_page": "Main",
+          "text": "Pro-Phree"
+        },
+        {
+          "block_id": "BLOCK-0113",
+          "source_page": "Main",
+          "text": "Propimex-1"
+        },
+        {
+          "block_id": "BLOCK-0114",
+          "source_page": "Main",
+          "text": "Propimex-2"
+        },
+        {
+          "block_id": "BLOCK-0115",
+          "source_page": "Main",
+          "text": "ProViMin"
+        },
+        {
+          "block_id": "BLOCK-0116",
+          "source_page": "Main",
+          "text": "Calcilo XD"
+        },
+        {
+          "block_id": "BLOCK-0117",
+          "source_page": "Main",
+          "text": "Tyrex-1"
+        },
+        {
+          "block_id": "BLOCK-0118",
+          "source_page": "Main",
+          "text": "Tyrex-2"
+        },
+        {
+          "block_id": "BLOCK-0119",
+          "source_page": "Main",
+          "text": "Similac PM 60/40"
+        },
+        {
+          "block_id": "BLOCK-0120",
+          "source_page": "Main",
+          "text": "More information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095",
+        "BLOCK-0096",
+        "BLOCK-0097",
+        "BLOCK-NEW-0006",
+        "BLOCK-0099",
+        "BLOCK-0100",
+        "BLOCK-0101",
+        "BLOCK-0102",
+        "BLOCK-0103",
+        "BLOCK-0104",
+        "BLOCK-0105",
+        "BLOCK-0106",
+        "BLOCK-0107",
+        "BLOCK-0108",
+        "BLOCK-0109",
+        "BLOCK-0110",
+        "BLOCK-0111",
+        "BLOCK-0112",
+        "BLOCK-0113",
+        "BLOCK-0114",
+        "BLOCK-0115",
+        "BLOCK-0116",
+        "BLOCK-0117",
+        "BLOCK-0118",
+        "BLOCK-0119",
+        "BLOCK-0120"
+      ],
+      "stage_source_sha256": "297fb358600471f31cff69be922b1a50c3fb505e647b335ded2d2bc528727fc5"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2022-05-11",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0087",
+          "source_page": "Main",
+          "text": "May 11, 2022"
+        },
+        {
+          "block_id": "BLOCK-0088",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners are investigating consumer complaints and/or reports, received from 9/20/2021 to 1/11/2022, of infant illness related to products from Abbott Nutrition’s Sturgis, MI, facility. The four ill patients are reported to have consumed powdered infant formula produced from Abbott Nutrition’s Sturgis, MI, facility."
+        },
+        {
+          "block_id": "BLOCK-0089",
+          "source_page": "Main",
+          "text": "On May 10, 2022, the U.S. Food and Drug Administration provided an update on its work to increase the availability of infant and specialty formula products. This update was announced with a separate press release."
+        },
+        {
+          "block_id": "BLOCK-0090",
+          "source_page": "Main",
+          "text": "More information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 10,
+      "stage_id": "R10",
+      "source_block_ids": [
+        "BLOCK-0087",
+        "BLOCK-0088",
+        "BLOCK-0089",
+        "BLOCK-0090"
+      ],
+      "stage_source_sha256": "041fbd8b9f534038e694746122804429a92bc4b89549e44780d5ec9922f9c7aa"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2022-05-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0084",
+          "source_page": "Main",
+          "text": "May 13, 2022"
+        },
+        {
+          "block_id": "BLOCK-0085",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA)’s Coordinated Outbreak Response and Evaluation (CORE) Network, along with the Centers for Disease Control and Prevention (CDC) and state and local partners investigated consumer complaints and/or reports received by FDA from 9/20/2021 to 2/24/2022, of illnesses among infants who were reported to have consumed powdered infant formula products from Abbott Nutrition’s Sturgis, MI, facility."
+        },
+        {
+          "block_id": "BLOCK-0086",
+          "source_page": "Main",
+          "text": "On May 12, 2022, CDC announced that its investigation is closed, with no additional cases identified as part of the investigation. Although CORE is no longer investigating this incident, the FDA established an Incident Management Group (IMG) on April 1, 2022, to continue to work on supply chain and food safety issues."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 11,
+      "stage_id": "R11",
+      "source_block_ids": [
+        "BLOCK-0084",
+        "BLOCK-0085",
+        "BLOCK-0086"
+      ],
+      "stage_source_sha256": "4e352d7bb2faa5675eaa67a2c037cc53ce09576c2a16f6c76a43cdf73d7fc376"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2022-05-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0081",
+          "source_page": "Main",
+          "text": "May 17, 2022"
+        },
+        {
+          "block_id": "BLOCK-0082",
+          "source_page": "Main",
+          "text": "On May 16, 2022, the U.S. District Court for the Western District of Michigan entered a consent decree of permanent injunction between FDA and Abbott Nutrition , as well as three Abbott principals. Under the consent decree Abbott Nutrition will, among other things, take corrective actions following an FDA inspection of its Sturgis, Michigan facility."
+        },
+        {
+          "block_id": "BLOCK-0083",
+          "source_page": "Main",
+          "text": "The U.S. Department of Health & Human Services also released a Fact Sheet for Helping Families Find Formula During the Infant Formula Shortage."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 12,
+      "stage_id": "R12",
+      "source_block_ids": [
+        "BLOCK-0081",
+        "BLOCK-0082",
+        "BLOCK-0083"
+      ],
+      "stage_source_sha256": "64aaa2d4d96be82b12c9a83e1ab0e55d2e04be519a30d52fb18db43eebec4296"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-05-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0079",
+          "source_page": "Main",
+          "text": "May 26, 2022"
+        },
+        {
+          "block_id": "BLOCK-0080",
+          "source_page": "Main",
+          "text": "On May 24, 2022, the FDA has announced that it will exercise enforcement discretion with respect to specific infant formula products to increase infant formula supplies in the United States. The List of Companies Receiving Enforcement Discretion for Infant Formula will be updated on a regular basis."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 13,
+      "stage_id": "R13",
+      "source_block_ids": [
+        "BLOCK-0079",
+        "BLOCK-0080"
+      ],
+      "stage_source_sha256": "775b68651b100a5901d34d9818afb66ee6974119b4f29aaa59d720497cf356f2"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-06-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0075",
+          "source_page": "Main",
+          "text": "June 23, 2022"
+        },
+        {
+          "block_id": "BLOCK-0076",
+          "source_page": "Main",
+          "text": "On June 22, 2022, the U.S. Food and Drug Administration provided an update on the steps it has taken, and will continue to take, to ensure that American consumers have access to safe and nutritious infant formula in the coming weeks and months. You can read more by accessing the press release."
+        },
+        {
+          "block_id": "BLOCK-0077",
+          "source_page": "Main",
+          "text": "In addition, the FDA has created an infographic on how to safely prepare and store powdered infant formula ."
+        },
+        {
+          "block_id": "BLOCK-0078",
+          "source_page": "Main",
+          "text": "Additional information about infant formula and ongoing updates about FDA’s response can be found at www.fda.gov/infantformula ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 14,
+      "stage_id": "R14",
+      "source_block_ids": [
+        "BLOCK-0075",
+        "BLOCK-0076",
+        "BLOCK-0077",
+        "BLOCK-0078"
+      ],
+      "stage_source_sha256": "1cb1a05c6f2ccf2d24c1e679b9471cb53f8a15b86b2c04c97f77d0025d6c71b9"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "If you want to check if your powdered formula is part of the recall , you can enter the product lot code on the bottom of your package on the company’s website ."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "If you have questions or need information about the recall, you can Submit Questions/Get Assistance ."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "If your infant is experiencing symptoms related to Cronobacter infection, such as poor feeding, irritability, temperature changes, jaundice, grunting breaths, or abnormal body movements; contact your health care provider to report their symptoms and receive immediate care."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "To report a complaint or adverse event (illness or serious allergic reaction), visit Industry and Consumer Assistance ."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Update on Infant Formula Supplies: The FDA has announced that it will exercise enforcement discretion with respect to the specific infant formula products, to increase infant formula supplies in the United States."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Companies Receiving Enforcement Discretion for Regular Infant Formula ( These lists will be updated on a regular basis. )"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Internal Review of Agency Actions Related to the U.S. Infant Formula Supply Now Available"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Infant Formula Main Page"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA)’s Coordinated Outbreak Response and Evaluation (CORE) Network, along with the Centers for Disease Control and Prevention (CDC) and state and local partners investigated consumer complaints and/or reports received by FDA from 9/20/2021 to 2/24/2022, of illnesses among infants who were reported to have consumed powdered infant formula products from Abbott Nutrition’s Sturgis, MI, facility. Although CORE is no longer investigating this incident, the FDA established an Incident Management Group (IMG) on April 1, 2022, to continue to work on supply chain and food safety issues."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "The FDA is advising consumers not to use recalled Similac, Alimentum, or EleCare powdered infant formulas. Recalled products can be identified by the 7 to 9 digit code and expiration date on the bottom of the package (see image below). Products are included in the recall if they have all three items below:"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "the first two digits of the code are 22 through 37 and"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "the code on the container contains K8, SH, or Z2, and"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "the expiration date is 4-1-2022 (APR 2022) or later."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "In addition to products described above, Abbott Nutrition has recalled Similac PM 60/40 with a lot code 27032K80 (can) / 27032K800 (case). At this time, Similac PM 60/40 with lot code 27032K80 (can) / 27032K800 (case) is the only type and lot of this specialty formula being recalled. Additional recall information for the initial recall is available on the FDA website . Parents can also enter their product lot code on the company’s website to check if it is part of the recall."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Certain specialty and metabolic formulas have been tested and released by Abbott Nutrition on a case-by-case basis . Parents and caregivers of infants receiving this specialty and metabolic formula should not reference the recall product description above, but instead should enter the product lot code found at the bottom of their package by using the “Check Lot Number” feature at the bottom of the company’s webpage or by calling Abbott Nutrition at 1-800-881-0876."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Additional Information for Parents and Caregivers:"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "The recalls do not include liquid formula products."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Parents and caregivers should never dilute infant formula and should not make or feed homemade infant formula to infants . Consumers should also avoid purchasing imported formula through online sales, as it has the potential to be counterfeit ."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "If your regular formula is not available, contact your child’s healthcare provider for recommendations on changing feeding practices."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "If you get infant formula through WIC, do not throw the formula out. Instead, you should take it to the store for a refund and exchange or call the company at 1-800-986-8540 to help you. WIC recipients should be able to obtain a different brand of similar formula. Call your local WIC clinic for more guidance. Also see, https://www.fns.usda.gov/wic ."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0001",
+          "source_page": "Main",
+          "text": "Sample Product Image from the FDA Investigation of Cronobacter and Salmonella Complaints about Powdered Infant Formula (February 2022)"
+        },
+        {
+          "block_id": "BLOCK-NEW-0002",
+          "source_page": "Main",
+          "text": "Sample Product Image from the FDA Investigation of Cronobacter and Salmonella Complaints about Powdered Infant Formula (February 2022)"
+        },
+        {
+          "block_id": "BLOCK-NEW-0003",
+          "source_page": "Main",
+          "text": "Sample Product Image from the FDA Investigation of Cronobacter and Salmonella Complaints about Powdered Infant Formula (February 2022)"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Total Adverse Events: 4 Hospitalizations: 4 Reported Deaths: 2* Illness Onset Date Range: 9/6/2021 – 1/4/2022 States with Adverse Events: MN (1), OH (2), TX (1) Product Distribution: Nationwide and International * Two deaths have been reported. Cronobacter infection may have contributed to the cause of death for both patients."
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Full List of Recalled Brands"
+        },
+        {
+          "block_id": "BLOCK-NEW-0004",
+          "source_page": "Main",
+          "text": "Full List of Recalled Brands"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "The following products are included in the recall if they have all three items below:"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "the first two digits of the code are 22 through 37 and"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "the code on the container contains K8, SH, or Z2, and"
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "the expiration date is 4-1-2022 (APR 2022) or later"
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "Similac Products Abbott Similac 360 Total Care Infant Formula with Iron Abbott Similac Advance Abbott Similac Advance Step-1 Abbott Similac Advance Step-2 Abbott Similac Advance Infant Formula with Iron Abbott Similac Human Milk Fortifier Abbott Similac Organic Abbott Similac Organic with A2 Milk Infant Formula with Iron Abbott Similac Organic with A2 Milk Toddler Drink Abbott Similac Organic Toddler with A2 Milk Infant Formula with Iron Abbott Similac Pro-Advance Abbott Similac Pro-Advance Infant Formula with Iron Abbott Similac Pro-Sensitive Infant Formula with Iron Abbott Similac Pro-Total Comfort Infant Formula with Iron Abbott Similac Sensitive Abbott Similac Sensitive Infant Formula with Iron Abbott Similac Sensitive Lactose Sensitivity Abbott Similac for Supplementation Abbott Similac For Spit Up Infant Formula with Iron Abbott Similac Total Comfort Abbott Similac Total Comfort Infant Formula with Iron Abbott Similac EleCare HMO Abbott Similac EleCare Abbott EleCare Similac Gold Abbott EleCare Similac Abbott Similac PM 60/40 - only lot code 27032K80 (can) / 27032K800 (case)"
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "Alimentum Products Abbott Infant Formula Powder Abbott Similac Alimentum Abbott Similac Alimentum Allergies & Colic Hypoallergenic Infant Formula Abbott Similac Alimentum with 2'-FL HMO Abbott Similac Alimentum Eye Q Plus Abbott Similac Alimentum HMO Abbott Alimentum HMO Abbott Similac Alimentum infant formula Abbott Similac Alimentum Infant Formula with Iron Abbott Similac Alimentum Toddler Drink"
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "EleCare Products Abbott EleCare Abbott EleCare Amino Acid-Based Powder Infant Formula with Iron Abbott EleCare Infant Formula Unflavoured Abbott EleCare Junior Vanilla Abbott EleCare Jr Similac Vanilla Abbott EleCare Jr Amino Acid-Based Nutrition Powder Unflavored Abbott EleCare Jr Amino Acid-Based Nutrition Powder Banana Abbott EleCare Jr Amino Acid-Based Nutrition Powder Chocolate Abbott EleCare Similac Abbott EleCare Similac Gold Abbott Similac EleCare HMO Abbott Similac EleCare EleCare LCP Hypoallergenic"
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "Additional Information for Parents and Caregivers of Infants Receiving Medical Specialty Infant Formulas and Individuals Using Certain Medical Foods"
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "Following the voluntary recall and hold of certain powdered infant formula products produced at the Abbott Nutrition facility in Sturgis, MI, Abbott has committed to completing enhanced testing of stored product batches prior to making release determinations. While the FDA recognizes that Abbott has conducted standard product testing, there were a limited number of samples tested. Additionally, although finished product testing does not eliminate the risk of contamination, the enhanced testing will provide for a greater chance to detect Cronobacter sakazakii , if present; however, this enhanced level of testing will take additional time."
+        },
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "In the meantime, the FDA has informed Abbott Nutrition that the agency has no objection to the company immediately releasing product to individuals needing urgent, life-sustaining supplies of the specialty and metabolic formulas listed below on a case-by-case basis. The FDA is concerned that the risk of not having certain specialty and metabolic products available could significantly worsen underlying medical conditions and in some cases pose life-threatening risks for infants and individuals who rely on these products. In these circumstances, the benefit of allowing parents, in consultation with their healthcare providers, to access these products may outweigh the potential risk of bacterial infection."
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "Abbott has confirmed with the FDA that the company will consider release of these products on a case-by-case basis, depending on product availability and the severity of the individual’s need. Patients and caregivers seeking access to these products should contact Abbott directly to request that a product be made available to them by calling 1-800-881-0876."
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "It is important for parents and caregivers to understand that any products released on a case-by-case basis at this time were made at Abbott Nutrition’s Sturgis, MI, facility, and that the processes, procedures, and conditions that the FDA observed during its inspection of the Sturgis MI production facility from January 31 – March 18, 2022, raise concerns that powdered infant formula produced at this facility prior to the FDA’s inspection carry a risk of contamination. Therefore, those seeking access should consult with their healthcare provider in considering whether the benefit of consuming such product outweighs the potential risk of bacterial infection in the user’s particular circumstances. Parents and caregivers should continue to work with their medical provider to consider whether comparable alternative products may be appropriate."
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "Should product released on a case-by-case basis be used, parents and caregiver should pay close attention to the user’s health status and alert a healthcare provider immediately of any change in health status. In the meantime, the FDA is continuing to work diligently to ensure the safe resumption of production of infant formula at Abbott Nutrition’s Sturgis, Michigan facility."
+        },
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "Specialty and Metabolic Formulas that may be Released on a Case-By-Case Basis:"
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "Specialty and Metabolic Formulas that may be Released on a Case-By-Case Basis:"
+        },
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "Glutarex-1 Glutarex-2 Cyclinex-1 Cyclinex-2 Hominex-1 Hominex-2 I-Valex-1 I-Valex-2 Ketonex-1 Ketonex-2 Phenex-1 Phenex-2 Phenex-2 Vanilla Pro-Phree Propimex-1 Propimex-2 ProViMin Calcilo XD Tyrex-1 Tyrex-2 Similac PM 60/40"
+        },
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "It is important to note that these specialty infant formulas and medical foods are not sold in traditional retail stores. These products often require a prescription and are sold through specialty pharmacies and other specialty distribution channels such as medical product suppliers."
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "Parents and caregivers of infants and children using these products should contact their child’s health care providers if they have questions about the use of these products."
+        },
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "International Product Distribution for Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "The recall impacts Alimentum, EleCare, and Human Milk Fortifier for markets outside the U.S. No other Abbott Nutrition products distributed outside of the U.S. are affected by this recall. According to the firm, recalled products were distributed to the following countries/locations: Australia, Bahrain, Barbados, Bermuda, Canada, Chile, China, Colombia, Costa Rica, Dominican Republic, Ecuador, Egypt, Guam, Guatemala, Hong Kong, India, Indonesia, Israel, Jordan, Kuwait, Lebanon, Malaysia, Mexico, New Zealand, Oman, Peru, Puerto Rico, Qatar, Saudi Arabia, Singapore, South Africa, Sudan, Taiwan, Thailand, United Arab Emirates, United Kingdom, and Vietnam ANI South."
+        },
+        {
+          "block_id": "BLOCK-0069",
+          "source_page": "Main",
+          "text": "For additional information, international officials and customers can visit the company’s recall page for contact information ."
+        },
+        {
+          "block_id": "BLOCK-0070",
+          "source_page": "Main",
+          "text": "Cronobacter Surveillance"
+        },
+        {
+          "block_id": "BLOCK-0071",
+          "source_page": "Main",
+          "text": "Cronobacter infection surveillance is not handled the same way as infection with more common foodborne pathogens, such as Salmonella or E. coli O157:H7. Cronobacter is not nationally notifiable and not reportable except in one state, which means doctors and labs are not required to report cases to their health department. Because Cronobacter is not a nationally notifiable pathogen, FDA relies on consumer complaints of illness sent to the Agency and on health care providers informing FDA directly about infants with Cronobacter infections. In addition, because Cronobacter is not nationally notifiable, whole genome sequencing (WGS) is rarely performed on these isolates. To date, no outbreaks of Cronobacter have been detected using WGS."
+        },
+        {
+          "block_id": "BLOCK-0072",
+          "source_page": "Main",
+          "text": "When single cases of Cronobacter are reported, the FDA conducts a thorough review of each complaint, conducts sampling of products, and initiates inspections as appropriate. FDA collaborates with CDC, which has developed a detailed questionnaire specifically for Cronobacter infections that is often used by state health departments in instances of Cronobacter sakazakii infection."
+        },
+        {
+          "block_id": "BLOCK-0074",
+          "source_page": "Main",
+          "text": "Updates February 2022 - June 2022"
+        },
+        {
+          "block_id": "BLOCK-NEW-0005",
+          "source_page": "Main",
+          "text": "Updates February 2022 - June 2022"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 15,
+      "stage_id": "R15",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-NEW-0001",
+        "BLOCK-NEW-0002",
+        "BLOCK-NEW-0003",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-NEW-0004",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058",
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062",
+        "BLOCK-0063",
+        "BLOCK-0098",
+        "BLOCK-0064",
+        "BLOCK-0065",
+        "BLOCK-0066",
+        "BLOCK-0067",
+        "BLOCK-0068",
+        "BLOCK-0069",
+        "BLOCK-0070",
+        "BLOCK-0071",
+        "BLOCK-0072",
+        "BLOCK-0074",
+        "BLOCK-NEW-0005"
+      ],
+      "stage_source_sha256": "a6f1c3b9ec0b1f15b7f6861907ba9b77e8e25e1bc15905ff7457258b778ca6ff"
+    }
+  ]
+}

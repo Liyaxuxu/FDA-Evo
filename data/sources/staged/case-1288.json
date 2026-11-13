@@ -1,0 +1,241 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1288",
+  "title": "Outbreak Investigation of Salmonella: Mini Pastries (January 2025) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-mini-pastries-january-2025",
+  "frozen_source_path": "t1/frozen_sources/case-1288.txt",
+  "frozen_source_sha256": "e8023f680126a80ebfc488fc53b6145c741ebbd2f9ef8577701add0e3d9690ce",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2025-02-06",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "February 6, 2025"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state, local, and international partners, are investigating illnesses in a multistate outbreak of Salmonella Enteritidis infections linked to Sweet Cream-brand mini pastries manufactured in Italy and exported into the United States by Importations Piu Che Dolci Inc. of Quebec, Canada."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "On January 21, 2025, FDA was notified about an outbreak of Salmonella in the United States, which is the same strain investigated in Canada. Canadian Food Inspection Agency (CFIA) informed FDA that their investigation linked their outbreak to Sweet Cream-brand mini pastries, and Importations Piu Che Dolci Inc. initiated a recall of all Sweet Cream-brand mini pastry products with best by dates from 2025/06/17 through 2025/11/15 (June 17- November 15, 2025)."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "The recalled products were imported by two distributors in the U.S. who were contacted about the recall. One distributor had no product on hand, and the second distributor quarantined all product on hand and informed all of their downstream customers of the recall. As part of this investigation, FDA conducted traceback for one of the U.S. cases and identified that they were served recalled Sweet Cream-brand mini pastries at a restaurant prior to becoming sick. The restaurant received the pastries from one of the U.S. distributors."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "As of January 29, 2025, a total of 18 people infected with the outbreak strain of Salmonella have been reported from seven states. Of the 18 people for whom information is available, one person has been hospitalized. No deaths have been reported. Of the 5 people interviewed, 3 (60%) reported eating pastries."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Food service customers who received the recalled product have been contacted directly. FDA is continuing to work with Importations Piu Che Dolci Inc. and their U.S. customers to determine the distribution of this product and if additional downstream recalls are necessary. The recalled product should no longer be available for sale, and there does not appear to be a continued public health risk for consumers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042"
+      ],
+      "stage_source_sha256": "a643afa140e4c3b9a5d7bd8aec7cb57fc22a89aa10f600aca66c5039c4af639b"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2025-03-20",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Images of Additional Products"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled Sweet Cream-brand mini pastries with best by dates from 2025/06/17 through 2025/11/15 (June 17 - November 15, 2025)."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "The food service customers who received the recalled product have been contacted directly by the distributing firms, and the recalled product should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection:"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled mini pastries were distributed in FL, NJ, NY, and PA to food service locations such as hotel cafes, bakeries, institutions, and restaurants. The mini pastries were also served at catered events. The firm directly notified customers who received the recalled product, and the recalled product should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "The recalled product should no longer be available for sale; however, food service customers who received the recalled product should follow FDA’s safe handling and cleaning recommendations and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled products to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "March 20, 2025"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Salmonella infections linked to recalled Sweet Cream-brand mini pastry products with best by dates from 2025/06/17 through 2025/11/15 (June 17 - November 15, 2025)."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "As of March 14, 2025, a total of 18 people infected with the outbreak strain of Salmonella have been reported from 7 states. Of the 12 people for whom information is available, one person has been hospitalized. No deaths have been reported. Of the 7 people interviewed, 5 (71%) reported eating pastries."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Under the Laboratory Flexible Funding Model (LFFM) program, the Communicable Disease Service within the New Jersey Department of Health (NJDOH), collaborated with the City of Paterson Division of Health and the Public Health and Environmental Laboratories to collect and analyze Sweet Cream-brand mini pastry samples from a warehouse that received the recalled product. Three samples tested positive for Salmonella and are a Whole Genome Sequencing (WGS) match to the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "To further protect public health and prevent violative product from entering the U.S., FDA has added Mini Patisserie Ready to Eat (RTE) pastries from the Italian manufacturer, Sweet Cream S.R.L.S., to the Red List of Import Alert #99-19 , “Detention Without Physical Examination of Food Products Due to the Presence of Salmonella .” This import alert informs FDA field staff that they may detain shipments of these pastries from Sweet Cream S.R.L.S. without physical examination."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "FDA’s investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Product Distribution Map"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Total Illnesses: 18 Hospitalizations: 1 Deaths: 0 Last Illness Onset: December 26, 2024 States with Cases: CA, IL, MA, NC, NJ, NY, and PA Product Distribution*: FL, NJ, NY, and PA *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "Recalled Product(s)"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Importations Piu Che Dolci Inc. initiated a recall of all Sweet Cream-brand mini pastry products with best by dates from 2025/06/17 through 2025/11/15 (June 17- November 15, 2025)."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Pastries were sold to foodservice locations and may have been sold individually or in smaller packages, with or without a label that may not bear the same brand, product name, or best by date. Consumers who are unsure if they have purchased the recalled products are advised to contact their retailer."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "International Distribution"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "The recalled product was manufactured in Italy and exported into the United States by Importations Piu Che Dolci Inc. of Quebec, Canada."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035"
+      ],
+      "stage_source_sha256": "57950c714fb2b28849190a4c156c5a3971a05f1d09a977e5f8d65ed2a7b6de27"
+    }
+  ]
+}

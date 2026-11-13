@@ -1,0 +1,42 @@
+# CASE 1156 reviewed source
+Title: Outbreak Investigation of Salmonella: Raw Cookie Dough (May 2023) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-raw-cookie-dough-may-2023
+Source blocks SHA256: 2353d503ce4942dc5d9b88afca0f7cc047e214343b6c9c902c6d792f8fe599fd
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Images
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] Papa Murphy’s Take ‘N’ Bake raw Chocolate Chip Cookie and S’mores Bars dough purchased before May 23, 2023.
+[BLOCK-0003 | role=report_evidence] FDA’s investigation is complete and the outbreak is over.
+[BLOCK-0004 | role=report_evidence] Stores Affected
+[BLOCK-0005 | role=report_evidence] Papa Murphy’s Stores Nationwide
+[BLOCK-0006 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0007 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0008 | role=report_evidence] Status
+[BLOCK-0009 | role=report_evidence] Ended
+[BLOCK-0010 | role=report_evidence] Recommendation
+[BLOCK-0011 | role=report_evidence] Papa Murphy’s Take ‘N’ Bake Chocolate Chip Cookie and S’mores Bars dough are not meant to be eaten raw.
+[BLOCK-0012 | role=report_evidence] This outbreak appears to be over; however, consumers should check their refrigerators and freezers for Papa Murphy’s Chocolate Chip Cookie and S’mores Bars dough purchased before May 23, 2023 and should throw it away.
+[BLOCK-0013 | role=report_evidence] Contact your healthcare provider if you think you may have symptoms of Salmonella infection.
+[BLOCK-0014 | role=report_evidence] Raw Dough Safety Tips
+[BLOCK-0015 | role=report_evidence] Due to the potential for contamination, never eat any raw dough that is supposed to be cooked or baked.
+[BLOCK-0016 | role=report_evidence] Always wash hands and clean and sanitize work surfaces and utensils thoroughly after contact with raw dough or batter.
+[BLOCK-0017 | role=report_evidence] Keep raw food or dough separate from other foods while preparing them to prevent any possible contamination from spreading.
+[BLOCK-0018 | role=report_evidence] More information is available on the FDA website .
+[BLOCK-0019 | role=report_evidence] Current Update
+[BLOCK-0020 | role=report_evidence] July 13, 2023
+[BLOCK-0021 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Salmonella Enteritidis infections linked to Chocolate Chip Cookie and S’mores Bars dough sold at Papa Murphy’s franchises and purchased before May 23, 2023.
+[BLOCK-0022 | role=report_evidence] FDA conducted a traceback investigation and identified two suppliers of interest. FDA and several state partners collected samples at both suppliers, and state partners also collected retail samples at several Papa Murphy’s stores. All samples collected were reported as negative for Salmonella contamination. As of July 13, 2023, CDC announced that the outbreak is over. CDC reports a total of 26 illnesses in six states. The last illness onset was May 22, 2023. FDA’s investigation is complete.
+[BLOCK-0023 | role=report_evidence] In response to this investigation, Papa Murphy’s notified franchise owners nationwide and stopped selling all Chocolate Chip Cookie dough and S’mores Bars dough at all stores and stopped using unprepared dry cookie dough mixes dating back through April 2023 to ensure any potentially contaminated ingredients are not used. As of July 13, 2023, Papa Murphy’s has not restarted sales of cookie dough. Additionally, the firm is reviewing their dessert menu items and labels to further enhance instructions to consumers to emphasize that their products are not intended to be eaten raw.
+[BLOCK-0024 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0025 | role=report_evidence] Case Counts
+[BLOCK-0026 | role=report_evidence] Total Illnesses: 26 Hospitalizations: 4 Deaths: 0 Last Illness Onset: May 22, 2023 States with Cases: CA, ID, MO, OR, WA, UT Product Distribution: Nationwide
+[BLOCK-0034 | role=report_evidence] Product Images
+[BLOCK-0035 | role=report_evidence] Previous Update
+[BLOCK-0036 | role=report_evidence] May 23, 2023
+[BLOCK-0037 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of Salmonella Enteritidis infections linked to Chocolate Chip Cookie and S’mores Bars dough sold at Papa Murphy’s franchises.
+[BLOCK-0038 | role=report_evidence] Based on epidemiological data collected by CDC, 12 of 14 cases report eating food from Papa Murphy’s and nine people reported eating raw Chocolate Chip Cookie or S’mores Bars dough.
+[BLOCK-0039 | role=report_evidence] At this time, Papa Murphy’s notified franchise owners nationwide and has stopped selling and destroyed all Chocolate Chip Cookie dough and S’mores Bars dough at all stores.
+[BLOCK-0040 | role=report_evidence] The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.

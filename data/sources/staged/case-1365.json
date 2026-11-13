@@ -1,0 +1,296 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1365",
+  "title": "Outbreak Investigation of Extensively Drug-Resistant Salmonella: Moringa Powder (February 2026) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026",
+  "frozen_source_path": "t1/frozen_sources/case-1365.txt",
+  "frozen_source_sha256": "2ff0f9999bece48a227c8c542677f0a983386fbe62a0d718fe8f1c8387ad9314",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2026-02-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0148",
+          "source_page": "Main",
+          "text": "February 13, 2026"
+        },
+        {
+          "block_id": "BLOCK-0149",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Newport infections linked to Rosabella-brand moringa powder capsules distributed by Ambrosia Brands LLC."
+        },
+        {
+          "block_id": "BLOCK-0150",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of seven people infected with the outbreak strain of Salmonella have been reported from seven states. Illnesses started on dates ranging from November 7, 2025, to January 8, 2026. Of the three people interviewed, three (100%) reported eating Rosabella-brand moringa powder capsules. There have been three hospitalizations, and no deaths have been reported. The Salmonella strain associated with this outbreak is resistant to all first-line and alternative antibiotics commonly recommended for the treatment of Salmonella infections. For healthcare providers, learn more about this strain’s resistance and get guidance for diagnosing and treating infections."
+        },
+        {
+          "block_id": "BLOCK-0151",
+          "source_page": "Main",
+          "text": "FDA has recommended that Ambrosia Brands LLC recall all Rosabella-brand moringa powder capsules from the market and the firm has agreed to conduct a recall of certain lots. Please see the table below for a complete list of lot codes and expirations dates of potentially contaminated product."
+        },
+        {
+          "block_id": "BLOCK-0152",
+          "source_page": "Main",
+          "text": "Consumers and retailers who purchased these lots of Rosabella-brand moringa powder capsules should not eat, sell or further distribute this product and should throw it away or return it to the place of purchase."
+        },
+        {
+          "block_id": "BLOCK-0153",
+          "source_page": "Main",
+          "text": "FDA is conducting a traceback investigation to determine a source of contamination and is working with state partners to collect samples. As additional products may be contaminated, this advisory will be updated as more information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0148",
+        "BLOCK-0149",
+        "BLOCK-0150",
+        "BLOCK-0151",
+        "BLOCK-0152",
+        "BLOCK-0153"
+      ],
+      "stage_source_sha256": "ab7422cf2ea3285b81163e314f00aa73b3f19aa4b2d3c94ccffa70083a93cf91"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2026-02-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0145",
+          "source_page": "Main",
+          "text": "February 19, 2026"
+        },
+        {
+          "block_id": "BLOCK-0146",
+          "source_page": "Main",
+          "text": "FDA is updating the advisory to include information about the firm’s recall and international product distribution."
+        },
+        {
+          "block_id": "BLOCK-0147",
+          "source_page": "Main",
+          "text": "On February 13, 2026, Ambrosia Brands, LLC recalled certain lots of Rosabella-brand moringa powder capsules. Recalled product was available for sale nationwide and internationally. More information on international product distribution is available below."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0145",
+        "BLOCK-0146",
+        "BLOCK-0147"
+      ],
+      "stage_source_sha256": "2baa538053af2dae2cfdb7aac734ec1f39d82dc4db4973164395defdf24821ba"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-04-01",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Recalled Rosabella-brand moringa powder capsules sold in white plastic bottles with a green label and expiration dates in 2027."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Lot codes of recalled product can be found on the bottom of the bottle. Please see the table below for a complete list of recalled lot codes and expiration dates."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "The recalled product should no longer be for sale but does have a long shelf life. Consumers should check their homes for recalled lots of this product and throw it away."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Stores affected"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled products were sold nationwide and internationally at multiple online stores including eBay, TikTok shop, Amazon, Shein, Etsy, and the Tryrosabella.com online store."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recalled product should no longer be for sale but does have a long shelf life. Consumers should check their homes for recalled product and throw it away."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Consumers and retailers who purchased Rosabella-brand moringa powder capsules should check the bottle, and if your bottle has an expiration date in 2027, check for the lot codes listed below. If your bottle has one of these lot codes, it is part of the recall and you should not eat, sell, or distribute it and should throw this product and its container away or return it to the place of purchase."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Consumers and retailers who purchased or received recalled Rosabella-brand moringa powder capsules should carefully clean and sanitize any surfaces or containers that the product touched. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled product to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider immediately if you think you may have developed symptoms of a Salmonella infection after consuming Rosabella-brand moringa powder capsules."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "For healthcare providers , the Salmonella strains associated with this outbreak are resistant to all first-line and alternative antibiotics commonly recommended for the treatment of Salmonella infections. Learn more about each strain’s resistance and get guidance for diagnosing and treating infections."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "April 1, 2026"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Newport and Salmonella Kentucky infections linked to Rosabella-brand moringa powder capsules distributed by Ambrosia Brands, LLC."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of 10 people infected with the outbreak strains of Salmonella have been reported from 8 states. Illnesses started on dates ranging from September 26, 2025, to January 8, 2026. Of the 8 people interviewed, 7 (88%) reported eating Rosabella-brand moringa powder capsules. There have been 3 hospitalizations, and no deaths have been reported. The Salmonella strains associated with this outbreak are resistant to all first-line and alternative antibiotics commonly recommended for the treatment of Salmonella infections. For healthcare providers, learn more about each strain’s resistance and get guidance for diagnosing and treating infections."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA and state partners collected product and ingredient samples for analysis. The Indiana Department of Health collected unopened product samples from a sick person’s home. This sample tested positive for Salmonella Newport and according to whole genome sequencing analysis, it is the same strain of Salmonella Newport causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "In response to this investigation, Ambrosia Brands, LLC recalled certain lots of Rosabella-brand moringa powder capsules on February 13, 2026. Recalled product was available for sale nationwide and internationally. The product that tested positive for Salmonella was included in the recall. This product should no longer be on the market, but it does have a long shelf life. Retailers and consumers should check for recalled product and throw it away if located. More information about recalled product is below."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "FDA also conducted traceback and inspections as a part of this investigation and was not able to determine a source of contamination; however, FDA did identify that the affected moringa powder came from a single supplier. All Rosabella-brand moringa products manufactured with moringa powder supplied by that firm were recalled. FDA’s outbreak investigation is complete; however, efforts to screen imported moringa through sample collection are ongoing as a prevention effort."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Total Illnesses: 10 Hospitalizations: 3 Deaths: 0 Last Illness Onset: January 8, 2026 States with Cases: AZ, FL, IA, IL, IN, TN, VA, WA Product Distribution: Nationwide and Internationally"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Recalled Product Images"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Recalled Product Information"
+        },
+        {
+          "block_id": "BLOCK-ADD-TABLE-1365-01",
+          "source_page": "Main",
+          "text": "The lot code is the middle seven digits of the code printed above the expiration date on the bottom of the bottle. Do not use recalled Rosabella-brand moringa powder capsules with the lot codes listed below."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "The lot code is the middle seven digits of the code printed above the expiration date on the bottom of the bottle. Do not use recalled Rosabella-brand moringa powder capsules with the lot codes listed below."
+        },
+        {
+          "block_id": "BLOCK-0141",
+          "source_page": "Main",
+          "text": "International Distribution"
+        },
+        {
+          "block_id": "BLOCK-0142",
+          "source_page": "Main",
+          "text": "The Ambrosia Brands, LLC recall of certain moringa powder capsules impacts markets outside the United States. Customer information provided by the firm shows that recalled product was sold to consumers in Algeria, Anguilla, Australia, Austria, Bahrain, Belgium, Bosnia and Herzegovina, Brazil, Brunei, Bulgaria, Canada, Chile, Colombia, Croatia, Cyprus, Czech Republic, Denmark, Djibouti, Dominican Republic, Egypt, Estonia, Faroe Islands, Finland, France, French Polynesia, Georgia, Germany, Gibraltar, Greece, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Jordan, Kuwait, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Marshall Islands, Mexico, Nauru, New Zealand, Netherlands, Norway, Oman, Pakistan, Peru, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Suriname, Sweden, Switzerland, Taiwan, Thailand, Trinidad and Tobago, Turkey, United Arab Emirates, United Kingdom, Venezuela, and Zimbabwe."
+        },
+        {
+          "block_id": "BLOCK-0143",
+          "source_page": "Main",
+          "text": "The recalled product was also sold to consumers located nationwide in the United States, including American Samoa, Northern Mariana Islands, Puerto Rico, and Virgin Islands."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-ADD-TABLE-1365-01",
+        "BLOCK-0034",
+        "BLOCK-0141",
+        "BLOCK-0142",
+        "BLOCK-0143"
+      ],
+      "stage_source_sha256": "b8d55a06d10010ed1d69673be86ab36f7168f6e1e54b54154640875267754d36"
+    }
+  ]
+}

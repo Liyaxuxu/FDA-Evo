@@ -1,0 +1,366 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1067",
+  "title": "Outbreak Investigation of Salmonella: Peanut Butter (May 2022) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Five interviewed people are described, but no cumulative outbreak total is stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Jif brand peanut butter produced at the J.M. Smucker Company facility in Lexington, KY",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0043",
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Ten interviewed people are described, but no cumulative outbreak total is stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0038",
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Jif brand peanut butter produced at the J.M. Smucker Company facility in Lexington, KY",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Jif peanut butter",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0037",
+            "BLOCK-0040",
+            "BLOCK-0038",
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "certain peanut butter products",
+              "recalling_company": "J.M. Smucker Company",
+              "brands": [
+                "Jif"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products manufactured with or repackaging recalled Jif peanut butter",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0038",
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Ten interviewed people are described, but no cumulative outbreak total is stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0031",
+            "BLOCK-0032",
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Jif brand peanut butter produced at the J.M. Smucker Company facility in Lexington, KY",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Jif peanut butter",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "certain peanut butter products",
+              "recalling_company": "J.M. Smucker Company",
+              "brands": [
+                "Jif"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products manufactured with or repackaging recalled Jif peanut butter",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "ready-to-eat Super Asian Chicken Salads made with recalled Jif peanut butter",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "sold at an Amazon Go retail location in Washington state"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0031",
+            "BLOCK-0032",
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 21,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0001",
+            "BLOCK-0004"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Jif brand peanut butter produced at the J.M. Smucker Company facility in Lexington, KY",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Jif peanut butter",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0000"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "certain peanut butter products",
+              "recalling_company": "J.M. Smucker Company",
+              "brands": [
+                "Jif"
+              ],
+              "recall_scope": "lot codes 1274425 through 2140425; first four digits 1274–2140 and next three digits 425"
+            },
+            {
+              "product_name": "products manufactured with or repackaging recalled Jif peanut butter",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "ready-to-eat Super Asian Chicken Salads made with recalled Jif peanut butter",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "sold at an Amazon Go retail location in Washington state"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0001",
+            "BLOCK-0004",
+            "BLOCK-0009",
+            "BLOCK-0013"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

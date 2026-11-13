@@ -1,0 +1,400 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1270",
+  "title": "Outbreak Investigation of E. coli O157:H7: Onions (October 2024) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-onions-october-2024",
+  "frozen_source_path": "t1/frozen_sources/case-1270.txt",
+  "frozen_source_sha256": "8a812ff4c91ec2c2775c56e41b936a301d8b8eb737aa6eeaff1885840a6ad3ec",
+  "stage_count": 5,
+  "stages": [
+    {
+      "source_order": 4,
+      "report_date": "2024-10-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "October 22, 2024"
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "The FDA, U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS), and Centers for Disease Control and Prevention (CDC), in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O157:H7 infections. A specific ingredient has not yet been confirmed as the source of the outbreak, but most sick people report eating McDonald’s Quarter Pounder burger varieties."
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "Investigators are working to determine if the slivered onions or beef patties on Quarter Pounder burgers are the likely source of this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "Preliminary traceback and distribution information reviewed by FDA shows that slivered onions served on Quarter Pounders are a likely source of contamination. FDA is working quickly to confirm that these onions are a source of this outbreak and to determine if these onions were served or sold at other businesses. McDonald’s has temporarily stopped using this type of onion in these states. Diced onions used at McDonald’s are not implicated in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "FSIS is conducting traceback on hamburger patties served at McDonald’s in affected states to determine if ground beef is a source of illness. McDonald’s has also temporarily stopped selling Quarter Pounder beef patties in affected states, while the investigation is ongoing to determine the source of the outbreak."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062",
+        "BLOCK-0063"
+      ],
+      "stage_source_sha256": "371ecc5c12c01e71944276ef77f9efcec14ee60d90cdda03e4ea70c5161c2bd1"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2024-10-25",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "October 25, 2024"
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "The FDA, USDA FSIS, CDC, and state partners continue to work quickly and collaboratively to investigate and identify the source of illnesses linked to E. coli contamination in McDonald’s Quarter Pounders."
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "As of October 24, 75 people infected with the outbreak strain of E. coli O157:H7 have been reported from 13 states. Illnesses started on dates ranging from Sept 27, 2024, to October 10, 2024. Of 61 people with information available, 22 have been hospitalized, and 2 people developed hemolytic uremic syndrome, a serious condition that can cause kidney failure. One death has been reported from an older adult in Colorado. Of the 42 people interviewed, all 42 (100%) report eating at McDonald’s, and 39 people report eating a beef hamburger."
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "FDA is using all available tools to confirm if onions are the source of this outbreak. This includes working with federal and state partners and the companies involved to collect and evaluate records and distribution information as part of our traceback investigation. FDA and state partners are also collecting onion samples for analysis."
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "While the investigation is ongoing, Taylor Farms, the supplier of slivered onions for the affected McDonald’s locations, has initiated a voluntary recall. Recalled yellow onions were sold to additional food service customers. Customers who received recalled onions have been directly notified of the recall."
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "FDA is working closely with the implicated firms and will continue to provide updates as they become available, including any additional recalls or notifications that might be needed for recipients of recalled onions."
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "At this time, FDA is not aware of any cases or affected product outside of the United States."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058"
+      ],
+      "stage_source_sha256": "84a68e7dc5087ecf6c33b32e7dfdcf549dab8574c947ff133ac9ac851952fcc9"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2024-10-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "October 30, 2024"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "FDA continues working with CDC, USDA FSIS, state partners, and involved firms to investigate an outbreak of E. coli O157:H7 infections linked to onions. Epidemiologic and traceback data show that slivered onions served at affected McDonald’s locations are the likely source of this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "As of October 30, 90 people from 13 states have been infected with the outbreak strain of E. coli O157:H7. Illnesses started on dates ranging from Sept 27, 2024 to October 16, 2024. Of 83 people with information available, 27 have been hospitalized, and 2 people developed HUS, a serious condition that can cause kidney failure. One death has been reported from an older adult in Colorado. This person is not one of those who developed HUS. More illnesses have been reported but they are from before McDonald’s and Taylor Farms took action to remove slivered onions from food service locations."
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Of the 62 people interviewed, all 62 (100%) report eating at McDonald's. Forty-eight of 58 people (83%) reported a menu item containing fresh, slivered onions. Forty-six of 58 people (79%) reported a menu item made with fresh quarter pound beef patties. Overall, three people reported menu items that contained fresh, slivered onions, but not fresh quarter pound beef patties. One person reported a menu item with a fresh quarter pound beef patty but without fresh, slivered onions."
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "FSIS has conducted a thorough investigation in response to this outbreak, including traceback of beef patties served on Quarter Pounders at McDonald’s, and evidence does not point to ground beef as the likely source of contamination. FSIS used specific meal information reported by ill people to trace beef patties through the supply chain to the establishment where they were produced and did not identify a beef source. Testing on beef patties by the Colorado Department of Agriculture is complete and all samples were found to be negative for E. coli . FSIS will continue to work closely with federal and state partners."
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "On October 22, 2024, Taylor Farms recalled yellow onions that were supplied to McDonald’s and other food service customers. FDA is working with Taylor Farms and their direct customers to determine if additional downstream customer recalls are necessary. According to available information, it is unlikely that recalled yellow onions were sold to grocery stores or directly to consumers. Food service customers who received recalled onions were contacted and should no longer be using or serving recalled onions. These customers should also ensure that they did not freeze recalled onions or foods containing recalled onions."
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "In addition, FDA has initiated inspections at a Taylor Farms processing center in Colorado and an onion grower of interest in Washington state. FDA’s investigation is ongoing."
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "McDonald’s continues to not use slivered onions in impacted states. The current risk of illness from E. coli contamination is low because onions have been recalled and should no longer be available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051"
+      ],
+      "stage_source_sha256": "e4528199b4d4bdabd5346372d4b2906b33030a4d4f5dd10391b95580517e57c4"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2024-11-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "November 13, 2024"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "FDA, CDC, and state partners continue investigating a multistate outbreak of E. coli O157:H7 linked to slivered onions served on Quarter Pounder burgers at McDonald’s restaurants in certain states. As of November 13, 2024, 104 people infected with the outbreak strain of E. coli O157:H7 have been reported from 14 states. Of 98 people with information available, 34 have been hospitalized, and 4 people developed HUS, a serious condition that can cause kidney failure. One death has been reported from an older adult in Colorado. This person is not one of those who developed HUS. Of the 81 people interviewed, 80 (99%) report eating at McDonald's. Seventy-five people were able to remember specific menu items they ate at McDonald's. 63 of 75 people (84%) reported a menu item containing fresh slivered onions."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "FDA, Colorado Department of Agriculture (CDA), and Colorado Department of Public Health and Environment (CDPHE) have collected onion and environmental samples from McDonald’s stores, distribution centers, and firms of interest for laboratory analysis. At this time, one FDA sample of recalled onions has tested positive for E. coli, but it is a non-O157:H7 Shiga toxin-producing E. coli (STEC) and does not match the outbreak strain or any other clinical illnesses. Whole genome sequencing (WGS) analysis determined that the sample is positive for E. coli O168:H8 and contains the Shiga toxin gene stx2a . Additional sample results are pending. More information will be provided in this update as it becomes available."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "FDA has completed onsite inspections at a Taylor Farms processing center in Colorado and an onion grower of interest in Washington state."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "McDonald’s stopped using slivered onions on Quarter Pounder burgers in affected states, and Taylor Farms recalled yellow onions on October 22, 2024. Food service customers were notified by Taylor Farms that they should not sell or serve recalled yellow onions. FDA continues working with Taylor Farms and their direct customers to determine if additional downstream customer recalls are necessary. Food service customers should not be further distributing recalled onions. According to available information, recalled onions should not be available for purchase in grocery stores. McDonald’s has reintroduced slivered onions from a different onion supplier into their full menu. At this time, there does not appear to be a continued food safety concern related to this outbreak at McDonald’s restaurants."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043"
+      ],
+      "stage_source_sha256": "d7ac93d8c0fbdfd4ee87c3c10486f18ccac49e89868149a5a4f7b1ac82193995"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-12-03",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Slivered onions previously served on McDonald’s Quarter Pounder burgers are the likely source of contamination, based on epidemiologic and traceback data. On October 22, 2024, Taylor Farms initiated a voluntary recall of yellow onions sent to McDonald’s and other food service customers. Food service customers who were impacted have been contacted directly. McDonald’s stopped using recalled onions from Taylor Farms at McDonald‘s stores in affected states."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Symptoms of E. coli"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later. Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "McDonald’s stores in CO, KS, and WY, and portions of IA, ID, MO, MT, NE, NM, NV, OK, and UT temporarily stopped using slivered onions. McDonald’s has reintroduced slivered onions from a different onion supplier in stores where it temporarily stopped using slivered onions."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled onions were also directly distributed to food service customers in CO, IA, ID, KS, MO, MT, NE, NM, NV, OK, UT, and WY."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "At this time, FDA is not aware of any cases or affected product outside of the United States."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Food service customers should not sell or serve Taylor Farms recalled yellow onions and should follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled product to reduce the risk of cross-contamination. Customers should also ensure that they did not freeze recalled onions or foods containing recalled onions."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "According to available information, it is unlikely that recalled yellow onions were sold to grocery stores or directly to consumers."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "December 3, 2024"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "The FDA, CDC, and state partners investigated a multi-state outbreak of E. coli O157:H7 infections linked to recalled, yellow onions distributed by Taylor Farms and served at McDonald’s restaurants in certain states. On October 22, 2024, Taylor Farms initiated a voluntary recall of yellow onions and directly notified their food service customers who were impacted. McDonald’s is no longer serving recalled onions, and there does not appear to be a continued food safety concern related to this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "FDA, Colorado Department of Agriculture (CDA), and Colorado Department of Public Health and Environment (CDPHE) collected several product and environmental samples during this investigation. One FDA sample of recalled onions and one environmental sample from a grower tested positive for E. coli , but they were non-O157:H7 Shiga toxin-producing E. coli (STEC) and did not match the outbreak strain or any other clinical illnesses. Additional samples from this investigation were analyzed and resulted negative for E. coli . The strain of E. coli linked to illnesses in this outbreak was not found in onion or environmental samples; however, epidemiologic and traceback evidence shows that recalled, yellow onions were the likely source of this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "A total of 104 people infected with the outbreak strain of E. coli O157:H7 were reported from 14 states. State and local public health officials interviewed people about the foods they ate in the week before they got sick. Of the 81 people interviewed, 80 (99%) reported eating at McDonald's. Seventy-five people were able to remember specific menu items they ate at McDonald's, of which 63 (84%) reported a menu item containing fresh, slivered onions."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "CDC considers this outbreak over, and FDA’s investigation is closed."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Taylor Farms Yellow Onions"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Distribution has been confirmed for states shown below, but product could have been distributed further, reaching additional states."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Count"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Total Illnesses: 104"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Hospitalizations: 34"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Deaths: 1"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Last Illness Onset: October 21, 2024"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "States with Cases: CO, IA, KS, MI, MO, MT, NE, NM, NC, OR, UT, WA, WI, and WY"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Recalled Onion Distribution*: CO, IA, ID, KS, MO, MT, NE, NM, NV, OK, UT, and WY"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "*Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030"
+      ],
+      "stage_source_sha256": "96af06d523ca03094730e3e33585d8f6623e2a89bbb7be423e92170f9ef06f2f"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1076",
+  "title": "Investigation of Adverse Event Reports: French Lentil & Leek Crumbles (June 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-adverse-event-reports-french-lentil-leek-crumbles-june-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1076.txt",
+  "frozen_source_sha256": "e78e5a97493c7ba26702903c6fc8b5b47cf7c6865dc4b538b87ff49addc7dce6",
+  "stage_count": 6,
+  "stages": [
+    {
+      "source_order": 4,
+      "report_date": "2022-06-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "June 30, 2022"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating consumer complaints of gastrointestinal illness and abnormal liver function that may be attributable to eating Daily Harvest French Lentil & Leek Crumbles frozen product."
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "On June 17, 2022, in response to consumer complaints submitted to the company, Daily Harvest voluntarily initiated a recall of their French Lentil & Leek Crumbles . In response to CFSAN Adverse Event Reporting System (CAERS) and Consumer Complaints submitted to the FDA, the FDA has initiated an investigation, including an inspection and sample collection in an effort to determine the cause of illnesses. As of June 28, the FDA has received 133 CAERS reports and Consumer Complaints related to this product."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "From April 28 to June 17, 2022, approximately 28,000 units of the recalled product were distributed to consumers in the continental United States through online sales and direct delivery, as well as through retail sales at the Daily Harvest store in Chicago, IL, and a “pop-up” store in Los Angeles, CA. Samples were also provided to a small number of consumers."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Daily Harvest emailed consumers who were shipped the affected product, and other consumers for whom the company had contact information and consumers were issued a credit for the recalled product. Consumers who may still have the recalled product in their freezers should immediately dispose of it."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034"
+      ],
+      "stage_source_sha256": "fc19a3bc50d3ced9089ae7fe32151417623233072f4006cebcd523c52ca2044d"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2022-07-14",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "July 14, 2022"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating consumer complaints of gastrointestinal illness and abnormal liver function that may be attributable to eating Daily Harvest French Lentil & Leek Crumbles frozen product."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "On June 17, 2022, in response to consumer complaints submitted to the company, Daily Harvest voluntarily initiated a recall of their French Lentil & Leek Crumbles . In response to CFSAN Adverse Event Reporting System (CAERS) and Consumer Complaints submitted to the FDA, the FDA has initiated an investigation, including an inspection and sample collection in an effort to determine the cause of illnesses. As of July 14, 2022, the FDA has received 277 CAERS reports and Consumer Complaints related to this product."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028"
+      ],
+      "stage_source_sha256": "d814da7ce33769eb3a62fa2697200368b29c639d7dc5bdf9362861b610cd8a0e"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2022-07-28",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "July 28, 2022"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating consumer complaints of gastrointestinal illness and abnormal liver function that may be attributable to eating Daily Harvest French Lentil & Leek Crumbles frozen product."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "On June 17, 2022, in response to consumer complaints submitted to the company, Daily Harvest voluntarily initiated a recall of their French Lentil & Leek Crumbles . In response to CFSAN Adverse Event Reporting System (CAERS) and Consumer Complaints submitted to the FDA, the FDA initiated an investigation, including an inspection and sample collection in an effort to determine the cause of illnesses. As of July 28, 2022, the FDA has received 329 CAERS reports and Consumer Complaints related to this product."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024"
+      ],
+      "stage_source_sha256": "bc422aa0d01f408f5f1f56fd4d298b3dd42cdb587f7f87f26a30d1603fa3805e"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-08-25",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "August 25, 2022"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating consumer complaints of gastrointestinal illness and abnormal liver function that may be attributable to eating Daily Harvest French Lentil & Leek Crumbles frozen product."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "On June 17, 2022, in response to consumer complaints submitted to the company, Daily Harvest voluntarily initiated a recall of their French Lentil & Leek Crumbles . In response to CFSAN Adverse Event Reporting System (CAERS) and Consumer Complaints submitted to the FDA, the FDA initiated an investigation, including an inspection and sample collection in an effort to determine the cause of illnesses. As of August 25, 2022, the FDA has received 369 CAERS reports and Consumer Complaints related to this product."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020"
+      ],
+      "stage_source_sha256": "9db72ce65568bd96b403e8426ea42b664f75ef4a06053c051b3f6254b92fb545"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-09-15",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "September 15, 2022"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating consumer complaints of gastrointestinal illness and abnormal liver function that may be attributable to eating Daily Harvest French Lentil & Leek Crumbles frozen product."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "On June 17, 2022, in response to consumer complaints submitted to the company, Daily Harvest voluntarily initiated a recall of their French Lentil & Leek Crumbles . In response to CFSAN Adverse Event Reporting System (CAERS) and Consumer Complaints submitted to the FDA, the FDA initiated an investigation, including an inspection and sample collection in an effort to determine the cause of illnesses. As of September 15, 2022, the FDA has received 386 CAERS reports and Consumer Complaints related to this product."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016"
+      ],
+      "stage_source_sha256": "b2374908e1638982a769e78ef1bbdcd257ebbaed8a337c74aa05a204dd811903"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated consumer complaints of gastrointestinal illness and liver, bile duct, and/or gallbladder illness that were linked to eating Daily Harvest French Lentil & Leek Crumbles frozen product."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "On June 17, 2022, in response to consumer complaints submitted to the company, Daily Harvest voluntarily initiated a recall of their French Lentil & Leek Crumbles . In response to CFSAN Adverse Event Reporting System (CAERS) and Consumer Complaints submitted to the FDA, the FDA has initiated an investigation, including an inspection and sample collection in an effort to determine the cause of illnesses. As of October 21, 2022, the FDA has received 393 CAERS reports and Consumer Complaints related to this product."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Although the response to this incident is no longer being handled by FDA’s Coordinated Outbreak Response & Evaluation (CORE) Network, FDA’s research and investigation to evaluate which components of this product may have caused these illnesses is ongoing and more information will be provided as it becomes available."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Consumers should not eat, sell, or serve recalled products. Consumers who may still have the recalled product in their freezers should throw it away ."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Product was sold through online sales and in two retail locations; the Daily Harvest store in Chicago, IL, and a “pop-up” store in Los Angeles, CA. French Lentil + Leek Crumbles is a frozen product packaged in a 12oz white pouch with the words “Daily Harvest” at the top, a large “CRUMBLES” immediately below the top and the words “French Lentil + Leek” in bold, as shown below. All lot codes of the French Lentil + Leek Crumbles are affected. At this time, no other Daily Harvest products are affected or part of this recall."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "If you experience symptoms including yellowing of the skin and eyes (jaundice), dark urine, clay-colored stool, itching with no rash, gastrointestinal illness, nausea, fatigue, body aches, severe abdominal pain and/or fever after consuming this product, please consult with your healthcare provider. Let your healthcare provider know you have recently consumed the recalled Daily Harvest French Lentil & Leek Crumbles. Healthcare providers should report these illnesses to their health department."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Total Adverse Illness Events: 393* Hospitalizations: 133* Deaths: 0 Last illness onset: September 4, 2022* States with Adverse Illness Events: AZ, CA, CO, CT, DE, FL, GA, IL, IN, IA, KS, ME, MD, MA, MN, MS, MI, MO, MT, NV, NH, NJ, NM, NY, NC, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WI Product Distribution: Nationwide *Estimate based on Consumer Complaint and CAERs reports received by the FDA"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009"
+      ],
+      "stage_source_sha256": "c4e924342f4591317ea0a6765c90fcaa6662fd73e43fb9467b23bc639f2394dc"
+    }
+  ]
+}

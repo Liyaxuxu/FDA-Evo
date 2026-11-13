@@ -1,0 +1,194 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "E-441626",
+  "title": "Outbreak Investigation of E. coli - Leafy Greens (December 2020) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-leafy-greens-december-2020",
+  "frozen_source_path": "t1/frozen_sources/case-E-441626.txt",
+  "frozen_source_sha256": "f68edd9f677b9c90749c6f966e94b1031f6ebabf5d19d807c02763787c5a5e68",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2020-12-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "December 22, 2020"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of E. coli O157:H7 infections in the fall of 2020. The epidemiology and traceback investigation have determined that the outbreak was linked to leafy greens. The epidemiological and traceback investigations were not able to determine a specific type of leafy green linked to illnesses. On 12/22/2020, the CDC announced that this outbreak appears to be over. This outbreak, announced by FDA and CDC on October 28, 2020, was caused by a strain of E. coli that is genetically related to a strain linked to the fall 2019 romaine outbreak ."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "The FDA completed a traceback investigation of multiple types of leafy greens identified in patient interviews. Although no single ranch was identified as a common source of the leafy greens, FDA and state partners also conducted on-site investigations on farms of interest."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Teams were deployed to dozens of ranches in the region to conduct large scale environmental sampling. Additionally, no Shiga toxin-producing E. coli were found on leafy greens."
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "At this time, FDA’s investigational activities, including sample analysis are ongoing. A detailed report of FDA’s findings in the investigation will be released in early 2021, following the conclusion of investigational activities."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030"
+      ],
+      "stage_source_sha256": "f773924ef833d144c13f5b64cc310c53a37360783d6d7e3b0ef111a365ae379f"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2021-01-27",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Jamuary 27, 2021"
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of E. coli O157:H7 infections in the fall of 2020. The epidemiology and traceback investigation have determined that the outbreak was linked to leafy greens. The epidemiological and traceback investigations were not able to determine a specific type of leafy green linked to illnesses. On 12/22/2020, the CDC announced that this outbreak appears to be over. This outbreak, announced by FDA and CDC on October 28, 2020, was caused by a strain of E. coli that is genetically related to a strain linked to the fall 2019 romaine outbreak ."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "The FDA completed a traceback investigation of multiple types of leafy greens identified in patient interviews. Although no single ranch was identified as a common source of the leafy greens, FDA and state partners also conducted on-site investigations on farms of interest."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Teams were deployed to dozens of ranches in the region to conduct large scale environmental sampling. Additionally, no Shiga toxin-producing E. coli were found on leafy greens. As part of the field investigation, teams conducted environmental sampling on and around ranches of interest to identify any factors that could have led to contamination. Samples of soil, scat or animal droppings, compost, water, and other environmental sources were collected and analyzed."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Laboratory analysis of samples is now complete. The analysis has confirmed a positive match to the outbreak strain in a sample of cattle feces, which was collected during follow-up investigations on a roadside, uphill from where leafy greens or other food identified in the traceback investigation were grown. While the finding does not provide definitive information on how E. coli may have contaminated product during the growing and harvesting season, it does confirm the presence of a strain of E. coli O157:H7 that causes recurring outbreaks in a more narrowly defined growing region and a potential, continued source of contamination."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "At this time, FDA’s investigational activities have concluded. The FDA continues to review the findings from this outbreak and a detailed report will be released in the near future. This report will include recommendations shaped by the investigation findings."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "In the meantime, as recommended in our Leafy Greens Action Plan, the FDA continues to recommend growers assess and mitigate risk associated with adjacent and nearby land use practices, particularly as it relates to the presence of livestock, which are a persistent reservoir of E. coli O157:H7 and other STEC."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025"
+      ],
+      "stage_source_sha256": "c0a9c167f25fb5a3b6204f0f5ea3bf0720ada8a8fa87ea026906dce5f60799d1"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of E. coli O157:H7 infections in the fall of 2020. The epidemiology and traceback investigation have determined that the outbreak was linked to leafy greens. The epidemiological and traceback investigations were not able to determine a specific type of leafy green linked to illnesses. On 12/22/2020, the CDC announced that this outbreak appears to be over. This outbreak, announced by FDA and CDC on October 28, 2020, was caused by a strain of E. coli that is genetically related to a strain linked to the fall 2019 romaine outbreak ."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "The FDA completed a traceback investigation of multiple types of leafy greens identified in patient interviews. Although no single ranch was identified as a common source of the leafy greens, FDA and state partners also conducted on-site investigations on farms of interest."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Teams were deployed to dozens of ranches in the region to conduct large scale environmental sampling. Additionally, no Shiga toxin-producing E. coli were found on leafy greens. As part of the field investigation, teams conducted environmental sampling on and around ranches of interest to identify any factors that could have led to contamination. Samples of soil, scat or animal droppings, compost, water, and other environmental sources were collected and analyzed."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Laboratory analysis confirmed a positive match to the outbreak strain in a sample of cattle feces, which was collected during follow-up investigations on a roadside, uphill from where leafy greens or other food identified in the traceback investigation were grown. While the finding does not provide definitive information on how E. coli may have contaminated product during the growing and harvesting season, it does confirm the presence of a strain of E. coli O157:H7 that causes recurring outbreaks in a more narrowly defined growing region and a potential, continued source of contamination."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "At this time, FDA’s investigational activities have concluded. The FDA continues to review the findings from this outbreak and a detailed report will be released in the near future. This report will include recommendations shaped by the investigation findings."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "In the meantime, as recommended in our Leafy Greens Action Plan, the FDA continues to recommend growers assess and mitigate risk associated with adjacent and nearby land use practices, particularly as it relates to the presence of livestock, which are a persistent reservoir of E. coli O157:H7 and other STEC."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "FDA released the report: Factors Potentially Contributing to the Contamination of Leafy Greens Implicated in the Fall 2020 Outbreak of E. coli O157:H7 ."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "CDC has declared this outbreak to be over. There is no recommendation for consumers, retailers, or suppliers."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Total Illnesses: 40 Hospitalizations: 20 (4 Cases HUS) Deaths: 0 Last Illness Onset Date: October 31, 2020 States with Cases: AZ (2), CA (6), IL (2), IN (1), KS (4), MI (3), MN (2), MO (3), ND (4), OH (1), OR (1), PA (2), TN (2), TX (1), UT (1), VA (1), WA (1), WI (2), WY (1) *States with confirmed distribution; product could have been distributed further"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011"
+      ],
+      "stage_source_sha256": "37b45c54651605823070fb7981c59e692cd1c35311bb58a0b99e4a7ddeb23a10"
+    }
+  ]
+}

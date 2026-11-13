@@ -1,0 +1,1314 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1056",
+  "title": "FDA Investigation of Cronobacter Infections: Powdered Infant Formula (February 2022) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0155"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0155"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0155"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0155",
+            "BLOCK-0156",
+            "BLOCK-0157"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0153"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "certain powdered infant formulas",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0153"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0147"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0147"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0142"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0142"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0142"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0143"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0142",
+            "BLOCK-0143"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0143"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0140",
+            "BLOCK-0142"
+          ],
+          "evidence_exempt": false,
+          "note": "The single Salmonella illness was removed; four Cronobacter cases remain."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0140",
+            "BLOCK-0142"
+          ],
+          "evidence_exempt": false,
+          "note": "All five earlier cases were hospitalized; removing the one Salmonella case leaves four."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0122",
+            "BLOCK-0124",
+            "BLOCK-0125",
+            "BLOCK-0127"
+          ],
+          "evidence_exempt": false,
+          "note": "Product and clinical samples did not establish a genetic match; association remains suspected. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0092"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R10": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0088"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R11": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R10",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R12": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R10",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R13": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R10",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R14": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R10",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "produced at the Sturgis, Michigan facility"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R15": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0011",
+            "BLOCK-0015"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula produced at Abbott Nutrition's Sturgis, MI facility",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Similac PM 60/40",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0009",
+            "BLOCK-0024",
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac",
+                "Alimentum",
+                "EleCare"
+              ],
+              "recall_scope": "first two code digits 22–37; container code contains K8, SH, or Z2; expiration date April 1, 2022 or later; liquid formula excluded"
+            },
+            {
+              "product_name": "Similac PM 60/40 powdered infant formula",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [],
+              "recall_scope": "lot code 27032K80 (can) / 27032K800 (case)"
+            },
+            {
+              "product_name": "human milk fortifier",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac"
+              ],
+              "recall_scope": "first two code digits 22–37; container code contains K8, SH, or Z2; expiration date April 1, 2022 or later; liquid formula excluded"
+            },
+            {
+              "product_name": "toddler drinks",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "Similac"
+              ],
+              "recall_scope": "first two code digits 22–37; container code contains K8, SH, or Z2; expiration date April 1, 2022 or later; liquid formula excluded"
+            },
+            {
+              "product_name": "amino acid-based nutrition powder",
+              "recalling_company": "Abbott Nutrition",
+              "brands": [
+                "EleCare"
+              ],
+              "recall_scope": "first two code digits 22–37; container code contains K8, SH, or Z2; expiration date April 1, 2022 or later; liquid formula excluded"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0011",
+            "BLOCK-0012",
+            "BLOCK-0013",
+            "BLOCK-0014",
+            "BLOCK-0015",
+            "BLOCK-0018"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-008 (2026-10-17): non-formula product types split out (rule 14)."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+# CASE 1312 reviewed source
+Title: Outbreak Investigation of Salmonella: Deep-brand Frozen Products (July 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-deep-brand-frozen-products-july-2025
+Source blocks SHA256: e820754102ef1651c5be5de3c9533ea3b296382e7f9d676bbd7343c8769a855c
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Hindi
+[BLOCK-0001 | role=report_evidence] Additional Product Images
+[BLOCK-0002 | role=report_evidence] Products:
+[BLOCK-0003 | role=report_evidence] Recalled products include:
+[BLOCK-0004 | role=report_evidence] On July 16, 2025, Chetak LLC Group initiated a recall for multiple lots of Frozen Deep-brand Sprouted Mat (Moth) and Moong (Mung) beans in 1-lb (454 g) packages.
+[BLOCK-0005 | role=report_evidence] On August 22, 2025, FDA expanded advice for retailers and consumers to not eat, sell, or serve Deep-brand Premium Select Frozen SURTI UNDHIU MIX in 12-oz (340 g) packages with the lot code printed on the back side of the bag of IN25158K and Use By date of 06 Dec 2026.
+[BLOCK-0006 | role=report_evidence] On September 8, 2025, Chetak LLC Group expanded the recall to include several lots of various Deep-brand frozen products .
+[BLOCK-0007 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0008 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0009 | role=report_evidence] Stores affected
+[BLOCK-0010 | role=report_evidence] The recalled products should no longer be available for sale.
+[BLOCK-0011 | role=report_evidence] Status
+[BLOCK-0012 | role=report_evidence] Ended
+[BLOCK-0013 | role=report_evidence] Recommendation
+[BLOCK-0014 | role=report_evidence] The recalled product should no longer be available for sale on the market. Consumers, restaurants, and retailers should check refrigerators and freezers for the recalled products, should not eat, sell, or serve any recalled products, and throw them away or return them to the place of purchase.
+[BLOCK-0015 | role=report_evidence] Consumers, restaurants, and retailers who purchased or received the recalled products should wash hands, utensils, and surfaces with hot, soapy water before and after handling the recalled products. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination.
+[BLOCK-0016 | role=report_evidence] Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection after eating Deep-brand frozen products.
+[BLOCK-0017 | role=report_evidence] Current Update
+[BLOCK-0018 | role=report_evidence] September 25, 2025
+[BLOCK-0019 | role=report_evidence] FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Anatum infections linked to Deep-brand frozen products.
+[BLOCK-0020 | role=report_evidence] As of September 22, 2025, a total of 12 people infected with the outbreak strain of Salmonella have been reported from 11 states. Four of six cases with information available reported eating or likely eating sprouted beans. Of those four cases, two reported eating frozen sprouted mat (moth) and moong (mung) beans before becoming ill. There have been four hospitalizations and no deaths have been reported.
+[BLOCK-0021 | role=report_evidence] FDA’s outbreak investigation is complete.
+[BLOCK-0022 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0023 | role=report_evidence] Case Counts
+[BLOCK-0024 | role=report_evidence] Total Illnesses: 12 Hospitalizations: 4 Deaths: 0 Last Illness Onset: August 5, 2025 States with Cases: CT, FL, IL, MA, MN, NJ, PA, TN, TX, VA, WA Product Distribution: Nationwide
+[BLOCK-0034 | role=report_evidence] Product Images
+[BLOCK-0035 | role=report_evidence] Product Descriptions
+[BLOCK-0036 | role=report_evidence] On July 16, 2025, Chetak LLC Group initiated a recall of the following:
+[BLOCK-0037 | role=report_evidence] Deep-brand Sprouted Mat (Moth) in 1 LB (454 g) packages with the following lot codes printed on the back side of the bag: IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292
+[BLOCK-0038 | role=report_evidence] Deep-brand Sprouted Moong (Mung) in 1 LB (454 g) packages with the following lot codes printed on the back side of the bag: IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292
+[BLOCK-0039 | role=report_evidence] Refer to the recall announcement for additional information.
+[BLOCK-0040 | role=report_evidence] On August 22, 2025, FDA expanded advice for retailers and consumers to not eat, sell, or serve Deep-brand Premium Select Frozen SURTI UNDHIU MIX in 12-oz (340 g) packages with the lot code printed on the back side of the bag of IN25158K and Use By date of 06 Dec 2026, based on recent product sample results indicating Salmonella contamination in this product. Whole Genome Sequencing (WGS) analysis determined that the strain of Salmonella found in this product matches the strain causing illnesses in this outbreak.
+[BLOCK-0041 | role=report_evidence] On September 8, 2025, Chetak LLC Group expanded their recall to include several lots of Deep-brand frozen vegetables and fruit products. Refer to Chetak LLC Group’s expanded recall announcement for the full list of products included in the recall.
+[BLOCK-0042 | role=report_evidence] Previous Updates
+[BLOCK-0043 | role=report_evidence] September 9, 2025
+[BLOCK-0044 | role=report_evidence] On September 8, 2025, Chetak LLC Group expanded the recall to include several lots of Deep-brand frozen vegetables and fruit products. A full list of the recalled products is available below in the Product Descriptions section. Consumers should check their freezers for recalled products and throw them away.
+[BLOCK-0045 | role=report_evidence] Since the start of this investigation, multiple Deep-brand product samples have been collected at import for testing and analysis. On August 22, 2025, FDA was informed that a sample of Deep-brand Frozen Singoda (Water Chestnut) (lot IN25150K), tested positive for Salmonella and was refused entry into the United States. Whole Genome Sequencing (WGS) analysis later determined that the strain of Salmonella identified in the product does not match the outbreak strain.
+[BLOCK-0046 | role=report_evidence] August 22, 2025
+[BLOCK-0047 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are continuing to investigate illnesses in a multistate outbreak of Salmonella Anatum infections linked to Deep-brand frozen products.
+[BLOCK-0048 | role=report_evidence] As part of this investigation, the manufacturer for the Deep-brand frozen sprouted mat (moth) beans and frozen sprouted moong (mung) bean products was placed on increased screening for ready-to-eat products entering the U.S. Additionally, FDA conducted an inspection and sample collection at one of Chetak, LLC Group’s U.S. locations. On August 20, 2025, FDA was informed that a sample collected and tested upon entry into the U.S. of Deep-brand Premium Select Frozen SURTI UNDHIU MIX in 12-oz (340 g) packages with the lot code of IN25158K and Use By date of 06 Dec 2026, tested positive for Salmonella . Whole Genome Sequencing (WGS) analysis determined that the strain of Salmonella found in this product matches the strain causing illnesses in this outbreak.
+[BLOCK-0049 | role=report_evidence] Based on these sample results, FDA is advising that retailers and consumers not eat, sell, or serve Deep-brand Premium Select Frozen SURTI UNDHIU MIX in 12-oz (340 g) packages; lot code: IN25158K and Use By date of 06 Dec 2026 .
+[BLOCK-0050 | role=report_evidence] Multiple Deep-brand product samples, including the SURTI UNDHIU MIX described above have been collected for testing and analysis and results are summarized in the table below. All sprouted bean samples that were positive for Salmonella were included in the recall from Chetak, LLC Group that was initiated on July 16, 2025, and should not be available for sale at this time. Consumers should still check their freezers for recalled product and throw it away.
+[BLOCK-0051 | role=report_evidence] Product
+[BLOCK-0052 | role=report_evidence] Test results
+[BLOCK-0053 | role=report_evidence] WGS Match to U.S. outbreak strain
+[BLOCK-0054 | role=report_evidence] Deep-brand Frozen Sprouted Moth (Mat) beans
+[BLOCK-0055 | role=report_evidence] Salmonella Anatum
+[BLOCK-0056 | role=report_evidence] Yes
+[BLOCK-0057 | role=report_evidence] Deep- Brand Frozen Sprouted Moong (Mung) Beans
+[BLOCK-0058 | role=report_evidence] Salmonella Anatum
+[BLOCK-0059 | role=report_evidence] Yes
+[BLOCK-0060 | role=report_evidence] Deep- Brand Frozen Sprouted Moong (Mung) Beans
+[BLOCK-0061 | role=report_evidence] Salmonella Bareilly
+[BLOCK-0062 | role=report_evidence] No
+[BLOCK-0063 | role=report_evidence] Deep- Brand Frozen Sprouted Moong (Mung) Beans
+[BLOCK-0064 | role=report_evidence] Salmonella Bareilly
+[BLOCK-0065 | role=report_evidence] No
+[BLOCK-0066 | role=report_evidence] Deep-brand Frozen Sprouted Moth (Mat) beans
+[BLOCK-0067 | role=report_evidence] Salmonella Anatum and Salmonella Teko
+[BLOCK-0068 | role=report_evidence] Yes- for Salmonella Anatum
+[BLOCK-0069 | role=report_evidence] Deep-brand Premium Select Frozen SURTI UNDHIU MIX
+[BLOCK-0070 | role=report_evidence] Salmonella Anatum
+[BLOCK-0071 | role=report_evidence] Yes
+[BLOCK-0072 | role=report_evidence] July 17, 2025
+[BLOCK-0073 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Anatum infections linked to Deep-brand frozen sprouted mat (moth) beans and frozen sprouted moong (mung) beans. In May 2025, FDA conducted routine product sampling of Deep-brand frozen sprouted mat (moth) and moong (mung) Beans. The product samples tested positive for Salmonella and whole genome sequencing (WGS) analysis determined that the Salmonella present in the samples matched the strain causing illnesses in this outbreak. Based on epidemiological information collected by CDC, a total of 11 people infected with the outbreak strain of Salmonella have been reported from 10 states. Illnesses started on dates ranging from October 22, 2024, to June 24, 2025. Four of six cases with information available reported eating or likely eating frozen sprouted mat (moth) beans and frozen sprouted moong beans before becoming ill. There have been four hospitalizations, and no deaths have been reported. In response to this investigation, Chetak LLC Group, has initiated a recall of the following:
+[BLOCK-0074 | role=report_evidence] Deep-brand Sprouted Mat (Moth) in 1 LB (454 g) packages with the following lot codes printed on the back side of the bag: IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292
+[BLOCK-0075 | role=report_evidence] Deep-brand Sprouted Moong (Mung) in 1 LB (454 g) packages with the following lot codes printed on the back side of the bag: IN 24330, IN 25072 IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292
+[BLOCK-0076 | role=report_evidence] While the Chetak LLC Group has indicated they have not received reports of illnesses directly, FDA and CDC’s investigation has linked these products to illnesses in this outbreak through laboratory and epidemiological evidence. The recalling firm is working with FDA and the production and distribution of the product has been suspended while FDA and Chetak LLC Group continue their investigation into the source of the problem.

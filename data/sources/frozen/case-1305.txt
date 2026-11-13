@@ -1,0 +1,146 @@
+# CASE 1305 reviewed source
+Title: Outbreak Investigation of Listeria monocytogenes: Ready-to-Eat Foods (May 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-ready-eat-foods-may-2025
+Source blocks SHA256: 5c621656d946a2ba92d4c2406c69c71b5c4aac4c89c3807835fd648709a560aa
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Product Images
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] On May 10, 2025, Fresh & Ready Foods, LLC recalled several Ready-to-Eat (RTE) foods, or products that do not need additional cooking, including sandwiches, and snack items. The recalled products were identified by the “Use By” dates from 4/22/2025 to 5/19/2025 and include the following brand names:
+[BLOCK-0003 | role=report_evidence] Fresh & Ready Foods
+[BLOCK-0004 | role=report_evidence] City Point Market Fresh Food to Go
+[BLOCK-0005 | role=report_evidence] Fresh Take Crave Away
+[BLOCK-0006 | role=report_evidence] These products are no longer available for sale in stores.
+[BLOCK-0007 | role=report_evidence] Symptoms of Listeriosis ( Listeria Infection)
+[BLOCK-0008 | role=report_evidence] Symptoms usually start within two weeks of eating food contaminated with Listeria but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include a fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions.
+[BLOCK-0009 | role=report_evidence] Stores Affected
+[BLOCK-0010 | role=report_evidence] The recalled products are no longer available for sale in stores.
+[BLOCK-0011 | role=report_evidence] Status
+[BLOCK-0012 | role=report_evidence] Ended
+[BLOCK-0013 | role=report_evidence] Recommendations
+[BLOCK-0014 | role=report_evidence] The recalled foods are past shelf life and are no longer available for sale.
+[BLOCK-0015 | role=report_evidence] Foodservice customers, retailers and consumers who purchased or received the recalled products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces.
+[BLOCK-0016 | role=report_evidence] If you or your family member have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care.
+[BLOCK-0017 | role=report_evidence] Recommendations for At-Risk Groups
+[BLOCK-0018 | role=report_evidence] Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill.
+[BLOCK-0019 | role=report_evidence] Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn.
+[BLOCK-0020 | role=report_evidence] Call your healthcare provider right away if you have symptoms of a Listeria infection.
+[BLOCK-0021 | role=report_evidence] Current Update
+[BLOCK-0022 | role=report_evidence] December 5, 2025
+[BLOCK-0023 | role=report_evidence] This outbreak was declared over, and FDA's investigation was completed in July 2025.
+[BLOCK-0024 | role=report_evidence] On September 5, 2025, the U.S. Food & Drug Administration (FDA) issued a Warning Letter to Compass Group USA for conditions observed during an inspection of their Fresh & Ready Foods, LLC manufacturing facility. This inspection was initiated as part of the multistate foodborne outbreak investigation of Listeria monocytogenes linked to Ready-to-Eat (RTE) foods manufactured at Fresh & Ready Foods, LLC of San Fernando, CA.
+[BLOCK-0025 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0026 | role=report_evidence] Case Counts
+[BLOCK-0027 | role=report_evidence] Total Illnesses: 10 Hospitalizations: 10 Deaths: 1 Last Specimen Collection Date: 9/9/2024 States with Cases: CA, NV
+[BLOCK-0028 | role=report_evidence] Product Distribution*: AZ, CA, NV, and WA *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states
+[BLOCK-0037 | role=report_evidence] Recalled Products
+[BLOCK-ADD-TABLE-1305-01 | role=report_evidence] [TABLE BLOCK-ADD-TABLE-1305-01]
+Section: Recalled Products
+Rows and columns reconstructed from the original HTML table:
+
+| PRODUCT | SIZE | ITEM NUMBER | CONTAINER | USE BY DATES |
+| --- | --- | --- | --- | --- |
+| Fresh & Ready Foods Breakfast Bistro Box | 4oz | 1-FRBIST001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Antipasto Bistro Box | 4oz | 1-FRBIST002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Artisan Cheese Bistro Box | 4oz | 1-FRBIST003 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Veggie Snack Bistro Box | 4oz | 1-FRBIST005 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Protein Snack | 3oz | 1-FRESLSNK001 | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh & Ready Foods Caprese Baguette | 6.5oz | 1-FRSLBBG001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Italian Ciabatta Sandwich | 8oz | 1-FRSLBCB003 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Thai Chicken on Ciabatta Sandwich | 9oz | 1-FRSLBCB004 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Croissant Sandwich | 6oz | 1-FRSLBCR001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Ham & Cheese Croissant Sandwich | 6.5oz | 1-FRSLBCR002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Chicken Salad Croissant Sandwich | 6oz | 1-FRSLBCR003 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Dark Wheat Sandwich | 7oz | 1-FRSLBDW001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Ham & Cheese Dark Wheat Sandwich | 7oz | 1-FRSLBDW002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods El Cubano Sandwich | 8oz | 1-FRSLBEC001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Focaccia Sandwich | 8oz | 1-FRSLBFO001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Mega Sandwich | 7.5oz | 1-FRSLBME001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Ham & Cheese Mega Sandwich | 7.5oz | 1-FRSLBME002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Mega Italian Sandwich | 7.5oz | 1-FRSLBME003 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey Cranberry Multigrain Sandwich | 7oz | 1-FRSLBMG001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Multigrain Sandwich | 7oz | 1-FRSLBMG002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Tuna Salad Multigrain Sandwich | 6.5oz | 1-FRSLBMG004 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Chicken Salad Multigrain Sandwich | 6oz | 1-FRSLBMG005 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Roasted Chicken Multigrain Sandwich | 5oz | 1-FRSLBMG006 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Bacon Club Multigrain Sandwich | 6oz | 1-FRSLBMG007 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Petzel Bun Sandwich | 8oz | 1-FRSLBPRZ001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Mike's Tuna Mac Pasta | 9oz | 1-FRSLBPS001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Garlic Pesto Pasta | 9oz | 1-FRSLBPS002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Almonds & Chocolate Snack | 3oz | 1-FRSLBSNK019 | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh & Ready Foods Street Corn Dipper Snack | 4oz | 1-FRSLBSNK020 | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh & Ready Foods Turkey & Cheese Sub Sandwich | 6oz | 1-FRSLBSR001 | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh & Ready Foods Ham & Cheese Sub Sandwich | 6oz | 1-FRSLBSR002 | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh & Ready Foods Italian Hoagie Sandwich | 6oz | 1-FRSLBSR004 | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh & Ready Foods Sub Club Supreme | 6oz | 1-FRSLBSR005 | PLASTIC CONTAINER | 05/09/2025 - 05/14/2025 |
+| Fresh & Ready Foods Beef Cheesesteak Sub Sandwich | 7oz | 1-FRSLBSR009 | PLASTIC CONTAINER | 05/09/2025 - 05/14/2025 |
+| Fresh & Ready Foods Turkey & Cheese on Wheat Sandwich | 5oz | 1-FRSLBTR001WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Ham & Cheese on Wheat Sandwich | 5oz | 1-FRSLBTR004WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Tuna Salad on Wheat Sandwich | 4.5oz | 1-FRSLBTR005WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Roast Beef on Wheat Sandwich | 5oz | 1-FRSLBTR006WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Egg Salad on Wheat Sandwich | 4.5oz | 1-FRSLBTR007WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods PB&J on White Sandwich | 5oz | 1-FRSLBTR008W | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Club Sandwich on Wheat Sandwich | 5oz | 1-FRSLBTR011WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Chicken Salad on Wheat Sandwich | 4.5oz | 1-FRSLBTR012WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Roasted Chicken on Wheat Sandwich | 8.5oz | 1-FRSLBTR013WW | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Ham Torta Sandwich | 4.5oz | 1-FRSLBTS001 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Chicken Torta Sandwich | 9oz | 1-FRSLBTS002 | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Croissant Sandwich | 6oz | 6-COSSLBCR001-CS | PLASTIC CONTAINER | 05/12/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Multigrain Sandwich | 7.5oz | 6-COSSLBMG002-CS | PLASTIC CONTAINER | 05/12/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Cheese Multigrain Sandwich | 7oz | 6-COSSLBMG003-CS | PLASTIC CONTAINER | 05/12/2025 - 05/12/2025 |
+| Fresh & Ready Foods Turkey & Bacon Club Multigrain Sandwich | 6.5oz | 6-COSSLBMG007-CS | PLASTIC CONTAINER | 05/12/2025 - 05/12/2025 |
+| Fresh & Ready Foods Garlic Pesto Pasta | 9.5oz | 6-COSSLBPS002-CS | PLASTIC CONTAINER | 05/12/2025 - 05/12/2025 |
+| Fresh & Ready Foods Egg Salad on Wheat Sandwich | 5oz | 6-COSSLBTR007WW-CS | PLASTIC CONTAINER | 05/12/2025 - 05/12/2025 |
+| City Point Market Fresh Food to Go Turkey & Cheese on Wheat Sandwich | 5.5oz | 6-CPM024-CS | PLASTIC CONTAINER | 05/09/2025 - 05/18/2025 |
+| City Point Market Fresh Food to Go Ham & Cheese on Wheat Sandwich | 5oz | 6-CPM025-CS | PLASTIC CONTAINER | 05/09/2025 - 05/18/2025 |
+| City Point Market Fresh Food to Go Caprese Baguette | 6.5oz | 6-CPM030-CS | PLASTIC CONTAINER | 05/11/2025 - 05/11/2025 |
+| City Point Market PB&J Crunch on Country White | 6oz | 6-CPM032-CS | PLASTIC CONTAINER | 05/11/2025 - 05/11/2025 |
+| City Point Market Fresh Food to Go Protein Snack | 3oz | 6-CPM041-CS | PLASTIC CONTAINER | 05/13/2025 - 05/13/2025 |
+| City Point Market Fresh Food to Go Turkey & Bacon Multigrain Sandwich | 6oz | 6-CPM045-CS | PLASTIC CONTAINER | 05/09/2025 - 05/18/2025 |
+| City Point Market Fresh Food to Go Club Supreme Sub Sandwich | 6oz | 6-CPM046-CS | PLASTIC CONTAINER | 05/09/2025 - 05/18/2025 |
+| City Point Market Fresh Food to Go Italian Hoagie Sub Sandwich | 6oz | 6-CPM047-CS | PLASTIC CONTAINER | 05/10/2025 - 05/18/2025 |
+| City Point Market Fresh Food to Go Turkey & Cheese Sub Sandwich | 6oz | 6-CPM048-CS | PLASTIC CONTAINER | 05/09/2025 - 05/18/2025 |
+| Fresh Take Crave Away Turkey & Bacon Multigrain Sandwich | 6oz | 6-FTESLMG001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Protein Snack | 3oz | 6-FTESLSNK001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/14/2025 |
+| Fresh Take Crave Away Club Supreme Sub Sandwich | 6oz | 6-FTESLSR001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Italian Hogie Sub Sandwich | 6oz | 6-FTESLSR002-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Turkey & Cheese Sub Sandwich | 6oz | 6-FTESLSR003-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Beef Cheesesteak Sub Sandwich | 6oz | 6-FTESLSR004-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Turkey & Cheese Croissant | 6oz | 6-FTSLBCR001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Chicken Salad Croissant | 6.5oz | 6-FTSLBCR003-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away BPB&J on Country White | 6oz | 6-FTSLBCW002-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away El Cubano Sandwich | 8oz | 6-FTSLBEC001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Turkey & Cheese Focaccia | 8oz | 6-FTSLBFO001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Turkey & Cheese Mega | 8.5oz | 6-FTSLBME001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Ham & Cheese Mega | 8.5oz | 6-FTSLBME002-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Italian Mega | 9.5oz | 6-FTSLBME003-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Turkey Cranberry Multigrain Sandwich | 6.5oz | 6-FTSLBMG001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Chicken Salad Multigrain Sandwich | 6oz | 6-FTSLBMG005-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Turkey & Bacon Club Multigrain Sandwich | 6.5oz | 6-FTSLBMG007-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Mike's Tuna Mac Pasta | 9.5oz | 6-FTSLBPS001-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Garlic Pesto Pasta | 9.5oz | 6-FTSLBPS002-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Street Corn Dipper | 4oz | 6-FTSLBSNK020-CS | PLASTIC CONTAINER | 05/09/2025 - 05/12/2025 |
+| Fresh Take Crave Away Ham & Cheese Sub | 6oz | 6-FTSLBSR002-CS | PLASTIC CONTAINER | 05/09/2025 - 05/14/2025 |
+| Fresh Take Crave Away Turkey & Cheese On Wheat Sandwich | 5.5oz | 6-FTSLBTR001WW-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Ham & Cheese on Wheat Sandwich | 5oz | 6-FTSLBTR004WW-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Tuna Salad on Wheat Sandwich | 5oz | 6-FTSLBTR005WW-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Egg Salad on Wheat Sandwich | 5oz | 6-FTSLBTR007WW-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+| Fresh Take Crave Away Chicken Salad on Wheat Sandwich | 4.5oz | 6-FTSLBTR012WW-CS | PLASTIC CONTAINER | 05/09/2025 - 05/19/2025 |
+[BLOCK-0473 | role=report_evidence] Product Images
+[BLOCK-0474 | role=report_evidence] Previous Updates
+[BLOCK-0475 | role=report_evidence] July 24, 2025
+[BLOCK-0476 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Listeria monocytogenes infections linked to recalled Ready-to-Eat (RTE) foods, or products that do not need additional cooking, produced by Fresh & Ready Foods, LLC of San Fernando, CA.
+[BLOCK-0477 | role=report_evidence] CDC announced that the outbreak is over. CDC reports a total of 10 illnesses in two states. There has been a total of 10 hospitalizations and one death attributed to listeriosis.
+[BLOCK-0478 | role=report_evidence] FDA is working with Fresh & Ready Foods on corrective and preventive actions.
+[BLOCK-0479 | role=report_evidence] FDA’s outbreak investigation is complete.
+[BLOCK-0480 | role=report_evidence] May 10, 2025
+[BLOCK-0481 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Listeria monocytogenes infections linked to Ready-to-Eat (RTE) foods, or products that do not need additional cooking, produced by Fresh & Ready Foods LLC of San Fernando, CA.
+[BLOCK-0482 | role=report_evidence] FDA and CDC began investigating this cluster in 2024, however, there was not enough evidence in the previous investigation to identify a source for the outbreak. The investigation was reopened in April 2025 after FDA investigators found Listeria in environmental samples collected from Fresh & Ready Foods, LLC during a routine surveillance inspection. Whole genome sequencing (WGS) analysis confirmed that the strain of Listeria found at Fresh & Ready Foods, LLC matches the strain of Listeria causing illnesses in this outbreak.
+[BLOCK-0483 | role=report_evidence] Additionally, based on epidemiological information provided by CDC, state and local public health officials interviewed people about the foods they ate before they got sick. Of the six people for whom information is available, all six (100%) were hospitalized and later became sick with Listeria . Records reviewed from facilities indicated that ready-to-eat foods made by Fresh & Ready Foods, LLC were confirmed to have been served in at least three of these facilities. As of May 9, 2025, a total of 10 people infected with the outbreak strain of Listeria monocytogenes have been reported from two states. All 10 people have been hospitalized.
+[BLOCK-0484 | role=report_evidence] In response to this investigation, Fresh & Ready Foods, LLC voluntarily recalled several of their Ready-to-Eat (RTE) foods, or products that do not need additional cooking, including sandwiches and snack items. The recalled products are identified by the “Use By” dates from 4/22/2025 to 05/19/2025 and include the following brand names:
+[BLOCK-0485 | role=report_evidence] Fresh & Ready Foods
+[BLOCK-0486 | role=report_evidence] City Point Market Fresh Food to Go
+[BLOCK-0487 | role=report_evidence] Fresh Take Crave Away
+[BLOCK-0488 | role=report_evidence] The recalled products were distributed between 04/18/2025 and 04/28/2025 and sold in Arizona, California, Nevada, and Washington at a variety of locations including retailers and food service locations such as hospitals, hotels, convenience stores, airports, and airlines.

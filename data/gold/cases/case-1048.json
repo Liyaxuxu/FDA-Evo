@@ -1,0 +1,300 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1048",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Dole Packaged Salad (December 2021) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 16,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0030",
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Dole packaged leafy greens",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0028",
+            "BLOCK-0030",
+            "BLOCK-0031",
+            "BLOCK-0034"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "packaged garden salads",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "October 2021 recall; products past their “Best if Used By” dates"
+            },
+            {
+              "product_name": "packaged salad products",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "all products and brands from Bessemer City, NC and Yuma, AZ facilities; lot codes beginning N or Y; Best if Used By November 30, 2021 to January 8, 2022; whole head packaged lettuce excluded"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0030",
+            "BLOCK-0032",
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 17,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0025"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Dole packaged leafy greens",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "packaged garden salads",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "October 2021 recall; products past their “Best if Used By” dates"
+            },
+            {
+              "product_name": "packaged salad products",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "all products and brands from Bessemer City, NC and Yuma, AZ facilities; lot codes beginning N or Y; Best if Used By November 30, 2021 to January 8, 2022; whole head packaged lettuce excluded"
+            },
+            {
+              "product_name": "finished products using affected iceberg lettuce",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "processed at Springfield, OH and Soledad, CA facilities; voluntary recall issued January 7, 2022"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 18,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0012"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 16,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0012"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0012"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Dole packaged leafy greens",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0001",
+            "BLOCK-0003",
+            "BLOCK-0005"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "packaged garden salads",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "October 2021 recall; products past their “Best if Used By” dates"
+            },
+            {
+              "product_name": "packaged salad products",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "all products and brands from Bessemer City, NC and Yuma, AZ facilities; lot codes beginning N or Y; Best if Used By November 30, 2021 to January 8, 2022; whole head packaged lettuce excluded"
+            },
+            {
+              "product_name": "finished products using affected iceberg lettuce",
+              "recalling_company": "Dole",
+              "brands": [
+                "Dole"
+              ],
+              "recall_scope": "processed at Springfield, OH and Soledad, CA facilities; voluntary recall issued January 7, 2022"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    }
+  }
+}

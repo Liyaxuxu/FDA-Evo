@@ -1,0 +1,103 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1052",
+  "title": "Outbreak Investigation of E. coli O157:H7: Power Greens Packaged Salad (January 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-power-greens-packaged-salad-january-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1052.txt",
+  "frozen_source_sha256": "ade0c9adc3e3b4e6cf54ceaa8bb059ff37ed1127d08f58a078e1a9a6e34a2d73",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 0,
+      "report_date": "2022-01-06",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "January 6, 2022"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "FDA has initiated a traceback investigation on the products of interest. To date, no single production code has been identified by the traceback. For the estimated production code range that may have been available for purchase to ill consumers, records collected indicate that leafy greens used in these products were sourced from Salinas and Imperial Valley, CA, and Yuma, AZ. FDA continues to evaluate the available information to determine if a single source, such as a farm or ranch, can be identified. Some challenges encountered in this traceback are those often seen in tracing back leafy greens. These include multiple consumer purchases of the same product on different days, lack of product lot codes tracked to retail stores from distribution centers, and the inability to directly link product lot codes to consumer purchase data. Additionally, the range of possible production dates falls into the harvest transition period from central and northern CA to southern CA and AZ growing regions, and as this product has multiple components, some production days of the product include ingredients co-mingled from multiple growing regions."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "At this time, the available evidence does not indicate that there are implicated products currently on the market. FDA and state partners are continuing to work with firms of interest to determine if there are additional or unexpired products that could potentially be affected. This is an ongoing investigation and additional information will be provided as it becomes available."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Although this product is past expiration and should no longer be available for purchase, if consumers froze Nature’s Basket or Simple Truth Power Greens salad blend with a “Best if Used By” date through December 20, 2021, they should discard it."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017"
+      ],
+      "stage_source_sha256": "44fbeefd8666241e22b6541fd18f41a7acc8242a2207878dbaa403b90cbc87c4"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of E. coli O157:H7. According to the CDC, as of March 2, 2022, this outbreak has ended. Consumer purchase data indicated that seven people purchased Nature's Basket Power Greens or Simple Truth Organic Power Greens at grocery stores before becoming sick."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "FDA conducted a traceback investigation on the products of interest. Farms from both the Yuma, AZ and Salinas, CA growing regions were identified to have supplied product that could have been available to consumers, however no single production code was identified by the traceback. During FDA’s investigation, environmental samples collected near farms identified in the traceback in the Yuma, AZ and Salinas, CA growing regions tested positive for Shiga-toxin producing E. coli (STEC), however all were different strains and did not match the strain identified in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "CDC announced this outbreak is over. The product is past expiration and should no longer be available to consumers. Therefore, there are no recommendations for consumers, retailers, or suppliers."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Total Illnesses: 10 Hospitalizations: 4 Deaths: 0 Last Illness Onset: December 19, 2021 States with Cases: AK (2), OH (1), OR (1), WA (6)"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006"
+      ],
+      "stage_source_sha256": "39366b1b1c0075544384a624cc2c762e7135d468d8983b97e8084209782e1821"
+    }
+  ]
+}

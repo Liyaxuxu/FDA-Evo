@@ -1,0 +1,39 @@
+# CASE 1221 reviewed source
+Title: Outbreak Investigation of E. coli O157:H7: Bulk Organic Walnuts (April 2024) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-bulk-organic-walnuts-april-2024
+Source blocks SHA256: 7913f2f21c63489a4a566c9f869850edc2f60a9f4a2406963144156062b92085
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Product
+[BLOCK-0001 | role=report_evidence] Recalled organic walnut halves and pieces sold in bulk bins at natural food and co-op stores in AK, AR, AZ, CA, CO, HI, ID, KS, LA, MT, NE, NM, NV, OR, SD, TX, UT, WA, and WY. Some stores may repackage bulk walnut halves and pieces into plastic clamshells or bags.
+[BLOCK-0002 | role=report_evidence] Symptoms of E. coli
+[BLOCK-0003 | role=report_evidence] Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting. Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later.
+[BLOCK-0004 | role=report_evidence] The severity or presence of certain symptoms may depend on the type of pathogenic E. coli that is causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems.
+[BLOCK-0005 | role=report_evidence] Stores Affected (Updated on 5/1/2024)
+[BLOCK-0006 | role=report_evidence] Recalled organic walnut halves and pieces were sold in bulk bins at natural food and co-op stores in AK, AR, AZ, CA, CO, HI, ID, KS, LA, MT, NE, NM, NV, OR, SD, TX, UT, WA, and WY. A full list of store names and locations is available.
+[BLOCK-0007 | role=report_evidence] Status
+[BLOCK-0008 | role=report_evidence] Ended
+[BLOCK-0009 | role=report_evidence] Recommendation
+[BLOCK-0010 | role=report_evidence] This product should no longer be for sale.
+[BLOCK-0011 | role=report_evidence] Consumers who have not already checked their homes for recalled walnuts, should check their pantries, refrigerators, and freezers. If you have recalled walnuts in your home, do not eat or use them, throw them away and clean and sanitize surfaces they touched.
+[BLOCK-0012 | role=report_evidence] Retailers, distributors, and consumers should follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled product to reduce the risk of cross-contamination.
+[BLOCK-0013 | role=report_evidence] Contact your healthcare provider if you think you may have symptoms of an E. coli infection after eating organic walnuts.
+[BLOCK-0014 | role=report_evidence] Current Update
+[BLOCK-0015 | role=report_evidence] July 9, 2024
+[BLOCK-0016 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of E. coli O157:H7 infections linked to organic walnuts from Gibson Farms, Inc. of Hollister, California that were distributed to multiple natural food and co-op stores in AK, AZ, CA, CO, HI, ID, MT, NM, OR, SD, TX, and WA and sold in bulk bins.
+[BLOCK-0017 | role=report_evidence] As of July 9, 2024, CDC reports that the outbreak is over. CDC reports a total of 13 cases in two states. There has been a total of seven hospitalizations and zero deaths associated with this incident. The last illness onset was April 4, 2024. FDA’s outbreak investigation is closed.
+[BLOCK-0018 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0019 | role=report_evidence] Map of U.S. Distribution of Recalled Bulk Organic Walnuts Sold at Retail
+[BLOCK-0020 | role=report_evidence] Case Counts
+[BLOCK-0021 | role=report_evidence] Total Illnesses: 13 Hospitalizations: 7 Deaths: 0 Last Illness Onset: April 4, 2024 States with Cases: CA, WA Product Distribution*: AK, AR, AZ, CA, CO, HI, ID, KS, LA, MT, NE, NM, NV, OR, SD, TX, UT, WA, and WY
+[BLOCK-0022 | role=report_evidence] *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states
+[BLOCK-0030 | role=report_evidence] Recalled Product
+[BLOCK-0031 | role=report_evidence] Recalled organic walnut halves and pieces were sold in bulk bins at natural food and co-op stores in AK, AR, AZ, CA, CO, HI, ID, KS, LA, MT, NE, NM, NV, OR, SD, TX, UT, WA, and WY. Some stores may repackage bulk walnut halves and pieces into plastic clamshells or bags.
+[BLOCK-0032 | role=report_evidence] A full list of store names and locations is available.
+[BLOCK-0033 | role=report_evidence] April 30, 2024
+[BLOCK-0034 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O157:H7 infections linked to organic walnuts from Gibson Farms, Inc. of Hollister, California that were distributed to multiple natural food and co-op stores in AK, AR, AZ, CA, CO, HI, ID, KS, LA, MT, NE, NM, NV, OR, SD, TX, UT, WA, and WY and sold in bulk bins.
+[BLOCK-0035 | role=report_evidence] State and local public health officials have interviewed people about the foods they ate in the week before they became ill. Of the 10 people interviewed, all 10 (100%) reported eating walnuts, and almost all reported buying organic walnuts from bulk bins in food co-ops or natural food stores.
+[BLOCK-0036 | role=report_evidence] FDA’s traceback investigation identified Gibson Farms, Inc. as the common supplier of walnuts in this outbreak. On April 27, 2024, Gibson Farms, Inc. initiated a voluntary recall and contacted their distributing customers. Distributors and retailers that may have received recalled bulk organic walnuts should follow the recommendations above and contact their customers.
+[BLOCK-0037 | role=report_evidence] FDA is working with the firm and its distributors to determine the source of contamination, whether additional products or states are affected, and retailers that received recalled product. This advisory will be updated as information becomes available.

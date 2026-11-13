@@ -1,0 +1,1537 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1198",
+  "title": "Investigation of Elevated Lead & Chromium Levels: Cinnamon Applesauce Pouches (November 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-elevated-lead-chromium-levels-cinnamon-applesauce-pouches-november-2023",
+  "frozen_source_path": "t1/frozen_sources/case-1198.txt",
+  "frozen_source_sha256": "51b9c65a8d1668832de73fcf32ddcb85d1204413096e144834b4d41b3b8eeb8a",
+  "stage_count": 26,
+  "stages": [
+    {
+      "source_order": 25,
+      "report_date": "2023-10-28",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0205",
+          "source_page": "Main",
+          "text": "October 28, 2023"
+        },
+        {
+          "block_id": "BLOCK-0206",
+          "source_page": "Main",
+          "text": "The FDA was recently made aware of a developing investigation by the North Carolina Department of Health and Human Services (NCDHHS) and the North Carolina Department of Agriculture & Consumer Services (NCDA&CS) regarding four children with elevated blood lead levels, indicating potential acute lead toxicity. The NCDHHS investigation identified WanaBana apple cinnamon fruit puree pouches as a potential shared source of exposure. As part of their investigation, NCDHHS analyzed multiple lots of WanaBana apple cinnamon fruit puree, detecting extremely high concentrations of lead. The FDA has reviewed and supports NCDHHS’s analytical findings and found that analytical results at this level could result in acute toxicity. The FDA has shared the results with the firm whose representatives are cooperating with the FDA and have agreed to voluntarily recall all WanaBana apple cinnamon fruit puree pouches regardless of expiration."
+        },
+        {
+          "block_id": "BLOCK-0207",
+          "source_page": "Main",
+          "text": "The FDA is issuing this public health alert advising parents and caregivers not to purchase or feed WanaBana apple cinnamon fruit puree pouches to toddlers and young children because they may contain elevated levels of lead. The FDA is continuing to work with state officials and the firm, collecting additional information, and taking steps to remove all contaminated product from the market."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0205",
+        "BLOCK-0206",
+        "BLOCK-0207"
+      ],
+      "stage_source_sha256": "304c58db1925398f2a1aa56c50ea2d0bf5e43122ead636e469a07dbb1702d7d2"
+    },
+    {
+      "source_order": 24,
+      "report_date": "2023-11-03",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0200",
+          "source_page": "Main",
+          "text": "November 3, 2023"
+        },
+        {
+          "block_id": "BLOCK-0201",
+          "source_page": "Main",
+          "text": "As reported in a safety alert issued by FDA on October 28, 2023, the FDA, along with the North Carolina Department of Health and Human Services (NCDHHS) and the North Carolina Department of Agriculture & Consumer Services (NCDA&CS) are investigating reports of four children with elevated blood lead levels, indicating potential acute lead toxicity. The NCDHHS investigation identified WanaBana Apple Cinnamon Fruit Puree pouches as a potential shared source of exposure. As part of their investigation, NCDHHS analyzed multiple lots of WanaBana Apple Cinnamon Fruit Puree, detecting extremely high concentrations of lead."
+        },
+        {
+          "block_id": "BLOCK-0202",
+          "source_page": "Main",
+          "text": "The FDA has reviewed and supports NCDHHS’s analytical findings and found that analytical results at this level could result in acute toxicity. The FDA has shared the results with the firm and on October 31, 2023, Wanabana LLC initiated a voluntary recall of all WanaBana Apple Cinnamon Fruit Puree Pouches."
+        },
+        {
+          "block_id": "BLOCK-0203",
+          "source_page": "Main",
+          "text": "Since the first alert was issued this investigation has been transferred to FDA’s Coordinated Outbreak Response & Evaluation (CORE) Network for additional follow up, in collaboration with the Centers for Disease Control and Prevention (CDC) and state and local partners. Two additional brands of products are also subject to recall: certain Schnucks cinnamon-flavored applesauce pouches and variety pack and certain Weis cinnamon applesauce pouches."
+        },
+        {
+          "block_id": "BLOCK-0204",
+          "source_page": "Main",
+          "text": "FDA has received additional reports of illnesses and is working to evaluate those complaints. FDA’s investigation is ongoing to determine the source of lead contamination and whether additional products are linked to illnesses. FDA will update this advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0200",
+        "BLOCK-0201",
+        "BLOCK-0202",
+        "BLOCK-0203",
+        "BLOCK-0204"
+      ],
+      "stage_source_sha256": "21490f386120c33c1c3e23f49b64b711d1d41b70a04847d905c2e0f472792ff8"
+    },
+    {
+      "source_order": 23,
+      "report_date": "2023-11-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0193",
+          "source_page": "Main",
+          "text": "November 13, 2023"
+        },
+        {
+          "block_id": "BLOCK-0194",
+          "source_page": "Main",
+          "text": "As reported in a safety alert issued by FDA on October 28, 2023, the FDA, along with the North Carolina Department of Health and Human Services (NCDHHS) and the North Carolina Department of Agriculture & Consumer Services (NCDA&CS) are investigating reports of four children with elevated blood lead levels, indicating potential acute lead toxicity. The NCDHHS investigation identified WanaBana Apple Cinnamon Fruit Puree pouches as a potential shared source of exposure. As part of their investigation, NCDHHS analyzed multiple lots of WanaBana Apple Cinnamon Fruit Puree, detecting extremely high concentrations of lead. The FDA has reviewed and supports NCDHHS’s analytical findings and determined that levels of lead found in the analyzed pouches could result in acute lead toxicity."
+        },
+        {
+          "block_id": "BLOCK-0195",
+          "source_page": "Main",
+          "text": "As of November 13, 2023, there have been 22 reports of illness potentially linked to recalled product submitted to FDA. As part of this investigation, FDA and state partners are collecting and analyzing additional product samples of fruit puree and applesauce pouches. At this time, sample analyses have not shown elevated levels of lead in any non-recalled products."
+        },
+        {
+          "block_id": "BLOCK-0196",
+          "source_page": "Main",
+          "text": "On October 29, 2023, Wanabana LLC initiated a voluntary recall of all WanaBana Apple Cinnamon Fruit Puree Pouches. On November 9, 2023, Wanabana LLC expanded their recall announcement to include information on recalled Schnucks and Weis cinnamon applesauce pouches."
+        },
+        {
+          "block_id": "BLOCK-0197",
+          "source_page": "Main",
+          "text": "The recall impacts markets outside of the United States. Customer information provided by the firm shows that product was also distributed to Cuba and the United Arab Emirates."
+        },
+        {
+          "block_id": "BLOCK-0198",
+          "source_page": "Main",
+          "text": "Since the first alert was issued this investigation has been transferred to FDA’s Coordinated Outbreak Response & Evaluation (CORE) Network for additional follow up, in collaboration with the Centers for Disease Control and Prevention (CDC) and state and local partners. Two additional brands of products are also subject to recall: certain Schnucks cinnamon-flavored applesauce pouches and variety pack and certain Weis cinnamon applesauce pouches."
+        },
+        {
+          "block_id": "BLOCK-0199",
+          "source_page": "Main",
+          "text": "FDA is continuing to evaluate incoming reports of illnesses. FDA’s investigation is ongoing to determine the source of lead contamination and whether additional products are linked to illnesses. FDA will update this advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0193",
+        "BLOCK-0194",
+        "BLOCK-0195",
+        "BLOCK-0196",
+        "BLOCK-0197",
+        "BLOCK-0198",
+        "BLOCK-0199"
+      ],
+      "stage_source_sha256": "13852f88b55a04cf019b39b2e969ff04ff7175035e75bf639ea495140f15a3b0"
+    },
+    {
+      "source_order": 22,
+      "report_date": "2023-11-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0182",
+          "source_page": "Main",
+          "text": "November 16, 2023"
+        },
+        {
+          "block_id": "BLOCK-0183",
+          "source_page": "Main",
+          "text": "FDA, along with CDC and state and local partners, is investigating reports of elevated blood lead levels in individuals with reported exposure to Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands."
+        },
+        {
+          "block_id": "BLOCK-0184",
+          "source_page": "Main",
+          "text": "As of November 16, 2023, there have been 34 reports of illness potentially linked to recalled product submitted to FDA. FDA is continuing to evaluate incoming adverse reports of illnesses."
+        },
+        {
+          "block_id": "BLOCK-0185",
+          "source_page": "Main",
+          "text": "FDA and other state partners collected and analyzed additional product samples of fruit puree and applesauce pouches. FDA detected elevated levels of lead in one finished product sample of WanaBana Apple Cinnamon Puree collected from Dollar Tree. The level detected in the FDA sample of WanaBana apple cinnamon puree is 2.18 parts per million (ppm), which, for context, is more than 200 times greater than the action level the FDA has proposed in draft guidance for fruit purees and similar products intended for babies and young children."
+        },
+        {
+          "block_id": "BLOCK-0186",
+          "source_page": "Main",
+          "text": "To date, sample analysis of WanaBana, Weis, and Schnucks fruit puree pouches that do not contain cinnamon and are not part of the recall, have not shown elevated levels of lead."
+        },
+        {
+          "block_id": "BLOCK-0187",
+          "source_page": "Main",
+          "text": "FDA’s leading hypothesis is that cinnamon used in these recalled pouches is the likely source of contamination for these products; however, the FDA has not yet been able to collect and test samples of the cinnamon used in the recalled products. The FDA is continuing to work with Ecuadorian authorities to investigate the source of the cinnamon. At this time, FDA has no indication that this issue extends beyond these recalled products, but to further protect public health, FDA is screening incoming shipments of cinnamon from multiple countries for lead contamination."
+        },
+        {
+          "block_id": "BLOCK-0188",
+          "source_page": "Main",
+          "text": "In addition to determining the source of cinnamon, FDA’s investigation is ongoing to determine the point of contamination and whether additional products are linked to illnesses. At this time, the FDA is not aware of any other reports of illnesses or elevated blood lead level adverse events reported for other cinnamon-containing products or cinnamon."
+        },
+        {
+          "block_id": "BLOCK-0189",
+          "source_page": "Main",
+          "text": "The FDA also reminds industry that it is the legal responsibility of companies distributing food products that are sold in the U.S., to comply with applicable requirements in the Federal Food, Drug, and Cosmetic Act and FDA's regulations ."
+        },
+        {
+          "block_id": "BLOCK-0190",
+          "source_page": "Main",
+          "text": "By law, food manufacturers have a responsibility to significantly minimize or prevent chemical hazards when needed. This includes putting in place any needed preventive controls to reduce or eliminate the presence of lead in their products. Most food manufacturers and processors are covered by the preventive control provisions of the Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Human Food rule. The preventive control provisions require industry to implement controls to significantly minimize or prevent any identified chemical hazards, such as lead, requiring a control. In addition, some manufacturers may conduct verification activities like testing the final product."
+        },
+        {
+          "block_id": "BLOCK-0191",
+          "source_page": "Main",
+          "text": "For more information please see FDA’s Draft Guidance for Industry on Hazard Analysis and Risk-Based Preventive Controls for Human Food ."
+        },
+        {
+          "block_id": "BLOCK-0192",
+          "source_page": "Main",
+          "text": "FDA will update this advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0182",
+        "BLOCK-0183",
+        "BLOCK-0184",
+        "BLOCK-0185",
+        "BLOCK-0186",
+        "BLOCK-0187",
+        "BLOCK-0188",
+        "BLOCK-0189",
+        "BLOCK-0190",
+        "BLOCK-0191",
+        "BLOCK-0192"
+      ],
+      "stage_source_sha256": "dd9424455082307b697e6aad56f388ba994fa1eb54ff21aac762a8ab0de185b6"
+    },
+    {
+      "source_order": 21,
+      "report_date": "2023-11-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0175",
+          "source_page": "Main",
+          "text": "November 22, 2023"
+        },
+        {
+          "block_id": "BLOCK-0176",
+          "source_page": "Main",
+          "text": "FDA, along with CDC and state and local partners, is investigating reports of elevated blood lead levels in individuals with reported exposure to Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands."
+        },
+        {
+          "block_id": "BLOCK-0177",
+          "source_page": "Main",
+          "text": "As of November 22, 2023, there have been 52 reports of adverse events potentially linked to recalled product submitted to FDA. To date, confirmed complainants are less than 1 to 4 years of age. FDA is continuing to evaluate incoming adverse event reports."
+        },
+        {
+          "block_id": "BLOCK-0178",
+          "source_page": "Main",
+          "text": "FDA is aware that recalled WanaBana Apple Cinnamon Puree is still on the shelves at several Dollar Tree stores in multiple states. FDA is working with the firm to ensure an effective recall. This product should not be available for sale and consumers should not purchase or consume this product as it is potentially contaminated with lead, which can be harmful to health, particularly for children."
+        },
+        {
+          "block_id": "BLOCK-0179",
+          "source_page": "Main",
+          "text": "To properly discard the product, consumers and retailers should carefully open the pouch and empty the content into a trash can before discarding the packaging to prevent others from salvaging recalled product from the trash. Clean up any spills after discarding the product then wash your hands."
+        },
+        {
+          "block_id": "BLOCK-0180",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination and whether additional products are linked to illnesses. At this time, the FDA is not aware of any other reports of illnesses or elevated blood lead level adverse events reported for other cinnamon-containing products or cinnamon."
+        },
+        {
+          "block_id": "BLOCK-0181",
+          "source_page": "Main",
+          "text": "FDA will update the advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0175",
+        "BLOCK-0176",
+        "BLOCK-0177",
+        "BLOCK-0178",
+        "BLOCK-0179",
+        "BLOCK-0180",
+        "BLOCK-0181"
+      ],
+      "stage_source_sha256": "9617a8b3048ad1528b473036115dad933342f6f3027e4b66daa1201ec1a44c9b"
+    },
+    {
+      "source_order": 20,
+      "report_date": "2023-11-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0168",
+          "source_page": "Main",
+          "text": "November 30, 2023"
+        },
+        {
+          "block_id": "BLOCK-0169",
+          "source_page": "Main",
+          "text": "On November 30, 2023, Austrofood, along with Wanabana USA, the distributor of WanaBana products in the United States, released a statement that reports that Wanabana has conducted a root cause investigation. Based on this investigation, the firm’s leading hypothesis to date is that the cinnamon is the source of the elevated lead levels in the recalled products. The statement released today by Wanabana USA and Austrofood states that the cinnamon used to manufacture the recalled products was supplied by Negocios Asociados Mayoristas S.A., operating as Negasmart, a third-party distribution company located in Ecuador."
+        },
+        {
+          "block_id": "BLOCK-0170",
+          "source_page": "Main",
+          "text": "The FDA is continuing to work with Ecuadorian authorities to investigate the source of the contamination and to determine if the cinnamon in the recalled products was used in other products or distributed as a raw ingredient to other countries. FDA has confirmed that Negasmart does not import cinnamon directly into the U.S."
+        },
+        {
+          "block_id": "BLOCK-0171",
+          "source_page": "Main",
+          "text": "As of November 30, 2023, there have been 57 reports of adverse events potentially linked to recalled product submitted to FDA. To date, confirmed complainants are less than 1 to 5 years of age. The FDA relies on self-reported information submitted by healthcare providers, consumers, and some state partners who submitted an adverse event report to FDA as an initial step in determining if a product is a potential shared source of exposure amongst complainants. Unlike outbreaks of foodborne illnesses that are genetically linked to pathogens, there is no method to link lead exposure to a specific source, which can make establishing a causal relationship complicated."
+        },
+        {
+          "block_id": "BLOCK-0172",
+          "source_page": "Main",
+          "text": "While our total reports included in this advisory represent complaints that have been reported to FDA, we recognize there are other avenues for reporting of elevated lead levels. For example, through case reporting from the state health departments to CDC which is routinely done for cases of childhood lead exposure. Because these different avenues for reporting represent two different mechanisms of collecting data, we are currently not including them in our advisory. However, we are working with our state partners and CDC to gather and evaluate as much data as possible, while recognizing there are different mechanisms being leveraged."
+        },
+        {
+          "block_id": "BLOCK-0173",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination and whether additional products are linked to illnesses. At this time, FDA has no indication that this issue extends beyond these recalled products, but to further protect public health, FDA is screening incoming shipments of cinnamon from multiple countries for lead contamination. As of November 30, 2023, there have been no screening results that have tested positive for higher levels of lead. Separately, Austrofood CIA LDA’s apple cinnamon fruit puree pouch products exported to the U.S. were added to Import Alert 99-42 , detention without physical examination of foods due to heavy metal (toxic element) contamination."
+        },
+        {
+          "block_id": "BLOCK-0174",
+          "source_page": "Main",
+          "text": "FDA will update the advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0168",
+        "BLOCK-0169",
+        "BLOCK-0170",
+        "BLOCK-0171",
+        "BLOCK-0172",
+        "BLOCK-0173",
+        "BLOCK-0174"
+      ],
+      "stage_source_sha256": "b8a5375da8114a9c870b26eb4aae7ff9a519b6f56eb05941d9701dcba53ccdf1"
+    },
+    {
+      "source_order": 19,
+      "report_date": "2023-12-05",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0158",
+          "source_page": "Main",
+          "text": "December 5, 2023"
+        },
+        {
+          "block_id": "BLOCK-0159",
+          "source_page": "Main",
+          "text": "FDA has initiated an onsite inspection at the Austrofoods facility located in Ecuador. Ingredient sample collection is underway."
+        },
+        {
+          "block_id": "BLOCK-0160",
+          "source_page": "Main",
+          "text": "The FDA is continuing to coordinate with Ecuadorian authorities on the investigation of the source of elevated lead levels in cinnamon apple pouches. In addition, the Ecuadorian authorities report that Negasmart's cinnamon had higher levels of lead than allowed by Ecuador and that Negasmart, the supplier of cinnamon to Austrofoods, is currently under an Ecuadorian administrative sanctions process to determine the responsible party for the contamination."
+        },
+        {
+          "block_id": "BLOCK-0161",
+          "source_page": "Main",
+          "text": "As of December 5, 2023, FDA has received 64 reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people who an adverse event was submitted for, are under 6 years of age."
+        },
+        {
+          "block_id": "BLOCK-0162",
+          "source_page": "Main",
+          "text": "To date, the FDA has included adverse event reports submitted directly to the FDA that note blood lead levels at or above 3.5 micrograms of lead per deciliter of whole blood (µg /dL) within 3 months after consuming recalled product. The FDA is continuing to evaluate incoming adverse reports of illnesses. For background, the Centers for Disease Control and Prevention’s (CDC) blood reference level of 3.5 µg /dL is the level at which the CDC recommends clinical monitoring of lead exposure in children."
+        },
+        {
+          "block_id": "BLOCK-0163",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of December 1, CDC has received reports of 18 confirmed cases, 30 probable cases, and 4 suspected cases from 13 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0164",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        },
+        {
+          "block_id": "BLOCK-0165",
+          "source_page": "Main",
+          "text": "The FDA relies on self-reported information submitted by healthcare providers, consumers, and some state partners who submitted an adverse event report to FDA as an initial step in determining if a product is a potential shared source of exposure amongst complainants. Unlike outbreaks of foodborne illnesses that are genetically linked to pathogens, lead exposure in an individual can result from several sources. There is no established method to link lead exposure in an individual to a specific source, which can make establishing a causal relationship difficult."
+        },
+        {
+          "block_id": "BLOCK-0166",
+          "source_page": "Main",
+          "text": "While our total reports included in this advisory represent adverse event reports that have been submitted to FDA, we acknowledge that there are other avenues for reporting of lead exposure. However, we are working with our state partners and CDC to gather and evaluate as much data as possible, while recognizing there are different mechanisms being leveraged."
+        },
+        {
+          "block_id": "BLOCK-0167",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination and whether additional products are linked to illnesses. FDA will update the advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0158",
+        "BLOCK-0159",
+        "BLOCK-0160",
+        "BLOCK-0161",
+        "BLOCK-0162",
+        "BLOCK-0163",
+        "BLOCK-0164",
+        "BLOCK-0165",
+        "BLOCK-0166",
+        "BLOCK-0167"
+      ],
+      "stage_source_sha256": "5bf4d615c8186386c21113dbc8896005bc47fee2fd71ca627dcf6ff6bb2f3445"
+    },
+    {
+      "source_order": 18,
+      "report_date": "2023-12-12",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0151",
+          "source_page": "Main",
+          "text": "December 12, 2023"
+        },
+        {
+          "block_id": "BLOCK-0152",
+          "source_page": "Main",
+          "text": "FDA is conducting an onsite inspection at the Austrofoods facility located in Ecuador. Cinnamon samples collected from the lots used in recalled products will undergo laboratory analysis. FDA will update this advisory to share the sample results once the analysis is complete."
+        },
+        {
+          "block_id": "BLOCK-0153",
+          "source_page": "Main",
+          "text": "To date, the FDA has worked with Ecuadorian authorities to gather information about Negasmart, the supplier of cinnamon to Austrofoods, including whether the cinnamon in the recalled products was used in other products exported to the United States. Working together with Ecuadorian authorities, the FDA has confirmed that, of Negasmart’s direct customers, only Austrofoods ships product to the US. In addition, the FDA has confirmed that Negasmart does not directly export products to the US."
+        },
+        {
+          "block_id": "BLOCK-0154",
+          "source_page": "Main",
+          "text": "As of December 11, 2023, FDA has received 65 reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom an adverse event was submitted, are under 6 years of age."
+        },
+        {
+          "block_id": "BLOCK-0155",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of December 8, CDC has received reports of 46 confirmed cases, 68 probable cases, and 11 suspected cases for a total of 125 cases from 22 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0156",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        },
+        {
+          "block_id": "BLOCK-0157",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination and whether additional products are linked to illnesses. FDA will update the advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-0151",
+        "BLOCK-0152",
+        "BLOCK-0153",
+        "BLOCK-0154",
+        "BLOCK-0155",
+        "BLOCK-0156",
+        "BLOCK-0157"
+      ],
+      "stage_source_sha256": "7138c73fe555d3b601e98f2f6e68e38363d17eb51d2c036237116d7b8a120a0c"
+    },
+    {
+      "source_order": 17,
+      "report_date": "2023-12-18",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0142",
+          "source_page": "Main",
+          "text": "December 18, 2023"
+        },
+        {
+          "block_id": "BLOCK-0143",
+          "source_page": "Main",
+          "text": "FDA’s onsite inspection of the Austrofoods facility in Ecuador has ended. However, the FDA investigation of the elevated lead levels in recalled cinnamon applesauce pouches continues. During the inspection, investigators collected samples of cinnamon supplied by Negasmart to Austrofoods. These samples have undergone analysis and results show extremely high levels of lead contamination, 5110 parts per million (ppm) and 2270 ppm. For context, the international standard-setting body, Codex Alimentarius Commission (Codex) is considering adopting a maximum level of 2.5 ppm for lead in bark spices, including cinnamon, in 2024."
+        },
+        {
+          "block_id": "BLOCK-0144",
+          "source_page": "Main",
+          "text": "The FDA has tested multiple products and, based on the current evidence, there are no further products being added to the recall at this time. Additionally, FDA and state partners have tested at least 136 samples of non-cinnamon containing products and all have been negative for elevated lead levels. Of those, 136 non-cinnamon containing samples, eleven are the Smoothie Mango Passionfruit Banana flavor of WanaBana purees, three of these samples are of the same lot that the Agencia Nacional de Regulación, Control y Vigilancia Sanitaria (ARCSA) originally reported as positive for lead, and FDA results were negative for elevated lead for all samples. In addition, FDA collected samples of WanaBana Organic Mango Puree at import and sample results are negative for elevated levels of lead."
+        },
+        {
+          "block_id": "BLOCK-0145",
+          "source_page": "Main",
+          "text": "At this time, FDA is still relying on officials in Ecuador to support the investigation into Negasmart. To date, FDA has confirmed that Negasmart does not ship product directly to the U.S. and that, of Negasmart’s direct customers, only Austrofoods ships product to the U.S."
+        },
+        {
+          "block_id": "BLOCK-0146",
+          "source_page": "Main",
+          "text": "Further, Ecuadorian officials from ARCSA report that Negasmart does not ship product outside Ecuador. ARCSA also reports that in their testing thus far, raw/unprocessed cinnamon from cinnamon importers in Ecuador do not appear to be contaminated with lead, whereas the ground or powdered cinnamon from Negasmart is contaminated. The Ecuadorian processor used by Negasmart is not currently operating."
+        },
+        {
+          "block_id": "BLOCK-0147",
+          "source_page": "Main",
+          "text": "While our information at this time indicates that in the U.S. the contaminated cinnamon is limited to only the applesauce products that have already been recalled, the FDA is still investigating whether the cinnamon in the recalled products was used in other products exported to the U.S. To date, increased screening for imported cinnamon from certain countries remains in place and FDA has no indication that this issue extends beyond these recalled products."
+        },
+        {
+          "block_id": "BLOCK-0148",
+          "source_page": "Main",
+          "text": "The FDA has limited authority over foreign ingredient suppliers who do not directly ship product to the U.S. This is because their food undergoes further manufacturing/processing prior to export. Thus, the FDA cannot take direct action with Negasmart. However, we are continuing to work closely with Ecuadorian officials, as they are conducting their own rapidly evolving investigations into the source of contamination. FDA is actively assessing information received, using all available resources to further protect public health."
+        },
+        {
+          "block_id": "BLOCK-0149",
+          "source_page": "Main",
+          "text": "In addition to coordinating with Ecuadorian officials, FDA also is continuing to take steps to make other countries aware of the ongoing investigation into elevated lead levels in cinnamon applesauce pouches manufactured by Austrofoods. As part of this effort, FDA sends updates of the FDA public health advisory to other countries through the World Health Organization (WHO) International Food Safety Authority Network (INFOSAN), which includes more than 200 partner countries."
+        },
+        {
+          "block_id": "BLOCK-0150",
+          "source_page": "Main",
+          "text": "Finally, we understand there is heightened awareness and interest in this incident, especially for families with small children. For that reason, in addition to continuing to provide timely updates on our investigation, FDA is also providing a timeline detailing the early stages of our investigation in an effort to be as transparent and forthcoming with information as possible."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0142",
+        "BLOCK-0143",
+        "BLOCK-0144",
+        "BLOCK-0145",
+        "BLOCK-0146",
+        "BLOCK-0147",
+        "BLOCK-0148",
+        "BLOCK-0149",
+        "BLOCK-0150"
+      ],
+      "stage_source_sha256": "f0bc811a441f5bea975ff1cc0c8909da043c788d50946c42d1a958c37d1122ca"
+    },
+    {
+      "source_order": 16,
+      "report_date": "2023-12-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0138",
+          "source_page": "Main",
+          "text": "December 19, 2023"
+        },
+        {
+          "block_id": "BLOCK-0139",
+          "source_page": "Main",
+          "text": "As of December 19, 2023, FDA has received 69 complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted, are under 6 years of age."
+        },
+        {
+          "block_id": "BLOCK-0140",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of December 15, CDC has received reports of 67 confirmed cases, 122 probable cases, and 16 suspected cases for a total of 205 cases from 33 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0141",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 10,
+      "stage_id": "R10",
+      "source_block_ids": [
+        "BLOCK-0138",
+        "BLOCK-0139",
+        "BLOCK-0140",
+        "BLOCK-0141"
+      ],
+      "stage_source_sha256": "5db777e56f25b3798688139e199622c20af72106fcfe090c3f7f756f400a7d9a"
+    },
+    {
+      "source_order": 15,
+      "report_date": "2023-12-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0130",
+          "source_page": "Main",
+          "text": "December 26, 2023"
+        },
+        {
+          "block_id": "BLOCK-0131",
+          "source_page": "Main",
+          "text": "FDA is providing additional context about the amount of lead in testing results from cinnamon sampled from the manufacturer of the recalled applesauce pouches and in testing results of the recalled pouches. As recently reported, FDA tested samples of the cinnamon collected from the Austrofoods manufacturing facility in Ecuador and used in the recalled applesauce pouches. The highest result was 5,110 parts per million (ppm), which was more than 2,000 times the level of 2.5 ppm being considered for bark spices (including cinnamon) by the international standard-setting body, Codex Alimentarius Commission (Codex) ."
+        },
+        {
+          "block_id": "BLOCK-0132",
+          "source_page": "Main",
+          "text": "In addition, the testing results previously reported for the sample of recalled WanaBana cinnamon apple puree pouch collected from Dollar Tree had a lead concentration of 2.18 ppm which, for context, is more than 200 times greater than the action level of 0.01 ppm that the FDA has proposed in draft guidance for fruit purees and similar products intended for babies and young children."
+        },
+        {
+          "block_id": "BLOCK-0133",
+          "source_page": "Main",
+          "text": "Although there are proposed action levels for lead used for comparison, it is important to underscore that the FDA does not need an action level or guidance to take action when food contains a harmful substance, such as lead, that may render the food injurious to health."
+        },
+        {
+          "block_id": "BLOCK-0134",
+          "source_page": "Main",
+          "text": "As previously reported on December 18, 2023, the FDA has tested multiple products and, based on the current evidence, there are no further products being added to the recall at this time. Additionally, FDA and state partners have tested at least 136 samples of non-cinnamon containing products and all have been negative for elevated lead levels. Of those, 136 non-cinnamon containing samples, eleven are the Smoothie Mango Passionfruit Banana flavor of WanaBana purees, three of these samples are of the same lot that ARCSA originally reported as positive for lead, and FDA results were negative for elevated lead for all samples. In addition, FDA collected a sample of WanaBana Organic Mango Puree at import and sample results are negative for elevated levels of lead."
+        },
+        {
+          "block_id": "BLOCK-0135",
+          "source_page": "Main",
+          "text": "As of December 26, 2023, FDA has received 82 confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age."
+        },
+        {
+          "block_id": "BLOCK-0136",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of December 22, CDC has received reports of 73 confirmed cases, 157 probable cases, and 21 suspected cases for a total of 251 cases from 34 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0137",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 11,
+      "stage_id": "R11",
+      "source_block_ids": [
+        "BLOCK-0130",
+        "BLOCK-0131",
+        "BLOCK-0132",
+        "BLOCK-0133",
+        "BLOCK-0134",
+        "BLOCK-0135",
+        "BLOCK-0136",
+        "BLOCK-0137"
+      ],
+      "stage_source_sha256": "4daae2f871a578efd3d6e7f77dedba6fcd5b138349df00a747a8336f6859c7b3"
+    },
+    {
+      "source_order": 14,
+      "report_date": "2024-01-02",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0126",
+          "source_page": "Main",
+          "text": "January 2, 2024"
+        },
+        {
+          "block_id": "BLOCK-0127",
+          "source_page": "Main",
+          "text": "As of January 2, 2024, FDA has not received any new complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0128",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of December 29, 2023, CDC has received reports of 80 confirmed cases, 187 probable cases, and 20 suspected cases for a total of 287 cases from 37 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0129",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 12,
+      "stage_id": "R12",
+      "source_block_ids": [
+        "BLOCK-0126",
+        "BLOCK-0127",
+        "BLOCK-0128",
+        "BLOCK-0129"
+      ],
+      "stage_source_sha256": "8b75ac78a07344e2706964b5ef7a1b6e64bab67eaa55404a3461d453269d7285"
+    },
+    {
+      "source_order": 13,
+      "report_date": "2024-01-05",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0116",
+          "source_page": "Main",
+          "text": "January 5, 2024"
+        },
+        {
+          "block_id": "BLOCK-0117",
+          "source_page": "Main",
+          "text": "In FDA’s testing of the recalled products and the cinnamon collected from the Austrofoods facility, the agency has found chromium. People who ate recalled products, especially if they had elevated blood lead levels, may have been exposed to chromium and should inform their healthcare provider so they can monitor health and provide supportive care, as needed. Healthcare providers can refer to CDC’s Clinician Outreach and Communication Activity (COCA Now) announcement for information for additional guidance."
+        },
+        {
+          "block_id": "BLOCK-0118",
+          "source_page": "Main",
+          "text": "Chromium is a naturally occurring element. It is an essential trace nutrient important to the diet that exists predominantly in two forms, chromium (III) and chromium (VI). Chromium (VI) is more toxic than chromium (III). Due to limitations in available testing methods, FDA was not able to definitively determine the form of chromium in the cinnamon apple puree sample (i.e., whether the chromium present is chromium (III) or chromium (VI)). The lead-to-chromium ratio in the cinnamon apple puree sample is consistent with that of lead chromate (PbCrO 4 ) (which contains chromium (VI)), but this is not a definitive indicator that lead chromate or chromium (VI) (the more toxic form of chromium) was present. Information on the health effects of eating food contaminated with chromium (VI) are limited. The chromium in lead chromate may also be converted to chromium (III) (the less toxic form of chromium) due to the acidity of the applesauce and the stomach."
+        },
+        {
+          "block_id": "BLOCK-0119",
+          "source_page": "Main",
+          "text": "Additional FDA Laboratory Results Indicate Chromium Contamination:"
+        },
+        {
+          "block_id": "BLOCK-0120",
+          "source_page": "Main",
+          "text": "After additional analysis of both recalled cinnamon apple products and the cinnamon collected from the manufacturer in Ecuador, FDA has determined that, in addition to lead, the cinnamon and recalled products also contained a high level of chromium. The level of chromium detected in the two samples of cinnamon yielded 1201 and 531 parts per million (ppm). Because of the limited amount of cinnamon used in the finished product, the level of chromium detected in the reanalysis of FDA samples of the recalled WanaBana Cinnamon Apple Puree product yielded 0.590 and 0.566 ppm."
+        },
+        {
+          "block_id": "BLOCK-0121",
+          "source_page": "Main",
+          "text": "FDA also conducted testing for arsenic and cadmium, but those elements were not detected above trace levels in the cinnamon collected from the Austrofoods facility in Ecuador or in the recalled product. As part of this investigation, some state partners also conducted testing for toxic elements and only detected elevated levels of lead and chromium."
+        },
+        {
+          "block_id": "BLOCK-0122",
+          "source_page": "Main",
+          "text": "Health Implications & Recommendations:"
+        },
+        {
+          "block_id": "BLOCK-0123",
+          "source_page": "Main",
+          "text": "The health effects of eating food contaminated with chromium (VI), as a constituent of lead chromate, are not well understood. Symptoms of chromium exposure from eating contaminated food may be nonspecific. Some people might not experience any symptoms. Symptoms for children are likely similar to those of adults. Acute ingestion of chromium exceeding dietary recommendations may result in abdominal pain, nausea, vomiting, diarrhea, anemia, renal and hepatic dysfunction."
+        },
+        {
+          "block_id": "BLOCK-0124",
+          "source_page": "Main",
+          "text": "Consumers should contact their healthcare providers if they are experiencing any symptoms following the consumption of recalled product. Consumers should also inform their healthcare provider that they may have been exposed to high levels of chromium and lead if recalled products were consumed so their provider can monitor and potentially address any adverse health effects."
+        },
+        {
+          "block_id": "BLOCK-0125",
+          "source_page": "Main",
+          "text": "Healthcare providers can refer to CDC’s COCA Now announcement for information for additional guidance."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 13,
+      "stage_id": "R13",
+      "source_block_ids": [
+        "BLOCK-0116",
+        "BLOCK-0117",
+        "BLOCK-0118",
+        "BLOCK-0119",
+        "BLOCK-0120",
+        "BLOCK-0121",
+        "BLOCK-0122",
+        "BLOCK-0123",
+        "BLOCK-0124",
+        "BLOCK-0125"
+      ],
+      "stage_source_sha256": "d455e2b7fa8eead703b4f1ea1ac99f1ad1c27a74be9359427b3ad53c66bede62"
+    },
+    {
+      "source_order": 12,
+      "report_date": "2024-01-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0112",
+          "source_page": "Main",
+          "text": "January 9, 2024"
+        },
+        {
+          "block_id": "BLOCK-0113",
+          "source_page": "Main",
+          "text": "As of January 8, 2024, FDA has received 87 confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0114",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of January 5, CDC has received reports of 86 confirmed cases, 209 probable cases, and 26 suspected cases for a total of 321 cases from 38 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0115",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 14,
+      "stage_id": "R14",
+      "source_block_ids": [
+        "BLOCK-0112",
+        "BLOCK-0113",
+        "BLOCK-0114",
+        "BLOCK-0115"
+      ],
+      "stage_source_sha256": "e7115e8500ad5dae6482b23144b1ad5ecea75e708e0b79dee9dd9a961e8542fd"
+    },
+    {
+      "source_order": 11,
+      "report_date": "2024-01-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0108",
+          "source_page": "Main",
+          "text": "January 16, 2024"
+        },
+        {
+          "block_id": "BLOCK-0109",
+          "source_page": "Main",
+          "text": "As of January 16, 2024, FDA has received 89 confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0110",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of January 12, CDC has received reports of 93 confirmed cases, 233 probable cases, and 28 suspected cases for a total of 354 cases from 41 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0111",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 15,
+      "stage_id": "R15",
+      "source_block_ids": [
+        "BLOCK-0108",
+        "BLOCK-0109",
+        "BLOCK-0110",
+        "BLOCK-0111"
+      ],
+      "stage_source_sha256": "9d02afea7396502fe4cd1237541f8752db5b873c949c85186b74bbc3ff004c9c"
+    },
+    {
+      "source_order": 10,
+      "report_date": "2024-01-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0103",
+          "source_page": "Main",
+          "text": "January 23, 2024"
+        },
+        {
+          "block_id": "BLOCK-0104",
+          "source_page": "Main",
+          "text": "FDA has no indication that this issue extends beyond these recalled products and does not have any confirmed reports of illnesses or elevated blood lead level adverse events reported for other cinnamon-containing products or cinnamon."
+        },
+        {
+          "block_id": "BLOCK-0105",
+          "source_page": "Main",
+          "text": "As of January 22, 2024, FDA has received 90 confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0106",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of January 19, CDC has received reports of 97 confirmed cases, 253 probable cases, and 35 suspected cases for a total of 385 cases from 42 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0107",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 16,
+      "stage_id": "R16",
+      "source_block_ids": [
+        "BLOCK-0103",
+        "BLOCK-0104",
+        "BLOCK-0105",
+        "BLOCK-0106",
+        "BLOCK-0107"
+      ],
+      "stage_source_sha256": "1b19174ad5b1078d19f9be0726ae58832cc4f036ed28598af45095f973b2a280"
+    },
+    {
+      "source_order": 9,
+      "report_date": "2024-01-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "January 30, 2024"
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "FDA has no indication that this issue extends beyond these recalled products and does not have any confirmed reports of illnesses or elevated blood lead level adverse events reported for other cinnamon-containing products or cinnamon."
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "As of January 29, 2024, FDA has not received any additional confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0101",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of January 26, CDC has received reports of 98 confirmed cases, 269 probable cases, and 37 suspected cases for a total of 404 cases from 43 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0102",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 17,
+      "stage_id": "R17",
+      "source_block_ids": [
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100",
+        "BLOCK-0101",
+        "BLOCK-0102"
+      ],
+      "stage_source_sha256": "8e625f8a725b0ff3e45c3505a0a07b5a7a2cd916ab25a6ff0d0234c4f7961849"
+    },
+    {
+      "source_order": 8,
+      "report_date": "2024-02-06",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "February 6, 2024"
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "Ecuadorian officials in Agencia Nacional de Regulación, Control y Vigilancia Sanitaria (ARCSA) have reported that Carlos Aguilera of Ecuador, the processor of the ground cinnamon supplied by Negasmart to Austrofoods and later used in recalled apple cinnamon products, is the likely source of contamination and is not in operation at this time. Additionally, according to ARCSA, the unprocessed cinnamon sticks used in recalled products were sourced from Sri Lanka and were sampled by ARCSA and found to have no lead contamination. ARCSA’s investigation and legal proceedings to determine ultimate responsibility for the contamination are still ongoing."
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "The FDA has limited authority over foreign ingredient suppliers who do not directly ship product to the U.S. This is because their food undergoes further manufacturing/processing prior to export. Thus, the FDA cannot take direct action with Negasmart or Carlos Aguilera."
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "FDA has no indication that this issue extends beyond these recalled products and does not have any confirmed reports of illnesses or elevated blood lead level adverse events reported for other cinnamon-containing products or cinnamon."
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "As of February 5, 2024, FDA has not received any additional confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of February 2, CDC has received reports of 100 confirmed cases, 277 probable cases, and 36 suspected cases for a total of 413 cases from 43 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 18,
+      "stage_id": "R18",
+      "source_block_ids": [
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095",
+        "BLOCK-0096",
+        "BLOCK-0097"
+      ],
+      "stage_source_sha256": "b95caab5783cda87107129f6e2b8b2a931dce153628e86f9f811a3c188893211"
+    },
+    {
+      "source_order": 7,
+      "report_date": "2024-02-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0085",
+          "source_page": "Main",
+          "text": "February 13, 2024"
+        },
+        {
+          "block_id": "BLOCK-0086",
+          "source_page": "Main",
+          "text": "As of February 13, 2024, FDA has not received any additional confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0087",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of February 9, CDC has received reports of 101 confirmed cases, 284 probable cases, and 37 suspected cases for a total of 422 cases from 44 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0088",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        },
+        {
+          "block_id": "BLOCK-0089",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine the point of contamination and whether additional products are linked to illnesses. FDA has no indication that this issue extends beyond these recalled products and does not have any confirmed reports of illnesses or elevated blood lead level adverse events reported for other cinnamon-containing products or cinnamon."
+        },
+        {
+          "block_id": "BLOCK-0090",
+          "source_page": "Main",
+          "text": "Previous updates not captured by the initial timeline below are in the Previous Updates section. FDA will update the advisory as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 19,
+      "stage_id": "R19",
+      "source_block_ids": [
+        "BLOCK-0085",
+        "BLOCK-0086",
+        "BLOCK-0087",
+        "BLOCK-0088",
+        "BLOCK-0089",
+        "BLOCK-0090"
+      ],
+      "stage_source_sha256": "1e8256bde65b614e413bbf5b32c9bd2a27d530769932a3e7e31db31d67ecd9bd"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2024-02-27",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0081",
+          "source_page": "Main",
+          "text": "February 27, 2024"
+        },
+        {
+          "block_id": "BLOCK-0082",
+          "source_page": "Main",
+          "text": "As of February 27, 2024, FDA has not received any additional confirmed complaints/reports of adverse events potentially linked to recalled product. To date, confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0083",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of February 23, CDC has received reports of 111 confirmed cases, 320 probable cases, and 37 suspected cases for a total of 468 cases from 44 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0084",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 20,
+      "stage_id": "R20",
+      "source_block_ids": [
+        "BLOCK-0081",
+        "BLOCK-0082",
+        "BLOCK-0083",
+        "BLOCK-0084"
+      ],
+      "stage_source_sha256": "fd1b4cea05ae6463c940b42c3b82cb8236a496b8ec9236bdf94292a298939f0d"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2024-02-29",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0076",
+          "source_page": "Main",
+          "text": "February 29, 2024"
+        },
+        {
+          "block_id": "BLOCK-0077",
+          "source_page": "Main",
+          "text": "After additional analysis of the cinnamon collected from the manufacturer in Ecuador (Austrofoods), FDA has confirmed that the lead and chromium previously detected in the cinnamon are from lead chromate. People who ate recalled products, especially if they had elevated blood lead levels, may have been exposed to chromium and should inform their healthcare provider so they can monitor health and provide supportive care, as needed. Healthcare providers can refer to CDC’s Clinician Outreach and Communication Activity (COCA Now) announcement for information for additional guidance."
+        },
+        {
+          "block_id": "BLOCK-0078",
+          "source_page": "Main",
+          "text": "Historically, lead chromate has been illegally added to certain spices to increase their weight and enhance their color, which increases the monetary value of the adulterated spices. FDA’s leading hypothesis remains that this was likely an act of economically motivated adulteration."
+        },
+        {
+          "block_id": "BLOCK-0079",
+          "source_page": "Main",
+          "text": "Further, FDA has limited authority over foreign ingredient suppliers who do not directly ship product to the U.S. This is because their food undergoes further manufacturing/processing prior to export. Thus, the FDA has limited ability to take direct action with Negasmart (the supplier of cinnamon to Austrofoods) or Carlos Aguilera (the processor of the cinnamon sticks)."
+        },
+        {
+          "block_id": "BLOCK-0080",
+          "source_page": "Main",
+          "text": "Ecuadorian officials in Agencia Nacional de Regulación, Control y Vigilancia Sanitaria (ARCSA) have reported that Carlos Aguilera of Ecuador, is the likely source of contamination and is not in operation at this time."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 21,
+      "stage_id": "R21",
+      "source_block_ids": [
+        "BLOCK-0076",
+        "BLOCK-0077",
+        "BLOCK-0078",
+        "BLOCK-0079",
+        "BLOCK-0080"
+      ],
+      "stage_source_sha256": "a1d3f406361cdb3f8f1e4700d4a138a4720413b4aef31eb95f8f71d9e9f0f674"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2024-03-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0072",
+          "source_page": "Main",
+          "text": "March 13, 2024"
+        },
+        {
+          "block_id": "BLOCK-0073",
+          "source_page": "Main",
+          "text": "To date, FDA has reviewed 90 confirmed complaints/reports of adverse events potentially linked to recalled product. Confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0074",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of March 8, CDC has received reports of 126 confirmed cases, 336 probable cases, and 37 suspected cases for a total of 499 cases from 44 different states through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0075",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 22,
+      "stage_id": "R22",
+      "source_block_ids": [
+        "BLOCK-0072",
+        "BLOCK-0073",
+        "BLOCK-0074",
+        "BLOCK-0075"
+      ],
+      "stage_source_sha256": "8802062b53b33a562da63f3c7cf4bd1e5abe76f9113bed8809b29aaa6d571431"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2024-03-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "March 26, 2024"
+        },
+        {
+          "block_id": "BLOCK-0069",
+          "source_page": "Main",
+          "text": "To date, the FDA’s Coordinated Outbreak Response & Evaluation (CORE) Network has reviewed 90 confirmed complaints/reports of adverse events potentially linked to recalled product. Confirmed complainants, or people for whom a complaint or adverse event was submitted and met FDA’s complainant definition, are between zero and 53 years of age and the median age is one year old."
+        },
+        {
+          "block_id": "BLOCK-0070",
+          "source_page": "Main",
+          "text": "CDC’s National Center for Environmental Health is conducting case finding efforts in collaboration with state and local health departments. CDC’s case definition for state partners includes a blood lead level of 3.5 µg/dL or higher measured within 3 months after consuming a recalled WanaBana, Schnucks, or Weis brand fruit puree product after November 2022. As of March 22, CDC has received reports of 136 confirmed cases, 345 probable cases, and 38 suspected cases for a total of 519 cases from 44 different states plus Washington D.C. and Puerto Rico through their reporting structure. For more information, please visit CDC’s page to review their case reporting methodology and findings."
+        },
+        {
+          "block_id": "BLOCK-0071",
+          "source_page": "Main",
+          "text": "CDC and FDA have different data sources, so the counts reported by each agency will not directly correspond. In addition, some people who were affected by the contaminated product might be reflected in both the numbers reported by the FDA and the numbers reported by CDC, so the numbers should not be added together."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 23,
+      "stage_id": "R23",
+      "source_block_ids": [
+        "BLOCK-0068",
+        "BLOCK-0069",
+        "BLOCK-0070",
+        "BLOCK-0071"
+      ],
+      "stage_source_sha256": "3bf78f14295434d59c1d82ecb80abb412ba5d4c60d960ecb4e89c4f8acead06d"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2024-04-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "April 16, 2024"
+        },
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "The FDA has transitioned from its initial response activities managed by FDA’s Coordinated Outbreak Response & Evaluation (CORE) Network, to contain the event so that no additional illnesses occurred and to identify the source of the issue. The agency is now focused on post-incident response actions and activities, which may include additional surveillance, as well as prevention and compliance activities. Future updates on lead-related actions and activities can be found on the FDA Post- Incident Response Activities: Elevated Lead & Chromium Levels: Cinnamon Applesauce Pouches page."
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "During the course of this investigation, CORE received 90 confirmed complaints/reports of adverse events potentially linked to recalled product. There is a lag between exposure to lead, the development of any noticeable symptoms/routine screening to detect elevated blood lead levels, and the determination of the likely source of exposure and reporting that to CDC and FDA."
+        },
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "Although FDA may receive additional complaints/adverse event reports related to this product, we will no longer report them on this page; however, FDA will continue to evaluate any incoming adverse events and conduct follow up as needed."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 24,
+      "stage_id": "R24",
+      "source_block_ids": [
+        "BLOCK-0064",
+        "BLOCK-0065",
+        "BLOCK-0066",
+        "BLOCK-0067"
+      ],
+      "stage_source_sha256": "a4d704e75a5f491d75d83feb86d8f71bba2cf06add02d53eb65998441d4bff51"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2024-06-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "June 20, 2024"
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration is continuing to take steps following the investigation of lead and chromium in apple cinnamon fruit puree pouches this past fall that was prompted by findings of elevated blood lead levels in children. While initial response activities to investigate the source of the contamination and prevent additional illnesses are completed, the Agency is continuing to explore prevention, compliance, and surveillance activities going forward."
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "In June 2024, the FDA issued a warning letter to Dollar Tree, Inc., because, at the time of the recall, the company failed to adequately remove recalled WanaBana apple cinnamon fruit puree pouches from its store shelves. In the weeks and months that followed the manufacturer’s voluntary recall of apple cinnamon fruit puree pouches, public health officials across many states reported continuing to see recalled WanaBana apple cinnamon fruit puree pouches on Dollar Tree store shelves. The FDA has asked the company to respond within 15 days of receipt of the warning letter stating the specific steps it has taken to address any violations and prevent the recurrence of violations or providing its reasoning and supporting information as to why the company believes it is not in violation of the law. This warning letter is part of the Agency’s ongoing post-incident response activities."
+        },
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "In addition, the FDA is continuing oversight of foreign firms and imported foods, including through increased and more targeted import screening. As such, the Agency has also placed Negasmart, doing business as Sanchez Obando Alexander Ricardo, the distributor of the cinnamon used in the contaminated applesauce products, on multiple import alerts, including Import Alert 99-47 regarding products that appear to be adulterated for economic gain and Import Alert- 99-42 for products that are contaminated with heavy metals and appear to be adulterated under section 402(a)(1) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 25,
+      "stage_id": "R25",
+      "source_block_ids": [
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062",
+        "BLOCK-0063"
+      ],
+      "stage_source_sha256": "c51c343882c4b1b1cc5dec9bf8fface7de63d70a687331a43bbaa050620affab"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-08-15",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-NEW-0000",
+          "source_page": "Main",
+          "text": "Investigation of Elevated Lead Levels: Applesauce Pouches (November 2023)"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled cinnamon apple puree and applesauce products. Information on lot codes and UPCs can be found in the firm's recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recalled WanaBana apple cinnamon fruit puree pouches – including three packs"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recalled Schnucks-brand cinnamon-flavored applesauce pouches and variety pack"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Recalled Weis-brand cinnamon applesauce pouches"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "These products are off the market and no longer available for sale; however, they have a long shelf life. Consumers should check their pantries and discard any recalled products."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of Lead Toxicity"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Lead is toxic to humans and can affect people of any age or health status. Protecting children from exposure to lead is particularly important because they are more susceptible to lead toxicity. Most children have no obvious immediate symptoms. Parents and caretakers should consult a healthcare provider if you suspect a child may have been exposed to lead. Short term exposure to lead could result in the following symptoms: headache; abdominal pain/colic; vomiting; anemia. Longer term exposure could result in the following additional symptoms: irritability; lethargy; fatigue; muscle aches or muscle prickling/burning; constipation; difficulty concentrating/muscular weakness; tremor; weight loss."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "WanaBana apple cinnamon fruit puree pouches are sold nationally and have been available through multiple retailers, including Amazon, Dollar Tree, Family Dollar/Dollar Tree combination stores, and other online outlets."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Schnucks-brand cinnamon-flavored applesauce pouches and variety pack are sold at Schnucks and Eatwell Markets grocery stores."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Weis-brand cinnamon applesauce pouches are sold at Weis grocery stores."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Ended. FDA’s response has transitioned from this investigation to post-incident actions and activities."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Consumers should not eat, sell, or serve recalled WanaBana , Schnucks, or Weis-brand apple cinnamon pouches and should discard them."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "These products have a long shelf life. Consumers should check their homes and discard these products."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "To properly discard the product, consumers and retailers should carefully open the pouch and empty the content into a trash can before discarding the packaging to prevent others from salvaging recalled product from the trash. Clean up any spills after discarding the product then wash your hands."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you or your child may have symptoms of lead toxicity after eating recalled fruit pouches."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Most children have no obvious immediate symptoms of lead exposure. If there’s suspicion that a child may have been exposed to lead, parents should talk to their child’s healthcare provider about getting a blood test ."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "For clinicians , please refer to the Centers for Disease Control and Prevention’s (CDC) Health Alert Network (HAN) and CDC’s Clinician Outreach and Communication Activity (COCA Now) announcements for guidance on how to best care for patients who were potentially exposed to lead or chromium by consuming recalled products."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "August 15, 2024"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration is continuing to take steps following the investigation of lead and chromium in apple cinnamon fruit puree pouches this past fall that was prompted by findings of elevated blood lead levels in children. While initial response activities to investigate the source of the contamination and prevent additional illnesses are complete, the Agency is continuing to explore prevention, compliance, and surveillance activities going forward."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "On August 9, 2024, the U.S. Food and Drug Administration issued a Warning Letter to AUSTROFOOD S.A.S. (Austrofood) , the manufacturer of the apple cinnamon fruit puree pouches that were recalled last year and that were found to contain elevated levels of lead and chromium."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "This warning letter is part of the Agency’s ongoing post-incident response activities."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "FDA Complaint/Adverse Event Report Overview"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Total Complaint/Adverse Event Report: 90* Report Date Ranges: October 17, 2023 – January 16, 2024 States with Complaint/Report: AL (1), AR (1), AZ (1), CA (1), CT (1), FL (1), GA (2), IA (1), IL (5), IN (1), KY (3), LA (4), MA (3), MD (7), MI (8), MO (3), NC (6), NE (2), NH (1), NJ (1), NM (1), NY (8), OH (3), OK (1), PA (2), SC (2), TN (3), TX (3), VA (2), WA (4), WI (2), WV (3), Unknown (3) Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "* Estimate based on Consumer Complaint and CFSAN Adverse Event Reporting System (CAERS) reports received by the FDA."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Initial Investigation Timeline"
+        },
+        {
+          "block_id": "BLOCK-NEW-0002",
+          "source_page": "Main",
+          "text": "Initial Investigation Timeline"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "On October 28, 2023, the FDA discussed the analytical findings with WanaBana LLC and issued a safety alert warning consumers not to use WanaBana Apple Cinnamon Fruit Puree products. The same day, Wanabana LLC agreed to voluntarily recall the WanaBana Apple Cinnamon Fruit Puree products."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "On October 29, 2023, Wanabana LLC notified their customers about recall of the WanaBana Apple Cinnamon Fruit Puree products."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "On October 30, 2023, and through continued cooperation with the FDA, Wanabana LLC issued a press release regarding their voluntary recall of all WanaBana Apple Cinnamon Fruit Puree Pouches."
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "On November 2, 2023, after reviewing records provided by the firm as part of their initial recall, the FDA learned that other products (i.e., certain Schnucks and Weis cinnamon applesauce pouches) were implicated in the recall and required additional public notice."
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "On November 3, 2023, the FDA updated its safety alert to, among other things, include certain Schnucks and Weis cinnamon applesauce pouches."
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "On November 5, 2023, the FDA held a call with the firm, Wanabana LLC. During the call, FDA staff discussed the investigation, requested additional information from the firm, and asked the firm to update their press release regarding their voluntary recall and to provide additional clarification regarding the scope of the recall of all apple cinnamon fruit puree products, which the firm verbally agreed to provide."
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "On November 6, 2023, Apple Cinnamon Fruit Puree products from Austrofoods were added to Import Alert 99-42 ."
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "On November 9, 2023, Wanabana LLC issued their expanded recall announcement to include information on recalled Schnucks and Weis cinnamon applesauce pouches, which also impacts markets outside of the United States. Customer information provided by Wanabana LLC shows that product was also distributed to Cuba and the United Arab Emirates."
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Additional FDA actions taken in response to this incident are captured in the previous updates below ."
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0003",
+          "source_page": "Main",
+          "text": "Investigation of Elevated Lead Levels: Applesauce Pouches (November 2023)"
+        },
+        {
+          "block_id": "BLOCK-NEW-0004",
+          "source_page": "Main",
+          "text": "Investigation of Elevated Lead Levels: Cinnamon Applesauce Pouches 3 Pack"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Recalled Product"
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "In response to this investigation, Wanabana has voluntarily recalled all WanaBana Apple Cinnamon Fruit Puree Pouches regardless of expiration date and lot code. Two additional brands of products are also subject to recall: certain Schnucks cinnamon-flavored applesauce pouches and variety pack and certain Weis cinnamon applesauce pouches."
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "International Distribution for Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "The recall impacts markets outside of the United States. Customer information provided by the firm shows that product was also distributed to Cuba and the United Arab Emirates."
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "About Chromium:"
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "Chromium is a naturally occurring element. It is an essential trace nutrient important to the diet. Chromium exists predominantly in two forms, chromium (III) and chromium (VI). Chromium (III) is a nutritional form but can be toxic at elevated levels. Both forms of chromium are used in many industrial applications and may be a by-product of manufacturing processes. Chromium (VI), a more toxic form, may be used in these processes or produced as a by-product."
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "The FDA does recognize some accepted uses of various types of chromium as an ingredient in foods, including dietary supplements and for animal feed; however, chromium (VI), a constituent of lead chromate, falls outside of these accepted types and exposure to elevated levels of this type of chromium in food is not well understood."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 26,
+      "stage_id": "R26",
+      "source_block_ids": [
+        "BLOCK-NEW-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0041",
+        "BLOCK-NEW-0002",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-NEW-0003",
+        "BLOCK-NEW-0004",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058"
+      ],
+      "stage_source_sha256": "4b1e310d07e43a7a5431e42b831315f6c988136cc94d1c3ad52e32dc55657f7d"
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1031",
+  "title": "Outbreak Investigation of Salmonella Oranienburg: Whole, Fresh Onions (October 2021) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0033",
+            "BLOCK-0034",
+            "BLOCK-0036"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 27, 2021"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0031"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 27, 2021"
+            },
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "Keeler Family Farms",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; July 1, 2021 through August 31, 2021"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0031",
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0028",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "Keeler Family Farms",
+              "brands": [
+                "MVP"
+              ],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; July 1, 2021 through August 25, 2021"
+            },
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 31, 2021"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0028",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 808,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "Keeler Family Farms",
+              "brands": [
+                "MVP"
+              ],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; July 1, 2021 through August 25, 2021"
+            },
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 31, 2021"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "downstream recalls by retailers/processors that may have received recalled onions from ProSource Produce LLC and Keeler Family Farms"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 808,
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "Keeler Family Farms",
+              "brands": [
+                "MVP"
+              ],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; July 1, 2021 through August 25, 2021"
+            },
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 31, 2021"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "downstream recalls by retailers/processors that may have received recalled onions from ProSource Produce LLC and Keeler Family Farms"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 892,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "Keeler Family Farms",
+              "brands": [
+                "MVP"
+              ],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; July 1, 2021 through August 25, 2021"
+            },
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 31, 2021"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "downstream recalls by retailers/processors that may have received recalled onions from ProSource Produce LLC and Keeler Family Farms"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 1040,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0008"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 260,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0008"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0008"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole, fresh onions imported from the State of Chihuahua, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cilantro and lime condiment",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0000"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "Keeler Family Farms",
+              "brands": [
+                "MVP"
+              ],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; July 1, 2021 through August 25, 2021"
+            },
+            {
+              "product_name": "red, yellow, and white whole, fresh onions",
+              "recalling_company": "ProSource Produce LLC",
+              "brands": [],
+              "recall_scope": "imported from the State of Chihuahua, Mexico; import dates July 1, 2021 through August 31, 2021"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled onions",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "downstream recalls by retailers/processors that may have received recalled onions from ProSource Produce LLC and Keeler Family Farms"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

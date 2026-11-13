@@ -1,0 +1,228 @@
+# CASE 1214 reviewed source
+Title: Outbreak Investigation of Listeria monocytogenes: Queso Fresco and Cotija Cheese (February 2024) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-queso-fresco-and-cotija-cheese-february-2024
+Source blocks SHA256: ac69650c83c94e2dea05983e009c224ff9bfcc41844575d501bb906ba77514f9
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0001 | role=report_evidence] Images of Additional Products
+[BLOCK-0002 | role=report_evidence] Products:
+[BLOCK-0003 | role=report_evidence] Recalled dairy products and products made with recalled dairy products sold under the brand names:
+[BLOCK-0004 | role=report_evidence] Bright Farms, Campesino, Casa Cardenas, Dole, Don Francisco, Don Pancho, Dos Ranchitos, El Huache, Food City, Fresh & Ready Foods, Fresh Express, H-E-B, Jack & Olive, La Ordena, Marketside, Maverick Foods, President’s Choice, Ready Pac Bistro, Rio Grande, Rizo Bros, Rico, Rojos, San Carlos, Santa Maria, Sprig & Sprout (S&S), The Perfect Bite Co.,Tio Francisco, Trader Joe’s, and 365 Whole Foods Market.
+[BLOCK-0005 | role=report_evidence] Retailer names where product was sold unbranded as taco kits, wraps, and meals:
+[BLOCK-0006 | role=report_evidence] Albertsons, Bristol Farms, Carrs-Safeway, Costco, Eagle, Lucky, Pavilions, Randalls, Safeway, Save Mart, Shaw's, Sprouts (S&S), Star Market, Stater Bros. Markets, Tom Thumb, and Vons.
+[BLOCK-0007 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0008 | role=report_evidence] Symptoms of Listeriosis ( Listeria Infection)
+[BLOCK-0009 | role=report_evidence] Symptoms usually start within two weeks after eating food contaminated with Listeria but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include a fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions.
+[BLOCK-0010 | role=report_evidence] Stores Affected
+[BLOCK-0011 | role=report_evidence] Sold Nationwide
+[BLOCK-0012 | role=report_evidence] Rizo Lopez, Inc. has provided a list of Retail Establishments That Received Rizo-López Foods Dairy Products that includes distribution to CA, CO, IL, NV, OR, UT, and WA. This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. Please refer to the product list regardless of place of purchase and discard recalled product.
+[BLOCK-0013 | role=report_evidence] Status
+[BLOCK-0014 | role=report_evidence] Ended.
+[BLOCK-0015 | role=report_evidence] Recommendations:
+[BLOCK-0016 | role=report_evidence] Potentially contaminated recalled product is no longer available on the market; however, consumers should check your refrigerators and freezers for any recalled products and throw them away. If you froze a product without the original packaging and can’t tell if it is part of the recalls, throw it away.
+[BLOCK-0017 | role=report_evidence] Consumers, restaurants, and retailers who purchased or received recalled products, including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces.
+[BLOCK-0018 | role=report_evidence] If you have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care.
+[BLOCK-0019 | role=report_evidence] Recommendations for At-Risk Groups
+[BLOCK-0020 | role=report_evidence] Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill.
+[BLOCK-0021 | role=report_evidence] Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn.
+[BLOCK-0022 | role=report_evidence] Call your healthcare provider right away if you have symptoms of a Listeria infection.
+[BLOCK-0023 | role=report_evidence] Current Update
+[BLOCK-0024 | role=report_evidence] October 9, 2024
+[BLOCK-0025 | role=report_evidence] On October 8, 2024, the U.S. District Court for the Eastern District of California entered a consent decree of permanent injunction against Rizo Lopez Foods Inc. (“Rizo Lopez Foods”), a California-based food manufacturer, and the company’s co-owners, Edwin Rizo and Tomas Rizo.
+[BLOCK-0026 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0027 | role=report_evidence] Case Counts
+[BLOCK-0028 | role=report_evidence] Total Illnesses: 26 Hospitalizations: 23 Deaths: 2 Last Sample Collection Dates: June 15, 2014 - December 10, 2023 States with Cases: AZ, CA, CO, FL, GA, NV, NC, OR, TN, TX, WA Product Distribution: Nationwide and Canada
+[BLOCK-0039 | role=report_evidence] Product Images
+[BLOCK-0040 | role=report_evidence] Recalled Products
+[BLOCK-ADD-TABLE-1214-01 | role=report_evidence] Please see the companies’ press releases for additional information about recalled products. The following table is a courtesy copy from the FDA.
+[BLOCK-ADD-1786030676770-6 | role=report_evidence] [TABLE BLOCK-ADD-TABLE-1214-01]
+Section: Recalled Products
+Rows and columns reconstructed from the original HTML table:
+
+| Product Description | Brand | Size | UPC | Sell or Use By Dates | Date of Recall |
+| --- | --- | --- | --- | --- | --- |
+| Cheese Enchiladas with Red 4/pkg | Rico | 14.5 oz | 65366006001 | Lot. 0234 02/13/24, Lot. 0264 02/16/24, Lot. 0304 02/20/24, Lot. 0334 02/23/24. | 2024/02/12 |
+| Cheese Enchiladas with Green 4/pkg | Rico | 14.5 oz | 65366006002 | Lot. 0234 02/13/24, Lot. 0264 02/16/24, Lot. 0304 02/20/24, Lot. 0334 02/23/24. | 2024/02/12 |
+| Chicken Enchilada with Rice & Beans/Green | Rico | 14 oz | 65366006015 | Lot. 0234 02/13/24, Lot. 0264 02/16/24, Lot. 0304 02/20/24, Lot. 0334 02/23/24. | 2024/02/12 |
+| Chicken Enchilada with Mole, Rice & Beans | Rico | 14 oz | 65366006016 | Lot. 0234 02/13/24, Lot. 0264 02/16/24, Lot. 0304 02/20/24, Lot. 0334 02/23/24. | 2024/02/12 |
+| Chicken Taco Kit | Bristol Farms | 9.0 oz | 207490 509994 | 1/18/24 | 2024/02/13 |
+| Ham Torta Sandwich on Telera Roll | Sprig & Sprout (S&S) | 8.3 oz | 100001002017 | 02/09/24 to 02/16/24 | 2024/02/13 |
+| Southwest Chicken Wrap | Costco |  | Item # 29433 |  | 2024/02/07 |
+| Chicken Street Taco Kit | Costco |  | Item # 11545 |  | 2024/02/07 |
+| Chipotle Chicken and Rice Bowl | Maverick Foods |  | Item # 1704074 | 1/06/2025 - 1/12/2025 | 2024/02/09 |
+| Chicken Street Taco Kit | Sprouts Farmers Market |  | 13454-38075 | 11/29/2023-3/4/2024 | 2024/02/07 |
+| Bacon Ranch Crunch Chopped Salad Kit | Marketside |  | 681131305440 | On or before Feb 21, 2024 | 2024/02/09 |
+| Mexican Style Street Corn Bite | The Perfect Bite Co. |  | Lot #: 223231 | Best Before 02/21/2025 | 2024/02/10 |
+| Chicken Street Taco Kit | Save Mart, Lucky, Lucky California |  | UPC Beginning with 278230 |  | 2024/02/09 |
+| Chicken Street Taco Kit | Stater Bros. Markets | 20 oz | 0102864343013992 | Feb. 10, 2024 | 2024/02/09 |
+| Ham Torta Sandwich | Fresh & Ready | 9 oz | 8290690707 | 02/03/2024 to 02/22/2024 | 2024/02/09 |
+| Chicken Torta Sandwich | Fresh & Ready | 9 oz | 8290690706 | 02/03/2024 to 02/22/2024 | 2024/02/09 |
+| Sprig & Sprout Ham Torta Sandwich on Telera Roll | Sprig & Sprout | 9 oz | 8290690720 | 01/27/2024 to 02/15/2024 | 2024/02/09 |
+| Jack & Olive Ham Torta Sandwich on Telera Roll | Jack & Olive | 9 oz | 8290690725 | 01/27/2024 to 02/15/2024 | 2024/02/09 |
+| 2 Chicken Enchiladas with Green Salsa; Rice & Beans | Rico | 14 oz |  | Best before dates starting with 0234, 0264, 0304, 0334, 0374 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| 2 Chicken Enchiladas with Mole; Rice & Beans | Rico | 14 oz |  | Best before dates starting with 0234, 0264, 0304, 0334, 0374 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Bacon-Wrapped Jalapeno Peppers Stuffed with Street Corn | Custom Made Meals |  |  | Feb 24 to 28 Feb 24 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Chicken Enchiladas Verde White Chicken Meat, Monterey Jack Cheese and Cotija Cheese With A Mildly Spicy Green Chili Sauce | Trader Joe’s | 17.6 oz |  | USE BY: 02/05/2024 to 02/14/2024 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Ready 2 Heat Red Chicken Enchiladas White Chicken Meat and Cheese Enchiladas Filling Rolled in a Tortilla Topped with Red Sauce and Cheese Blend | readymeals | 12.48 oz |  | USE BY: 2/7/24 to 2/12/24 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Chicken Enchiladas with Green Chile Sauce | QFC | 26.50 oz |  | USE BY: 2/8/24 to 2/11/24 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Ready 2 Heat Red Chile Sauce Chicken Enchiladas | readymeals | 12.5 |  | USE BY: 2/6/24 to 2/12/24 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Pinto, Black Bean & Beef Dip With Cotija Cheese | Albertson’s, Safeway | 25 oz |  | USE BY: 2/5/24 to2/12/24 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Chicken Elote | The Savemart Companies | 13.5 oz |  | USE BY: 2/5/2024 to 2/12/2024 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Elote Bowl with Chicken | Raley’s | 12.75 oz |  | USE BY: 2/5/2024 to 2/12/2024 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Ready Meals Chicken Street Tacos | Albertsons, Safeway, Eagle, Carrs-Safeway, Pavilions, Vons, Randalls, Tom Thumb, Shaw’s, Star Market | 24 oz 22 oz (Shaw’s only) | 27131600000 | All Sell Thru dates up to and including Feb. 10, 2024 | 2024/02/08 |
+| Ready Meals Chicken Street Tacos Meal | Albertsons, Safeway, Lucky, Shaw’s, Star Market, Randalls, Tom Thumb, Vons | 9 oz 10 oz (Shaw’s only) | 27179600000 | All Sell Thru dates up to and including Feb. 10, 2024 | 2024/02/08 |
+| Chicken Mini Street Taco Meal Kit | Albertsons, Safeway, Eagle, Carrs-Safeway | 22 oz | 21192500000 | All Sell Thru dates up to and including Feb. 10, 2024 | 2024/02/08 |
+| Chicken Asada Street Taco Meal | Albertsons, Safeway, Eagle, Carrs-Safeway, Pavilions, Vons | 16 oz | 29939300000 | All Sell Thru dates up to and including Feb. 10, 2024 | 2024/02/08 |
+| Ready Meals Asada Street Taco Meal | Shaw’s, Star Market, Albertsons, Vons, Safeway, Pavilions | 22 oz | 29939100000 | All Sell Thru dates up to and including Feb. 10, 2024 | 2024/02/08 |
+| Chicken Chile Verde Burrito | Amazon Kitchen | 10.53 oz |  | Best before dates starting with 0764, 1384, 1394, 2694 | FSIS Public Health Alert [LINK: https://www.fsis.usda.gov/recalls-alerts/fsis-issues-public-health-alert-ready-eat-poultry-products-containing-fda-regulated] |
+| Southwest Chopped Chopped Salad Kit | Marketside | 10.3 oz | 681131305129 | 12/27/2023 - 1/14/2024 | 2024/02/08 |
+| Bacon Ranch Crunch Chopped Salad Kit | Marketside | 9.8 oz | 681131305440 | 02/03/2024 - 2/21/2024 | 2024/02/08 |
+| Queso Crunch Salad Kit | Ready Pac Bistro | 10.5 oz | 077745256108 | 1/18/2024 - 2/18/2024 | 2024/02/08 |
+| Fresh Mex Salad Kit | Ready Pac Bistro | 24 oz | 077745256139 | 1/13/2024 - 2/18/2024 | 2024/02/08 |
+| Southwest Chipotle Crunch Salad Kit | BrightFarms | 5.85 oz | 8-50051-82500-4 |  | 2024/02/08 |
+| Southwest Chopped Salad Kit | Marketside | 10.3 oz | G364 G002 | 3/3/2024 | 2024/02/08 |
+| Salsa! Ensalada Salad Kit | Fresh Express | 12.1 oz | 1/6/2024 to 1/18/2024 1/21/2024 to 2/20/2024 | 2/28/2024 to 4/4/2024 | 2024/02/08 |
+| Avocado Ranch Chopped Salad Kit | Dole |  | 71430000915 | 02/03/2024-02/20/2024 | 2024/02/08 |
+| Avocado Ranch Ranch A L'Avocat Chopped Salad Kit | Dole |  | 71430000922 | 2024 FE 06 - 2024 FE 20 | 2024/02/08 |
+| Southwest Salad Premium Kit | Dole |  | 71430017012 | 02/04/2024-02/18/2024 | 2024/02/08 |
+| Cajun Ranch Chopped Salad Kit | Dole |  | 71430002063 | 02/04/2024- 02/18/2024 | 2024/02/08 |
+| Endless Summer Premium Kit Salad | Dole |  | 71430010730 | 02/04/2024- 02/19/2024 | 2024/02/08 |
+| Southwest Salad Salade Du Sud-Ouest | Dole |  | 71430017111 | 2024 FE 03 - 2024 FE 18 | 2024/02/08 |
+| Southwest Sud-Ouest Salad Kit De Salade | President’s Choice |  | 60383023195 | 2024 FE 17 - 2024 FE 18 2024 FE 03 - 2024 FE 09 | 2024/02/08 |
+| Chicken Enchiladas Verde | Trader Joe’s | 17.6 oz | SKU 58292 |  | 2024/02/07 |
+| Cilantro Salad Dressing | Trader Joe’s | 12 oz | SKU 36420 |  | 2024/02/07 |
+| Elote Chopped Salad Kit | Trader Joe’s | 11.94 oz | SKU 74768 |  | 2024/02/07 |
+| Southwest Salad | Trader Joe’s | 9 oz | SKU 56077 |  | 2024/02/07 |
+| Black Bean 6-Layer Dip | Rojo’s | 2 pk/20z |  | Feb 06 2024 Feb 14 2024 Feb 16 2024 Feb 21 2024 Feb 23 2024 Feb 29 2024 Mar 02 2024 Mar 07 2024 Mar 09 2024 Mar 14 2024 Mar 21 2024 Mar 22 2024 | 2024/02/07 |
+| Cilantro Lime Crema Twin Pack | Don Pancho | 2 pk/32oz | 71117.00489 | 3/21/2024-4/4/2024 | 2024/02/07 |
+| Everything Sauce Fiesta 3 Pack | Don Pancho | 3 pk/12 oz | 71117.00741 | 3/11/2024-3/26/2024 | 2024/02/07 |
+| Cilantro Cotija Dressing | HEB | 12 oz | 41220.94799 | 1/13/2024-3/30/2024 | 2024/02/07 |
+| Poblano Caesar Dressing | HEB | 12 oz | 41220.94807 | 1/14/2024-3/31/2024 | 2024/02/07 |
+| Cilantro Dressing | Trader Joe’s | 12 oz | 00003.64201 | 2/19/2024-5/14/2024 | 2024/02/07 |
+| Chicken Street Taco Express Meal Kit | Don Pancho | 22 oz | 71117.12500 | 12/12/2023-3/17/2024 | 2024/02/07 |
+| Blanco Suave | Tio Francisco | 14 oz | 7-27242-05355-6 | All dates through 03/23/2024 | 2024/02/05 |
+| Cotija | Rizo Bros | 8 oz | 7-27242-00043-7 | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija | Tio Francisco | 12 oz | 7-27242-12017-3 | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija | Tio Francisco | 14 oz | 7-27242-00517-3 | All dates through 7/31/2024 | 2024/02/05 |
+| Cotija | Food City | ~16 oz |  | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija | Tio Francisco, San Carlos | Available to consumers at retail deli counters in various sizes |  | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija (Grated) | Rizo Bros | 7 oz | 7-27242-14022-5 | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija (Grated) | Tio Francisco, Casa Cardenas | 9 oz | 7-27242-00022-2 & 8-11371-27109-4 | All dates through 06/01/2024 | 2024/02/05 |
+| Cotija (Grated) | Tio Francisco | 20 oz | 7-27242-00056-7 | All dates through 5/2/2024 | 2024/02/05 |
+| Cotija Enchilado | Tio Francisco | 14 oz | 7-27242-00535-7 | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija Enchilado | Food City, Casa Cardenas | ~16 oz |  | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija Enchilado | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 07/31/2024 | 2024/02/05 |
+| Cotija Rallado | Tio Francisco | 12 oz | 7-27242-00021-5 | All dates through 7/31/2024 | 2024/02/05 |
+| Cotija Rallado | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 07/31/2024 | 2024/02/05 |
+| Crema Centroamericana | Tio Francisco | 16 oz | 7-27242-00440-4 | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Centroamericana | Tio Francisco, Campesino | Available to consumers at retail deli counters in various sizes |  | All dates through 06/01/2024 | 2024/02/05 |
+| Crema La Deliciosa | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 04/22/2024 | 2024/02/05 |
+| Crema La Suprema | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 04/22/2024 | 2024/02/05 |
+| Crema Latina | Tio Francisco | 16 oz | 7-27242-35445-5 | All dates through 6/1/2024 | 2024/02/05 |
+| Crema Latina | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Menonita | Campesino | Available to consumers at retail deli counters in various sizes |  | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Mexicana | Tio Francisco, Food City, Santa Maria | 16 oz | 7-27242-00408-4, 7-27242-22410-9, 7-27242-35403-5 | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Mexicana | Tio Francisco, Campesino | Available to consumers at retail deli counters in various sizes |  | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Mexicana | San Carlos | Available to consumers at retail deli counters in various sizes |  | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Mexicana | Tio Francisco | 32 oz | 7-27242-32403-8 | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Nortena | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 06/01/2024 | 2024/02/05 |
+| Crema Santa Isabel Centroamericana |  | Available to consumers at retail deli counters in various sizes |  | All dates through 04/22/2024 | 2024/02/05 |
+| Crema Santa Isabel Latina |  | Available to consumers at retail deli counters in various sizes |  | All dates through 04/22/2024 | 2024/02/05 |
+| Crema Santa Isabel Mexicana |  | Available to consumers at retail deli counters in various sizes |  | All dates through 04/22/2024 | 2024/02/05 |
+| Fresco | Tio Francisco, San Carlos | Available to consumers at retail deli counters in various sizes |  | All dates through 04/02/2024 | 2024/02/05 |
+| Fresco (Michoacano) | Tio Francisco, El Huache, La Ordena | Available to consumers at retail deli counters in various sizes |  | All dates through 04/02/2024 | 2024/02/05 |
+| Oaxaca | Rizo Bros | 8 oz | 7-27242-00334-6 | All dates through 5/2/2024 | 2024/02/05 |
+| Oaxaca | Tio Francisco | 12 oz | 7-27242-12332-7 | All dates through 05/02/2024 | 2024/02/05 |
+| Oaxaca | Tio Francisco | 14 oz | 7-27242-00532-6 | All dates through 05/02/2024 | 2024/02/05 |
+| Oaxaca | Food City | ~16 oz |  | All dates through 05/02/2024 | 2024/02/05 |
+| Oaxaca | Tio Francisco, San Carlos | Available to consumers at retail deli counters in various sizes |  | All dates through 05/02/2024 | 2024/02/05 |
+| Oaxaca (shred) | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 05/02/2024 | 2024/02/05 |
+| Panela | Tio Francisco | 14 oz | 7-27242-00550-0 | All dates through 3/23/2024 | 2024/02/05 |
+| Panela | Food City | ~16 oz |  | All dates through 3/23/2024 | 2024/02/05 |
+| Panela | Tio Francisco, San Carlos, Dos Ranchitos, La Ordena, Campesino | Available to consumers at retail deli counters in various sizes |  | All dates through 03/23/2024 | 2024/02/05 |
+| Panela Barra | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 04/02/2024 | 2024/02/05 |
+| Queso Crema | Food City | ~16 oz |  | All dates through 3/23/2024 | 2024/02/05 |
+| Queso Crema | San Carlos | Available to consumers at retail deli counters in various sizes |  | All dates through 03/23/2024 | 2024/02/05 |
+| Queso Fresco | Rizo Bros | 8 oz | 7-27242-00159-5 | All dates through 04/02/2024 | 2024/02/05 |
+| Queso Fresco | Don Francisco | 10 oz | 7-27242-00178-6 | All dates through 4/2/2024 | 2024/02/05 |
+| Queso Fresco | Tio Francisco | 12 oz | 7-27242-12552-9 | All dates through 03/23/2024 | 2024/02/05 |
+| Queso Fresco | Tio Francisco, Rio Grande | 14 oz | 7-27242-00552-4, 8-12324-03090-4, 8-12324-03091-1 & 8-12324-03089-8 | All dates through 03/23/2024 | 2024/02/05 |
+| Queso Fresco | Food City | ~16 oz |  | All dates through 3/23/2024 | 2024/02/05 |
+| Queso Fresco | Tio Francisco, Campesino, San Carlos, Santa Maria, Dos Ranchitos | Available to consumers at retail deli counters in various sizes |  | All dates through 04/02/2024 | 2024/02/05 |
+| Queso Para Freir | Tio Francisco | ~16 oz |  | All dates through 04/17/2024 | 2024/02/05 |
+| Queso Para Freir | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 04/17/2024 | 2024/02/05 |
+| Queso Seco | Tio Francisco | 14 oz | 7-27242-00548-8 | All dates through 07/31/2024 | 2024/02/05 |
+| Requeson | Tio Francisco | 14 oz | 7-27242-00390-6 | All dates through 04/02/2024 | 2024/02/05 |
+| Requeson | Tio Francisco | 15 oz | 7-27242-00392-6 | All dates through 4/2/2024 | 2024/02/05 |
+| Requeson | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 04/02/2024 | 2024/02/05 |
+| Ricotta Part Skim | 365 Whole Foods Market | 15 oz | 9-94824-63052 | All dates through 04/02/2024 | 2024/02/05 |
+| Ricotta Whole Milk | 365 Whole Foods Market | 15 oz | 9-94824-96245 | All dates through 4/2/2024 | 2024/02/05 |
+| Yogurt (Plain, Strawberry, Peach & Mango) | Tio Francisco | Available to consumers at retail deli counters in various sizes |  | All dates through 04/17/2024 | 2024/02/05 |
+[BLOCK-0234 | role=report_evidence] 12/27/2023 - 1/14/2024
+[BLOCK-0680 | role=report_evidence] Previous Updates
+[BLOCK-0681 | role=report_evidence] April 10, 2024
+[BLOCK-0682 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multi-year, multistate outbreak of Listeria monocytogenes infections linked to queso fresco and cotija cheeses manufactured by Rizo Lopez Foods, Inc., of Modesto, California.
+[BLOCK-0683 | role=report_evidence] As of April 9, 2024, CDC reports that the outbreak is over. CDC reports a total of 26 cases in 11 states. There have been a total of 23 hospitalizations and two deaths were reported. The last illnesses onset date was December 10, 2023. FDA’s outbreak investigation is closed.
+[BLOCK-0684 | role=report_evidence] Food safety is a shared responsibility. Producers of queso fresco type cheeses are responsible for producing safe food, including satisfying applicable food safety requirements. The FDA has developed a prevention strategy with the goal of reducing outbreaks and illnesses of listeriosis associated with soft fresh queso fresco cheeses.
+[BLOCK-0685 | role=report_evidence] February 22, 2024
+[BLOCK-0686 | role=report_evidence] FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below.
+[BLOCK-0687 | role=report_evidence] Rico Brand recalled Ready-to-eat Enchiladas distributed in northern Utah Supermarkets (Smith’s, Harmons, Macey’s The Store, Fresh Markets). They are packaged in a Deep Meal tray – Plant Fiber - Film 800 with the following lot numbers and expiration dates: Lot. 0234 02/13/24, Lot. 0264 02/16/24, Lot. 0304 02/20/24, Lot. 0334 02/23/24.
+[BLOCK-0688 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0689 | role=report_evidence] February 20, 2024
+[BLOCK-0690 | role=report_evidence] Rizo Lopez, Inc. has provided a list of Retail Establishments That Received Rizo-López Foods Dairy Products that includes distribution to CA, CO, IL, NV, OR, UT, and WA. This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. Please refer to the product list regardless of place of purchase and discard recalled product.
+[BLOCK-0691 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0692 | role=report_evidence] February 14, 2024
+[BLOCK-0693 | role=report_evidence] As reported on February 5, 2024, FDA initiated an on-site inspection at Rizo Lopez Foods, Inc. FDA’s inspection is still ongoing; however, an additional environmental sample collected during that inspection has tested positive for Listeria monocytogenes . Whole Genome Sequencing (WGS) analysis of that sample showed that it is the same strain of Listeria that is causing illnesses in this outbreak. Rizo Lopez Foods, Inc has already initiated a voluntary recall in response to this investigation.
+[BLOCK-0694 | role=report_evidence] FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below.
+[BLOCK-0695 | role=report_evidence] Bristol Farms recalled Chicken Taco Kit 9oz with 1/18/24 as the Sell By date and sold in the following Bristol Farms California retail locations: Hollywood, Manhattan Beach, Newport Beach, Palm Desert, Rolling Hills, Santa Barbara, Santa Monica, South Pasadena, West Hollywood, Westchester, Westwood, Woodland Hills, and Yorba Linda.
+[BLOCK-0696 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0697 | role=report_evidence] February 13, 2024
+[BLOCK-0698 | role=report_evidence] FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below.
+[BLOCK-0699 | role=report_evidence] MG Foods recalled S&S Ham & Cotija Torta Sandwich on Telera Roll sold in vending machines and grab-and-go retail markets in FL.
+[BLOCK-0700 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0701 | role=report_evidence] February 12, 2024
+[BLOCK-0702 | role=report_evidence] FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below.
+[BLOCK-0703 | role=report_evidence] Costco Member Letters for Southwest Wrap (Item # 29433)
+[BLOCK-0704 | role=report_evidence] Costco Member Letter for Chicken Street Taco Kit (Item #11545) BA, LA and Select NW & SD Locations
+[BLOCK-0705 | role=report_evidence] Costco Member Letter for Maverick Foods Chipotle Chicken and Rice Bowl (Item #1704074) TE Locations
+[BLOCK-0706 | role=report_evidence] Taylor Fresh Foods recalled Marketside Bacon Ranch Crunch Chopped Salad kits sold at Walmart stores in AL, AR, CO, DC, IA, KS, KY, LA, MD, MN, MO, MS, MT, NC, ND, NE, NY, OK, PA, SD, TN, TX, VA, WV, and WY
+[BLOCK-0707 | role=report_evidence] Braga Fresh recalled Marketside Bacon Ranch Crunch Chopped Salad kits sold at Walmart stores in CA and NV
+[BLOCK-0708 | role=report_evidence] The Perfect Bite Co . recalled MEXICAN STYLE STREET CORN BITE sold to Costco stores in CA and HI
+[BLOCK-0709 | role=report_evidence] Save Mart Companies recalled Chicken Street Taco Kits sold in Save Mart, Lucky, and Lucky California store service delis in CA and NV
+[BLOCK-0710 | role=report_evidence] Stater Bros. Markets recalled Chicken Street Taco Kits sold at all Stater Bros. Markets in CA
+[BLOCK-0711 | role=report_evidence] Fresh & Ready Foods recalled Fresh & Ready Ham Torta Sandwich, Fresh & Ready Chicken Torta Sandwich, Sprig & Sprout Ham Torta Sandwich on Telera Roll, and Jack & Olive Ham Torta Sandwich on Telera Roll sold exclusively in locations in AZ, CA, NV, and UT
+[BLOCK-0712 | role=report_evidence] Sprouts Farmers Market recalled Chicken Street Taco Meal Kit sold in Sprouts stores in AL, FL, GA, NC, and TN
+[BLOCK-0713 | role=report_evidence] On 2/9/2024 and 2/10/2024, The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) updated their public health alert to include additional products made with or containing recalled dairy products from Rizo Lopez Foods, Inc.
+[BLOCK-0714 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0715 | role=report_evidence] February 9, 2024
+[BLOCK-0716 | role=report_evidence] FDA has been notified of additional recalls on 2/8/2024 for products made with or containing recalled dairy products from Rizo Lopez Foods, Inc.
+[BLOCK-0717 | role=report_evidence] BrightFarms, Inc. recalled Southwest Chipotle salad kits. The product was only sold to retailers in DE, MD, ME, MA, NH, NJ, NY, NC, PA, VT, VA, and DC
+[BLOCK-0718 | role=report_evidence] Ready Pac Foods, Inc . recalled the following salad kits:
+[BLOCK-0719 | role=report_evidence] Marketside Southwest Chopped Kit and Marketside Bacon Ranch Crunch Kit sold to Walmart stores in AZ, CA, CO, CT, DE, HI, MA, MD, ME, MT, NH, NJ, NM, NY, PA, RI, SD, TX, VT, and WY
+[BLOCK-0720 | role=report_evidence] Ready Pac Bistro Fresh Mex Chopped Kit sold to WinCo stores in AZ and CA
+[BLOCK-0721 | role=report_evidence] Ready Pac Bistro Queso Crunch Salad Kit sold to Costco stores in CA, NV, HI
+[BLOCK-0722 | role=report_evidence] Fresh Express recalled the following salad kits:
+[BLOCK-0723 | role=report_evidence] Marketside Southwest Chopped Kit sold at retailers in AL, FL, and GA
+[BLOCK-0724 | role=report_evidence] Fresh Express Salsa! Ensalada Salad Kit sold at retailers in CA, ID, UT, WA
+[BLOCK-0725 | role=report_evidence] Dole Fresh Vegetables, Inc. recalled Dole Chopped Kit Avocado Ranch, Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat), Dole Premium Kit Southwest Salad, Dole Cajun Ranch Chopped Kit, Dole Premium Kit Endless Summer, Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest), President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade), and Marketside Chopped Salad Kit Bacon Ranch Crunch. Recalled salad items were sold in the states of AL, CA, CT, FL, GA, IN, KY, LA, MA, MD, MI, MN, MO, MS, NC, NV, NY, OH, PA, SC, TN, UT, VA, WA, and WI. Additionally, these salads were distributed in the following Canadian provinces: Alberta, British Columbia, New Brunswick, Ontario, and Quebec.
+[BLOCK-0726 | role=report_evidence] Albertsons Companies recalled five Ready Meals and store-made taco kits that were available for purchase at the following banner stores: Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY.
+[BLOCK-0727 | role=report_evidence] On 2/8/2024, The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) issued a public health alert for:
+[BLOCK-0728 | role=report_evidence] amazon kitchen, CHICKEN CHILE VERDE burrito with rice, black beans & monterey jack, because they contain recalled dairy products.
+[BLOCK-0729 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0730 | role=report_evidence] February 8, 2024
+[BLOCK-0731 | role=report_evidence] Recalled Rizo Lopez Foods, Inc. products were sold to food service and retailers nationwide. The firm has directly notified their customers who received recalled product.
+[BLOCK-0732 | role=report_evidence] FDA has been notified of additional recalls for products made with or containing recalled dairy products from Rizo Lopez Foods, Inc.
+[BLOCK-0733 | role=report_evidence] On 2/7/2024, Simply Fresh LLC . Recalled Rojos Black Bean 7-Layer Dip 2-20oz club packs. The product was only sold at Costco stores in AL, AK, FL, GA, ID, MI, MT, NC, OR, SC, TN, WA, UT.
+[BLOCK-0734 | role=report_evidence] On 2/7/2024, Trader Joe’s Company recalled Chicken Enchiladas Verde, Cilantro Salad Dressing, Elote Chopped Salad Kit, and Southwest Salad sold in Trader Joe’s nationwide.
+[BLOCK-0735 | role=report_evidence] On 2/7/2024, Fresh Creative Foods recalled certain cremas, everything sauces, cilantro cotija dressing, poblano Caesar dressing, and cilantro dressing, sold in Costco, H-E-B, and Trader Joe’s stores; and taco kits sold in Costco and Albertson’s stores. Recalled products were sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA.
+[BLOCK-0736 | role=report_evidence] More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies .
+[BLOCK-0737 | role=report_evidence] The investigation is ongoing, and FDA will continue to update this advisory as additional information become available.
+[BLOCK-0738 | role=report_evidence] February 5, 2024
+[BLOCK-0739 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multi-year, multistate outbreak of Listeria monocytogene s infections linked to queso fresco and cotija cheeses manufactured by Rizo Lopez Foods, Inc., of Modesto, California.
+[BLOCK-0740 | role=report_evidence] This outbreak includes cases dating back to 2014 and is currently ongoing. CDC investigated this outbreak in 2017 and 2021. Epidemiologic evidence in previous investigations identified queso fresco and other similar cheeses as a potential source of the outbreak, but there was not enough information to identify a specific brand.
+[BLOCK-0741 | role=report_evidence] A sample of Rizo Bros Aged Cotija tested positive for Listeria monocytogenes during sampling conducted by the Hawaii State Department of Health’s Food and Drug Branch in January 2024.In response to that finding, Rizo Lopez Foods, Inc. voluntarily recalled one batch of Rizo Bros Aged Cotija Mexican Grating Cheese (8oz) on January 11, 2024. CDC and FDA reopened the investigation in January 2024 after new illnesses were reported in December 2023 and whole genome sequencing (WGS) analysis of the cotija cheese sample showed that it is same strain of Listeria that is causing illnesses in this outbreak.
+[BLOCK-0742 | role=report_evidence] According to CDC, of the 22 people interviewed, 16 (73%) reported eating queso fresco, cotija, or other similar cheeses. Among people who remembered specific brands, three people who got sick between 2014 and 2022 reported Don Francisco brand queso fresco or cotija. Don Francisco is one of the brands of recalled cheeses.
+[BLOCK-0743 | role=report_evidence] FDA initiated an on-site inspection at Rizo Lopez Foods, Inc. FDA’s inspection is still ongoing; however, an environmental sample collected during that inspection tested positive for Listeria monocytogenes . WGS analysis of that sample showed that it is the same strain of Listeria that is causing illnesses in this outbreak.
+[BLOCK-0744 | role=report_evidence] In response to this investigation, Rizo Lopez Foods, Inc. has voluntarily recalled all sell by dates of its dairy products. The recalled products include cheese, yogurt, and sour cream sold under the brand names Tio Francisco, Don Francisco, Rizo Bros, Rio Grande, Food City, El Huache, La Ordena, San Carlos, Campesino, Santa Maria, Dos Ranchitos, Casa Cardenas, and 365 Whole Foods Market. The firm has temporarily ceased the production and distribution of these products while their investigation is ongoing.

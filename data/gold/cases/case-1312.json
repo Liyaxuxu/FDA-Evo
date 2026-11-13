@@ -1,0 +1,453 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1312",
+  "title": "Outbreak Investigation of Salmonella: Deep-brand Frozen Products (July 2025) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 11,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073",
+            "BLOCK-0074",
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand frozen sprouted mat (moth) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand frozen sprouted moong (mung) beans",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073",
+            "BLOCK-0076"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand Sprouted Mat (Moth)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            },
+            {
+              "product_name": "Deep-brand Sprouted Moong (Mung)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073",
+            "BLOCK-0074",
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 11,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0050"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand frozen sprouted mat (moth) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand frozen sprouted moong (mung) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand Premium Select Frozen SURTI UNDHIU MIX",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0048",
+            "BLOCK-0050",
+            "BLOCK-0069",
+            "BLOCK-0070",
+            "BLOCK-0071"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand Sprouted Mat (Moth)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            },
+            {
+              "product_name": "Deep-brand Sprouted Moong (Mung)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0050",
+            "BLOCK-0054",
+            "BLOCK-0057",
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 11,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand frozen sprouted mat (moth) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand frozen sprouted moong (mung) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand Premium Select Frozen SURTI UNDHIU MIX",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "various Deep-brand frozen vegetables and fruit products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0074",
+            "BLOCK-0075",
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand Sprouted Mat (Moth)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            },
+            {
+              "product_name": "Deep-brand Sprouted Moong (Mung)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            },
+            {
+              "product_name": "various Deep-brand frozen vegetables and fruit products",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "several lots; full list in expanded recall announcement"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0074",
+            "BLOCK-0075",
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0004",
+            "BLOCK-0006",
+            "BLOCK-0036",
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand frozen sprouted mat (moth) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand frozen sprouted moong (mung) beans",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Deep-brand Premium Select Frozen SURTI UNDHIU MIX",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "various Deep-brand frozen vegetables and fruit products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0019",
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Deep-brand Sprouted Mat (Moth)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            },
+            {
+              "product_name": "Deep-brand Sprouted Moong (Mung)",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "1 lb (454 g); lot codes IN 24330, IN 25072, IN 25108, IN 24353, IN 25171, IN 24297, IN 25058, IN 25078, IN 24291, IN 25107, IN 24354, IN 24292"
+            },
+            {
+              "product_name": "various Deep-brand frozen vegetables and fruit products",
+              "recalling_company": "Chetak LLC Group",
+              "brands": [
+                "Deep"
+              ],
+              "recall_scope": "several lots; full list in expanded recall announcement"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0036",
+            "BLOCK-0037",
+            "BLOCK-0038",
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

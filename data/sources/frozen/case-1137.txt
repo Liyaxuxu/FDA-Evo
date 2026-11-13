@@ -1,0 +1,28 @@
+# CASE 1137 reviewed source
+Title: Outbreak Investigation of Salmonella: Sprouts (December 2022) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-sprouts-december-2022
+Source blocks SHA256: 3aa5169522d940dab0323c47751a82831b1d80a3942fa48c23645527ada708c8
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners, investigated a multistate outbreak of Salmonella Typhimurium infections linked to Sun Sprouts-brand alfalfa sprouts grown by SunSprout Enterprises of Fremont, NE.
+[BLOCK-0001 | role=report_evidence] As of February 28, 2023, CDC announced that the outbreak is over. CDC reports a total of 63 illnesses in eight states. The last illness onset was February 2, 2023.
+[BLOCK-0002 | role=report_evidence] On December 29, 2022, SunSprout Enterprises initiated a voluntary recall of two lots (# 4211 and 5211) of raw alfalfa sprouts due to potential contamination with Salmonella . On the same day, SunSprout Enterprises expanded their voluntary recall to include two additional lots (# 3212, and 4212) of raw alfalfa sprouts.
+[BLOCK-0003 | role=report_evidence] On May 10, 2023, the FDA issued a Warning Letter to Rhodes Legacy Inc. (DBA Sun Sprouts).
+[BLOCK-0004 | role=report_evidence] Recommendation
+[BLOCK-0005 | role=report_evidence] Recalled products were sold fresh and are now past shelf-life and should no longer be available for sale.
+[BLOCK-0006 | role=report_evidence] In general, FDA recommends that anyone who received recalled products use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination.
+[BLOCK-0007 | role=report_evidence] Product Images
+[BLOCK-0008 | role=report_evidence] Recalled products include raw alfalfa sprouts sold in 4-ounce clamshells and 2.5-Ib packages, with best by dates between 12/10/2022 and 1/7/2023.
+[BLOCK-0009 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0010 | role=report_evidence] Case Counts
+[BLOCK-0011 | role=report_evidence] Total Illnesses: 63 Hospitalizations: 10 Deaths: 0 Last illness onset: 2/2/2023 States with Cases: AZ (1), IA (6), KS (6), MO (9), NE (26), NH (1), OK (1), SD (13)
+[BLOCK-0019 | role=report_evidence] Previous updates
+[BLOCK-0020 | role=report_evidence] February 28, 2023
+[BLOCK-0021 | role=report_evidence] As of February 28, 2023, CDC announced that the outbreak is over. CDC reports a total of 63 illnesses in eight states. The last illness onset was February 2, 2023.
+[BLOCK-0022 | role=report_evidence] December 30, 2022
+[BLOCK-0023 | role=report_evidence] The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners, is investigating a multistate outbreak of Salmonella Typhimurium infections. FDA’s traceback investigation is ongoing but has identified Sun Sprouts brand alfalfa sprouts grown by SunSprout Enterprises of Fremont, NE as a likely source of illnesses in this outbreak.
+[BLOCK-0024 | role=report_evidence] Based on the epidemiologic information provided by the CDC along with interviews conducted by state and local public health officials, the individuals identified in this outbreak reported consuming alfalfa sprouts prior to their illness onset, either at local restaurants or in their homes after purchasing from local grocery stores. Preliminary traceback evidence indicates that the restaurants and grocery stores identified in this outbreak received alfalfa sprouts from SunSprout Enterprises. Additionally, two of the individuals identified in this outbreak confirmed they had purchased Sun Sprouts brand alfalfa sprouts from their local grocery store. Whole Genome Sequencing (WGS) conducted on clinical samples collected from ill individuals identified 15 isolates that matched the outbreak strain: OK (1), NE (8), and SD (6). WGS for additional clinical isolates are still pending sequencing.
+[BLOCK-0025 | role=report_evidence] On December 29, 2022, SunSprout Enterprises initiated a voluntary recall of two lots (# 4211 and 5211) of raw alfalfa sprouts due to potential contamination with Salmonella . On the same day, SunSprout Enterprises expanded their voluntary recall to include two additional lots (# 3212, and 4212) of raw alfalfa sprouts. The raw alfalfa sprouts for all recalled lots (#4211, 5211, 3212, and 4212) are packaged in 4-ounce clamshells and 2.5 lb packages with best sold by dates between 12/10/2022 and 1/7/2023.
+[BLOCK-0026 | role=report_evidence] The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.

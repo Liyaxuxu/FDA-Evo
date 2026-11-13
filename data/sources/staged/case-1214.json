@@ -1,0 +1,717 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1214",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Queso Fresco and Cotija Cheese (February 2024) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-queso-fresco-and-cotija-cheese-february-2024",
+  "frozen_source_path": "t1/frozen_sources/case-1214.txt",
+  "frozen_source_sha256": "ef3b67a2980e266b7cabc08c1395a821b22b8d4c874cbbbc7e16d320b3f8a277",
+  "stage_count": 10,
+  "stages": [
+    {
+      "source_order": 9,
+      "report_date": "2024-02-05",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0738",
+          "source_page": "Main",
+          "text": "February 5, 2024"
+        },
+        {
+          "block_id": "BLOCK-0739",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multi-year, multistate outbreak of Listeria monocytogene s infections linked to queso fresco and cotija cheeses manufactured by Rizo Lopez Foods, Inc., of Modesto, California."
+        },
+        {
+          "block_id": "BLOCK-0740",
+          "source_page": "Main",
+          "text": "This outbreak includes cases dating back to 2014 and is currently ongoing. CDC investigated this outbreak in 2017 and 2021. Epidemiologic evidence in previous investigations identified queso fresco and other similar cheeses as a potential source of the outbreak, but there was not enough information to identify a specific brand."
+        },
+        {
+          "block_id": "BLOCK-0741",
+          "source_page": "Main",
+          "text": "A sample of Rizo Bros Aged Cotija tested positive for Listeria monocytogenes during sampling conducted by the Hawaii State Department of Health’s Food and Drug Branch in January 2024.In response to that finding, Rizo Lopez Foods, Inc. voluntarily recalled one batch of Rizo Bros Aged Cotija Mexican Grating Cheese (8oz) on January 11, 2024. CDC and FDA reopened the investigation in January 2024 after new illnesses were reported in December 2023 and whole genome sequencing (WGS) analysis of the cotija cheese sample showed that it is same strain of Listeria that is causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0742",
+          "source_page": "Main",
+          "text": "According to CDC, of the 22 people interviewed, 16 (73%) reported eating queso fresco, cotija, or other similar cheeses. Among people who remembered specific brands, three people who got sick between 2014 and 2022 reported Don Francisco brand queso fresco or cotija. Don Francisco is one of the brands of recalled cheeses."
+        },
+        {
+          "block_id": "BLOCK-0743",
+          "source_page": "Main",
+          "text": "FDA initiated an on-site inspection at Rizo Lopez Foods, Inc. FDA’s inspection is still ongoing; however, an environmental sample collected during that inspection tested positive for Listeria monocytogenes . WGS analysis of that sample showed that it is the same strain of Listeria that is causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0744",
+          "source_page": "Main",
+          "text": "In response to this investigation, Rizo Lopez Foods, Inc. has voluntarily recalled all sell by dates of its dairy products. The recalled products include cheese, yogurt, and sour cream sold under the brand names Tio Francisco, Don Francisco, Rizo Bros, Rio Grande, Food City, El Huache, La Ordena, San Carlos, Campesino, Santa Maria, Dos Ranchitos, Casa Cardenas, and 365 Whole Foods Market. The firm has temporarily ceased the production and distribution of these products while their investigation is ongoing."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0738",
+        "BLOCK-0739",
+        "BLOCK-0740",
+        "BLOCK-0741",
+        "BLOCK-0742",
+        "BLOCK-0743",
+        "BLOCK-0744"
+      ],
+      "stage_source_sha256": "8e1a1594ca208c01b27803cfcd2368ee11ddddffbcc81941077097757ec744dd"
+    },
+    {
+      "source_order": 8,
+      "report_date": "2024-02-08",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0730",
+          "source_page": "Main",
+          "text": "February 8, 2024"
+        },
+        {
+          "block_id": "BLOCK-0731",
+          "source_page": "Main",
+          "text": "Recalled Rizo Lopez Foods, Inc. products were sold to food service and retailers nationwide. The firm has directly notified their customers who received recalled product."
+        },
+        {
+          "block_id": "BLOCK-0732",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional recalls for products made with or containing recalled dairy products from Rizo Lopez Foods, Inc."
+        },
+        {
+          "block_id": "BLOCK-0733",
+          "source_page": "Main",
+          "text": "On 2/7/2024, Simply Fresh LLC . Recalled Rojos Black Bean 7-Layer Dip 2-20oz club packs. The product was only sold at Costco stores in AL, AK, FL, GA, ID, MI, MT, NC, OR, SC, TN, WA, UT."
+        },
+        {
+          "block_id": "BLOCK-0734",
+          "source_page": "Main",
+          "text": "On 2/7/2024, Trader Joe’s Company recalled Chicken Enchiladas Verde, Cilantro Salad Dressing, Elote Chopped Salad Kit, and Southwest Salad sold in Trader Joe’s nationwide."
+        },
+        {
+          "block_id": "BLOCK-0735",
+          "source_page": "Main",
+          "text": "On 2/7/2024, Fresh Creative Foods recalled certain cremas, everything sauces, cilantro cotija dressing, poblano Caesar dressing, and cilantro dressing, sold in Costco, H-E-B, and Trader Joe’s stores; and taco kits sold in Costco and Albertson’s stores. Recalled products were sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA."
+        },
+        {
+          "block_id": "BLOCK-0736",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        },
+        {
+          "block_id": "BLOCK-0737",
+          "source_page": "Main",
+          "text": "The investigation is ongoing, and FDA will continue to update this advisory as additional information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0730",
+        "BLOCK-0731",
+        "BLOCK-0732",
+        "BLOCK-0733",
+        "BLOCK-0734",
+        "BLOCK-0735",
+        "BLOCK-0736",
+        "BLOCK-0737"
+      ],
+      "stage_source_sha256": "ca0d44754061f792eed92d77b990fc6892f6415c0e517d89175320b8c96262f5"
+    },
+    {
+      "source_order": 7,
+      "report_date": "2024-02-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0715",
+          "source_page": "Main",
+          "text": "February 9, 2024"
+        },
+        {
+          "block_id": "BLOCK-0716",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional recalls on 2/8/2024 for products made with or containing recalled dairy products from Rizo Lopez Foods, Inc."
+        },
+        {
+          "block_id": "BLOCK-0717",
+          "source_page": "Main",
+          "text": "BrightFarms, Inc. recalled Southwest Chipotle salad kits. The product was only sold to retailers in DE, MD, ME, MA, NH, NJ, NY, NC, PA, VT, VA, and DC"
+        },
+        {
+          "block_id": "BLOCK-0718",
+          "source_page": "Main",
+          "text": "Ready Pac Foods, Inc . recalled the following salad kits:"
+        },
+        {
+          "block_id": "BLOCK-0719",
+          "source_page": "Main",
+          "text": "Marketside Southwest Chopped Kit and Marketside Bacon Ranch Crunch Kit sold to Walmart stores in AZ, CA, CO, CT, DE, HI, MA, MD, ME, MT, NH, NJ, NM, NY, PA, RI, SD, TX, VT, and WY"
+        },
+        {
+          "block_id": "BLOCK-0720",
+          "source_page": "Main",
+          "text": "Ready Pac Bistro Fresh Mex Chopped Kit sold to WinCo stores in AZ and CA"
+        },
+        {
+          "block_id": "BLOCK-0721",
+          "source_page": "Main",
+          "text": "Ready Pac Bistro Queso Crunch Salad Kit sold to Costco stores in CA, NV, HI"
+        },
+        {
+          "block_id": "BLOCK-0722",
+          "source_page": "Main",
+          "text": "Fresh Express recalled the following salad kits:"
+        },
+        {
+          "block_id": "BLOCK-0723",
+          "source_page": "Main",
+          "text": "Marketside Southwest Chopped Kit sold at retailers in AL, FL, and GA"
+        },
+        {
+          "block_id": "BLOCK-0724",
+          "source_page": "Main",
+          "text": "Fresh Express Salsa! Ensalada Salad Kit sold at retailers in CA, ID, UT, WA"
+        },
+        {
+          "block_id": "BLOCK-0725",
+          "source_page": "Main",
+          "text": "Dole Fresh Vegetables, Inc. recalled Dole Chopped Kit Avocado Ranch, Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat), Dole Premium Kit Southwest Salad, Dole Cajun Ranch Chopped Kit, Dole Premium Kit Endless Summer, Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest), President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade), and Marketside Chopped Salad Kit Bacon Ranch Crunch. Recalled salad items were sold in the states of AL, CA, CT, FL, GA, IN, KY, LA, MA, MD, MI, MN, MO, MS, NC, NV, NY, OH, PA, SC, TN, UT, VA, WA, and WI. Additionally, these salads were distributed in the following Canadian provinces: Alberta, British Columbia, New Brunswick, Ontario, and Quebec."
+        },
+        {
+          "block_id": "BLOCK-0726",
+          "source_page": "Main",
+          "text": "Albertsons Companies recalled five Ready Meals and store-made taco kits that were available for purchase at the following banner stores: Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY."
+        },
+        {
+          "block_id": "BLOCK-0727",
+          "source_page": "Main",
+          "text": "On 2/8/2024, The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) issued a public health alert for:"
+        },
+        {
+          "block_id": "BLOCK-0728",
+          "source_page": "Main",
+          "text": "amazon kitchen, CHICKEN CHILE VERDE burrito with rice, black beans & monterey jack, because they contain recalled dairy products."
+        },
+        {
+          "block_id": "BLOCK-0729",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0715",
+        "BLOCK-0716",
+        "BLOCK-0717",
+        "BLOCK-0718",
+        "BLOCK-0719",
+        "BLOCK-0720",
+        "BLOCK-0721",
+        "BLOCK-0722",
+        "BLOCK-0723",
+        "BLOCK-0724",
+        "BLOCK-0725",
+        "BLOCK-0726",
+        "BLOCK-0727",
+        "BLOCK-0728",
+        "BLOCK-0729"
+      ],
+      "stage_source_sha256": "6e3b1035c528e41b4de86bc6b433fdac7a1bb3b53a7e90b002377b0ca8de383f"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2024-02-12",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0701",
+          "source_page": "Main",
+          "text": "February 12, 2024"
+        },
+        {
+          "block_id": "BLOCK-0702",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below."
+        },
+        {
+          "block_id": "BLOCK-0703",
+          "source_page": "Main",
+          "text": "Costco Member Letters for Southwest Wrap (Item # 29433)"
+        },
+        {
+          "block_id": "BLOCK-0704",
+          "source_page": "Main",
+          "text": "Costco Member Letter for Chicken Street Taco Kit (Item #11545) BA, LA and Select NW & SD Locations"
+        },
+        {
+          "block_id": "BLOCK-0705",
+          "source_page": "Main",
+          "text": "Costco Member Letter for Maverick Foods Chipotle Chicken and Rice Bowl (Item #1704074) TE Locations"
+        },
+        {
+          "block_id": "BLOCK-0706",
+          "source_page": "Main",
+          "text": "Taylor Fresh Foods recalled Marketside Bacon Ranch Crunch Chopped Salad kits sold at Walmart stores in AL, AR, CO, DC, IA, KS, KY, LA, MD, MN, MO, MS, MT, NC, ND, NE, NY, OK, PA, SD, TN, TX, VA, WV, and WY"
+        },
+        {
+          "block_id": "BLOCK-0707",
+          "source_page": "Main",
+          "text": "Braga Fresh recalled Marketside Bacon Ranch Crunch Chopped Salad kits sold at Walmart stores in CA and NV"
+        },
+        {
+          "block_id": "BLOCK-0708",
+          "source_page": "Main",
+          "text": "The Perfect Bite Co . recalled MEXICAN STYLE STREET CORN BITE sold to Costco stores in CA and HI"
+        },
+        {
+          "block_id": "BLOCK-0709",
+          "source_page": "Main",
+          "text": "Save Mart Companies recalled Chicken Street Taco Kits sold in Save Mart, Lucky, and Lucky California store service delis in CA and NV"
+        },
+        {
+          "block_id": "BLOCK-0710",
+          "source_page": "Main",
+          "text": "Stater Bros. Markets recalled Chicken Street Taco Kits sold at all Stater Bros. Markets in CA"
+        },
+        {
+          "block_id": "BLOCK-0711",
+          "source_page": "Main",
+          "text": "Fresh & Ready Foods recalled Fresh & Ready Ham Torta Sandwich, Fresh & Ready Chicken Torta Sandwich, Sprig & Sprout Ham Torta Sandwich on Telera Roll, and Jack & Olive Ham Torta Sandwich on Telera Roll sold exclusively in locations in AZ, CA, NV, and UT"
+        },
+        {
+          "block_id": "BLOCK-0712",
+          "source_page": "Main",
+          "text": "Sprouts Farmers Market recalled Chicken Street Taco Meal Kit sold in Sprouts stores in AL, FL, GA, NC, and TN"
+        },
+        {
+          "block_id": "BLOCK-0713",
+          "source_page": "Main",
+          "text": "On 2/9/2024 and 2/10/2024, The U.S. Department of Agriculture’s Food Safety and Inspection Service (FSIS) updated their public health alert to include additional products made with or containing recalled dairy products from Rizo Lopez Foods, Inc."
+        },
+        {
+          "block_id": "BLOCK-0714",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0701",
+        "BLOCK-0702",
+        "BLOCK-0703",
+        "BLOCK-0704",
+        "BLOCK-0705",
+        "BLOCK-0706",
+        "BLOCK-0707",
+        "BLOCK-0708",
+        "BLOCK-0709",
+        "BLOCK-0710",
+        "BLOCK-0711",
+        "BLOCK-0712",
+        "BLOCK-0713",
+        "BLOCK-0714"
+      ],
+      "stage_source_sha256": "453b58c69addc9de8b633bd7cd12474130a1aaceff4f6ff7f00038a908acd8a0"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2024-02-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0697",
+          "source_page": "Main",
+          "text": "February 13, 2024"
+        },
+        {
+          "block_id": "BLOCK-0698",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below."
+        },
+        {
+          "block_id": "BLOCK-0699",
+          "source_page": "Main",
+          "text": "MG Foods recalled S&S Ham & Cotija Torta Sandwich on Telera Roll sold in vending machines and grab-and-go retail markets in FL."
+        },
+        {
+          "block_id": "BLOCK-0700",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0697",
+        "BLOCK-0698",
+        "BLOCK-0699",
+        "BLOCK-0700"
+      ],
+      "stage_source_sha256": "4bf2bdba4f1d9568b87838717d625c2fdbd6f6fbaafac69234fd07ad84562a14"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2024-02-14",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0692",
+          "source_page": "Main",
+          "text": "February 14, 2024"
+        },
+        {
+          "block_id": "BLOCK-0693",
+          "source_page": "Main",
+          "text": "As reported on February 5, 2024, FDA initiated an on-site inspection at Rizo Lopez Foods, Inc. FDA’s inspection is still ongoing; however, an additional environmental sample collected during that inspection has tested positive for Listeria monocytogenes . Whole Genome Sequencing (WGS) analysis of that sample showed that it is the same strain of Listeria that is causing illnesses in this outbreak. Rizo Lopez Foods, Inc has already initiated a voluntary recall in response to this investigation."
+        },
+        {
+          "block_id": "BLOCK-0694",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below."
+        },
+        {
+          "block_id": "BLOCK-0695",
+          "source_page": "Main",
+          "text": "Bristol Farms recalled Chicken Taco Kit 9oz with 1/18/24 as the Sell By date and sold in the following Bristol Farms California retail locations: Hollywood, Manhattan Beach, Newport Beach, Palm Desert, Rolling Hills, Santa Barbara, Santa Monica, South Pasadena, West Hollywood, Westchester, Westwood, Woodland Hills, and Yorba Linda."
+        },
+        {
+          "block_id": "BLOCK-0696",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0692",
+        "BLOCK-0693",
+        "BLOCK-0694",
+        "BLOCK-0695",
+        "BLOCK-0696"
+      ],
+      "stage_source_sha256": "34dbc5b5ef661a6f0d2372828b5c4448cca45a0f9bf96b5bbca93383c257b082"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2024-02-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0689",
+          "source_page": "Main",
+          "text": "February 20, 2024"
+        },
+        {
+          "block_id": "BLOCK-0690",
+          "source_page": "Main",
+          "text": "Rizo Lopez, Inc. has provided a list of Retail Establishments That Received Rizo-López Foods Dairy Products that includes distribution to CA, CO, IL, NV, OR, UT, and WA. This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. Please refer to the product list regardless of place of purchase and discard recalled product."
+        },
+        {
+          "block_id": "BLOCK-0691",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0689",
+        "BLOCK-0690",
+        "BLOCK-0691"
+      ],
+      "stage_source_sha256": "50a551f378519d124792de780508701b34a4c043545dcbbe4ef530809c88d8ff"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2024-02-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0685",
+          "source_page": "Main",
+          "text": "February 22, 2024"
+        },
+        {
+          "block_id": "BLOCK-0686",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional companies who have issued public notifications or recalls for products linked to the Rizo-Lopez Foods, Inc. dairy recall that were sold at retail locations. Products from the following announcements have been added to the table of recalled products below."
+        },
+        {
+          "block_id": "BLOCK-0687",
+          "source_page": "Main",
+          "text": "Rico Brand recalled Ready-to-eat Enchiladas distributed in northern Utah Supermarkets (Smith’s, Harmons, Macey’s The Store, Fresh Markets). They are packaged in a Deep Meal tray – Plant Fiber - Film 800 with the following lot numbers and expiration dates: Lot. 0234 02/13/24, Lot. 0264 02/16/24, Lot. 0304 02/20/24, Lot. 0334 02/23/24."
+        },
+        {
+          "block_id": "BLOCK-0688",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-0685",
+        "BLOCK-0686",
+        "BLOCK-0687",
+        "BLOCK-0688"
+      ],
+      "stage_source_sha256": "98205ebef852c06a30a58743b5846918588f878768fcf3e80b0e41da5a7a0f01"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2024-04-10",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0681",
+          "source_page": "Main",
+          "text": "April 10, 2024"
+        },
+        {
+          "block_id": "BLOCK-0682",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multi-year, multistate outbreak of Listeria monocytogenes infections linked to queso fresco and cotija cheeses manufactured by Rizo Lopez Foods, Inc., of Modesto, California."
+        },
+        {
+          "block_id": "BLOCK-0683",
+          "source_page": "Main",
+          "text": "As of April 9, 2024, CDC reports that the outbreak is over. CDC reports a total of 26 cases in 11 states. There have been a total of 23 hospitalizations and two deaths were reported. The last illnesses onset date was December 10, 2023. FDA’s outbreak investigation is closed."
+        },
+        {
+          "block_id": "BLOCK-0684",
+          "source_page": "Main",
+          "text": "Food safety is a shared responsibility. Producers of queso fresco type cheeses are responsible for producing safe food, including satisfying applicable food safety requirements. The FDA has developed a prevention strategy with the goal of reducing outbreaks and illnesses of listeriosis associated with soft fresh queso fresco cheeses."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0681",
+        "BLOCK-0682",
+        "BLOCK-0683",
+        "BLOCK-0684"
+      ],
+      "stage_source_sha256": "e37559d05ebc8570a844d867c4bd7bd92e934b8fbe84586a23245c212fc8dd86"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-10-09",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Images of Additional Products"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Products:"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recalled dairy products and products made with recalled dairy products sold under the brand names:"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Bright Farms, Campesino, Casa Cardenas, Dole, Don Francisco, Don Pancho, Dos Ranchitos, El Huache, Food City, Fresh & Ready Foods, Fresh Express, H-E-B, Jack & Olive, La Ordena, Marketside, Maverick Foods, President’s Choice, Ready Pac Bistro, Rio Grande, Rizo Bros, Rico, Rojos, San Carlos, Santa Maria, Sprig & Sprout (S&S), The Perfect Bite Co.,Tio Francisco, Trader Joe’s, and 365 Whole Foods Market."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Retailer names where product was sold unbranded as taco kits, wraps, and meals:"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Albertsons, Bristol Farms, Carrs-Safeway, Costco, Eagle, Lucky, Pavilions, Randalls, Safeway, Save Mart, Shaw's, Sprouts (S&S), Star Market, Stater Bros. Markets, Tom Thumb, and Vons."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "More information about recalled products, including descriptions, sizes, and UPCs or “best by” dates are included in the table of recalled products below. Additional information is also available in the recall notices from the companies ."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms of Listeriosis ( Listeria Infection)"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Symptoms usually start within two weeks after eating food contaminated with Listeria but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include a fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Sold Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Rizo Lopez, Inc. has provided a list of Retail Establishments That Received Rizo-López Foods Dairy Products that includes distribution to CA, CO, IL, NV, OR, UT, and WA. This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. Please refer to the product list regardless of place of purchase and discard recalled product."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Ended."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Recommendations:"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Potentially contaminated recalled product is no longer available on the market; however, consumers should check your refrigerators and freezers for any recalled products and throw them away. If you froze a product without the original packaging and can’t tell if it is part of the recalls, throw it away."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers who purchased or received recalled products, including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "If you have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Recommendations for At-Risk Groups"
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have symptoms of a Listeria infection."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "October 9, 2024"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "On October 8, 2024, the U.S. District Court for the Eastern District of California entered a consent decree of permanent injunction against Rizo Lopez Foods Inc. (“Rizo Lopez Foods”), a California-based food manufacturer, and the company’s co-owners, Edwin Rizo and Tomas Rizo."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Total Illnesses: 26 Hospitalizations: 23 Deaths: 2 Last Sample Collection Dates: June 15, 2014 - December 10, 2023 States with Cases: AZ, CA, CO, FL, GA, NV, NC, OR, TN, TX, WA Product Distribution: Nationwide and Canada"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-ADD-TABLE-1214-01",
+          "source_page": "Main",
+          "text": "Please see the companies’ press releases for additional information about recalled products. The following table is a courtesy copy from the FDA."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786030676770-6",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1214-01]"
+        },
+        {
+          "block_id": "BLOCK-0234",
+          "source_page": "Main",
+          "text": "12/27/2023 - 1/14/2024"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 10,
+      "stage_id": "R10",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-ADD-TABLE-1214-01",
+        "BLOCK-ADD-1786030676770-6",
+        "BLOCK-0234"
+      ],
+      "stage_source_sha256": "e32b78fbf3e2a78a56b9b6a9ca370ea412685531f011c29a52cd473aa2848774"
+    }
+  ]
+}

@@ -1,0 +1,966 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1358",
+  "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 45,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0098"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0098"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0098"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0099"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Live it Up-brand Super Greens dietary supplement powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0097",
+            "BLOCK-0099"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; expiration dates 08/2026 to 01/2028"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0099"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 45,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0090"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Live it Up-brand Super Greens dietary supplement powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0089",
+            "BLOCK-0090",
+            "BLOCK-0091",
+            "BLOCK-0092",
+            "BLOCK-0093",
+            "BLOCK-0094"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0090",
+            "BLOCK-0091",
+            "BLOCK-0092",
+            "BLOCK-0093",
+            "BLOCK-0094"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 65,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0084"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 14,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0084"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0084"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0085",
+            "BLOCK-0086"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Live it Up-brand Super Greens dietary supplement powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Why Not Natural Pure Organic Moringa Green Superfood capsules",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0083",
+            "BLOCK-0085"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0085",
+            "BLOCK-0086"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 97,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0081"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "dietary supplements containing moringa leaf powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0076",
+            "BLOCK-0077",
+            "BLOCK-0079",
+            "BLOCK-0080"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0076"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 119,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0067"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 32,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0067"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0067"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0069",
+            "BLOCK-0070",
+            "BLOCK-0071"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "dietary supplements containing moringa leaf powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0068",
+            "BLOCK-0070",
+            "BLOCK-0071"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            },
+            {
+              "product_name": "Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "TNVitamins"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2512-304 EXP 02/2028, and 2793 EXP 02/2028"
+            },
+            {
+              "product_name": "Complete Green Superfood Ultra Potent Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "Doctor’s Pride"
+              ],
+              "recall_scope": "120 capsules; lot 2507199 EXP 09/2027"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0066",
+            "BLOCK-0069",
+            "BLOCK-0070",
+            "BLOCK-0071"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 119,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 32,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "dietary supplements containing moringa leaf powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            },
+            {
+              "product_name": "Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "TNVitamins"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2512-304 EXP 02/2028, and 2793 EXP 02/2028, and 2748 EXP 07/2027"
+            },
+            {
+              "product_name": "Complete Green Superfood Ultra Potent Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "Doctor’s Pride"
+              ],
+              "recall_scope": "120 capsules; lot 2507199 EXP 09/2027, and lot 2748 EXP 07/2027"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0076",
+            "BLOCK-0055",
+            "BLOCK-0056",
+            "BLOCK-0057",
+            "BLOCK-0058",
+            "BLOCK-0059",
+            "BLOCK-0060",
+            "BLOCK-0061",
+            "BLOCK-0062",
+            "BLOCK-0063"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 119,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 32,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "dietary supplements containing moringa leaf powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            },
+            {
+              "product_name": "Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "TNVitamins"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2512-304 EXP 02/2028, 2793 EXP 02/2028, 2748 EXP 07/2027, 2725 EXP 04/2027, and 2503104 EXP 04/2027"
+            },
+            {
+              "product_name": "Complete Green Superfood Ultra Potent Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "Doctor’s Pride"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2748 EXP 07/2027, and 2725 EXP 04/2027"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0076",
+            "BLOCK-0042",
+            "BLOCK-0043",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051",
+            "BLOCK-0052",
+            "BLOCK-0053"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 119,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 32,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R7",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "dietary supplements containing moringa leaf powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            },
+            {
+              "product_name": "Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "TNVitamins"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2512-304 EXP 02/2028, 2793 EXP 02/2028, 2748 EXP 07/2027, 2725 EXP 04/2027, and 2503104 EXP 04/2027"
+            },
+            {
+              "product_name": "Complete Green Superfood Ultra Potent Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "Doctor’s Pride"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2748 EXP 07/2027, and 2725 EXP 04/2027"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0076",
+            "BLOCK-0042",
+            "BLOCK-0043",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051",
+            "BLOCK-0052",
+            "BLOCK-0053",
+            "BLOCK-ADD-1786024917263-11"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 131,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-ADD-1786024798416-4"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 36,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-ADD-1786024798416-4"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-ADD-1786024798416-4"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0008",
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "dietary supplements containing moringa leaf powder",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "moringa leaf powder",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-ADD-1786024794255-3",
+            "BLOCK-ADD-1786024806951-6"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Super Greens dietary supplement powder",
+              "recalling_company": "Superfoods, Inc.",
+              "brands": [
+                "Live it Up"
+              ],
+              "recall_scope": "original and Wild Berry flavors; powder tubs and stick packs; expiration dates 08/2026 to 01/2028"
+            },
+            {
+              "product_name": "Pure Organic Moringa Green Superfood capsules",
+              "recalling_company": "Art Monkey LLC dba Why Not Natural",
+              "brands": [
+                "Why Not Natural"
+              ],
+              "recall_scope": "lot A25G051; expiration date 07/2028"
+            },
+            {
+              "product_name": "Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "TNVitamins"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2512-304 EXP 02/2028, 2793 EXP 02/2028, 2748 EXP 07/2027, 2725 EXP 04/2027, and 2503104 EXP 04/2027"
+            },
+            {
+              "product_name": "Complete Green Superfood Ultra Potent Moringa capsules 10,000 mg",
+              "recalling_company": "Total Nutrition Inc.",
+              "brands": [
+                "Doctor’s Pride"
+              ],
+              "recall_scope": "120 capsules; lots 2507199 EXP 09/2027, 2748 EXP 07/2027, and 2725 EXP 04/2027"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0007",
+            "BLOCK-0008",
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": "Recall expansions update recall_scope; they do not create duplicate product entities."
+        }
+      }
+    }
+  }
+}

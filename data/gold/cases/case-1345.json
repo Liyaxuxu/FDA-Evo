@@ -1,0 +1,403 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1345",
+  "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (October 2025) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "10 people were interviewed, but the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0081",
+            "BLOCK-0085"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic moringa leaf powder from Vallon Farmdirect PVT LTD, lot VFD/ORG/MORP/L/24",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "dietary supplement powders containing recalled moringa leaf powder",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0081",
+            "BLOCK-0083",
+            "BLOCK-0084",
+            "BLOCK-0085"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Member’s Mark Super Greens dietary supplement powder",
+              "recalling_company": "",
+              "brands": [
+                "Member’s Mark"
+              ],
+              "recall_scope": "all products regardless of lot code or best by/use before date"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0081",
+            "BLOCK-0085"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "10 people were interviewed, but the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0079"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic moringa leaf powder from Vallon Farmdirect PVT LTD, lot VFD/ORG/MORP/L/24",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "dietary supplement powders containing recalled moringa leaf powder",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Member’s Mark Super Greens dietary supplement powder",
+              "recalling_company": "",
+              "brands": [
+                "Member’s Mark"
+              ],
+              "recall_scope": "all products regardless of lot code or best by/use before date"
+            },
+            {
+              "product_name": "Organic Moringa Leaf Powder",
+              "recalling_company": "Africa Imports",
+              "brands": [],
+              "recall_scope": "1-kilogram boxes; all purchased after 06/05/2025"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0081",
+            "BLOCK-0079"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "10 people were interviewed, but the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0073",
+            "BLOCK-0074",
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic moringa leaf powder from Vallon Farmdirect PVT LTD, lot VFD/ORG/MORP/L/24",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "dietary supplement powders containing recalled moringa leaf powder",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Member’s Mark Super Greens dietary supplement powder",
+              "recalling_company": "",
+              "brands": [
+                "Member’s Mark"
+              ],
+              "recall_scope": "all products regardless of lot code or best by/use before date"
+            },
+            {
+              "product_name": "Organic Moringa Leaf Powder",
+              "recalling_company": "Africa Imports",
+              "brands": [],
+              "recall_scope": "1-kilogram boxes; all purchased after 06/05/2025"
+            },
+            {
+              "product_name": "ORGANIC MORINGA LEAF POWDER",
+              "recalling_company": "Food To Live",
+              "brands": [],
+              "recall_scope": "8 oz, 1 lb, 2 lb, 4 lb, 8 lb, 16 lb, 44 lb; lot codes SO-69006 through SO-72558"
+            },
+            {
+              "product_name": "ORGANIC SUPERGREENS POWDER MIX",
+              "recalling_company": "Food To Live",
+              "brands": [],
+              "recall_scope": "8 oz, 1 lb, 1.5 lb, 3 lb, 6 lb, 12 lb; lot codes SO-69006 through SO-72558"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0081",
+            "BLOCK-0079",
+            "BLOCK-0073",
+            "BLOCK-0074",
+            "BLOCK-0075"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 11,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0025",
+            "BLOCK-0058"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0007"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic moringa leaf powder from Vallon Farmdirect PVT LTD, lot VFD/ORG/MORP/L/24",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "dietary supplement powders containing recalled moringa leaf powder",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0024"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Member’s Mark Super Greens dietary supplement powder",
+              "recalling_company": "",
+              "brands": [
+                "Member’s Mark"
+              ],
+              "recall_scope": "all products regardless of lot code or best by/use before date"
+            },
+            {
+              "product_name": "Organic Moringa Leaf Powder",
+              "recalling_company": "Africa Imports",
+              "brands": [],
+              "recall_scope": "1-kilogram boxes; all purchased after 06/05/2025"
+            },
+            {
+              "product_name": "ORGANIC MORINGA LEAF POWDER",
+              "recalling_company": "Food To Live",
+              "brands": [],
+              "recall_scope": "8 oz, 1 lb, 2 lb, 4 lb, 8 lb, 16 lb, 44 lb; lot codes SO-69006 through SO-72558"
+            },
+            {
+              "product_name": "ORGANIC SUPERGREENS POWDER MIX",
+              "recalling_company": "Food To Live",
+              "brands": [],
+              "recall_scope": "8 oz, 1 lb, 1.5 lb, 3 lb, 6 lb, 12 lb; lot codes SO-69006 through SO-72558"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0007"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

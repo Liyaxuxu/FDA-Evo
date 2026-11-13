@@ -1,0 +1,388 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1277",
+  "title": "Outbreak Investigation of Salmonella: Cucumbers (November 2024) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-november-2024",
+  "frozen_source_path": "t1/frozen_sources/case-1277.txt",
+  "frozen_source_sha256": "7b33bd69749aea19b3b406a010ce2bb200466678ea6c763737c520ac501bddfa",
+  "stage_count": 5,
+  "stages": [
+    {
+      "source_order": 4,
+      "report_date": "2024-11-29",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0126",
+          "source_page": "Main",
+          "text": "November 29, 2024"
+        },
+        {
+          "block_id": "BLOCK-0127",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Salmonella Typhimurium infections linked to American/slicer cucumbers grown by Agrotato, S.A. de C.V. in Sonora, Mexico."
+        },
+        {
+          "block_id": "BLOCK-0128",
+          "source_page": "Main",
+          "text": "As of November 26, 2024, a total of 68 people infected with the outbreak strain of Salmonella have been reported from 19 states. Of the 50 people for whom information is available, 18 have been hospitalized. No deaths have been reported. Of the 33 people interviewed, 27 (82%) reported eating cucumbers."
+        },
+        {
+          "block_id": "BLOCK-0129",
+          "source_page": "Main",
+          "text": "On November 27, 2024, SunFed Produce, LLC initiated a voluntary recall of all sizes of American/slicer cucumbers that were grown by Agrotato, S.A. de C.V. in Sonora, Mexico. SunFed Produce, LLC distributed recalled products to retail and foodservice customers in AK, AZ, AR, CA, CO, CT, FL, ID, IL, IN, KS, MD, MA, MN, MO, NJ, NY, NC, OK, PA, TN, TX, UT, VA, WA, and WI. Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states."
+        },
+        {
+          "block_id": "BLOCK-0130",
+          "source_page": "Main",
+          "text": "FDA is working with SunFed Produce, LLC and their direct customers to determine if additional downstream customer recalls are necessary. FDA is also working with additional importers that received cucumbers grown by Agrotato, S.A. de C.V."
+        },
+        {
+          "block_id": "BLOCK-0131",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0126",
+        "BLOCK-0127",
+        "BLOCK-0128",
+        "BLOCK-0129",
+        "BLOCK-0130",
+        "BLOCK-0131"
+      ],
+      "stage_source_sha256": "54203b3a2c4d51ce30006035b573e4b41ae23a51fbd111d00100849d31924bb4"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2024-12-02",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0120",
+          "source_page": "Main",
+          "text": "December 2, 2024"
+        },
+        {
+          "block_id": "BLOCK-0121",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of Salmonella Typhimurium infections linked to American/slicer cucumbers grown by Agrotato, S.A. de C.V. in Sonora, Mexico."
+        },
+        {
+          "block_id": "BLOCK-0122",
+          "source_page": "Main",
+          "text": "As of November 26, 2024, a total of 68 people infected with the outbreak strain of Salmonella have been reported from 19 states. Of the 50 people for whom information is available, 18 have been hospitalized. No deaths have been reported. Of the 33 people interviewed, 27 (82%) reported eating cucumbers."
+        },
+        {
+          "block_id": "BLOCK-0123",
+          "source_page": "Main",
+          "text": "On November 27, 2024, SunFed Produce initiated a voluntary recall of all sizes of American/slicer cucumbers that were grown by Agrotato, S.A. de C.V. in Sonora, Mexico. On November 29, 2024, Baloian Farms initiated a voluntary recall of all sizes of American/slicer cucumbers that were grown by Agrotato, S.A. de C.V. On December 1, 2024, Russ Davis initiated a voluntary recall of American/slicer cucumbers and multiple products containing recalled cucumbers. Products containing recalled cucumbers include: Crazy Fresh Garden Salad W/ Ranch Dressing, Quick & Easy Garden Salad with Ranch Dressing, Crazy Fresh Turkey Havarti Wrap, Quick & Easy Bacon Avocado Wrap, Crazy Fresh Bacon Avocado Wrap, and Kowalski’s Market Garden Salad."
+        },
+        {
+          "block_id": "BLOCK-0124",
+          "source_page": "Main",
+          "text": "FDA is working with the recalling firms and their direct customers to determine if additional downstream customer recalls are necessary. FDA is also working with additional importers that received cucumbers grown by Agrotato, S.A. de C.V."
+        },
+        {
+          "block_id": "BLOCK-0125",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0120",
+        "BLOCK-0121",
+        "BLOCK-0122",
+        "BLOCK-0123",
+        "BLOCK-0124",
+        "BLOCK-0125"
+      ],
+      "stage_source_sha256": "fd9735aaedfa2c1a5100f9e067816ad1959b44d088fbc9ac70d2dabf9e66d3f5"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2024-12-05",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0116",
+          "source_page": "Main",
+          "text": "December 5, 2024"
+        },
+        {
+          "block_id": "BLOCK-0117",
+          "source_page": "Main",
+          "text": "FDA, CDC, and state partners continue to investigate a multistate outbreak of Salmonella Typhimurium infections linked to cucumbers."
+        },
+        {
+          "block_id": "BLOCK-0118",
+          "source_page": "Main",
+          "text": "FDA is working closely with implicated firms to determine whether additional recalls of American/slicer cucumbers, processed recalled cucumbers, and products made with recalled cucumbers may be necessary. On December 3, 2024, Walmart recalled Marketside Fresh Cut Cucumber Slices sold at stores in TX. On December 4, 2024, JFE, Supreme Produce, and Yummi Sushi initiated recalls of food products containing recalled cucumbers at Kroger stores in AZ, CO, LA, TX, and WY, and King Soopers stores in CO."
+        },
+        {
+          "block_id": "BLOCK-0119",
+          "source_page": "Main",
+          "text": "FDA’s investigation remains ongoing."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0116",
+        "BLOCK-0117",
+        "BLOCK-0118",
+        "BLOCK-0119"
+      ],
+      "stage_source_sha256": "2011b31893c20c9417db7a98ed0d4b8320205007d329b83e861cb7621c8869a2"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2024-12-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0112",
+          "source_page": "Main",
+          "text": "December 19, 2024"
+        },
+        {
+          "block_id": "BLOCK-0113",
+          "source_page": "Main",
+          "text": "FDA, CDC, and state partners continue to investigate a multistate outbreak of Salmonella Typhimurium infections linked to cucumbers. As of December 17, 2024, a total of 100 people infected with the outbreak strain of Salmonella have been reported from 23 states. Of the 90 people for whom information is available, 25 have been hospitalized. No deaths have been reported. Of the 67 people interviewed, 54 (81%) reported eating or likely eating cucumbers."
+        },
+        {
+          "block_id": "BLOCK-0114",
+          "source_page": "Main",
+          "text": "Recalled product has been distributed to retailers and distributors nationwide. Several companies have issued recalls. FDA is working closely with impacted firms to determine whether additional recalls of American/slicer cucumbers, processed recalled cucumbers, and products made with recalled cucumbers may be necessary. See table of recalled products below for current information about recalled products."
+        },
+        {
+          "block_id": "BLOCK-0115",
+          "source_page": "Main",
+          "text": "FDA’s investigation remains ongoing."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0112",
+        "BLOCK-0113",
+        "BLOCK-0114",
+        "BLOCK-0115"
+      ],
+      "stage_source_sha256": "a3a28facb104ffd0c6f5bec665d93c26ea1452856d47a8171f851223ac12a187"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2025-01-08",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Images of Additional Products"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Cucumbers and cucumber products linked to illnesses are past shelf life and should no longer be on the market. American/slicer cucumbers grown by Agrotato, S.A. de C.V. in Sonora, Mexico and sold by importers in October and November 2024 were recalled. Products containing recalled cucumbers were also recalled by multiple companies."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "More information is included in the table of recalled products below."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled products were distributed to food service customers and retailers nationwide."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "More information, including available retailer information is included in the table of recalled products below."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Ended."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "These products are past shelf life and should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Consumers, retailers, and distributors should check their refrigerators and freezers and should not use or eat recalled cucumbers and recalled cucumber products."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Retailers, distributors, and consumers should follow FDA’s safe handling and cleaning and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled products to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of a Salmonella infection after eating recalled cucumbers."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "January 8, 2025"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "The FDA, CDC, and state partners investigated a multistate outbreak of Salmonella Typhimurium infections linked to American/slicer cucumbers grown by Agrotato, S.A. de C.V. in Sonora, Mexico. As of January 8, 2025, 113 people infected with the outbreak strain of Salmonella were reported from 23 states. Of the 99 people for whom information was available, 28 were hospitalized. No deaths were reported. Of the 69 people interviewed, 56 (81%) reported eating or likely eating cucumbers. CDC declares the outbreak over."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Epidemiologic and traceback information demonstrated that American/slicer cucumbers grown by Agrotato, S.A. de C.V. in Sonora, Mexico were the source of illnesses in this outbreak. Several companies issued recalls for American/slicer cucumbers and products containing recalled cucumbers. See the table of recalled product for more information. Recalled product is past shelf-life and should no longer be distributed or sold in stores. FDA’s investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Total Illnesses: 113 Hospitalizations: 28 Deaths: 0 Last Illness Onset: December 7, 2024 States with Cases: AK, AZ, CA, CO, IA, IL, MA, MI, MT, NE, NJ, NM, NV, NY, OH, OR, PA, SD, TX, UT, WA, WI and WY Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Recalled Products (updated December 11, 2024)"
+        },
+        {
+          "block_id": "BLOCK-ADD-TABLE-1277-01",
+          "source_page": "Main",
+          "text": "Please see the companies’ press releases for additional information about recalled products. The FDA has compiled the recall information into the table below for ease of reference."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786032147586-5",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1277-01]"
+        },
+        {
+          "block_id": "BLOCK-0104",
+          "source_page": "Main",
+          "text": "Images for Consumers: Recalled Cucumbers"
+        },
+        {
+          "block_id": "BLOCK-0105",
+          "source_page": "Main",
+          "text": "Images for Consumers: Products Containing Recalled Cucumbers"
+        },
+        {
+          "block_id": "BLOCK-0106",
+          "source_page": "Main",
+          "text": "Product Images for Retailers and Distributors"
+        },
+        {
+          "block_id": "BLOCK-0107",
+          "source_page": "Main",
+          "text": "International Distribution"
+        },
+        {
+          "block_id": "BLOCK-0108",
+          "source_page": "Main",
+          "text": "The SunFed Produce and Baloian Farms recalls impact markets outside of the United States."
+        },
+        {
+          "block_id": "BLOCK-0109",
+          "source_page": "Main",
+          "text": "Customer information provided by SunFed Produce shows that product was also distributed to Canadian provinces, including Alberta, British Columbia, Calgary, Saskatchewan, and Ontario."
+        },
+        {
+          "block_id": "BLOCK-0110",
+          "source_page": "Main",
+          "text": "Customer information provided by Baloian shows that product was also distributed to the Canadian provinces of Alberta and British Columbia."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0030",
+        "BLOCK-ADD-TABLE-1277-01",
+        "BLOCK-ADD-1786032147586-5",
+        "BLOCK-0104",
+        "BLOCK-0105",
+        "BLOCK-0106",
+        "BLOCK-0107",
+        "BLOCK-0108",
+        "BLOCK-0109",
+        "BLOCK-0110"
+      ],
+      "stage_source_sha256": "83364210faf107e1b8548e52fe7aece93f6cd75f96e31725bed62ba1e447392b"
+    }
+  ]
+}

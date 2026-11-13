@@ -1,0 +1,230 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1250",
+  "title": "Outbreak Investigation of Salmonella: Eggs (Sept 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 65,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 24,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "eggs supplied by Milo’s Poultry Farms, LLC",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0045",
+            "BLOCK-0047"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "eggs",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [
+                "Milo’s Poultry Farms"
+              ],
+              "recall_scope": "all carton sizes, expiration dates, and egg types; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            },
+            {
+              "product_name": "eggs",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [
+                "Tony’s Fresh Market"
+              ],
+              "recall_scope": "all carton sizes and expiration dates; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            },
+            {
+              "product_name": "eggs for retail foodservice distribution",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [],
+              "recall_scope": "all cases and expiration dates; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051"
+          ],
+          "evidence_exempt": false,
+          "note": "Milo’s Poultry Farms, LLC initiated the recall; Milo’s Poultry Farms and Tony’s Fresh Market are labels/brands named within that recall."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 93,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 34,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0007",
+            "BLOCK-0008"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "eggs supplied by Milo’s Poultry Farms, LLC",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "chicken and duck eggs",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [
+                "Milo’s Poultry Farms"
+              ],
+              "recall_scope": "conventional cage-free, organic, and non-GMO; sizes M, L, XL, and Jumbo; all carton sizes and expiration dates; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            },
+            {
+              "product_name": "eggs",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [
+                "Tony’s Fresh Market"
+              ],
+              "recall_scope": "all carton sizes and expiration dates; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            },
+            {
+              "product_name": "duck eggs",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [
+                "Happy Quackers Farm"
+              ],
+              "recall_scope": "all carton sizes and expiration dates; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            },
+            {
+              "product_name": "eggs for retail foodservice distribution",
+              "recalling_company": "Milo’s Poultry Farms, LLC",
+              "brands": [
+                "M&E"
+              ],
+              "recall_scope": "all cases and expiration dates; distributed to retailers and foodservice distributors in WI, IL, and MI"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0007",
+            "BLOCK-0008"
+          ],
+          "evidence_exempt": false,
+          "note": "The page states that all eggs supplied by Milo’s Poultry Farms, LLC were recalled; Tony’s Fresh Market, Happy Quackers Farm, and M&E are brand labels within the same firm recall."
+        }
+      }
+    }
+  }
+}

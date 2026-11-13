@@ -1,0 +1,320 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1218",
+  "title": "Outbreak Investigation of Salmonella: Organic Basil (April 2024) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-organic-basil-april-2024",
+  "frozen_source_path": "t1/frozen_sources/case-1218.txt",
+  "frozen_source_sha256": "50ea6469c85141c722166b6133191c295bc973525a48fb399f6c4e2c5f2739a6",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2024-04-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "April 17, 2024"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Typhimurium infections linked to Infinite Herbs-brand organic basil packed in 2.5-oz clamshell packaging and sold at Trader Joe’s stores in AL, CT, D.C., DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, NC, NE, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, and WI."
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of 12 people infected with the outbreak strain of Salmonella have been reported from seven states. Seven of eight cases with information available reported exposure to fresh organic basil purchased from Trader Joe's before becoming ill. Additionally, traceback data collected by FDA determined that Infinite Herbs, LLC, in Miami, FL, was the supplier of the 2.5-oz packages of organic basil sold at Trader Joe’s stores."
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "In response to this investigation, Trader Joe’s has voluntarily removed all Infinite Herbs-brand organic basil packed in 2.5-oz clamshell packaging from their stores and this product should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054"
+      ],
+      "stage_source_sha256": "d45fb4b0dbc4be02cc641ec4825a2abcf60b6983328f8c332f9bffadc8535bac"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2024-04-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "April 19, 2024"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners are investigating an outbreak of Salmonella linked to recalled organic basil."
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "In response to this investigation, on April 18, 2024, Infinite Herbs, LLC, of Miami, FL voluntarily recalled 2.5-oz packages of Infinite Herbs-brand fresh organic basil sold at select Trader Joe’s stores and Fruit Center Marketplace stores in Massachusetts from February 1 through April 6, 2024."
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "On April 19, 2024, Infinite Herbs, LLC, expanded the recall to include Melissa’s-brand organic basil sold in 2.0 and 4.0-oz packages at Dierberg’s stores in Illinois and Missouri between February 10 through February 20, 2024."
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Both brands of recalled basil are no longer available for sale and any previously purchased basil should be past shelf life. If you previously purchased recalled basil and then froze it, you should throw it away if it’s part of the recall or if you cannot tell if it’s part of the recall."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049"
+      ],
+      "stage_source_sha256": "7b8e730d5c505a8e85bb0a3df92218b33cc4b305cba543040f936ea82551bb0d"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-06-18",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Images of Additional Products"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled organic basil is past expiration and no longer available for sale in retail stores."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Two brands of organic basil were recalled:"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Infinite Herbs-brand organic basil packed in 2.5-oz clamshell packaging (UPC 8 18042 02147 7) and sold at Trader Joe’s and Fruit Center Marketplace stores from February 1 through April 6, 2024."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Melissa's brand fresh organic basil in 2.0-oz (UPC 0 45255 14142 9) and 4.0-oz clamshell packages (UPC 0 45255 14439 0) available for sale at Dierberg's stores in Illinois and Missouri from February 10 through February 20, 2024."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Both recalled brands of basil are labeled as a product of Colombia on the back of the package."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection:"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Infinite Herbs-brand was sold at:"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Trader Joe’s stores in D.C. and AL, CT, DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, NC, NE, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, and WI"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Fruit Center Marketplace stores in MA"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Melissa’s-brand was sold at:"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Dierberg’s stores in IL and MO"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Potentially contaminated recalled product is no longer available on the market; however, consumers who purchased recalled organic basil from the stores listed above should check their refrigerators and freezers and should not eat it."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "This product should no longer be for sale at retail stores and is likely past shelf-life. If you bought recalled organic basil and removed it from the packaging or froze it and cannot tell if it is part of the recall, do not eat or use it and throw it away."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with this product to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of a Salmonella infection after eating basil."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "June 18, 2024"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Salmonella infections linked to recalled Infinite Herbs-brand and Melissa's-brand fresh organic basil."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "As of June 18, 2024, CDC reports that the outbreak is over. CDC reports a total of 36 cases in 14 states. There has been a total of four hospitalizations and no deaths associated with this incident. The last illnesses onset date was May 26, 2024. FDA’s outbreak investigation is closed."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Map of Stores Where Recalled Organic Basil was Sold"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Total Illnesses: 36 Hospitalizations: 4 Deaths: 0 Last Illness Onset: May 26, 2024 States with Cases: CT, FL GA, IL, KS, MA, MI, MN, MO, NC, NJ, RI, TX, WI"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Product Distribution*: AL, CT, D.C., DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, NC, NE, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "*Distribution has been confirmed for locations listed, but product could have been distributed further."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Recalled Product"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "On April 18, 2024, Infinite Herbs, LLC, of Miami, Florida, voluntarily recalled 2.5-oz packages of Infinite Herbs fresh organic basil sold between February 1 through April 6, 2024, and bearing the UPC 8 18042 02147 7. Additional information and images of UPC codes, can be found in the company recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "On April 19, 2024, Infinite Herbs, LLC expanded the recall to include Melissa’s-brand organic basil sold in 2.0 and 4.0-oz packages at Dierberg’s stores in Illinois and Missouri between February 10 through 20, 2024. Additional information and images of UPC codes can be found in the company recall announcement ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043"
+      ],
+      "stage_source_sha256": "ff9b9cea26b777a85b67338e1ce9a503eeec822df884fba5b0a79c9e0d8261ce"
+    }
+  ]
+}

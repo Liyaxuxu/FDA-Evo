@@ -1,0 +1,520 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1273",
+  "title": "Outbreak Investigation of E. coli O121:H19: Organic Carrots (November 2024) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o121h19-organic-carrots-november-2024",
+  "frozen_source_path": "t1/frozen_sources/case-1273.txt",
+  "frozen_source_sha256": "2313ef747938416d9a251bd5690e79958185cfc62948cd8b2aa492719613cb9d",
+  "stage_count": 5,
+  "stages": [
+    {
+      "source_order": 4,
+      "report_date": "2024-11-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0199",
+          "source_page": "Main",
+          "text": "November 17, 2024"
+        },
+        {
+          "block_id": "BLOCK-0200",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Shiga toxin-producing E. coli O121:H19 infections linked to organic whole and baby carrots supplied by Grimmway Farms of Bakersfield, California."
+        },
+        {
+          "block_id": "BLOCK-0201",
+          "source_page": "Main",
+          "text": "State and local public health officials are interviewing people about the foods they ate in the week before they got sick. Of the 27 people interviewed, 26 (96%) reported eating carrots."
+        },
+        {
+          "block_id": "BLOCK-0202",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation identified Grimmway Farms as the common supplier of organic whole and baby carrots in this outbreak. On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged organic whole and baby carrots and contacted their distributing customers. The retail-packaged organic whole carrots were in stores for purchase from August 14 through October 23, 2024. The organic baby carrots have different best-if-used-by-dates ranging from September 11 through November 12, 2024. A full list of recalled products is below."
+        },
+        {
+          "block_id": "BLOCK-0203",
+          "source_page": "Main",
+          "text": "Although product is likely no longer on the market, carrots can last a long time when refrigerated or frozen. Consumers should check their refrigerators and freezers and discard these recalled products. Distributors and retailers that may have received recalled bagged organic whole and baby carrots should follow the recommendations above and contact their customers."
+        },
+        {
+          "block_id": "BLOCK-0204",
+          "source_page": "Main",
+          "text": "FDA is working with the firm to determine the source of contamination and whether additional products are affected. This advisory will be updated as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0199",
+        "BLOCK-0200",
+        "BLOCK-0201",
+        "BLOCK-0202",
+        "BLOCK-0203",
+        "BLOCK-0204"
+      ],
+      "stage_source_sha256": "b4a0fdd0011e119df928941475dc143b1c2459a239049645d60aedfc1c94a500"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2024-11-21",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0192",
+          "source_page": "Main",
+          "text": "November 21, 2024"
+        },
+        {
+          "block_id": "BLOCK-0193",
+          "source_page": "Main",
+          "text": "On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged, organic whole and baby carrots and contacted their distributing customers. Recalled products were shipped directly to retail distribution centers nationwide in the United States and Puerto Rico. These products should no longer be in grocery stores but may be in consumers' refrigerators or freezers."
+        },
+        {
+          "block_id": "BLOCK-0194",
+          "source_page": "Main",
+          "text": "The Grimmway Farms recall also impacts markets outside of the United States. Customer information provided by Grimmway Farms shows that the recalled products were also distributed to customers in Canada, Colombia, Hong Kong, and the United Arab Emirates. Grimmway Farms has directly notified international customers who received recalled products. For additional information, international officials and customers can visit the company’s recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0195",
+          "source_page": "Main",
+          "text": "Additional recalls are being conducted by companies that used or repackaged recalled carrots that may have been supplied by Grimmway Farms:"
+        },
+        {
+          "block_id": "BLOCK-0196",
+          "source_page": "Main",
+          "text": "Fabalish Inc. Kickin’ Carrot Falafel Bites"
+        },
+        {
+          "block_id": "BLOCK-0197",
+          "source_page": "Main",
+          "text": "Whole Foods Market Organic Carrot Sticks and Organic Carrots & Celery Sticks"
+        },
+        {
+          "block_id": "BLOCK-0198",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0192",
+        "BLOCK-0193",
+        "BLOCK-0194",
+        "BLOCK-0195",
+        "BLOCK-0196",
+        "BLOCK-0197",
+        "BLOCK-0198"
+      ],
+      "stage_source_sha256": "0c67bc03826933dc2e5b4e168e9c3d95643031456d5f633978e085f68c22058e"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2024-11-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0184",
+          "source_page": "Main",
+          "text": "November 22, 2024"
+        },
+        {
+          "block_id": "BLOCK-0185",
+          "source_page": "Main",
+          "text": "On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged, organic whole and baby carrots and contacted their distributing customers. Recalled products were shipped directly to retail distribution centers nationwide in the United States and Puerto Rico. These products should no longer be in grocery stores but may be in consumers' refrigerators or freezers."
+        },
+        {
+          "block_id": "BLOCK-0186",
+          "source_page": "Main",
+          "text": "On November 21, 2024, the recall expanded to include additional bag sizes for organic whole carrots under the following labels:"
+        },
+        {
+          "block_id": "BLOCK-0187",
+          "source_page": "Main",
+          "text": "Bunny Luv: 50-lb"
+        },
+        {
+          "block_id": "BLOCK-0188",
+          "source_page": "Main",
+          "text": "Cal-Organic: 15-lb and 50-lb"
+        },
+        {
+          "block_id": "BLOCK-0189",
+          "source_page": "Main",
+          "text": "Good & Gather: 1-lb"
+        },
+        {
+          "block_id": "BLOCK-0190",
+          "source_page": "Main",
+          "text": "A full list of recalled products is below. These products are likely no longer available for sale in stores but could be in people’s homes."
+        },
+        {
+          "block_id": "BLOCK-0191",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0184",
+        "BLOCK-0185",
+        "BLOCK-0186",
+        "BLOCK-0187",
+        "BLOCK-0188",
+        "BLOCK-0189",
+        "BLOCK-0190",
+        "BLOCK-0191"
+      ],
+      "stage_source_sha256": "3b535f80ae291d4040b62fe89a83a6d2316f38d8253be2e0f5914456c53058cf"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2024-11-29",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0181",
+          "source_page": "Main",
+          "text": "November 29, 2024"
+        },
+        {
+          "block_id": "BLOCK-0182",
+          "source_page": "Main",
+          "text": "On November 26, 2024, 4Earth Farms of Commerce, California, recalled multiple brands of Organic Vegetable Medley, Conventional Vegetable Medley, and Organic Whole Carrots. The recall was initiated after 4Earth Farms was notified by Grimmway Farms, Inc. that carrots used in the Vegetable Medleys and Whole Organic Carrots may have been contaminated with E. coli O121:H19."
+        },
+        {
+          "block_id": "BLOCK-0183",
+          "source_page": "Main",
+          "text": "These products are likely no longer available for sale in stores but could be in people’s homes."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0181",
+        "BLOCK-0182",
+        "BLOCK-0183"
+      ],
+      "stage_source_sha256": "a4c59c287ac5bda8c8d3b4acc63f26d4358dd58e22c34f9aed3b1218e76099af"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-12-18",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple sizes and brands of bagged organic whole and baby carrots."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On November 21, 2024, the recall expanded to include additional bag sizes for organic whole carrots."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Additional recalls were conducted by companies that used or repackaged recalled carrots that may have been supplied by Grimmway Farms."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "A full list of recalled products is below."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "These products are no longer available for sale in stores."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of E. coli"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting. Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "The severity or presence of certain symptoms may depend on the type of pathogenic E. coli that is causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "These products were sold nationwide and are no longer available for sale in stores."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "These products are past shelf life and are no longer available for sale."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Consumers, retailers, and distributors should check their refrigerators and freezers and should not use or eat recalled organic whole or baby carrots."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Retailers, distributors, and consumers should follow FDA’s safe handling and cleaning and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of an of an E. coli infection after eating organic carrots."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "December 18, 2024"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Shiga toxin-producing E. coli O121:H19 infections linked to organic whole and baby carrots supplied by Grimmway Farms of Bakersfield, California. According to CDC, as of December 18, 2024, this outbreak is over. There was a total of 48 illnesses in 19 states and one reported death. Of 47 people with information available, 20 were hospitalized and one developed hemolytic uremic syndrome, a serious condition that can cause kidney failure."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "FDA conducted inspections at Grimmway Farms and collected environmental samples. Two environmental samples collected outside were positive for Shiga toxin-producing E. coli (STEC). Although both strains of E. coli detected in the samples are capable of causing human illness, neither match the strain of E. coli causing illnesses in this outbreak. The strain of E. coli causing illnesses in this outbreak was not found in environmental samples; however, epidemiologic and traceback evidence shows that recalled carrots were the likely source of illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "FDA is working with Grimmway Farms on corrective and preventive actions."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "FDA’s investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Count"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Total Illnesses: 48"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Hospitalizations: 20"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Deaths: 1"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Last Illness Onset: November 10, 2024"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "States with Cases: AR, CA, CO, MA, MI, MN, MO, NC, NJ, NY, OH, OR, PA, SC, TX, UT, VA, WA, WY"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "International Distribution: Canada, Colombia, Hong Kong, and the United Arab Emirates"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged organic whole and baby carrots and contacted their distributing customers. Recalled products were shipped directly to retail distribution centers nationwide in the United States and Puerto Rico. On November 21, 2024, the recall expanded to include additional bag sizes for organic whole carrots under the following labels:"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Bunny Luv: 50-lb"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Cal-Organic: 15-lb and 50-lb"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Good & Gather:1-lb"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "These products are no longer in grocery stores but may be in consumers' refrigerators or freezers."
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Organic whole carrots , which do not have a best-if-used-by date printed on the bag, but were available for purchase at retail stores from August 14 through October 23, 2024:"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "The bolded bag sizes below reflect additions to the existing November 16, 2024, voluntary recall."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786031655582-1",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1273-01]"
+        },
+        {
+          "block_id": "BLOCK-ADD-1786031989853-3",
+          "source_page": "Main",
+          "text": "Organic baby carrots with best-if-used-by-dates ranging from September 11 through November 12, 2024:"
+        },
+        {
+          "block_id": "BLOCK-ADD-1786032017451-4",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1273-02]"
+        },
+        {
+          "block_id": "BLOCK-0174",
+          "source_page": "Main",
+          "text": "Additional recalls are being conducted by companies that used or repackaged recalled carrots supplied by Grimmway Farms:"
+        },
+        {
+          "block_id": "BLOCK-0175",
+          "source_page": "Main",
+          "text": "4Earth Farms – multiple brands (added 11/29/2024)"
+        },
+        {
+          "block_id": "BLOCK-0176",
+          "source_page": "Main",
+          "text": "Fabalish Inc. Kickin’ Carrot Falafel Bites (added 11/21/2024)"
+        },
+        {
+          "block_id": "BLOCK-0177",
+          "source_page": "Main",
+          "text": "Whole Foods Market Organic Carrot Sticks and Organic Carrots & Celery Sticks (added 11/21/2024)"
+        },
+        {
+          "block_id": "BLOCK-0178",
+          "source_page": "Main",
+          "text": "International Distribution"
+        },
+        {
+          "block_id": "BLOCK-0179",
+          "source_page": "Main",
+          "text": "The Grimmway Farms recall impacts markets outside of the United States. Customer information provided by Grimmway Farms shows that the recalled products were also distributed to customers in Canada, Colombia, Hong Kong, and the United Arab Emirates. Grimmway Farms has directly notified international customers who received recalled products. For additional information, international officials and customers can visit the company’s recall announcement ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-ADD-1786031655582-1",
+        "BLOCK-ADD-1786031989853-3",
+        "BLOCK-ADD-1786032017451-4",
+        "BLOCK-0174",
+        "BLOCK-0175",
+        "BLOCK-0176",
+        "BLOCK-0177",
+        "BLOCK-0178",
+        "BLOCK-0179"
+      ],
+      "stage_source_sha256": "0c552e3e507d1f9bfe58092f9a2f3c9d57a0e25e77391e3d865e260f10adf842"
+    }
+  ]
+}

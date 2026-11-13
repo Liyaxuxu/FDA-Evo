@@ -1,0 +1,750 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1277",
+  "title": "Outbreak Investigation of Salmonella: Cucumbers (November 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 68,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0128"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 18,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0128"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0128"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0129"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0127"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "SunFed Produce, LLC",
+              "brands": [],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0129"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 68,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 18,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0123"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "food products containing recalled Agrotato cucumbers",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0121",
+            "BLOCK-0123"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "SunFed Produce, LLC",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "Baloian Farms",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers",
+              "recalling_company": "Russ Davis",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Garden Salad W/ Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Garden Salad with Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Turkey Havarti Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Kowalski’s Market Garden Salad",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Kowalski’s Market"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0123"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 68,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 18,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0122"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "food products containing recalled Agrotato cucumbers",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0117"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "SunFed Produce, LLC",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "Baloian Farms",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers",
+              "recalling_company": "Russ Davis",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Garden Salad W/ Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Garden Salad with Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Turkey Havarti Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Kowalski’s Market Garden Salad",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Kowalski’s Market"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Fresh Cut Cucumber Slices",
+              "recalling_company": "Walmart",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "sold at stores in TX"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "JFE",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "Supreme Produce",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "Yummi Sushi",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0123",
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 100,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0113"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 25,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0113"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0113"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "food products containing recalled Agrotato cucumbers",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "SunFed Produce, LLC",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "Baloian Farms",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers",
+              "recalling_company": "Russ Davis",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Garden Salad W/ Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Garden Salad with Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Turkey Havarti Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Kowalski’s Market Garden Salad",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Kowalski’s Market"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Fresh Cut Cucumber Slices",
+              "recalling_company": "Walmart",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "sold at stores in TX"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "JFE",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "Supreme Produce",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "Yummi Sushi",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 113,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 28,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "food products containing recalled Agrotato cucumbers",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "SunFed Produce, LLC",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers grown by Agrotato, S.A. de C.V.",
+              "recalling_company": "Baloian Farms",
+              "brands": [],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "American/slicer cucumbers",
+              "recalling_company": "Russ Davis",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Garden Salad W/ Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Garden Salad with Ranch Dressing",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Turkey Havarti Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Quick & Easy Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Quick & Easy"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Crazy Fresh Bacon Avocado Wrap",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Crazy Fresh"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Kowalski’s Market Garden Salad",
+              "recalling_company": "Russ Davis",
+              "brands": [
+                "Kowalski’s Market"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Fresh Cut Cucumber Slices",
+              "recalling_company": "Walmart",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": "sold at stores in TX"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "JFE",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "Supreme Produce",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            },
+            {
+              "product_name": "food products containing recalled cucumbers",
+              "recalling_company": "Yummi Sushi",
+              "brands": [],
+              "recall_scope": "sold at Kroger stores in AZ, CO, LA, TX, WY and King Soopers stores in CO"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    }
+  }
+}

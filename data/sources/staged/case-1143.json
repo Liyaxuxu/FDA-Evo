@@ -1,0 +1,330 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1143",
+  "title": "Outbreak Investigation of Hepatitis A Virus Infections: Frozen Strawberries (February 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023",
+  "frozen_source_path": "t1/frozen_sources/case-1143.txt",
+  "frozen_source_sha256": "0c5bf54c0a82c16bc95ec5187481812ea9d67f1a31d63e5b926de776e4d3af71",
+  "stage_count": 7,
+  "stages": [
+    {
+      "source_order": 6,
+      "report_date": "2023-04-11",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "April 11, 2023"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of hepatitis A virus infections linked to frozen organic strawberries imported by a common supplier from certain farms located in Baja California, Mexico. The frozen organic strawberries were sold to a variety of retailers under multiple brand labels."
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Based on epidemiological data collected by CDC, 7/7 (100%) people who provided information about what they ate before becoming ill reported eating frozen organic strawberries. FDA’s traceback investigation identified a common supplier of the frozen organic strawberries. Strawberries used by this supplier were imported from certain farms located in Baja California, Mexico, in 2022. Additionally, the strain of hepatitis A virus causing illnesses this year is genetically identical to the strain that caused the outbreak of hepatitis A virus infections in 2022 , which was linked to fresh organic strawberries imported from Baja California, Mexico, and sold at various retailers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052"
+      ],
+      "stage_source_sha256": "69bf63153d707b1f89d16a84875f483deb8d3e2352a8e36483006560abf5c94a"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2023-04-24",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "April 24, 2023"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Based on epidemiological data collected by CDC, 8/8 (100%) people who provided information about what they ate before becoming ill reported eating frozen organic strawberries."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0048",
+        "BLOCK-0049"
+      ],
+      "stage_source_sha256": "91b8e0953ca0b96dccef0db3f6a00e3e37b0b664f4952268d69ffe0c2dfddacb"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2023-05-08",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "May 8, 2023"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "As of May 5, 2023, a total of 9 outbreak-associated cases of hepatitis A have been reported from 3 states. Based on epidemiological data collected by CDC, 9/9 (100%) people who provided information about what they ate before becoming ill reported eating frozen organic strawberries."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0046",
+        "BLOCK-0047"
+      ],
+      "stage_source_sha256": "b3636394ddaa8a918d7c259f8414bd5f37cf34944a68e42660513d833db2999b"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2023-06-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "June 9, 2023"
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Based on traceback data gathered during the ongoing investigation of hepatitis A infections linked to frozen organic strawberries imported from Baja California, Mexico; FDA has identified additional firms that may have received potentially contaminated product. FDA has been working with these firms to ensure that any potentially contaminated product is removed from the market."
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "On June 7, 2023, Wawona Frozen Foods of Clovis, California, initiated a voluntary recall of Wawona brand Organic DayBreak Blend 4-lb. bag with “Use By” dates of 9/23/2023, 9/29/2023, 9/30/2023 and 10/18/2023. Additional distribution and lot code information is below."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045"
+      ],
+      "stage_source_sha256": "2f0c7aa4cb0f13bc1b12fd803fdab727349aef6a122b22d48154b2aed2d1c5cc"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2023-06-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "June 13, 2023"
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Based on traceback data gathered during the ongoing investigation of hepatitis A infections linked to frozen organic strawberries imported from Baja California, Mexico; FDA has identified additional firms that may have received potentially contaminated product. FDA has been working with these firms to ensure that any potentially contaminated product is removed from the market."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "June 12, 2023, Willamette Valley Fruit Co. of Salem, Oregon, initiated a voluntary recall of select packages of frozen fruit products containing strawberries. Recalled products include Great Value Mixed Fruit 4-lb, Great Value Sliced Strawberries 4-lb, Great Value Antioxidant Fruit Blend 2-lb, Rader Farms Organic Fresh Start Smoothie Blend 48-oz. bag (each bag consists of six 8-oz packages), and Rader Farms Organic Berry Trio 3-lb."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042"
+      ],
+      "stage_source_sha256": "c844e2fe759ee92dfde16efe87ff8478ef9fa530cc425dde0931921dc6bf60a4"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2023-07-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "July 19, 2023"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "As of July 18, 2023, a total of 10 outbreak-associated cases of hepatitis A have been reported from four states. Based on epidemiological data collected by CDC, 10/10 (100%) people who provided information about what they ate before becoming ill reported eating frozen organic strawberries."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0038",
+        "BLOCK-0039"
+      ],
+      "stage_source_sha256": "e2cf5f1e055b99755228668fc81856c7873e1ffd6e3607f3935733a9ae75591c"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2023-09-15",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "The US Food and Drug Administration’s (FDA) investigation is complete; the Centers for Disease Control and Prevention (CDC) declares outbreak over."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Frozen strawberries have a long shelf life. Consumers should check their freezers for recalled products. Recall information can be found using the links below:"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Willamette Valley Fruit Recall"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Wawona Frozen Foods Recall"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "California Splendor Recall"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Scenic Fruit Recall"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "For more information on stores affected, see recall notices."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Symptoms of Hepatitis A"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 15 to 50 days after eating or drinking contaminated food or water. Symptoms of hepatitis A virus infection include fatigue, nausea, vomiting, abdominal pain, jaundice, dark urine, and pale stool. In some instances, particularly in children under the age of six, hepatitis A infection may be asymptomatic."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers should not sell, serve, or eat recalled frozen strawberries. These recalled products should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "These items were sold frozen and have a long shelf-life of 18 months to two years. Consumers should check their freezers for any recalled frozen strawberries. If you have recalled frozen strawberries in your freezer, throw them out."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "If consumers purchased the recalled frozen strawberries and ate those berries in the last two weeks, and have not been vaccinated against hepatitis A, they should immediately consult with their healthcare professional to determine whether post exposure prophylaxis (PEP) is needed. PEP is recommended for unvaccinated people who have been exposed to hepatitis A virus in the last two weeks because vaccination can prevent a hepatitis A virus infection if given within 14 days of exposure. Those with evidence of previous hepatitis A vaccination or previous hepatitis A virus infection do not require PEP."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of a hepatitis A virus infection after eating these frozen strawberries, or if you believe that you have eaten these strawberries in the last two weeks."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "September 15, 2023"
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of hepatitis A virus infections linked to frozen organic strawberries imported from Baja California, Mexico. FDA’s traceback investigation identified a common supplier of organic strawberries. Strawberries used by this supplier were imported from certain farms located in Baja California, Mexico, in 2022. Additionally, the strain of hepatitis A virus causing illnesses this year is genetically identical to the strain that caused the outbreak of hepatitis A virus infections in 2022 , which was linked to fresh organic strawberries imported from Baja California, Mexico, and sold at various retailers. Due to the matching strains of hepatitis A, investigators considered traceback and epidemiological data from the 2022 and 2023 outbreaks. When both data sets were considered together, investigators found that a single farm was associated with the distribution of strawberries consumed by ill people in both outbreaks. This single farm supplied strawberries to multiple importers across both outbreaks and some recipients processed fresh strawberries into the frozen berries consumed in the 2023 outbreak."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "As of September 15, 2023, no additional illnesses have been reported and CDC has announced that this outbreak has ended. FDA’s investigation is complete. While the outbreak has ended, FDA continues to work closely with competent authorities in Mexico through the established Food Safety Partnership to investigate potential source(s) of contamination within the implicated region and to proactively implement prevention strategies for growers ahead of the next growing season. FDA also intends to consider using additional tools, such as import screening and sampling, for strawberries grown and harvested in Baja California, Mexico, during the next growing season."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Total Illnesses: 10 Hospitalizations: 4 Deaths: 0 Last Illness Onset: May 27, 2023 States with Cases: CA (2), HI (1), OR (1), WA (6) Product Distribution: Nationwide"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023"
+      ],
+      "stage_source_sha256": "748c26ad645f75b2b86d3762997bcad5e43bc2796646c2341ce2f172fd233cf3"
+    }
+  ]
+}

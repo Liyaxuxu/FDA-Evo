@@ -1,0 +1,259 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1141",
+  "title": "Outbreak Investigation of Salmonella: Flour (April 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-flour-april-2023",
+  "frozen_source_path": "t1/frozen_sources/case-1141.txt",
+  "frozen_source_sha256": "ad4e049c3904fe7d81aa011af2115bd0047b51904141b1cbbb0ea27560fe03f6",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2023-05-01",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "May 1, 2023"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of Salmonella Infantis infections linked to Gold Medal brand flour produced by General Mills of Minneapolis, MN."
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "Based on epidemiological data collected by CDC, five of nine cases report exposure to raw Gold Medal brand flour and seven of eight cases report consuming raw dough or batter. FDA’s traceback investigation identified a single production facility of the flour consumed by patients. FDA initiated an inspection at the General Mills Kansas City, MO facility and collected retain product samples. One sample was found to be positive for Salmonella , and subsequent analysis by Whole Genome Sequencing (WGS) found that the Salmonella in the positive sample matched the strain of Salmonella making people sick in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "On April 28, 2023, General Mills announced a voluntary nationwide recall of two-, five- and 10-pound bags of its Gold Medal Unbleached and Bleached All Purpose Flour with a “better if used by” date of March 27, 2024, and March 28, 2024. This recall affects two date codes of Gold Medal Unbleached All Purpose Flour in the five- and ten-pound bags and two date codes of Gold Medal Bleached All Purpose Flour in the two- and five-pound bags."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "No other types of Gold Medal Flour are affected by this recall at this time."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0002",
+          "source_page": "Main",
+          "text": "Sample Product Images from the Outbreak Investigation of Salmonella: Flour (April 2023)"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-NEW-0002"
+      ],
+      "stage_source_sha256": "4fc884a9e7c21332ab5582b2994b3f26027524c0fec3232ae9f197978580558a"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2023-06-07",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-NEW-0000",
+          "source_page": "Main",
+          "text": "Sample Product Images from the Outbreak Investigation of Salmonella: Flour (April 2023)"
+        },
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Two-, five- and 10-pound bags of Gold Medal Unbleached and Bleached All Purpose Flour with “Better if Used by” dates of March 27, 2024, and March 28, 2024."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recalled product codes are listed on the firm’s press and below ."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "FDA’s investigation is complete; CDC declares outbreak over."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Distributed Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers should not eat, sell, or serve recalled Gold Medal flour. Recalled products should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Check your home for recalled flour. If you cannot tell if your flour is part of the recall, do not use it."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of a Salmonella infection after eating recalled flour."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Flour Safety Tips"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Due to the potential for contamination, never eat any raw flour, dough, or cake mix that is supposed to be cooked or baked."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Always wash hands, work surfaces, and utensils thoroughly after contact with flour, raw dough, or batter."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Keep raw food or dough separate from other foods while preparing them to prevent any possible contamination from spreading. Be aware that flour or baking mix may spread easily due to its powdery nature."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "June 7, 2023"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Infantis infections linked to recalled gold medal unbleached and bleached flour with “Better if Used by” dates of March 27, 2024, and March 28, 2024."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "As of June 7, 2023, CDC announced that the outbreak is over. CDC reports a total of 14 illnesses in 13 states. The last illness onset was May 2, 2023. FDA’s investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-NEW-0001",
+          "source_page": "Main",
+          "text": "CDC Case Count Map - Salmonella Infantis"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Total Illnesses: 14 Hospitalizations: 3 Deaths: 0 Last Illness Onset: May 2, 2023 States with Cases: CA (1), IL (2), IA (1), MN (1), MO (1), NE (1), NJ (1), NY (1), OH (1), OR (1), TN (1), VA (1), WA (1) Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "More information about recalled products is available on FDA’s website ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-NEW-0000",
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-NEW-0001",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0033",
+        "BLOCK-0034"
+      ],
+      "stage_source_sha256": "e56d6a1f749a6b611ed752b0799f50a01ac60eca944c2591d75fdf7628b06217"
+    }
+  ]
+}

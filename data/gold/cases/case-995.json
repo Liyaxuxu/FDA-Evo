@@ -1,0 +1,642 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "995",
+  "title": "Outbreak Investigation of Listeria monocytogenes – Hispanic-style Fresh and Soft Cheeses (February 2021) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Hispanic-style fresh and soft cheeses",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0051",
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": "Leading hypothesis; queso fresco exposure alone is not a separate implicated product at this stage."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0047"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Hispanic-style fresh and soft cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "El Abuelito queso fresco",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": "The broad cheese category remains suspected; sampled Queso Fresco is under WGS investigation and is not yet linked. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco made by El Abuelito Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0042",
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Queso Fresco",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "Rio Grande",
+                "Rio Lindo"
+              ],
+              "recall_scope": "“sell by” dates through 03/28/21"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco made by El Abuelito Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito brand cheeses",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0038",
+            "BLOCK-0039",
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Queso Fresco",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "Rio Grande",
+                "Rio Lindo"
+              ],
+              "recall_scope": "“sell by” dates through 03/28/21"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0034"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco made by El Abuelito Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito Cheese, Inc. Quesillo (Oaxaca, string cheese)",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito Cheese, Inc. Requeson (Ricotta) cheeses",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0033",
+            "BLOCK-0034",
+            "BLOCK-0035"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Queso Fresco",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "Rio Grande",
+                "Rio Lindo"
+              ],
+              "recall_scope": "“sell by” dates through 03/28/21"
+            },
+            {
+              "product_name": "Quesillo (Oaxaca, string cheese)",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito"
+              ],
+              "recall_scope": "manufactured or handled in the same facility as the Queso Fresco products"
+            },
+            {
+              "product_name": "Requeson (Ricotta) cheeses",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito"
+              ],
+              "recall_scope": "manufactured or handled in the same facility as the Queso Fresco products"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0034"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco made by El Abuelito Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito Cheese, Inc. Quesillo (Oaxaca, string cheese)",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito Cheese, Inc. Requeson (Ricotta) cheeses",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Queso Fresco",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "Rio Grande",
+                "Rio Lindo"
+              ],
+              "recall_scope": "“sell by” dates through 03/28/21"
+            },
+            {
+              "product_name": "Quesillo (Oaxaca, string cheese)",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito"
+              ],
+              "recall_scope": "manufactured or handled in the same facility as the Queso Fresco products"
+            },
+            {
+              "product_name": "Requeson (Ricotta) cheeses",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito"
+              ],
+              "recall_scope": "manufactured or handled in the same facility as the Queso Fresco products"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 13,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0008"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco made by El Abuelito Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito Cheese, Inc. Quesillo (Oaxaca, string cheese)",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "El Abuelito Cheese, Inc. Requeson (Ricotta) cheeses",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Queso Fresco",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "Rio Grande",
+                "Rio Lindo"
+              ],
+              "recall_scope": "“sell by” dates through 03/28/21"
+            },
+            {
+              "product_name": "Quesillo (Oaxaca, string cheese)",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "El Viejito",
+                "El Paisano",
+                "El Sabrosito",
+                "La Cima",
+                "Quesos Finos",
+                "San Carlos",
+                "Ideal Brands"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Requeson (Ricotta) cheeses",
+              "recalling_company": "El Abuelito Cheese, Inc.",
+              "brands": [
+                "El Abuelito",
+                "El Viejito"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0008",
+            "BLOCK-0009",
+            "BLOCK-0012",
+            "BLOCK-0013"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

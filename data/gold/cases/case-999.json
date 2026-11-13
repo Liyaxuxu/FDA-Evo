@@ -1,0 +1,740 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "999",
+  "title": "Investigation of Acute Non-viral Hepatitis Illnesses – “Real Water” Brand Alkaline Water (March 2021) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0063"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0063"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0064",
+            "BLOCK-0065"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No initiated formal recall is reported through the target stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0058",
+            "BLOCK-0059"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No initiated formal recall is reported through the target stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0047",
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Real Water brand concentrate",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "drinking water",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "concentrate",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Real Water brand concentrate",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0037",
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "drinking water",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "concentrate",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Real Water brand concentrate",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "drinking water",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "concentrate",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": "11 probable + 1 suspect = 12"
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Real Water brand concentrate",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "drinking water",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "concentrate",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 17,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": "16 probable + 1 suspect = 17"
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Real Water brand concentrate",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "drinking water",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "concentrate",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 25,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0011"
+          ],
+          "evidence_exempt": false,
+          "note": "21 probable + 4 suspect = 25"
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 23,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0011"
+          ],
+          "evidence_exempt": false,
+          "note": "21 probable + 2 suspect = 23"
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0011"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Real Water brand alkaline water",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Real Water brand concentrate",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0000"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "drinking water",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            },
+            {
+              "product_name": "concentrate",
+              "recalling_company": "Real Water, Inc.",
+              "brands": [
+                "Real Water"
+              ],
+              "recall_scope": "all sizes"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    }
+  }
+}

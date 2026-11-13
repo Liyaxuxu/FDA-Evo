@@ -1,0 +1,705 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1380",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 8,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0124"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 7,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0124"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0124"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0127"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0123",
+            "BLOCK-0125"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson/soft ricotta products",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0127"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 8,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0119",
+            "BLOCK-0120"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0117",
+            "BLOCK-0120"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson/soft ricotta products",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "requeson cheese",
+              "recalling_company": "Nelson & Isa Lacteos, LLC",
+              "brands": [
+                "Clover Hill Dairy"
+              ],
+              "recall_scope": "1 lb repacked clamshells; sold May 15–May 28, 2026; source batch 2AA051526, sell-by 6/14/26"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0127",
+            "BLOCK-0119",
+            "BLOCK-0120"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 8,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson/soft ricotta products",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "requeson cheese",
+              "recalling_company": "Nelson & Isa Lacteos, LLC",
+              "brands": [
+                "Clover Hill Dairy"
+              ],
+              "recall_scope": "1 lb repacked clamshells; sold May 15–May 28, 2026; source batch 2AA051526, sell-by 6/14/26"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 8,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "all cheese products manufactured at the Clover Hill Dairy facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson/soft ricotta products",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "requeson cheese",
+              "recalling_company": "Nelson & Isa Lacteos, LLC",
+              "brands": [
+                "Clover Hill Dairy"
+              ],
+              "recall_scope": "1 lb repacked clamshells; sold May 15–May 28, 2026; source batch 2AA051526, sell-by 6/14/26"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 8,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0118"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0105"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "all cheese products manufactured at the Clover Hill Dairy facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0127",
+            "BLOCK-0119",
+            "BLOCK-0105"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson cheese",
+              "recalling_company": "Nelson & Isa Lacteos, LLC",
+              "brands": [
+                "Clover Hill Dairy"
+              ],
+              "recall_scope": "1 lb repacked clamshells; sold May 15–May 28, 2026; source batch 2AA051526, sell-by 6/14/26"
+            },
+            {
+              "product_name": "all cheese products manufactured at the facility",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0127",
+            "BLOCK-0119",
+            "BLOCK-0105"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 10,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0051",
+            "BLOCK-0052",
+            "BLOCK-0098"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "all cheese products manufactured at the Clover Hill Dairy facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0031"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson cheese",
+              "recalling_company": "Nelson & Isa Lacteos, LLC",
+              "brands": [
+                "Clover Hill Dairy"
+              ],
+              "recall_scope": "1 lb repacked clamshells; sold May 15–May 28, 2026; source batch 2AA051526, sell-by 6/14/26"
+            },
+            {
+              "product_name": "all cheese products manufactured at the facility",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Requesón Salvadoreño (Ricotta Style Salvadorean Cheese)",
+              "recalling_company": "La Ceiba Foods Latin Market Inc.",
+              "brands": [
+                "La Colonia",
+                "Selectos Latinos"
+              ],
+              "recall_scope": "expiration 07/10/2026; distributed 05/11/2026–06/01/2026"
+            },
+            {
+              "product_name": "Requesón Mexicano (Mexican Cottage Cheese)",
+              "recalling_company": "La Ceiba Foods Latin Market Inc.",
+              "brands": [
+                "La Colonia",
+                "Selectos Latinos"
+              ],
+              "recall_scope": "expiration 07/10/2026; distributed 05/11/2026–06/01/2026"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0051",
+            "BLOCK-0052",
+            "BLOCK-0098",
+            "BLOCK-0099"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 10,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson (soft ricotta-type cheese) manufactured by Clover Hill Dairy",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "all cheese products manufactured at the Clover Hill Dairy facility",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "requeson cheese",
+              "recalling_company": "Nelson & Isa Lacteos, LLC",
+              "brands": [
+                "Clover Hill Dairy"
+              ],
+              "recall_scope": "1 lb repacked clamshells; sold May 15–May 28, 2026; source batch 2AA051526, sell-by 6/14/26"
+            },
+            {
+              "product_name": "requeson/soft ricotta products",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cuajada",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "hard cheeses",
+              "recalling_company": "Clover Hill Dairy, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Requesón Salvadoreño (Ricotta Style Salvadorean Cheese)",
+              "recalling_company": "La Ceiba Foods Latin Market Inc.",
+              "brands": [
+                "La Colonia",
+                "Selectos Latinos"
+              ],
+              "recall_scope": "expiration 07/10/2026; distributed 05/11/2026–06/01/2026"
+            },
+            {
+              "product_name": "Requesón Mexicano (Mexican Cottage Cheese)",
+              "recalling_company": "La Ceiba Foods Latin Market Inc.",
+              "brands": [
+                "La Colonia",
+                "Selectos Latinos"
+              ],
+              "recall_scope": "expiration 07/10/2026; distributed 05/11/2026–06/01/2026"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

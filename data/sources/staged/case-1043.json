@@ -1,0 +1,158 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1043",
+  "title": "Outbreak Investigation of E. Coli O157:H7 - Spinach (November 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-spinach-november-2021",
+  "frozen_source_path": "t1/frozen_sources/case-1043.txt",
+  "frozen_source_sha256": "513dbe7e54cb170f4c1914c72ab044e6d5568aa297007407fb0e0a03e4a35f85",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2021-11-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "November 16, 2021"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O157:H7. According to the CDC, as of November 15, 2021, 10 people infected with the outbreak strain of E. coli O157:H7 have been reported from 7 states. Illnesses started on dates ranging from October 15 to October 27, 2021. Five people in this outbreak report eating spinach in the week before becoming sick and one person reported Josie’s Organics brand."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "On November 15, 2021, the Minnesota Department of Agriculture reported that, as part of this outbreak investigation, a sample of Josie’s Organics Baby Spinach collected from the home of an ill person tested positive for E. coli O157:H7. This sample had a “Best If Used By” date of October 23, 2021 and is undergoing Whole Genome Sequencing (WGS) analysis to determine if the strain of E. coli O157:H7 present in the product sample matches the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "As WGS analysis of the sample is underway, FDA is tracing back the supply of the baby spinach in the positive product sample. Thus far, FDA has traced supply chains for this product back to a small number of farms in two different geographic regions and is deploying investigators along the supply chains of interest."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "FDA and state partners are working with the firm to determine if additional products could be affected. This is an ongoing investigation and additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024"
+      ],
+      "stage_source_sha256": "1dac32711177df3d9e89805c8095fa615d01cb09c9f367ff904fda5a65540d61"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2021-12-02",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "December 2, 2021"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O157:H7. According to the CDC, as of November 15, 2021, 10 people infected with the outbreak strain of E. coli O157:H7 have been reported from seven states. Illnesses started on dates ranging from October 15 to October 27, 2021. Five people in this outbreak report eating spinach in the week before becoming sick and one person reported Josie’s Organics brand."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "On November 15, 2021, the Minnesota Department of Agriculture reported that, as part of this outbreak investigation, a sample of Josie’s Organics Baby Spinach collected from the home of an ill person tested positive for E. coli O157:H7. This sample had a “Best If Used By” date of October 23, 2021. Whole Genome Sequencing (WGS) analysis determined that the strain of E. coli O157:H7 present in the product sample matches the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "FDA traced the supply chain for this positive product sample back to a small number of farms in two different geographic regions and deployed Investigators along the supply chains of interest. FDA continues tracing back reported spinach exposures to identify if spinach from additional farms could have been implicated."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "FDA and state partners are working with the firm to determine if additional products could be affected. This is an ongoing investigation and additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019"
+      ],
+      "stage_source_sha256": "0aa2a4a9a703696ed192ce0ed541c60d7316cdb853ac61e1437cd5a01ca749aa"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of E. coli O157:H7. As of January 6, 2022, CDC declared this outbreak over."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "FDA traced the supply chain for this positive product sample and deployed investigators to three farms in two separate states: California and Oregon. FDA conducted inspections, including sample collection and analysis, but inspections were limited because at the time the fields were fallow and no production activities were being conducted for spinach at any of the three farms. All samples collected were reported negative and no source or direct routes of contamination to the suspected spinach were found during the inspections. Investigators did report that one location processes product and sometimes uses product from multiple growers in one production run. This type of product co-mingling is not uncommon; but continues to present challenges for traceback investigations of foodborne outbreaks."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "CDC announced the outbreak is over. There are no recommendations for consumers, retailers, or suppliers."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Total Illnesses: 15 Hospitalizations: 4 Deaths: 0 Last Illness Onset: November 8, 2021 States with Cases: CA (1), IA (1), IN (4), MI (1), MN (2), MO (1), NE (1), OH (1), PA (1) SD (2)"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Product Images"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0013"
+      ],
+      "stage_source_sha256": "d6d2e0ab63c5d6d53a69657d8b2e7107e8d43492d2c1257f3f4d26402ce64e1b"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1141",
+  "title": "Outbreak Investigation of Salmonella: Flour (April 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": "The epidemiological denominator is explicitly described as nine cases."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Gold Medal brand flour",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0037",
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Unbleached All Purpose Flour",
+              "recalling_company": "General Mills",
+              "brands": [
+                "Gold Medal"
+              ],
+              "recall_scope": "5- and 10-pound bags; Better if Used By March 27 or March 28, 2024; specified recalled date codes; nationwide"
+            },
+            {
+              "product_name": "Bleached All Purpose Flour",
+              "recalling_company": "General Mills",
+              "brands": [
+                "Gold Medal"
+              ],
+              "recall_scope": "2- and 5-pound bags; Better if Used By March 27 or March 28, 2024; specified recalled date codes; nationwide"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0039",
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 14,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0022",
+            "BLOCK-0025"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0025"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0025"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0021",
+            "BLOCK-0012"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Gold Medal Unbleached All Purpose Flour",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Gold Medal Bleached All Purpose Flour",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Unbleached All Purpose Flour",
+              "recalling_company": "General Mills",
+              "brands": [
+                "Gold Medal"
+              ],
+              "recall_scope": "5- and 10-pound bags; Better if Used By March 27 or March 28, 2024; specified recalled date codes; nationwide"
+            },
+            {
+              "product_name": "Bleached All Purpose Flour",
+              "recalling_company": "General Mills",
+              "brands": [
+                "Gold Medal"
+              ],
+              "recall_scope": "2- and 5-pound bags; Better if Used By March 27 or March 28, 2024; specified recalled date codes; nationwide"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0012",
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

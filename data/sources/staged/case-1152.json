@@ -1,0 +1,259 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1152",
+  "title": "Investigation of Illnesses: Morel Mushrooms (May 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-morel-mushrooms-may-2023",
+  "frozen_source_path": "t1/frozen_sources/case-1152.txt",
+  "frozen_source_sha256": "a9f89edcb86942935f425d0e09428d66d88b8efae1c498d6075f6db7ee7b9555",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2023-05-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "May 19, 2023"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Per request from Gallatin City-County Health Department and the Montana (DPHHS), the FDA and CDC are assisting with an investigation of illnesses at a single restaurant in Montana. The restaurant temporarily closed following the illnesses and there does not appear to be any further risk to the public. Preparation and storage methods at the restaurant continue to be examined as part of the investigation into the cause of illnesses and this advisory will be updated as information becomes available."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "As of May 15, 2023, the investigation has identified 50 ill people who ate at the restaurant between March 28 and April 17, 2023, of whom 44 people reported eating morel mushrooms. There have been three hospitalizations and two deaths associated with this incident. A sample of leftover mushrooms were collected from the restaurant and laboratory analysis determined that the sampled mushrooms were true morels."
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Currently, no pathogen, toxin, pesticide, or heavy metal has been identified; however, state and local partners have collected consumer samples from the restaurant and testing and analysis are ongoing. Although epidemiological evidence indicates that morel mushrooms consumed at the restaurant are likely the cause of illnesses, mushroom poisonings can be difficult to diagnose as the exact chemical nature of some toxins found in wild-type mushrooms are currently unknown."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042"
+      ],
+      "stage_source_sha256": "33823628c374189bf4cfdbac5be5df242800331baffd6734971c026297b1abe6"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2023-07-19",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-NEW-0000",
+          "source_page": "Main",
+          "text": "Morel Mushroom"
+        },
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Morel mushrooms are a type of edible mushroom that are commonly foraged from the wild and are sometimes cultivated for commercial sale. Morel mushrooms are generally considered safe to eat, but they may contain some toxins that can cause health problems. The toxins in morel mushrooms that may cause illness are not fully understood; however, using proper preparation procedures, such as cooking can help to reduce toxin levels."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "The US Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) assisted Gallatin City-County Health Department (GCCHD) and the Montana Department of Public Health and Human Services (DPHHS) with an investigation of illnesses at a single restaurant in Montana. Available epidemiological evidence indicated that imported cultivated morel mushrooms, consumed at a single Montana restaurant, were the likely source of illnesses."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "The morel mushrooms served at the restaurant in Montana were distributed to multiple states; however, at this time, this appears to be a localized issue and no illnesses have been identified outside of the single restaurant in Montana."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Symptoms of Morel and Other Mushroom Poisonings"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Although morel mushrooms are generally considered safe to eat, gastrointestinal symptoms (such as nausea, vomiting, diarrhea, and abdominal pain) and neurological symptoms (such as dizziness, balance problems, and disorientation) have been documented after consumption of raw or undercooked morel mushrooms. Most individuals in this investigation who became ill after dining at the restaurant in Montana reported gastrointestinal symptoms."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "In general, symptoms of mushroom poisoning depend on the type of mushroom consumed, the specific toxin present, and amount ingested. Symptoms can also vary depending on the individual who ate them, as some individuals may be more susceptible than others."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Investigation Status"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "The following are general safety tips related to morel and other wild-type mushrooms (this includes mushrooms that are traditionally wild and foraged but can also be cultivated). If you become ill after consuming any mushroom, please contact your healthcare provider and/or call the poison control help line at 1-800-222-1222."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers:"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Consumers should eat morel and other wild-type mushrooms at their own risk. Properly preparing and cooking morel mushrooms can reduce risk of illness, however there is no guarantee of safety even if cooking steps are taken prior to consumption."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Anyone eating, selling, or serving morel mushrooms, or other wild-type of mushrooms, should exercise caution. There are varieties of poisonous wild mushrooms that look very similar to morel mushrooms. If you are preparing morels, you should confirm the identity of each mushroom, and consult with a knowledgeable expert as the poisonous species have been known to grow near edible species in the wild."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "If you are preparing morel or other wild-type mushrooms, you should inspect for any signs of spoilage as toxin presence and levels may be affected by freshness or lack thereof. Choose mushrooms that are dry and firm and avoid those that are bruised, discolored, or slimy."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Mushrooms should be refrigerated at a temperature of 40° F or below, either in their original packaging or in breathable type packaging, such as a paper bag."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Harvesters and manufacturers:"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Conditions in which wild-type mushrooms are packaged and stored can contribute to growth of harmful bacteria and toxins. Harvesters and manufacturers should pack mushrooms in breathable packaging to allow air flow through the container which will prevent growth of these pathogens."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Additional information on selecting, storing, and serving fresh produce, such as mushrooms, can be found on the FDA website ."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "July 19, 2023"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "The FDA and CDC assisted Gallatin City-County Health Department and the Montana DPHHS with an investigation of illnesses at a single restaurant in Montana. As part of this investigation, GCCHD, Montana DPHHS and CDC conducted two epidemiological studies into the cause of illnesses; one study focused on restaurant customers and the second study focused on restaurant employees. The study among restaurant customers suggested that the cultivated morel mushrooms consumed at the restaurant were likely the source of gastrointestinal illnesses in this outbreak (e.g., reported diarrhea, nausea, vomiting, or abdominal pain after eating at the restaurant between March 27–April 18, 2023). For the study among the restaurant employees, the small number of employees in the restaurant limits the conclusions that can be made; however, a relationship was observed between employees who ate a larger amount of morel mushrooms and the development of gastrointestinal illness. Samples of morel mushrooms collected from the restaurant were screened for pesticides, heavy metals, toxins, and pathogens. No significant findings were identified."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "The morel mushrooms served at the restaurant where the ill customers ate during March and April 2023 were either prepared raw or lightly cooked, depending on the date served. FDA and state partners conducted traceback on the morel mushrooms received by the restaurant in Montana and identified other restaurants that also received morel mushrooms from the same importer. These restaurants reported various forms of cooking or thoroughly heating the morel mushrooms, but no significant findings or reports of illnesses were associated with morel mushrooms served by other restaurants."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "As of July 19, 2023, the investigation has identified a total of 51 illnesses in people who ate at the restaurant with the last illness onset date of April 21, 2023. There has been a total of three hospitalizations and two deaths associated with this incident. The FDA’s investigation has ended and Montana DPHHS and GCCHD are continuing to conduct follow-up activities related to this incident, however, there does not appear to be any further risk to the public."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "General Information about Morels and Other Wild-type Mushrooms"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Although the mushrooms sampled from the restaurant were found to be true morels, there are varieties of “false morels” that may be mistaken for a true morel due to a similar appearance. “False morels” are toxic and should not be consumed, cooked or uncooked. Gyromitrin is a toxin found in some varieties of false morel mushrooms and it has been linked to several cases of mushroom poisoning and can be fatal even in relatively small amounts. Gyromitrin poisoning can cause symptoms such as headache, vomiting, diarrhea, dizziness, loss of coordination, and in severe cases, seizure, heart failure, liver and kidney damage and death. Gyromitrin toxin can be partially broken down by high temperature; however, even with cooking, toxins may remain and can lead to illness or toxicity."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Edible mushroom species can be difficult to identify, even by mushroom experts. Mushroom poisonings are almost always caused by ingestion of wild-type mushrooms. Toxins found in these mushrooms occur naturally, by the fungi themselves, and there is no guarantee of safety even if cooking steps are taken prior to consumption. Illnesses have occurred after ingestion of fresh, raw mushrooms; dried mushrooms; stir-fried mushrooms; home canned mushrooms; mushrooms cooked in sauces; and mushrooms that were blanched and frozen at home."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "If you are foraging for wild-type mushrooms, it is important to consult with a knowledgeable expert to properly identify species that are safe for consumption. The best way to keep from getting sick from wild-type mushrooms is to avoid the toxic species. It’s much safer to get mushrooms from grocery stores that sell the products grown on professional mushroom farms."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Wild-type mushroom poisonings can cause a variety of symptoms ranging from mild illness to death. Symptoms of wild-type mushroom poisoning depend on the specific toxin, the amount ingested, and the individual. The presence and levels of toxins in any individual species of mushrooms can change over time and by geographic location of where the mushroom was harvested. If you become ill after consuming any mushroom, please contact your healthcare provider and/or call the poison control help line at 1-800-222-1222."
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "FDA does not have premarket approval of food products. Claims that mushrooms or other food products are “FDA-approved” are inaccurate and do not ensure that a product is safe. More information is available on the FDA website ."
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Total Illnesses: 51 Hospitalizations: 3 Deaths: 2 Last Illness Onset: April 21, 2023 States with Cases: MT"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-NEW-0000",
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032"
+      ],
+      "stage_source_sha256": "9defc85fe98fd0dfc82c00e0b2faf7b068efab8f11c4cdb089ec773f265e8875"
+    }
+  ]
+}

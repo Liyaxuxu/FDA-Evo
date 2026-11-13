@@ -1,0 +1,3856 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1214",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Queso Fresco and Cotija Cheese (February 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0739",
+            "BLOCK-0740",
+            "BLOCK-0741",
+            "BLOCK-0744"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0716",
+            "BLOCK-0717",
+            "BLOCK-0718",
+            "BLOCK-0722",
+            "BLOCK-0725",
+            "BLOCK-0726"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735",
+            "BLOCK-0716",
+            "BLOCK-0717",
+            "BLOCK-0718",
+            "BLOCK-0719",
+            "BLOCK-0720",
+            "BLOCK-0721",
+            "BLOCK-0722",
+            "BLOCK-0723",
+            "BLOCK-0724",
+            "BLOCK-0725",
+            "BLOCK-0726"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0702",
+            "BLOCK-0706",
+            "BLOCK-0707",
+            "BLOCK-0708",
+            "BLOCK-0709",
+            "BLOCK-0710",
+            "BLOCK-0711",
+            "BLOCK-0712"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735",
+            "BLOCK-0716",
+            "BLOCK-0717",
+            "BLOCK-0718",
+            "BLOCK-0719",
+            "BLOCK-0720",
+            "BLOCK-0721",
+            "BLOCK-0722",
+            "BLOCK-0723",
+            "BLOCK-0724",
+            "BLOCK-0725",
+            "BLOCK-0726",
+            "BLOCK-0702",
+            "BLOCK-0706",
+            "BLOCK-0707",
+            "BLOCK-0708",
+            "BLOCK-0709",
+            "BLOCK-0710",
+            "BLOCK-0711",
+            "BLOCK-0712"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0698",
+            "BLOCK-0699"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "S&S Ham & Cotija Torta Sandwich on Telera Roll",
+              "recalling_company": "MG Foods",
+              "brands": [
+                "S&S"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735",
+            "BLOCK-0716",
+            "BLOCK-0717",
+            "BLOCK-0718",
+            "BLOCK-0719",
+            "BLOCK-0720",
+            "BLOCK-0721",
+            "BLOCK-0722",
+            "BLOCK-0723",
+            "BLOCK-0724",
+            "BLOCK-0725",
+            "BLOCK-0726",
+            "BLOCK-0702",
+            "BLOCK-0706",
+            "BLOCK-0707",
+            "BLOCK-0708",
+            "BLOCK-0709",
+            "BLOCK-0710",
+            "BLOCK-0711",
+            "BLOCK-0712",
+            "BLOCK-0698",
+            "BLOCK-0699"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0693",
+            "BLOCK-0694",
+            "BLOCK-0695"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "S&S Ham & Cotija Torta Sandwich on Telera Roll",
+              "recalling_company": "MG Foods",
+              "brands": [
+                "S&S"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Taco Kit",
+              "recalling_company": "Bristol Farms",
+              "brands": [],
+              "recall_scope": "9 oz; Sell By date: 1/18/24"
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735",
+            "BLOCK-0716",
+            "BLOCK-0717",
+            "BLOCK-0718",
+            "BLOCK-0719",
+            "BLOCK-0720",
+            "BLOCK-0721",
+            "BLOCK-0722",
+            "BLOCK-0723",
+            "BLOCK-0724",
+            "BLOCK-0725",
+            "BLOCK-0726",
+            "BLOCK-0702",
+            "BLOCK-0706",
+            "BLOCK-0707",
+            "BLOCK-0708",
+            "BLOCK-0709",
+            "BLOCK-0710",
+            "BLOCK-0711",
+            "BLOCK-0712",
+            "BLOCK-0698",
+            "BLOCK-0699",
+            "BLOCK-0693",
+            "BLOCK-0694",
+            "BLOCK-0695"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "S&S Ham & Cotija Torta Sandwich on Telera Roll",
+              "recalling_company": "MG Foods",
+              "brands": [
+                "S&S"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Taco Kit",
+              "recalling_company": "Bristol Farms",
+              "brands": [],
+              "recall_scope": "9 oz; Sell By date: 1/18/24"
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0686",
+            "BLOCK-0687"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "S&S Ham & Cotija Torta Sandwich on Telera Roll",
+              "recalling_company": "MG Foods",
+              "brands": [
+                "S&S"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Taco Kit",
+              "recalling_company": "Bristol Farms",
+              "brands": [],
+              "recall_scope": "9 oz; Sell By date: 1/18/24"
+            },
+            {
+              "product_name": "Ready-to-eat Enchiladas",
+              "recalling_company": "Rico Brand",
+              "brands": [],
+              "recall_scope": "Deep Meal tray – Plant Fiber - Film 800; Lot 0234 exp. 02/13/24, Lot 0264 exp. 02/16/24, Lot 0304 exp. 02/20/24, Lot 0334 exp. 02/23/24"
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0741",
+            "BLOCK-0744",
+            "BLOCK-0732",
+            "BLOCK-0733",
+            "BLOCK-0734",
+            "BLOCK-0735",
+            "BLOCK-0716",
+            "BLOCK-0717",
+            "BLOCK-0718",
+            "BLOCK-0719",
+            "BLOCK-0720",
+            "BLOCK-0721",
+            "BLOCK-0722",
+            "BLOCK-0723",
+            "BLOCK-0724",
+            "BLOCK-0725",
+            "BLOCK-0726",
+            "BLOCK-0702",
+            "BLOCK-0706",
+            "BLOCK-0707",
+            "BLOCK-0708",
+            "BLOCK-0709",
+            "BLOCK-0710",
+            "BLOCK-0711",
+            "BLOCK-0712",
+            "BLOCK-0698",
+            "BLOCK-0699",
+            "BLOCK-0693",
+            "BLOCK-0694",
+            "BLOCK-0695",
+            "BLOCK-0686",
+            "BLOCK-0687"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0683"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 23,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0683"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0683"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0682"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "S&S Ham & Cotija Torta Sandwich on Telera Roll",
+              "recalling_company": "MG Foods",
+              "brands": [
+                "S&S"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Taco Kit",
+              "recalling_company": "Bristol Farms",
+              "brands": [],
+              "recall_scope": "9 oz; Sell By date: 1/18/24"
+            },
+            {
+              "product_name": "Ready-to-eat Enchiladas",
+              "recalling_company": "Rico Brand",
+              "brands": [],
+              "recall_scope": "Deep Meal tray – Plant Fiber - Film 800; Lot 0234 exp. 02/13/24, Lot 0264 exp. 02/16/24, Lot 0304 exp. 02/20/24, Lot 0334 exp. 02/23/24"
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R10": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 23,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0007"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "queso fresco",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cotija cheese",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "other similar cheeses",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods yogurt",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Rizo-López Foods sour cream",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "foods containing recalled Rizo-López dairy products",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R9",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cheese",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "yogurt",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "sour cream",
+              "recalling_company": "Rizo Lopez Foods, Inc.",
+              "brands": [
+                "Tio Francisco",
+                "Don Francisco",
+                "Rizo Bros",
+                "Rio Grande",
+                "Food City",
+                "El Huache",
+                "La Ordena",
+                "San Carlos",
+                "Campesino",
+                "Santa Maria",
+                "Dos Ranchitos",
+                "Casa Cardenas",
+                "365 Whole Foods Market"
+              ],
+              "recall_scope": "all sell by dates"
+            },
+            {
+              "product_name": "Rojos Black Bean 7-Layer Dip",
+              "recalling_company": "Simply Fresh LLC",
+              "brands": [
+                "Rojos"
+              ],
+              "recall_scope": "2–20 oz club packs"
+            },
+            {
+              "product_name": "Chicken Enchiladas Verde",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cilantro Salad Dressing",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Elote Chopped Salad Kit",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Southwest Salad",
+              "recalling_company": "Trader Joe’s",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "cremas",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "everything sauces",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro cotija dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "poblano Caesar dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "cilantro dressing",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco, H-E-B, and Trader Joe’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "taco kits",
+              "recalling_company": "Fresh Creative Foods",
+              "brands": [],
+              "recall_scope": "sold in Costco and Albertson’s stores; recalled products sold in CA, CT, FL, ID, IL, MD, MT, NJ, NV, OR, PA, SD, TX, UT, VA, and WA"
+            },
+            {
+              "product_name": "Southwest Chipotle salad kits",
+              "recalling_company": "BrightFarms, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh Mex Chopped Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Queso Crunch Salad Kit",
+              "recalling_company": "Ready Pac Foods, Inc.",
+              "brands": [
+                "Ready Pac Bistro"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Southwest Chopped Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Salsa! Ensalada Salad Kit",
+              "recalling_company": "Fresh Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chopped Kit Avocado Ranch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Chop Kit Avocado Ranch (Chop Kit Ranch A L'Avocat)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Southwest Salad",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Cajun Ranch Chopped Kit",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Premium Kit Endless Summer",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Dole Supreme Kit Southwest Salad (Supreme Kit Salade Du Sud-Ouest)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "President’s Choice Southwest Salad Kit (Sud-Ouest Kit de Salade)",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "President’s Choice"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Chopped Salad Kit Bacon Ranch Crunch",
+              "recalling_company": "Dole Fresh Vegetables, Inc.",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "five Ready Meals",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "store-made taco kits",
+              "recalling_company": "Albertsons Companies",
+              "brands": [],
+              "recall_scope": "available at Albertsons, Carrs-Safeway, Eagle, Lucky, Pavilions, Randalls, Safeway, Shaw's, Star Market, Tom Thumb, and Vons in AK, AZ, AR, CA, CO, ID, LA, ME, MA, MT, NE, NV, NH, NM, ND, OR, RI, SD, TX, UT, VT, WA, and WY"
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Taylor Fresh Foods",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Marketside Bacon Ranch Crunch Chopped Salad kits",
+              "recalling_company": "Braga Fresh",
+              "brands": [
+                "Marketside"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "MEXICAN STYLE STREET CORN BITE",
+              "recalling_company": "The Perfect Bite Co.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Save Mart Companies",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Kits",
+              "recalling_company": "Stater Bros. Markets",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Ham Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Fresh & Ready Chicken Torta Sandwich",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ham Torta Sandwich on Telera Roll",
+              "recalling_company": "Fresh & Ready Foods",
+              "brands": [
+                "Sprig & Sprout",
+                "Jack & Olive"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Street Taco Meal Kit",
+              "recalling_company": "Sprouts Farmers Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "S&S Ham & Cotija Torta Sandwich on Telera Roll",
+              "recalling_company": "MG Foods",
+              "brands": [
+                "S&S"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Chicken Taco Kit",
+              "recalling_company": "Bristol Farms",
+              "brands": [],
+              "recall_scope": "9 oz; Sell By date: 1/18/24"
+            },
+            {
+              "product_name": "Ready-to-eat Enchiladas",
+              "recalling_company": "Rico Brand",
+              "brands": [],
+              "recall_scope": "Deep Meal tray – Plant Fiber - Film 800; Lot 0234 exp. 02/13/24, Lot 0264 exp. 02/16/24, Lot 0304 exp. 02/20/24, Lot 0334 exp. 02/23/24"
+            },
+            {
+              "product_name": "Southwest Wrap",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item # 29433"
+            },
+            {
+              "product_name": "Chicken Street Taco Kit",
+              "recalling_company": "Costco",
+              "brands": [],
+              "recall_scope": "Item #11545; BA, LA and Select NW & SD locations"
+            },
+            {
+              "product_name": "Chipotle Chicken and Rice Bowl",
+              "recalling_company": "Costco",
+              "brands": [
+                "Maverick Foods"
+              ],
+              "recall_scope": "Item #1704074; TE locations"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

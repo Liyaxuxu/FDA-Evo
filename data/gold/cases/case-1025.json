@@ -1,0 +1,347 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1025",
+  "title": "Outbreak Investigation of Salmonella Thompson: Seafood (October 2021) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "seafood manufactured or processed by Northeast Seafood Products, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0017",
+            "BLOCK-0018"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Haddock",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Monkfish",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Bone-in Trout",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Grouper",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Red Snapper",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Red Rock Cod",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ocean Perch",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Pacific Cod",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": "Pacific Cod sold through Sprouts is excluded from the recall"
+            },
+            {
+              "product_name": "Halibut",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Coho Salmon",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Atlantic Salmon Portions",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Lane Snapper",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Tilapia",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "All Natural Salmon Fillet",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Pacific Sole",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Farm Raised Striped Bass",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 115,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "seafood manufactured or processed by Northeast Seafood Products, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0001"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Haddock",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Monkfish",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Bone-in Trout",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Grouper",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Red Snapper",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Red Rock Cod",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Ocean Perch",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Pacific Cod",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": "Pacific Cod sold through Sprouts is excluded from the recall"
+            },
+            {
+              "product_name": "Halibut",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Coho Salmon",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Atlantic Salmon Portions",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Lane Snapper",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Tilapia",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "All Natural Salmon Fillet",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Pacific Sole",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Farm Raised Striped Bass",
+              "recalling_company": "Northeast Seafood Products, Inc.",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

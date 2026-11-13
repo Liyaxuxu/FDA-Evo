@@ -1,0 +1,1004 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1203",
+  "title": "Outbreak Investigation of Salmonella: Cantaloupes (November 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 29,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "recalling_company": "",
+              "brands": [
+                "Malichita"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 99,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "fresh cut fruit products made from whole cantaloupe subject to the Sofia Produce recall",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "recalling_company": "",
+              "brands": [
+                "Malichita"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Crown Jewels Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh whole cantaloupe",
+              "recalling_company": "Sofia Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "CF Dallas",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 117,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "recalling_company": "",
+              "brands": [
+                "Malichita"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Crown Jewels Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh whole cantaloupe",
+              "recalling_company": "Sofia Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "CF Dallas",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup and tray products containing cantaloupe",
+              "recalling_company": "Kwik Trip",
+              "brands": [],
+              "recall_scope": "sell-by dates: November 4, 2023 through December 3, 2023"
+            },
+            {
+              "product_name": "cut cantaloupe",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "mixed fruit cups",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "pre-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "GHGA",
+              "brands": [],
+              "recall_scope": "sell-by dates: 10/28/23 – 11/8/23"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0054",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 230,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "recalling_company": "",
+              "brands": [
+                "Malichita"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Crown Jewels Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh whole cantaloupe",
+              "recalling_company": "Sofia Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "CF Dallas",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup and tray products containing cantaloupe",
+              "recalling_company": "Kwik Trip",
+              "brands": [],
+              "recall_scope": "sell-by dates: November 4, 2023 through December 3, 2023"
+            },
+            {
+              "product_name": "cut cantaloupe",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "mixed fruit cups",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "pre-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "GHGA",
+              "brands": [],
+              "recall_scope": "sell-by dates: 10/28/23 – 11/8/23"
+            },
+            {
+              "product_name": "cantaloupe chunks",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fruit mixes containing cantaloupe",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup, clamshell and tray products containing cantaloupe",
+              "recalling_company": "TGD Cuts, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0054",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 302,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "recalling_company": "",
+              "brands": [
+                "Malichita"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Crown Jewels Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh whole cantaloupe",
+              "recalling_company": "Sofia Produce",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "CF Dallas",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup and tray products containing cantaloupe",
+              "recalling_company": "Kwik Trip",
+              "brands": [],
+              "recall_scope": "sell-by dates: November 4, 2023 through December 3, 2023"
+            },
+            {
+              "product_name": "cut cantaloupe",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "mixed fruit cups",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "pre-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "GHGA",
+              "brands": [],
+              "recall_scope": "sell-by dates: 10/28/23 – 11/8/23"
+            },
+            {
+              "product_name": "cantaloupe chunks",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fruit mixes containing cantaloupe",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup, clamshell and tray products containing cantaloupe",
+              "recalling_company": "TGD Cuts, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "TruFresh cantaloupe",
+              "recalling_company": "Stop & Shop",
+              "brands": [
+                "TruFresh"
+              ],
+              "recall_scope": "purchased between Oct. 23 – Nov. 11, 2023"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0054",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0040",
+            "BLOCK-0036"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 407,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 158,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0001",
+            "BLOCK-0002",
+            "BLOCK-0005"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Crown Jewels Produce",
+              "brands": [
+                "Malichita",
+                "Z Farms"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "CF Dallas",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup and tray products containing cantaloupe",
+              "recalling_company": "Kwik Trip",
+              "brands": [],
+              "recall_scope": "sell-by dates: November 4, 2023 through December 3, 2023"
+            },
+            {
+              "product_name": "cut cantaloupe",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "mixed fruit cups",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "pre-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "GHGA",
+              "brands": [],
+              "recall_scope": "sell-by dates: 10/28/23 – 11/8/23"
+            },
+            {
+              "product_name": "cantaloupe chunks",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fruit mixes containing cantaloupe",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup, clamshell and tray products containing cantaloupe",
+              "recalling_company": "TGD Cuts, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "TruFresh cantaloupe",
+              "recalling_company": "Stop & Shop",
+              "brands": [
+                "TruFresh"
+              ],
+              "recall_scope": "purchased between Oct. 23 – Nov. 11, 2023"
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Sofia Produce doing business as TruFresh",
+              "brands": [
+                "Malichita",
+                "Rudy"
+              ],
+              "recall_scope": "label: 4050 and Product of Mexico/produit du Mexique; sold or distributed September to early December 2023"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "sold or distributed September to early December 2023"
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Pacific Trellis",
+              "brands": [],
+              "recall_scope": "corrugated cartons with certain lot codes"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0054",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0040",
+            "BLOCK-0036",
+            "BLOCK-0001",
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 407,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 158,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0020",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cantaloupe",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Crown Jewels Produce",
+              "brands": [
+                "Malichita",
+                "Z Farms"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "CF Dallas",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup and tray products containing cantaloupe",
+              "recalling_company": "Kwik Trip",
+              "brands": [],
+              "recall_scope": "sell-by dates: November 4, 2023 through December 3, 2023"
+            },
+            {
+              "product_name": "cut cantaloupe",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "mixed fruit cups",
+              "recalling_company": "Bix Produce",
+              "brands": [],
+              "recall_scope": "sell-by dates: October 25, 2023 and October 26, 2023"
+            },
+            {
+              "product_name": "pre-cut fruit products made from recalled whole cantaloupe",
+              "recalling_company": "GHGA",
+              "brands": [],
+              "recall_scope": "sell-by dates: 10/28/23 – 11/8/23"
+            },
+            {
+              "product_name": "cantaloupe chunks",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fruit mixes containing cantaloupe",
+              "recalling_company": "Cut Fruit Express",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "fresh-cut fruit cup, clamshell and tray products containing cantaloupe",
+              "recalling_company": "TGD Cuts, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "TruFresh cantaloupe",
+              "recalling_company": "Stop & Shop",
+              "brands": [
+                "TruFresh"
+              ],
+              "recall_scope": "purchased between Oct. 23 – Nov. 11, 2023"
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Sofia Produce doing business as TruFresh",
+              "brands": [
+                "Malichita",
+                "Rudy"
+              ],
+              "recall_scope": "label: 4050 and Product of Mexico/produit du Mexique; sold or distributed September to early December 2023"
+            },
+            {
+              "product_name": "whole fresh cantaloupes",
+              "recalling_company": "Pacific Trellis",
+              "brands": [],
+              "recall_scope": "distributed October 18–26"
+            },
+            {
+              "product_name": "pre-cut products made from recalled cantaloupes",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": "sold or distributed September to early December 2023"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0054",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0040",
+            "BLOCK-0036",
+            "BLOCK-0001",
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1380",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Soft Cheese (June 2026) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026",
+  "frozen_source_path": "t1/frozen_sources/case-1380.txt",
+  "frozen_source_sha256": "d300eab708fb1317b4e6a91e5e2b9025fe8446adab67a8943bcf1f50f8a145e1",
+  "stage_count": 7,
+  "stages": [
+    {
+      "source_order": 6,
+      "report_date": "2026-06-04",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0122",
+          "source_page": "Main",
+          "text": "June 4, 2026"
+        },
+        {
+          "block_id": "BLOCK-0123",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multi-state, multi-year outbreak of Listeria monocytogenes infections potentially linked to requeson, a soft cheese similar to ricotta."
+        },
+        {
+          "block_id": "BLOCK-0124",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of 8 people infected with the outbreak strain of Listeria have been reported from 3 states. Sick people's samples were collected on dates ranging from March 6, 2023, to May 9, 2026. Of the 7 people interviewed, 5 reported eating any cheese. Two people (29%) reported eating requeson made by Clover Hill Dairy. There have been 7 hospitalizations, and one death reported."
+        },
+        {
+          "block_id": "BLOCK-0125",
+          "source_page": "Main",
+          "text": "On May 13, 2026, the Suffolk County Health Department (SCHD) notified the New York State Department of Agriculture & Markets (NYS AGM) of two related Listeria monocytogenes illnesses from the same family, who had purchased food from a local retailer in Brentwood, NY. The following day, the New York State Department of Health (NYS DOH) confirmed that both cases had consumed requeson cheese purchased at that retailer. NYS AGM investigators tested five cheese samples collected from the retailer. One sample of requeson that had been repacked by the retailer tested positive for Listeria monocytogenes , and whole genome sequencing (WGS) confirmed the strain of Listeria found in the requeson cheese matches the strain of Listeria causing illnesses in the two New York cases who reported purchasing cheese from this retailer."
+        },
+        {
+          "block_id": "BLOCK-0126",
+          "source_page": "Main",
+          "text": "On May 27, 2026, NYS AGM conducted an inspection at the retailer's cheese distributor, which identified Clover Hill Dairy, LLC of Mechanicsville, MD as the requeson cheese manufacturer. A sample collected from an unopened 18-pound sealed bucket of requeson manufactured by Clover Hill Dairy, LLC also tested positive for Listeria monocytogenes ; WGS analysis is pending."
+        },
+        {
+          "block_id": "BLOCK-0127",
+          "source_page": "Main",
+          "text": "On June 3, 2026, Clover Hill Dairy, LLC issued a voluntary recall of its requeson/soft ricotta products. Consumers and retailers should not eat, serve, or sell recalled requeson cheese."
+        },
+        {
+          "block_id": "BLOCK-0128",
+          "source_page": "Main",
+          "text": "Due to the public health risk, the Maryland Department of Health has suspended the Clover Hill Dairy LLC’s operating license, issued a Consumer Advisory , and is conducting a follow up evaluation in cooperation with the facility."
+        },
+        {
+          "block_id": "BLOCK-0129",
+          "source_page": "Main",
+          "text": "FDA is in the early stages of this investigation, additional products may be impacted, and further testing by FDA and state partners is underway. The FDA will provide updates as new information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0122",
+        "BLOCK-0123",
+        "BLOCK-0124",
+        "BLOCK-0125",
+        "BLOCK-0126",
+        "BLOCK-0127",
+        "BLOCK-0128",
+        "BLOCK-0129"
+      ],
+      "stage_source_sha256": "6d9de44f16e9def49ccc13b87da584f22e18be97bef9a8057304bc7cb4c2761b"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2026-06-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0116",
+          "source_page": "Main",
+          "text": "June 9, 2026"
+        },
+        {
+          "block_id": "BLOCK-0117",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multi-state, multi-year outbreak of Listeria monocytogenes infections linked to requeson, a soft cheese similar to ricotta, manufactured by Clover Hill Dairy, LLC of Mechanicsville, MD."
+        },
+        {
+          "block_id": "BLOCK-0118",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of 9 people infected with the outbreak strain of Listeria have been reported from 3 states. Sick people's samples were collected on dates ranging from March 6, 2023, to May 10, 2026. Of the 8 people interviewed, 6 reported eating any cheese. Two people (33%) reported eating requeson made by Clover Hill Dairy. There have been 8 hospitalizations, and one death reported."
+        },
+        {
+          "block_id": "BLOCK-0119",
+          "source_page": "Main",
+          "text": "On June 5, Nelson & Isa Lacteos, LLC of Bay Shore, NY, a distributor of Clover Hill Dairy requeson cheese, initiated a recall of 1-lb packages of requeson cheese sold in plastic clam-shell containers to retail locations in New York from May 15 to May 28, 2026. The recalled cheese was likely repacked at the retail store locations, and labeling or coding of the recalled cheese may vary based on location of purchase."
+        },
+        {
+          "block_id": "BLOCK-0120",
+          "source_page": "Main",
+          "text": "The recall was initiated after New York State Department of Agriculture & Markets (NYS AGM) detected Listeria monocytogenes in a sample collected from an unopened 18-lb plastic container of “Clover Hill Dairy Requeson Cheese” with a sell-by date of 6/14/26 and batch #2AA051526. This is the same sample referenced in the June 4, 2026 update. Whole genome sequencing (WGS) confirmed the Listeria strain found in the sample of requeson cheese matches the strain of Listeria linked to this outbreak. This recall covers 1-lb containers of requeson cheese that were repackaged from the same Listeria -positive batch."
+        },
+        {
+          "block_id": "BLOCK-0121",
+          "source_page": "Main",
+          "text": "This investigation is ongoing. Additional products may be impacted, and further testing by FDA and state partners is underway. FDA will provide updates as new information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0116",
+        "BLOCK-0117",
+        "BLOCK-0118",
+        "BLOCK-0119",
+        "BLOCK-0120",
+        "BLOCK-0121"
+      ],
+      "stage_source_sha256": "a3e3853e91d50829c0d25f8f853098cead21b553b8ed8d4aa6cfe6ecb3fbc892"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2026-06-12",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0112",
+          "source_page": "Main",
+          "text": "June 12, 2026"
+        },
+        {
+          "block_id": "BLOCK-0113",
+          "source_page": "Main",
+          "text": "On June 12, 2026, the recall press from Nelson & Isa Lacteos, LLC was updated to include a list of retail locations that FDA has reason to believe received Requeson cheese that was included in the recall by Nelson & Isa Lacteos LLC."
+        },
+        {
+          "block_id": "BLOCK-0114",
+          "source_page": "Main",
+          "text": "This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. Therefore, it is important to use this list of retail stores and the product-specific identification information provided in the recall announcement to determine whether a product has been recalled."
+        },
+        {
+          "block_id": "BLOCK-0115",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and this advisory will be updated with more information as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0112",
+        "BLOCK-0113",
+        "BLOCK-0114",
+        "BLOCK-0115"
+      ],
+      "stage_source_sha256": "0a41dd2ce35d040d569ea671976ca0e2d6c3ad47f87e35cb5c90d36669b030ec"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2026-06-15",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0107",
+          "source_page": "Main",
+          "text": "June 15, 2026"
+        },
+        {
+          "block_id": "BLOCK-0108",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multi-state, multi-year outbreak of Listeria monocytogenes infections linked to requeson, a soft cheese similar to ricotta, manufactured by Clover Hill Dairy, LLC of Mechanicsville, MD."
+        },
+        {
+          "block_id": "BLOCK-0109",
+          "source_page": "Main",
+          "text": "On June 14, 2026, The Maryland Department of Health announced an expanded consumer advisory for all cheese products made by Clover Hill Dairy, located in Mechanicsville, MD, due to possible Listeria monocytogenes contamination."
+        },
+        {
+          "block_id": "BLOCK-0110",
+          "source_page": "Main",
+          "text": "FDA is working with Maryland state partners and Clover Hill Dairy to initiate an expanded recall of all products made at the facility."
+        },
+        {
+          "block_id": "BLOCK-0111",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA and state partners collected and analyzed samples. To date, six product samples of requeson cheese have tested positive for Listeria monocytogenes and matched the outbreak strain. Additionally, one environmental sample, collected by Maryland state partners, tested positive for Listeria monocytogenes and matched the outbreak strain."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0107",
+        "BLOCK-0108",
+        "BLOCK-0109",
+        "BLOCK-0110",
+        "BLOCK-0111"
+      ],
+      "stage_source_sha256": "cfce5c8993ddf2b020bf25b9554ccecafbd9996efe7ee3a9a2945269b6187161"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2026-06-18",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0104",
+          "source_page": "Main",
+          "text": "June 18, 2026"
+        },
+        {
+          "block_id": "BLOCK-0105",
+          "source_page": "Main",
+          "text": "On June 18, 2026, Clover Hill Dairy, LLC of Mechanicsville, MD expanded its recall to include all cheese products on the market that were manufactured at their facility, due to possible Listeria monocytogenes contamination. Refer to the recalled product section below for more information."
+        },
+        {
+          "block_id": "BLOCK-0106",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and this advisory will be updated with more information as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0104",
+        "BLOCK-0105",
+        "BLOCK-0106"
+      ],
+      "stage_source_sha256": "1eedb1e2567be871e1aefbb784108982bd373f567ddc93bbe2fd756aef416923"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2026-06-24",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "June 24, 2026"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multi-state, multi-year outbreak of Listeria monocytogenes infections linked to requeson, a soft cheese similar to ricotta, manufactured by Clover Hill Dairy, LLC of Mechanicsville, MD."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of 12 people infected with the outbreak strain of Listeria have been reported from 4 states. Sick people's samples were collected on dates ranging from March 6, 2023, to June 2, 2026. Of the 10 people interviewed, 9 reported eating any cheese. Two people (33%) reported eating requeson made by Clover Hill Dairy. There have been 10 hospitalizations, and one death reported."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Product Distribution Map"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Distribution of recalled products has been confirmed for states shown below, but product could have been distributed further, reaching additional states."
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "Total Illnesses: 12 Hospitalizations: 10 Deaths: 1 Last specimen collection date: June 2, 2026 States with Cases: IL, MD, NY, VA"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "Product Distribution*: MD, NJ, NY, NC, VA, D.C. *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Recalled Products (Updated 6/29/2026)"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Clover Hill Dairy, LLC Recall: Clover Hill soft ricotta/requeson cheese was sold in ten (10), twelve (12) and fourteen (14) ounce individually packaged clamshell containers. The recalled cheese was also sold in bulk five (5) gallon and two (2) gallon buckets to some customers that repackaged the cheese. Products may be relabeled under a different brand name when distributed, including but not limited to KESSO, QUESOS LA RICURA, IZALCO, DE MI PUEBLO, RIO LINDO. Consumers are urged to check the manufacturer information on packages, if available. The label on clamshell containers should identify the Clover Hill Dairy manufacturer permit (or plant) number as “24-128”."
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "All Clover Hill Dairy brand cheeses currently on the market are included in this recall. Below is a list of cheese products that Clover Hill Dairy has recalled ."
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "Clover Hill Dairy Cheese Products"
+        },
+        {
+          "block_id": "BLOCK-ADD-1786032933556-7",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1380-01]"
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "La Ceiba Foods Latin Market Inc: On June 26, 2026, La Ceiba Foods Latin Market Inc. issued recall press for certain Requesón Salvadoreño (Ricotta Style Salvadorean Cheese) and Requesón Mexicano (Mexican Cottage Cheese) products marketed under the La Colonia and Selectos Latinos brands, due to possible contamination with Listeria monocytogenes. The affected products have an expiration date of 07/10/2026 and were distributed to supermarkets, retail stores and restaurants in the states of Maryland, Virginia and Washington, D.C. between 05/11/2026-06/01/2026."
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "Nelson & Isa Lacteos, LLC recall: On June 12, 2026, the recall press from Nelson & Isa Lacteos, LLC was updated to include a list of retail locations that FDA has reason to believe received Requeson cheese that was included in the recall by Nelson & Isa Lacteos LLC."
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. Therefore, it is important to use this list of retail stores and the product-specific identification information provided in the recall announcement to determine whether a product has been recalled."
+        },
+        {
+          "block_id": "BLOCK-0101",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0102",
+          "source_page": "Main",
+          "text": "The recalled cheese was likely relabeled or repacked prior to sale, so branding, labeling and/or coding may vary based on location of purchase."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-ADD-1786032933556-7",
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100",
+        "BLOCK-0101",
+        "BLOCK-0102"
+      ],
+      "stage_source_sha256": "c8ad77cce9bc799f3fa30417cb634610aad891cc61ff70415098bd7d86af911c"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-06-29",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Product (Updated 6/29/2026)"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On June 26, 2026 , La Ceiba Foods Latin Market Inc. issued press for recalled Requeson Salvadoreño (Ricotta Style Salvadorean Cheese) and Requeson Mexicano (Mexican Cottage Cheese) products marketed under the La Colonia and Selectos Latanios brands."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "On June 18, 2026 , Clover Hill Dairy, LLC expanded its recall to include all cheese products manufactured at their firm; this includes varieties of requeson, cuajada, and hard cheeses. Products may be relabeled under a different brand name when distributed, including but not limited to KESSO, QUESOS LA RICURA, IZALCO, DE MI PUEBLO, RIO LINDO."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "On June 5, 2026 , Nelson & Isa Lacteos, LLC of Bay Shore, NY, a distributor of Clover Hill Dairy Cheese products, recalled requeson cheese sold to retail locations in New York from May 15 to May 28, 2026. A list of New York retail stores and locations that FDA has reason to believe received requeson cheese that was included in the recall by Nelson & Isa Lacteos LLC can be found in the recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Refer to the recalled product section below for more information."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of Listeriosis ( Listeria Infection)"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms usually start within two weeks of eating food contaminated with Listeria but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Stores affected (updated 6/29/2026)"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recalled La Ceiba Foods Latin Market Inc products were distributed to supermarkets, retail stores, and restaurants in the states of Maryland, Virginia, and Washington, D.C. from 5/11/2026-06/01/2026."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recalled Clover Hill Dairy products are sold directly from their retail market, at farmers markets, and through third party distributors in Maryland, New Jersey, New York, North Carolina, Virginia, and Washington, D.C."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Nelson & Isa Lacteos requeson products were sold at retail locations in New York from May 15 to May 28, 2026. The list of retail stores and locations can be found in the recall announcement ."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Ongoing"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Recommendations:"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Do not eat, sell, or serve recalled cheese."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Check your refrigerators and freezers for any recalled cheese. Do not eat it and return it to the place of purchase or throw it away. If you froze cheese without the original packaging and can’t tell if it is part of the recall, throw it away."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers who purchased or received recalled cheese including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "If you have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Recommendation for At-Risk Groups:"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "If you are at higher risk for severe Listeria illness (if you are pregnant, aged 65 or older, or have a weakened immune system due to certain medical conditions or treatments) do not eat any queso fresco-type cheese, including soft ricotta/requeson."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have symptoms of a Listeria infection."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "June 29, 2026"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "As of June 15, 2026, six requeson cheese samples and one environmental sample collected by the Maryland Department of Health tested positive for Listeria monocytogenes and matched the outbreak strain. On June 24, 2026, a second environmental sample from Clover Hill Dairy, LLC, collected by Maryland state partners, also tested positive for Listeria monocytogenes and matched the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "FDA has been notified of additional companies that have issued recalls or public notifications for products linked to the Clover Hill Dairy, LLC recall. On June 26, 2026, La Ceiba Foods Latin Market Inc issued a recall announcement for requeson cheese that was repackaged as Requesón Salvadoreño (Ricotta Style Salvadorean Cheese) and Requesón Mexicano (Mexican Cottage Cheese) products marketed under the La Colonia and Selectos Latinos brands and distributed to supermarkets, retail stores, and restaurants in the states of Maryland, Virginia, and Washington, D.C between 05/11/2026-06/01/2026. Refer to the recalled product section below for more information."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and this advisory will be updated with more information as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029"
+      ],
+      "stage_source_sha256": "6d4339b724b748da207c185d1c4b1cdbb4538379b39f5d06e0cfb1c17178a458"
+    }
+  ]
+}

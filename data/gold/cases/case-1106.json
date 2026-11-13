@@ -1,0 +1,605 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1106",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Brie and Camembert Soft Cheese Products (September 2022) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Five patients with information available are described, but the total outbreak case count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0099"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Camembert cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0097",
+            "BLOCK-0098"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "Camembert cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0099"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Five patients with information available are described, but the total outbreak case count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0093",
+            "BLOCK-0094"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Camembert cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "baked Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0092"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "Camembert cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "baked Brie products",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "St. Louis Brie products",
+              "recalling_company": "Swiss American",
+              "brands": [],
+              "recall_scope": "sourced from Old Europe Cheese, Inc. Michigan facility"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0093",
+            "BLOCK-0094"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Five patients with information available are described, but the total outbreak case count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0088"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Camembert cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "baked Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0087"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "Camembert cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "baked Brie products",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "St. Louis Brie products",
+              "recalling_company": "Swiss American",
+              "brands": [],
+              "recall_scope": "sourced from Old Europe Cheese, Inc. Michigan facility"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new recalled product is added; the retail-establishment list was updated."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Five patients with information available are described, but the total outbreak case count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0083"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Camembert cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "baked Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0082"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "Camembert cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "baked Brie products",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "St. Louis Brie products",
+              "recalling_company": "Swiss American",
+              "brands": [],
+              "recall_scope": "sourced from Old Europe Cheese, Inc. Michigan facility"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new recalled product is added; only the retail-establishment list was expanded."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0001",
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0009"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Camembert cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "baked Brie cheese manufactured by Old Europe Cheese, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0000"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "baked Brie products",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [
+                "Culinary Tour",
+                "La Bonne Vie",
+                "Primo Taglio",
+                "Reny Picot",
+                "LIDL"
+              ],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "Brie cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [
+                "Reny Picot",
+                "Black Bear",
+                "Block & Barrel",
+                "Charmant",
+                "Cobblestone",
+                "Culinary Tour",
+                "Fredericks",
+                "Fresh Thyme",
+                "Glenview Farms",
+                "Good & Gather",
+                "Heinen’s",
+                "Joan of Arc",
+                "La Bonne Vie",
+                "Lidl Preferred Selection",
+                "Life in Provence",
+                "Matrie’d",
+                "Market 32",
+                "Metropolitan",
+                "Prestige",
+                "Primo Taglio",
+                "Red Apple Cheese",
+                "St. Randeaux",
+                "Taste of Inspiration",
+                "St. Rocco",
+                "Trader Joe"
+              ],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "Camembert cheeses",
+              "recalling_company": "Old Europe Cheese, Inc.",
+              "brands": [
+                "Reny Picot",
+                "Black Bear",
+                "Block & Barrel",
+                "Charmant",
+                "Cobblestone",
+                "Culinary Tour",
+                "Fredericks",
+                "Fresh Thyme",
+                "Glenview Farms",
+                "Good & Gather",
+                "Heinen’s",
+                "Joan of Arc",
+                "La Bonne Vie",
+                "Lidl Preferred Selection",
+                "Life in Provence",
+                "Matrie’d",
+                "Market 32",
+                "Metropolitan",
+                "Prestige",
+                "Primo Taglio",
+                "Red Apple Cheese",
+                "St. Randeaux",
+                "Taste of Inspiration",
+                "St. Rocco",
+                "Trader Joe"
+              ],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            },
+            {
+              "product_name": "St. Louis Brie",
+              "recalling_company": "Swiss American",
+              "brands": [],
+              "recall_scope": "Best By Dates September 28, 2022–December 14, 2022; all flavors and quantities"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0019",
+            "BLOCK-0020",
+            "BLOCK-0021",
+            "BLOCK-0022",
+            "BLOCK-0023",
+            "BLOCK-0024",
+            "BLOCK-0025",
+            "BLOCK-0026",
+            "BLOCK-0027",
+            "BLOCK-0028",
+            "BLOCK-0029",
+            "BLOCK-0030",
+            "BLOCK-0031",
+            "BLOCK-0032",
+            "BLOCK-0033",
+            "BLOCK-0034",
+            "BLOCK-0035",
+            "BLOCK-0036",
+            "BLOCK-0037",
+            "BLOCK-0038",
+            "BLOCK-0039",
+            "BLOCK-0040",
+            "BLOCK-0041",
+            "BLOCK-0042",
+            "BLOCK-0043",
+            "BLOCK-0044",
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0050",
+            "BLOCK-0051",
+            "BLOCK-0052",
+            "BLOCK-0053",
+            "BLOCK-0054",
+            "BLOCK-0055",
+            "BLOCK-0056",
+            "BLOCK-0057",
+            "BLOCK-0058",
+            "BLOCK-0059"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

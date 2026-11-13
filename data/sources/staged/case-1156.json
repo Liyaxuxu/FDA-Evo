@@ -1,0 +1,229 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1156",
+  "title": "Outbreak Investigation of Salmonella: Raw Cookie Dough (May 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-raw-cookie-dough-may-2023",
+  "frozen_source_path": "t1/frozen_sources/case-1156.txt",
+  "frozen_source_sha256": "63851d9825bd7bad3447ab6bcc611445911cee622ec159ea6d03418c9e83c3b6",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2023-05-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "May 23, 2023"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of Salmonella Enteritidis infections linked to Chocolate Chip Cookie and S’mores Bars dough sold at Papa Murphy’s franchises."
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "Based on epidemiological data collected by CDC, 12 of 14 cases report eating food from Papa Murphy’s and nine people reported eating raw Chocolate Chip Cookie or S’mores Bars dough."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "At this time, Papa Murphy’s notified franchise owners nationwide and has stopped selling and destroyed all Chocolate Chip Cookie dough and S’mores Bars dough at all stores."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040"
+      ],
+      "stage_source_sha256": "0f9dfca4fc408a2281cbd5828f129323b97fec129735392c19b38d37663a6571"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2023-07-13",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Papa Murphy’s Take ‘N’ Bake raw Chocolate Chip Cookie and S’mores Bars dough purchased before May 23, 2023."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "FDA’s investigation is complete and the outbreak is over."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Papa Murphy’s Stores Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Papa Murphy’s Take ‘N’ Bake Chocolate Chip Cookie and S’mores Bars dough are not meant to be eaten raw."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "This outbreak appears to be over; however, consumers should check their refrigerators and freezers for Papa Murphy’s Chocolate Chip Cookie and S’mores Bars dough purchased before May 23, 2023 and should throw it away."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of Salmonella infection."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Raw Dough Safety Tips"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Due to the potential for contamination, never eat any raw dough that is supposed to be cooked or baked."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Always wash hands and clean and sanitize work surfaces and utensils thoroughly after contact with raw dough or batter."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Keep raw food or dough separate from other foods while preparing them to prevent any possible contamination from spreading."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "More information is available on the FDA website ."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "July 13, 2023"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Salmonella Enteritidis infections linked to Chocolate Chip Cookie and S’mores Bars dough sold at Papa Murphy’s franchises and purchased before May 23, 2023."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "FDA conducted a traceback investigation and identified two suppliers of interest. FDA and several state partners collected samples at both suppliers, and state partners also collected retail samples at several Papa Murphy’s stores. All samples collected were reported as negative for Salmonella contamination. As of July 13, 2023, CDC announced that the outbreak is over. CDC reports a total of 26 illnesses in six states. The last illness onset was May 22, 2023. FDA’s investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "In response to this investigation, Papa Murphy’s notified franchise owners nationwide and stopped selling all Chocolate Chip Cookie dough and S’mores Bars dough at all stores and stopped using unprepared dry cookie dough mixes dating back through April 2023 to ensure any potentially contaminated ingredients are not used. As of July 13, 2023, Papa Murphy’s has not restarted sales of cookie dough. Additionally, the firm is reviewing their dessert menu items and labels to further enhance instructions to consumers to emphasize that their products are not intended to be eaten raw."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Total Illnesses: 26 Hospitalizations: 4 Deaths: 0 Last Illness Onset: May 22, 2023 States with Cases: CA, ID, MO, OR, WA, UT Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Product Images"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0034"
+      ],
+      "stage_source_sha256": "02b768495cc053e735224866cace971360aa9b8ce3216a586ede0b20944cbe7e"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+# CASE 1389 reviewed source
+Title: Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o145h28-frozen-blueberries-july-2026
+Source blocks SHA256: 4ffb3df5554b1af9aedd6ba9cb22c8f3e652b90d020736fc6d639c8a4cb1ae6f
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-NEW-0000 | role=report_evidence] Two large GreenWise Organic frozen berry product bags side by side. The left bag is GreenWise Organic Whole Blueberries (48 oz / 3 lb / 1.36 kg) with a cream-colored label and an image of fresh blueberries in a bowl. The right bag is GreenWise Organic Whole Mixed Berries (48 oz / 3 lb / 1.36 kg) with the same cream-colored label and an image of assorted berries including blueberries, blackberries, raspberries, and strawberries. Both bags display the USDA Organic seal.
+[BLOCK-0000 | role=report_evidence] Additional Product Images
+[BLOCK-NEW-0001 | role=report_evidence] Product (updated 7/30/2026)
+[BLOCK-NEW-0002 | role=report_evidence] On July 29, 2026, Publix announced that it recalled all lots of GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries. Recalled products include:
+[BLOCK-NEW-0003 | role=report_evidence] GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453
+[BLOCK-NEW-0004 | role=report_evidence] GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053
+[BLOCK-NEW-0005 | role=report_evidence] GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753
+[BLOCK-NEW-0006 | role=report_evidence] GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153
+[BLOCK-NEW-0007 | role=report_evidence] On July 3, 2026, Frutas y Hortalizas del Sur S.A. recalled a single lot of frozen GreenWise-brand organic blueberries in 10-oz packages with printed lot code of 60401 (printed on package as 6 040 01) and Best by Date of February 9, 2028.
+[BLOCK-0003 | role=report_evidence] Symptoms of E. coli Infection :
+[BLOCK-0004 | role=report_evidence] Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later. Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting.
+[BLOCK-0005 | role=report_evidence] The severity or presence of certain symptoms may depend on the type of pathogenic E. coli causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems.
+[BLOCK-0006 | role=report_evidence] Stores affected:
+[BLOCK-NEW-0008 | role=report_evidence] Recalled product was shipped to Publix retail stores throughout 8 states including Alabama, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, and Virginia.
+[BLOCK-0008 | role=report_evidence] Status:
+[BLOCK-0009 | role=report_evidence] Ongoing
+[BLOCK-0010 | role=report_evidence] Recommendations:
+[BLOCK-NEW-0009 | role=report_evidence] Do not eat, sell, or serve recalled GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries.
+[BLOCK-NEW-0010 | role=report_evidence] Check your freezers for recalled berries and throw them away or return the product to the place of purchase. If you froze a product without the original packaging and can’t tell if it’s part of the recall, throw it away.
+[BLOCK-NEW-0011 | role=report_evidence] Consumers, restaurants, retailers, and foodservice customers who purchased or received recalled berries, including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination.
+[BLOCK-NEW-0012 | role=report_evidence] Retailers that received recalled berries and repackaged them for individual sale should not sell them and should remove the products from the market.
+[BLOCK-NEW-0013 | role=report_evidence] Consult your health care provider immediately if you ate recalled GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries and have any symptoms that resemble an E. coli infection.
+[BLOCK-0016 | role=report_evidence] Current Update
+[BLOCK-NEW-0014 | role=report_evidence] July 30, 2026
+[BLOCK-NEW-0015 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O145:H28 infections linked to organic frozen blueberries from Frutas y Hortalizas del Sur S.A., of San Carlos, Chile.
+[BLOCK-NEW-0016 | role=report_evidence] Publix proactively recalled all lots of GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries due to potential E. coli contamination. The recalled product was shipped to Publix retail stores throughout 8 states including Alabama, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, and Virginia. As of the end of June 2026, Publix immediately conducted an internal stop sale of frozen GreenWise Organic Whole Blueberries and Whole Mixed Berries. These products remain unavailable for sale.
+[BLOCK-NEW-0017 | role=report_evidence] Customers who have purchased the following frozen GreenWise products are reminded not to consume them, and the product(s) should be discarded or returned to Publix for a full refund.
+[BLOCK-NEW-0018 | role=report_evidence] GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453
+[BLOCK-NEW-0019 | role=report_evidence] GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053
+[BLOCK-NEW-0020 | role=report_evidence] GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753
+[BLOCK-NEW-0021 | role=report_evidence] GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153
+[BLOCK-NEW-0022 | role=report_evidence] As part of this investigation, FDA conducted a remote regulatory assessment (a remote inspection) of Frutas y Hortalizas del Sur S.A., San Carlos, Chile, and collected records from the firm to better understand their procedures and hazard controls, or abilities to prevent food from becoming contaminated. Based on inspection findings, FDA had concerns about at least one other lot of blueberries that was used in additional frozen GreenWise products. Publix has recalled such products, as indicated above.
+[BLOCK-NEW-0023 | role=report_evidence] Additionally, FDA has concerns about other products from Frutas y Hortalizas del Sur S.A. that have not entered the U.S. market. FDA has communicated its concerns to the firm. FDA has added products from Frutas y Hortalizas del Sur S.A, of San Carlos, Chile to Import Alert 99-35 . Frozen blueberries from this firm that are offered for entry into the United States may be detained without physical examination. The firm may submit documentation demonstrating that they have resolved the conditions that gave rise to the appearance of a violation for frozen blueberries.
+[BLOCK-0022 | role=report_evidence] FDA and state partners are actively working to determine the source of contamination. Additional products may be added to this advisory as the investigation continues. This advisory will be updated as new information becomes available.
+[BLOCK-0023 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-NEW-0024 | role=report_evidence] A choropleth map of the United States showing the number of sick people by state. A legend indicates that a light green color represents 1 sick person and a darker green represents 11 sick people. Florida is shaded in darker green, indicating 11 sick people. Georgia is shaded in light green, indicating 1 sick person. All other states are shaded in gray, indicating no reported cases.
+[BLOCK-0024 | role=report_evidence] Product Distribution Map
+[BLOCK-NEW-0025 | role=report_evidence] Distribution of recalled products have been confirmed for states shown below, but product could have been distributed further, reaching additional states.
+[BLOCK-NEW-0026 | role=report_evidence] Map of the United States with eight southeastern states highlighted in blue: Virginia (VA), Kentucky (KY), Tennessee (TN), North Carolina (NC), South Carolina (SC), Alabama (AL), Georgia (GA), and Florida (FL). All other states are shown in gray."
+[BLOCK-0026 | role=report_evidence] Case Counts
+[BLOCK-NEW-0027 | role=report_evidence] Total Illnesses: 12 Hospitalizations: 4 Deaths: 0 Last Illness Onset: June 5, 2026 States with Cases: FL, GA Product Distribution: AL, FL, GA, KY, NC, SC, TN, VA.
+[BLOCK-NEW-0029 | role=report_evidence] Previous Updates
+[BLOCK-0017 | role=report_evidence] July 6, 2026
+[BLOCK-0018 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O145:H28 infections linked to frozen GreenWise brand-organic blueberries recalled by Frutas y Hortalizas del Sur S.A, of San Carlos, Chile.
+[BLOCK-0019 | role=report_evidence] On July 1, 2026, the Florida Department of Health (FDOH) notified CDC partners about an ongoing investigation into a cluster of E. coli O145 illnesses. Based on interviews with sick people, frozen GreenWise-brand organic blueberries sold at Publix were identified as the leading food item of interest in this outbreak. Florida state partners shared their findings with Publix Headquarters and, in response, Publix immediately conducted an internal stop sale of frozen GreenWise-brand organic blueberries at their stores.
+[BLOCK-0020 | role=report_evidence] Based on epidemiological information collected by CDC and FDOH state partners, a total of twelve people infected with the outbreak strain of E. coli have been reported from two states. Illnesses started on dates ranging from May 11, 2026, to June 5, 2026. Seven of 9 (78%) cases interviewed reported eating frozen blueberries. Of which, 5 specified GreenWise- brand organic frozen blueberries purchased from Publix. There have been four hospitalizations, and no deaths have been reported.
+[BLOCK-0021 | role=report_evidence] In response to this investigation, on July 3, 2026, Frutas y Hortalizas del Sur S.A., San Carlos, Chile recalled frozen GreenWise-brand organic blueberries, sold in 10-oz packages with a printed lot code of 60401 and Best by Date of February 9, 2028. The recalled product was shipped to Publix retail stores in Alabama, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, and Virginia. Consumers should check their freezers for the recalled product and should not consume it. The product should be discarded or returned to the place of purchase.
+[BLOCK-NEW-0030 | role=report_evidence] FDA and state partners are actively working to determine the source of contamination. Additional products may be added to this advisory as the investigation continues. This advisory will be updated as new information becomes available.
+[BLOCK-0036 | role=report_evidence] Product Images
+[BLOCK-NEW-0031 | role=report_evidence] GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453
+[BLOCK-NEW-0032 | role=report_evidence] A 10-ounce (284 g) bag of GreenWise Organic Whole Blueberries. The cream-colored package features the GreenWise brand name, the USDA Organic seal, and a photograph of fresh blueberries in a wooden bowl with blueberry branches in the background.
+[BLOCK-NEW-0033 | role=report_evidence] GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053
+[BLOCK-NEW-0034 | role=report_evidence] A 48-ounce (3 lb / 1.36 kg) bag of GreenWise Organic Whole Blueberries. The large cream-colored bag displays the GreenWise brand name, the USDA Organic seal, and a photograph of blueberries in a wooden bowl with decorative berry branches.
+[BLOCK-NEW-0035 | role=report_evidence] GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753
+[BLOCK-NEW-0036 | role=report_evidence] A 10-ounce (284 g) bag of GreenWise Organic Whole Mixed Berries. The cream-colored package features the GreenWise brand name, the USDA Organic seal, and text listing the contents: blackberries, blueberries, raspberries, and strawberries, alongside a photograph of the assorted fresh berries.
+[BLOCK-NEW-0037 | role=report_evidence] GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153
+[BLOCK-NEW-0038 | role=report_evidence] A 48-ounce (3 lb / 1.36 kg) bag of GreenWise Organic Whole Mixed Berries. The large cream-colored bag displays the GreenWise brand name, the USDA Organic seal, and text listing the contents: blackberries, blueberries, raspberries, and strawberries, with a corresponding photograph of the assorted berries

@@ -1,0 +1,42 @@
+# CASE 1377 reviewed source
+Title: Outbreak Investigation of Salmonella: Moringa Leaf Powder (May 2026) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-may-2026
+Source blocks SHA256: 8f1bfe4445913db2ccae0deb1ef3942cbabbab54be1a22924bc9d83816359cd8
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-NEW-0000 | role=report_evidence] MOGO-brand Pure Moringa Oleifera
+[BLOCK-0000 | role=report_evidence] Product
+[BLOCK-0001 | role=report_evidence] Recalled MOGO-brand Pure Moringa Oleifera capsules sold in white plastic bottles with a green label:
+[BLOCK-0002 | role=report_evidence] Lot #15525AA EXP 6/2027
+[BLOCK-0003 | role=report_evidence] Lot #00926AA EXP 1/2028
+[BLOCK-0004 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0005 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0006 | role=report_evidence] Stores affected
+[BLOCK-0007 | role=report_evidence] Sold at online stores including Amazon, eBay, and mogomoringa.com.
+[BLOCK-0008 | role=report_evidence] Status
+[BLOCK-0009 | role=report_evidence] Ended
+[BLOCK-0010 | role=report_evidence] Recommendations
+[BLOCK-0011 | role=report_evidence] Recalled product should no longer be available for sale but does have a long shelf life. Consumers should check their homes for recalled product and throw it away.
+[BLOCK-0012 | role=report_evidence] Consumers and retailers who purchased recalled MOGO-brand moringa powder capsules should check the bottle, and if your bottle has lot #15525AA EXP 6/2027 or lot #00926AA EXP 1/2028, you should not eat, sell, or distribute it and should throw this product away. Consumers who purchased recalled products are encouraged to visit the company’s official recall information page .
+[BLOCK-0013 | role=report_evidence] Consumers and retailers who purchased or received recalled MOGO-brand moringa powder capsules should carefully clean and sanitize any surfaces or containers that the product touched. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with this product to reduce the risk of cross-contamination.
+[BLOCK-0014 | role=report_evidence] Contact your healthcare provider immediately if you think you may have developed symptoms of a Salmonella infection after consuming MOGO-brand moringa powder capsules.
+[BLOCK-0015 | role=report_evidence] Current Update
+[BLOCK-0016 | role=report_evidence] July 17, 2026
+[BLOCK-0017 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Typhimurium infections linked to MOGO-brand moringa powder capsules distributed by MOGO Moringa LLC of St. Louis, MO. As of July 17, 2026, CDC has declared this outbreak over.
+[BLOCK-0018 | role=report_evidence] Based on epidemiological information collected by CDC, a total of 34 people infected with the outbreak strain of Salmonella were reported from 14 states. Illnesses started on dates ranging from August 27, 2025, to June 21, 2026. One additional person reported eating the moringa capsules while breastfeeding. This woman's infant was sick with the outbreak strain. Of the 17 people interviewed, 14 (82%) reported eating moringa powder capsules, including 11 who reported Mogo brand moringa capsules. Of 25 people with information available, 11 have been hospitalized. No deaths have been reported.
+[BLOCK-0019 | role=report_evidence] As part of this investigation, FDA and state partners conducted a traceback investigation, onsite inspections, and collected samples to determine a source of contamination. Based on traceback records, FDA learned that MOGO Moringa LLC sourced all of their moringa leaf powder from India.
+[BLOCK-0020 | role=report_evidence] FDA sent investigators to the ingredient supplier and manufacturer for MOGO Moringa LLC. At the conclusion of both inspections, observations citing deficiencies were issued to both facilities.
+[BLOCK-0021 | role=report_evidence] The Washington Department of Health collected an open container of MOGO-brand moringa powder capsules that was positive for the strain of Salmonella causing illnesses in this outbreak. Tennessee Department of Health collected an open container of MOGO-brand moringa powder capsules with the same strain of Salmonella as the outbreak strain. The Florida Department of Health also collected an open container of MOGO-brand moringa powder capsules which was positive for the same strain of Salmonella as the outbreak strain and one other strain of Salmonella .
+[BLOCK-0022 | role=report_evidence] To further protect public health, FDA has increased screening of imported moringa powder from India for Salmonella . Recalled product should no longer be available for sale but does have a long shelf life. Consumers should check their homes for recalled product and throw it away. FDA’s outbreak investigation is complete.
+[BLOCK-0023 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-NEW-0001 | role=report_evidence] A choropleth map of the United States showing the number of sick people by state. The map shows cases in California, Florida, Georgia, Illinois, Massachusetts, Michigan, Minnesota, North Carolina, North Dakota, Oregon, Pennsylvania, South Carolina, Tennessee, and Washington.
+[BLOCK-0024 | role=report_evidence] Case Counts
+[BLOCK-0025 | role=report_evidence] Total Illnesses: 34 Hospitalizations: 11 Deaths: 0 Last Illness Onset: June 21, 2026 States with Cases: CA, FL, GA, IA, ID, IL, MA, MD, MI, MN, NC, ND, NE, NH, OK, OR, PA, SC, TN, TX, WA, WI
+[BLOCK-0032 | role=report_evidence] Previous Updates
+[BLOCK-0033 | role=report_evidence] May 27, 2026
+[BLOCK-0034 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Typhimurium infections linked to MOGO-brand moringa powder capsules distributed by MOGO Moringa LLC of St. Louis, MO. This is a new outbreak and this investigation is separate from previous outbreaks of Salmonella Newport & Kentucky and Salmonella Typhimurium & Newport that were both linked to moringa powder.
+[BLOCK-0035 | role=report_evidence] Based on epidemiological information collected by CDC, a total of 18 people infected with the outbreak strain of Salmonella have been reported from 14 states. Illnesses started on dates ranging from February 3, 2026, to April 7, 2026. Of the eight people interviewed, six (75%) reported eating moringa powder capsules, including four who reported MOGO-brand moringa powder capsules. There have been 7 hospitalizations, and no deaths have been reported.
+[BLOCK-0036 | role=report_evidence] On May 25, 2026, MOGO Moringa LLC recalled lot #15525AA EXP 6/2027 and lot #00926AA EXP 1/2028 of MOGO-brand Pure Moringa Oleifera capsules. Consumers and retailers who purchased recalled MOGO-brand moringa powder capsules should not eat, sell, or further distribute this product and should throw it away. Consumers who purchased recalled products are encouraged to visit the company’s official recall information page .
+[BLOCK-0037 | role=report_evidence] FDA is conducting a traceback investigation to determine a source of contamination and is working with state partners to collect samples. FDA will update this advisory with new information as it becomes available. FDA’s investigation is ongoing.

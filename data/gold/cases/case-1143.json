@@ -1,0 +1,675 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1143",
+  "title": "Outbreak Investigation of Hepatitis A Virus Infections: Frozen Strawberries (February 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Seven people provided food-history information, but a cumulative outbreak total is not explicitly stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No product is reported as recalled in this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0051",
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Eight people provided food-history information, but a cumulative outbreak total is not explicitly stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No product is reported as recalled by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0047"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No product is reported as recalled by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "Wawona Organic DayBreak Blend",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0044",
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Organic DayBreak Blend",
+              "recalling_company": "Wawona Frozen Foods",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": "4-lb bag; Use By 9/23/2023, 9/29/2023, 9/30/2023, or 10/18/2023"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "frozen fruit products containing recalled strawberries",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0041"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Organic DayBreak Blend",
+              "recalling_company": "Wawona Frozen Foods",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": "4-lb bag; Use By 9/23/2023, 9/29/2023, 9/30/2023, or 10/18/2023"
+            },
+            {
+              "product_name": "Mixed Fruit",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "4-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Sliced Strawberries",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "4-lb package; frozen"
+            },
+            {
+              "product_name": "Antioxidant Fruit Blend",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "2-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Organic Fresh Start Smoothie Blend",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Rader Farms"
+              ],
+              "recall_scope": "48-oz bag containing six 8-oz packages; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Organic Berry Trio",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Rader Farms"
+              ],
+              "recall_scope": "3-lb package; frozen fruit product containing strawberries"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 10,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "frozen fruit products containing recalled strawberries",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Organic DayBreak Blend",
+              "recalling_company": "Wawona Frozen Foods",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": "4-lb bag; Use By 9/23/2023, 9/29/2023, 9/30/2023, or 10/18/2023"
+            },
+            {
+              "product_name": "Mixed Fruit",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "4-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Sliced Strawberries",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "4-lb package; frozen"
+            },
+            {
+              "product_name": "Antioxidant Fruit Blend",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "2-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Organic Fresh Start Smoothie Blend",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Rader Farms"
+              ],
+              "recall_scope": "48-oz bag containing six 8-oz packages; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Organic Berry Trio",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Rader Farms"
+              ],
+              "recall_scope": "3-lb package; frozen fruit product containing strawberries"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 10,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0014"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen organic strawberries imported from Baja California, Mexico",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "frozen fruit products containing recalled strawberries",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Organic DayBreak Blend",
+              "recalling_company": "Wawona Frozen Foods",
+              "brands": [
+                "Wawona"
+              ],
+              "recall_scope": "4-lb bag; Use By 9/23/2023, 9/29/2023, 9/30/2023, or 10/18/2023"
+            },
+            {
+              "product_name": "Mixed Fruit",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "4-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Sliced Strawberries",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "4-lb package; frozen"
+            },
+            {
+              "product_name": "Antioxidant Fruit Blend",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Great Value"
+              ],
+              "recall_scope": "2-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Organic Fresh Start Smoothie Blend",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Rader Farms"
+              ],
+              "recall_scope": "48-oz bag containing six 8-oz packages; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "Organic Berry Trio",
+              "recalling_company": "Willamette Valley Fruit Co.",
+              "brands": [
+                "Rader Farms"
+              ],
+              "recall_scope": "3-lb package; frozen fruit product containing strawberries"
+            },
+            {
+              "product_name": "frozen strawberries",
+              "recalling_company": "California Splendor",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "frozen strawberries",
+              "recalling_company": "Scenic Fruit",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

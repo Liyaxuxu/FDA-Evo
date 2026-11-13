@@ -1,0 +1,485 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1369",
+  "title": "Outbreak Investigation of E. coli O157:H7: Raw Cheddar Cheese (March 2026) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026",
+  "frozen_source_path": "t1/frozen_sources/case-1369.txt",
+  "frozen_source_sha256": "ff288a865e9e41ca4c93381ed979a2f4ea54d2a396b585220cfebe2e3f515ed5",
+  "stage_count": 6,
+  "stages": [
+    {
+      "source_order": 5,
+      "report_date": "2026-03-15",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "March 15, 2026"
+        },
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of E. coli O157:H7 infections."
+        },
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "As of March 14, 2026, a total of 7 confirmed infections have been reported from three states, including CA (5), FL (1), and TX (1). Known illness onset dates range from September 1, 2025 to February 13, 2026. Whole genome sequencing analysis of E. coli isolates from ill people shows that they are all closely related genetically to each other. This means that people in this outbreak are likely to share a common source of infection. Additionally, 4 of 7 cases are 3 years old or younger. Two patients have been hospitalized. No deaths or HUS cases have been reported."
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "State and local public health officials have interviewed 3 ill people about food exposures of interest in this outbreak. All 3 people (100%) reported eating RAW FARM- brand raw cheddar cheese. State and local officials are working to gather additional data for the 4 other illnesses, including 2 illnesses that occurred in 2025. Epidemiologic evidence indicates that RAW FARM-brand raw cheddar cheese products made by RAW FARM, LLC are the likely source of this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "FDA has recommended that RAW FARM, LLC voluntarily remove their raw cheese products from the market, and the firm has declined."
+        },
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. To date, to FDA’s awareness, no RAW FARM-brand cheddar cheese products from this time period have tested positive for E. coli . As part of this investigation, state partners initiated collection of product samples for testing and analysis, but results are not yet available. FDA will update this advisory should additional information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0063",
+        "BLOCK-0064",
+        "BLOCK-0065",
+        "BLOCK-0066",
+        "BLOCK-0067",
+        "BLOCK-0068"
+      ],
+      "stage_source_sha256": "04d66077e906dd09ce417067e47f231dac6a0816f0c1f60a539b6f3d7c2f7011"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2026-03-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "March 26, 2026"
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of E. coli O157:H7 infections linked to RAW FARM-brand raw dairy products. FDA’s investigation is ongoing."
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "Since the last update on March 15, 2026, two (2) additional illnesses have been reported. A total of nine (9) people infected with the outbreak strain of E. coli have been reported from three (3) states. Illnesses started on dates ranging from September 1, 2025, to February 20, 2026. Three (3) people have been hospitalized and one (1) person developed hemolytic uremic syndrome (HUS), a serious condition that can cause kidney failure. No deaths have been reported. Over half of the illnesses are in children under five (5) years old."
+        },
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "State and local public health officials are interviewing people or their caregivers about the foods they ate in the week before they got sick. Of the eight (8) people interviewed, all eight (8) (100%) in this outbreak reported consuming or being served raw dairy products."
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "Of the eight (8) people interviewed, seven (7) had brand information available. One (1) person drank raw milk but didn’t know the brand. Of the seven (7) people interviewed who knew a brand, seven (7) (100%) reported RAW FARM-brand dairy products. In 2026, five (5) people reported consuming or being served RAW FARM-brand raw cheddar cheese. In 2025, two (2) sick people reported consuming RAW FARM-brand raw milk. Affected RAW FARM-brand raw milk from 2025 should no longer be for sale."
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "Whole genome sequencing (WGS) analysis of E. coli isolates from ill people shows that they are all closely related genetically to each other. This means that people in this outbreak are likely to share a common source of infection."
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "FDA has initiated an onsite inspection at RAW FARM, LLC in coordination with state partners. To date, FDA is not aware of any positive E. coli tests in RAW FARM-brand raw cheddar cheese products from this time period. FDA will update this advisory should additional information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058",
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062"
+      ],
+      "stage_source_sha256": "437e137f7b4c31789a7af97e938aa6b68760c76db97598aedad8ca8d41b064b9"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2026-03-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "March 30, 2026 The FDA and CDC, in collaboration with state and local partners, continue to investigate a multistate outbreak of E. coli O157:H7 infections linked to RAW FARM-brand raw dairy products. FDA’s investigation is ongoing."
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "On March 26, 2026, the FDA and CDC provided an update on new cases (see March 26, 2026, update below)."
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "FDA has again recommended that RAW FARM, LLC voluntarily remove their raw cheese products from the market, and the firm has not responded."
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "FDA has initiated an onsite inspection and sample collection at RAW FARM, LLC in coordination with state partners. To date, FDA is not aware of any positive E. coli tests in RAW FARM-brand raw cheddar cheese products from this time period. FDA will update this advisory should additional information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055"
+      ],
+      "stage_source_sha256": "9b49b0c9bad192c678fda382aefb61db66ef8525e369edaf636842fecae244c5"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2026-04-03",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "April 3, 2026"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, continue to investigate a multistate outbreak of E. coli O157:H7 infections linked to RAW FARM-brand raw dairy products."
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "On April 2, 2026, RAW FARM, LLC initiated a voluntary recall of certain RAW FARM-brand cheeses. FDA is working with the firm and its customers to determine if any downstream recalls are necessary."
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "FDA initiated an onsite inspection and sample collection at RAW FARM, LLC in coordination with state partners. Sample analysis is ongoing but, at this time, FDA is not aware of any positive samples. If there are any positive test results, those results will be reported as they become available."
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "As of April 3, 2026, a total of nine (9) people infected with the outbreak strain of E. coli have been reported from three (3) states. Illnesses started on dates ranging from September 1, 2025, to February 20, 2026. Three (3) people have been hospitalized and one (1) person developed hemolytic uremic syndrome (HUS), a serious condition that can cause kidney failure. No deaths have been reported. Over half of the illnesses are in children under five (5) years old."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051"
+      ],
+      "stage_source_sha256": "31eda2ecb5ff875b76b81a5d90007bc4f7fecbd188402e078c8132e1c7381e61"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2026-04-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "April 16, 2026"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, continue to investigate a multistate outbreak of E. coli O157:H7 infections linked to RAW FARM-brand raw dairy products."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA, in coordination with state partners, has completed onsite inspections and sample collections at RAW FARM, LLC retail and processing facilities. FDA has collected and analyzed 19 samples of RAW FARM-brand raw cheddar cheese products. One sample of RAW FARM-brand Cheddar Cheese tested positive for E. coli O157:H7."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "FDA conducted further testing and analysis through whole genome sequencing (WGS), or DNA fingerprinting. This showed that the strain of E. coli found in the cheese is a different strain than the E. coli in the current outbreak. Instead, this strain matches illnesses from a different 2025 outbreak investigated by CDC. The 2025 outbreak is not ongoing, but CDC and states are following up to determine if there is any epidemiologic information from that 2025 outbreak that shows if those sick individuals consumed any RAW FARM-brand products."
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "The raw cheddar cheese that tested positive for E. coli was not shipped to stores and is not available for sale. Sample testing and analyses by state partners are ongoing. Any additional positive test results will be reported if they become available."
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "On April 2, 2026, RAW FARM, LLC initiated a recall of certain RAW FARM-brand cheeses. On April 7, 2026, RAW FARM, LLC updated the language and product names on its recall announcement for certain RAW FARM-brand cheeses."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046"
+      ],
+      "stage_source_sha256": "c05410a6e59c25dab5fe5b73909d3e6efd870b2db2d1e1c218a47c0d231d7577"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-04-30",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-NEW-0000",
+          "source_page": "Main",
+          "text": "8 oz (227g) RAW FARM RAW CHEDDAR FROM SEASONALLY GRASS-GRAZED COWS ARTISAN | AGED MIN. 60 DAYS | NEVER WARMED ABOVE 102°F (TRULY RAW). 100% A2/A2 COWS. TESTED. PROUDLY MADE IN USA. CERTIFIED HUMANE: RAISED & HANDLED. NON-GMO Project VERIFIED. MADE WITH WHOLE RAW MILK. KEEP REFRIGERATED (36°)."
+        },
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product:"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "RAW FARM recalled the following original flavor and jalapeno flavor raw cheddar cheeses:"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Raw cheddar cheese sold in 8-oz and 16-oz blocks:"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Original flavor with expiration dates on or before 8/23/2026"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Jalapeno flavor with expiration dates on or before 9/24/2026"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Raw Cheddar Simply Shredded Cheese (original flavor), sold in an 8-oz bag, with expiration dates on or before 5/13/2026."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "The recall also included bulk products: 80-oz Raw Cheddar Original Cheese blocks with expiration dates on or before 8/11/2026 and 80-oz Raw Cheddar Simply Shredded Cheese (original flavor) with expiration dates on or before 5/6/2026."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms of E. coli :"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later. Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "The severity or presence of certain symptoms may depend on the type of pathogenic E. coli causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Stores affected:"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Sold at retailers nationwide."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Status:"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Recommendations:"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Do not eat, sell, or serve recalled RAW FARM-brand block and shredded raw cheddar cheeses."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Check your refrigerators and freezers for recalled RAW FARM-brand block and shredded raw cheddar cheeses and throw them away if they are part of the recall. If you froze a product without the original packaging and can’t tell if it’s part of the recall, throw it away."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, retailers, and foodservice customers who purchased or received recalled RAW FARM-brand raw cheddar cheese, including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Retailers that received recalled products and repackaged them for individual sale should not sell them and should remove the products from the market."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Consult your health care provider immediately if you ate RAW FARM-brand cheddar cheese and have any symptoms that resemble an E. coli infection."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "April 30, 2026"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated a multistate outbreak of E. coli O157:H7 infections linked to RAW FARM-brand raw dairy products."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "As of April 30, 2026, CDC announced that the outbreak is over. CDC reports a total of nine illnesses in three states. Illnesses started on dates ranging from September 1, 2025, to February 20, 2026. Three people were hospitalized and one person developed hemolytic uremic syndrome (HUS), a serious condition that can cause kidney failure. No deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA, in coordination with state partners, completed onsite inspections and sample collections at RAW FARM, LLC farm and processing facilities. FDA collected and analyzed 19 samples of RAW FARM-brand raw cheddar cheese products. One sample of RAW FARM-brand cheddar cheese tested positive for E. coli O157:H7, and FDA performed further testing and analysis through whole genome sequencing (WGS), or DNA fingerprinting. According to CDC, the strain of E. coli found in the cheese was related to sick people’s isolates from a different 2025 outbreak, that was not ongoing. CDC and states followed up to determine if there was any epidemiologic information that showed whether people in the 2025 outbreak consumed any RAW FARM-brand products. None of the ill people in the older 2025 outbreak reported consuming any RAW FARM-brand raw dairy products."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "The raw cheddar cheese that tested positive for E. coli was not shipped to stores and is not available for sale. There are no additional FDA or state samples pending analysis at this time."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "FDA’s outbreak investigation has ended; this advisory will be updated if additional information becomes available."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-NEW-0001",
+          "source_page": "Main",
+          "text": "CDC case count map with cases in California, Florida, and Texas."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Total Illnesses: 9 Hospitalizations: 3 HUS: 1 Deaths: 0 Last Illness Onset: February 20, 2026 States with Cases: CA, FL, TX Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0002",
+          "source_page": "Main",
+          "text": "RAW FARM - Raw Cheddar Cheese"
+        },
+        {
+          "block_id": "BLOCK-NEW-0003",
+          "source_page": "Main",
+          "text": "8 oz (227g) RAW FARM RAW CHEDDAR. Simply Shredded. MADE WITH: WHOLE RAW MILK. PROUDLY MADE IN USA. 100% A2/A2 COWS. GLUTEN FREE. FREE OF CELLULOSE & NATAMYCIN. AGED MIN. 60 DAYS. TRADITIONAL & ARTISAN. GLUTEN FREE. FREE OF CELLULOSE & NATAMYCIN. TESTED. FROM SEASONALLY GRASS-GRAZED COWS. Original. NON-GMO PROJECT VERIFIED. CERTIFIED HUMANE – Raised & Handled. TRULY RAW – NEVER WARMED ABOVE 102°F. NET WT 8 OZ (224 g). MADE IN THE USA - Fresno, California. KEEP REFRIGERATED 38°F."
+        },
+        {
+          "block_id": "BLOCK-NEW-0004",
+          "source_page": "Main",
+          "text": "RAW FARM - Raw Jalapeno Cheddar Cheese"
+        },
+        {
+          "block_id": "BLOCK-NEW-0005",
+          "source_page": "Main",
+          "text": "RAW FARM - Raw Jalapeno Cheddar Cheese"
+        },
+        {
+          "block_id": "BLOCK-NEW-0006",
+          "source_page": "Main",
+          "text": "RAW FARM - Raw Shredded Cheddar Cheese"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-NEW-0000",
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-NEW-0001",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0039",
+        "BLOCK-NEW-0002",
+        "BLOCK-NEW-0003",
+        "BLOCK-NEW-0004",
+        "BLOCK-NEW-0005",
+        "BLOCK-NEW-0006"
+      ],
+      "stage_source_sha256": "e24ec0781d9074064d35fff51c127f1f15f64ddf2501f0cda3e2a7b879b216ef"
+    }
+  ]
+}

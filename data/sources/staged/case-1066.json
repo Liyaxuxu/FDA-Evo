@@ -1,0 +1,370 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1066",
+  "title": "Outbreak Investigation of Hepatitis A Virus: Strawberries (May 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1066.txt",
+  "frozen_source_sha256": "a5109cbf5f3dbf2e64c3702c5831408428c1462c4f291805de1de8d48df4e8c7",
+  "stage_count": 5,
+  "stages": [
+    {
+      "source_order": 3,
+      "report_date": "2022-05-31",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "May 31, 2022"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, and state and local partners are investigating a multistate outbreak of hepatitis Ainfections in the United States potentially linked to fresh organic strawberries branded as FreshKampo and HEB, purchased between March 5, 2022, and April 25, 2022. The Public Health Agency of Canada and the Canadian Food Inspection Agency are also investigating an outbreak of hepatitis A; imported fresh organic strawberries have been identified as the likely source of that outbreak."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "Currently, the potentially contaminated FreshKampo and HEB products are past shelf life. People who purchased FreshKampo and HEB fresh organic strawberries between March 5, 2022, and April 25, 2022, and then froze those strawberries for later consumption should not eat them."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "These products may have been sold at the following retailers, including, but not limited to:"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "HEB"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "Kroger"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Safeway"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Sprouts Farmers Market"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Trader Joe’s"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Walmart"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Weis Markets"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "WinCo Foods"
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "If you are unsure of what brand you purchased, when you purchased your strawberries, or where you purchased them from prior to freezing them, the strawberries should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "Epidemiologic and traceback data show that fresh organic strawberries sold under brands that include FreshKampo and HEB brands and were purchased between March 5, 2022, and April 25, 2022, are a likely cause of illness in this outbreak. The traceback investigations show that outbreak-associated cases in California and Minnesota report having purchased fresh organic strawberries prior to becoming ill. Illness onset dates range from March 28 – April 30, 2022."
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "As this investigation is ongoing, additional products may be included. More information will be provided in this advisory as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055"
+      ],
+      "stage_source_sha256": "6b1fa72323b89ec5385f194b3a964f15a72bf86aaf23dd481c853563591a7fba"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2022-06-01",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "June 1, 2022"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, and state and local partners, is investigating a multistate outbreak of hepatitis A infections in the United States linked to fresh organic strawberries. These potentially contaminated strawberries were imported from Baja California, a state in northern Mexico and branded as FreshKampo and HEB by a common supplier; they were purchased between March 5, 2022, and April 25, 2022. The Public Health Agency of Canada and the Canadian Food Inspection Agency are also investigating an outbreak of hepatitis A. Imported fresh organic strawberries have been identified as the likely source of that outbreak."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Currently, these fresh organic strawberries branded as FreshKampo and HEB products are past shelf life and are not available for purchase in stores. People who purchased FreshKampo and HEB fresh organic strawberries between March 5, 2022, and April 25, 2022, and then froze those strawberries for later consumption should not eat them. These products may have been sold at the following retailers, including, but not limited to:"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "HEB"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "Kroger"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Safeway"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Sprouts Farmers Market"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Trader Joe’s"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Walmart"
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Weis Markets"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "WinCo Foods"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "If you are unsure of what brand you purchased, when you purchased your strawberries, or where you purchased them from prior to freezing them, the strawberries should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "Epidemiologic and traceback data show that fresh organic strawberries are a likely source of illness in this outbreak. Illness onset dates range from March 28 – April 30, 2022. Records from outbreak-associated cases in California and Minnesota show cases having purchased FreshKampo brand fresh organic strawberries prior to becoming ill. These purchases occurred between March 5, 2022, and April 25, 2022. The traceback investigation for these cases shows that the strawberries were imported from Baja California, Mexico by a common supplier. Strawberries that were identified in shipments purchased by cases were sold under both the FreshKampo and HEB brands."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "As this investigation is ongoing, additional products may be included. More information will be provided in this advisory as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040"
+      ],
+      "stage_source_sha256": "c6f26ab08eef75d137d72d04f0e45e9259ff2c68d9ac2a87cbf85f94849b1e31"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-06-10",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "June 10, 2022"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, and state and local partners, is investigating a multistate outbreak of hepatitis A infections in the United States linked to fresh organic strawberries. These potentially contaminated strawberries were imported from Baja California, a state in northern Mexico, and branded as FreshKampo and HEB by a common supplier; they were purchased between March 5, 2022, and April 15, 2022. The Public Health Agency of Canada and the Canadian Food Inspection Agency are also investigating an outbreak of hepatitis A. Imported fresh organic strawberries have been identified as the likely source of that outbreak."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "As of June 7, 2022, CDC reports one additional probable case related to this outbreak. As part of this investigation, FDA has initiated an inspection. Additionally, based on records collected to date, purchase dates for potentially contaminated strawberries were between March 5, 2022, and April 15, 2022."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Currently, these imported fresh organic strawberries are past shelf life and are not available for purchase in stores. People who purchased these fresh organic strawberries between March 5, 2022, and April 15, 2022, and then froze those strawberries for later consumption, should not eat them. If you are unsure of what brand you purchased, when you purchased your strawberries, or where you purchased them from prior to freezing them, the strawberries should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Additionally, a downstream recall for Urban Remedy Organic Revitalizing Tea Tonic (Strawberry Hibiscus, LOT 1232 BEST BY 7/17/2022) has been voluntarily initiated. The company may have used strawberries linked to this outbreak in this product."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "As this investigation is ongoing, additional products may be included. More information will be provided in this advisory as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026"
+      ],
+      "stage_source_sha256": "78de775fbbd73a43b415bc792649dd06d06b4bdafc87b06a6ccf7216d4fe09bb"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-06-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "June 23, 2022"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, and state and local partners, is investigating a multistate outbreak of hepatitis A infections in the United States linked to fresh organic strawberries. These potentially contaminated strawberries were imported from Baja California, a state in northern Mexico, and branded as FreshKampo and HEB by a common supplier; they were purchased between March 5, 2022, and April 15, 2022. The Public Health Agency of Canada and the Canadian Food Inspection Agency are also investigating an outbreak of hepatitis A. Imported FreshKampo brand fresh organic strawberries have been identified as the likely source of the outbreak in Canada."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Currently, these imported fresh organic strawberries are past shelf life and are not available for purchase in stores. People who purchased these fresh organic strawberries between March 5, 2022, and April 15, 2022, and then froze those strawberries for later consumption, should not eat them. If you are unsure of what brand you purchased, when you purchased your strawberries, or where you purchased them from prior to freezing them, the strawberries should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "The downstream product removal conducted by Urban Remedy and reported on June 10, 2022, is now considered a market withdrawal. It has been determined that the product was not made using implicated strawberries."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "As this investigation is ongoing, and this advisory will be updated as more information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020"
+      ],
+      "stage_source_sha256": "ec942a3c1915fe0bcf70f161d57e603d06444e8c1e30e50ed9eac4ffeebaea11"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, and state and local partners, investigated a multistate outbreak of hepatitis A infections in the United States linked to fresh organic strawberries. These potentially contaminated strawberries were imported from Baja California, a state in northern Mexico, and branded as FreshKampo and HEB by a common supplier; they were purchased between March 5, 2022, and April 15, 2022. The Public Health Agency of Canada and the Canadian Food Inspection Agency also investigated an outbreak of hepatitis A. Imported FreshKampo brand fresh organic strawberries were identified as the likely source of the outbreak in Canada."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "A total of 18 people (including one probable case) infected with hepatitis A were reported from three states. According to the CDC, as of August 14, 2022, this outbreak has ended."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Currently, the potentially contaminated product is past its shelf life and not available for purchase in stores. Consumers, restaurants, and retailers should not sell, serve, or eat any fresh organic strawberries branded as FreshKampo or HEB if purchased between March 5, 2022, and April 15, 2022. People who purchased the fresh strawberries and then froze those strawberries for later consumption should not eat them. They should be thrown away. If you are unsure of what brand you purchased, when you purchased your strawberries, or where you purchased them from prior to freezing them, the strawberries should be thrown away."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "If consumers purchased fresh organic strawberries branded as FreshKampo or HEB between March 5, 2022, and April 15, 2022, ate those berries in the last two weeks, and have not been vaccinated against hepatitis A, they should immediately consult with their healthcare professional to determine whether post exposure prophylaxis (PEP) is needed. PEP is recommended for unvaccinated people who have been exposed to hepatitis A virus in the last two weeks because vaccination can prevent a hepatitis A infection if given within 14 days of exposure. Those with evidence of previous hepatitis A vaccination or previous hepatitis A infection do not require PEP."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have symptoms of a hepatitis A infection after eating these fresh organic strawberries, or if you believe that you have eaten these strawberries in the last two weeks."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Total U.S. Illnesses: 18 (including 1 probable case) Hospitalizations: 13 (including 1 probable case) Deaths: 0 Last illness onset: May 6, 2022 States with Cases: CA (16), MN (1), ND (1) Product Distribution: Nationwide"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008"
+      ],
+      "stage_source_sha256": "d5ab10a6b3f8b99d39aa69c19c13d5854aec96f33fbf5b0534e7164a28de0391"
+    }
+  ]
+}

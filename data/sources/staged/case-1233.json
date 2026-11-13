@@ -1,0 +1,2831 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1233",
+  "title": "Investigation of Illnesses: Diamond Shruumz-Brand Chocolate Bars, Cones, & Gummies (June 2024) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024",
+  "frozen_source_path": "t1/frozen_sources/case-1233.txt",
+  "frozen_source_sha256": "0f0cd4528ad75f0725c29d2b9921a96eaae4955afb7d50fc028c7d32a96261d3",
+  "stage_count": 18,
+  "stages": [
+    {
+      "source_order": 18,
+      "report_date": "2024-06-07",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0434",
+          "source_page": "Main",
+          "text": "June 7, 2024"
+        },
+        {
+          "block_id": "BLOCK-0435",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with America’s Poison Centers and state and local partners, are investigating a series of illnesses associated with eating Diamond Shruumz-brand Microdosing Chocolate Bars."
+        },
+        {
+          "block_id": "BLOCK-0436",
+          "source_page": "Main",
+          "text": "As of June 7, 2024, a total of eight illnesses have been reported from four states including AZ (4), IN (2), NV (1), and PA (1). All eight people have reported seeking medical care; six have been hospitalized. No deaths have been reported. FDA is working to determine the cause of these illnesses and is considering the appropriate next steps. More information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0434",
+        "BLOCK-0435",
+        "BLOCK-0436"
+      ],
+      "stage_source_sha256": "5b2453f77a913278d2b3a738d73f6dfa3875ad0dd8e0121b8b8b06fdf663021a"
+    },
+    {
+      "source_order": 17,
+      "report_date": "2024-06-11",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0431",
+          "source_page": "Main",
+          "text": "June 11, 2024"
+        },
+        {
+          "block_id": "BLOCK-0432",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with America’s Poison Centers and state and local partners, are investigating a series of illnesses associated with eating Diamond Shruumz-brand Chocolate Bars, Cones, and Gummies."
+        },
+        {
+          "block_id": "BLOCK-0433",
+          "source_page": "Main",
+          "text": "As of June 10, 2024, additional Diamond Shruumz-brand products have been reported by people who became ill, including the Diamond Shruumz-brand Chocolate Bars, Cones, and Gummies. A total of 12 illnesses have been reported from eight states including AL (1), AZ (4), IN (2), KY (1), MO (1), NV (1), PA (1), and SC (1). All 12 people have reported seeking medical care; 10 have been hospitalized. No deaths have been reported. FDA is working to determine the cause of these illnesses and is considering the appropriate next steps. More information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0431",
+        "BLOCK-0432",
+        "BLOCK-0433"
+      ],
+      "stage_source_sha256": "674d983a58d90c4dd25eb088db9b84ecb432c596f9be73d54c556f7903134fbc"
+    },
+    {
+      "source_order": 16,
+      "report_date": "2024-06-18",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0426",
+          "source_page": "Main",
+          "text": "June 18, 2024"
+        },
+        {
+          "block_id": "BLOCK-0427",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with America’s Poison Centers and state and local partners, are investigating a series of illnesses associated with eating Diamond Shruumz-brand Chocolate Bars, Cones, and Gummies."
+        },
+        {
+          "block_id": "BLOCK-0428",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA and state partners have collected multiple samples of Diamond Shruumz-brand Chocolate Bars and the analysis is ongoing. FDA's investigation is ongoing to determine the cause of these illnesses and the appropriate next steps."
+        },
+        {
+          "block_id": "BLOCK-0429",
+          "source_page": "Main",
+          "text": "As of June 17, 2024, a total of 26 illnesses have been reported from 16 states including AL (1), AZ (6), CA (1), IN (3), KY (2), MD (1), MN (1), MO (1), MT (1), NV (1), NJ (1), NY (1), NC (1), PA (1), SC (3), and TN (1). Twenty-five (25) of the 26 people have reported seeking medical care; 16 have been hospitalized. No deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0430",
+          "source_page": "Main",
+          "text": "FDA has been in contact with the firm about a possible voluntary recall, but these discussions are still ongoing. This advisory will be updated as additional information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0426",
+        "BLOCK-0427",
+        "BLOCK-0428",
+        "BLOCK-0429",
+        "BLOCK-0430"
+      ],
+      "stage_source_sha256": "152a9bba0563a5f9a0faa9830c531edb31429ca19a7d9766be770d7d96c648ad"
+    },
+    {
+      "source_order": 15,
+      "report_date": "2024-06-25",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0413",
+          "source_page": "Main",
+          "text": "June 25, 2024"
+        },
+        {
+          "block_id": "BLOCK-0414",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with America’s Poison Centers and state and local partners, are investigating a series of illnesses associated with eating Diamond Shruumz-brand Chocolate Bars, Cones, and Gummies."
+        },
+        {
+          "block_id": "BLOCK-0415",
+          "source_page": "Main",
+          "text": "FDA has been in contact with the firm about a possible voluntary recall, but to date, the firm has not initiated the recall."
+        },
+        {
+          "block_id": "BLOCK-0416",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA and state partners have collected multiple samples of Diamond Shruumz-brand products for testing and analysis. Additional sample analysis is ongoing, but as of June 25, 2024 test results for two individual chocolate bars collected from a retail store have identified the presence of the following:"
+        },
+        {
+          "block_id": "BLOCK-0417",
+          "source_page": "Main",
+          "text": "Diamond Shruumz Dark Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0418",
+          "source_page": "Main",
+          "text": "4-acetoxy- N,N -dimethyltryptamine (4-acetoxy-DMT, also known as O-acetylpsilocin or psilacetin)"
+        },
+        {
+          "block_id": "BLOCK-0419",
+          "source_page": "Main",
+          "text": "desmethoxyyangonin"
+        },
+        {
+          "block_id": "BLOCK-0420",
+          "source_page": "Main",
+          "text": "dihydrokavain"
+        },
+        {
+          "block_id": "BLOCK-0421",
+          "source_page": "Main",
+          "text": "kavain"
+        },
+        {
+          "block_id": "BLOCK-0422",
+          "source_page": "Main",
+          "text": "Diamond Shruumz Birthday Cake Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0423",
+          "source_page": "Main",
+          "text": "4-acetoxy- N,N -dimethyltryptamine (4-acetoxy-DMT, also known as O-acetylpsilocin or psilacetin)"
+        },
+        {
+          "block_id": "BLOCK-0424",
+          "source_page": "Main",
+          "text": "There may be variability in test results across products with different formulations as well as potential variability across lots and batches of the same product. Additional testing for the above Diamond Shruumz-brand Chocolate Bars, along with testing for other Diamond Shruumz-brand products, is in progress. FDA and CDC medical officers are interpreting these test results to understand the health risks of ingesting these chemical substances and to determine the appropriate next steps."
+        },
+        {
+          "block_id": "BLOCK-0425",
+          "source_page": "Main",
+          "text": "This advisory will be updated as additional information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0413",
+        "BLOCK-0414",
+        "BLOCK-0415",
+        "BLOCK-0416",
+        "BLOCK-0417",
+        "BLOCK-0418",
+        "BLOCK-0419",
+        "BLOCK-0420",
+        "BLOCK-0421",
+        "BLOCK-0422",
+        "BLOCK-0423",
+        "BLOCK-0424",
+        "BLOCK-0425"
+      ],
+      "stage_source_sha256": "7844539f3eef460417c62d300b330968297a6756c79ba3c3ed8137dcee01b219"
+    },
+    {
+      "source_order": 14,
+      "report_date": "2024-06-28",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0400",
+          "source_page": "Main",
+          "text": "June 28, 2024"
+        },
+        {
+          "block_id": "BLOCK-0401",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with America’s Poison Centers and state and local partners, are investigating a series of illnesses associated with eating Diamond Shruumz-brand Chocolate Bars, Cones, and Gummies."
+        },
+        {
+          "block_id": "BLOCK-0402",
+          "source_page": "Main",
+          "text": "On June 27, 2024, Prophet Premium Blends, LLC of Santa Ana, CA, initiated a recall of all flavors of Diamond Shruumz-brand Chocolate Bars, Cones, and Gummies. According to the firm, these products contain muscimol, a chemical found in some mushrooms, that could be a potential cause of symptoms consistent with some symptoms observed in individuals who became ill after consuming Diamond Shruumz-brand products. FDA is evaluating this information."
+        },
+        {
+          "block_id": "BLOCK-0403",
+          "source_page": "Main",
+          "text": "As previously reported, FDA and state partners have collected multiple samples of Diamond Shruumz-brand products for testing and analysis. Additional sample analysis is ongoing, but as of June 25, 2024 test results for two individual chocolate bars collected from a retail store have identified the presence of the following:"
+        },
+        {
+          "block_id": "BLOCK-0404",
+          "source_page": "Main",
+          "text": "Diamond Shruumz Dark Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0405",
+          "source_page": "Main",
+          "text": "4-acetoxy- N,N -dimethyltryptamine (4-acetoxy-DMT, also known as O-acetylpsilocin or psilacetin)"
+        },
+        {
+          "block_id": "BLOCK-0406",
+          "source_page": "Main",
+          "text": "desmethoxyyangonin"
+        },
+        {
+          "block_id": "BLOCK-0407",
+          "source_page": "Main",
+          "text": "dihydrokavain"
+        },
+        {
+          "block_id": "BLOCK-0408",
+          "source_page": "Main",
+          "text": "kavain"
+        },
+        {
+          "block_id": "BLOCK-0409",
+          "source_page": "Main",
+          "text": "Diamond Shruumz Birthday Cake Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0410",
+          "source_page": "Main",
+          "text": "4-acetoxy- N,N -dimethyltryptamine (4-acetoxy-DMT, also known as O-acetylpsilocin or psilacetin)"
+        },
+        {
+          "block_id": "BLOCK-0411",
+          "source_page": "Main",
+          "text": "There may be variability in test results across products with different formulations as well as potential variability across lots and batches of the same product. Additional testing for the above Diamond Shruumz-brand Chocolate Bars, along with testing for other Diamond Shruumz-brand products, is in progress. FDA and CDC medical officers are interpreting these test results to understand the health risks of ingesting these chemical substances and to determine the appropriate next steps."
+        },
+        {
+          "block_id": "BLOCK-0412",
+          "source_page": "Main",
+          "text": "This advisory will be updated as additional information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0400",
+        "BLOCK-0401",
+        "BLOCK-0402",
+        "BLOCK-0403",
+        "BLOCK-0404",
+        "BLOCK-0405",
+        "BLOCK-0406",
+        "BLOCK-0407",
+        "BLOCK-0408",
+        "BLOCK-0409",
+        "BLOCK-0410",
+        "BLOCK-0411",
+        "BLOCK-0412"
+      ],
+      "stage_source_sha256": "1a63bc07e1b251f15d98a98acc774fa928290850613c7fd0deed256b2c654b20"
+    },
+    {
+      "source_order": 13,
+      "report_date": "2024-07-02",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0397",
+          "source_page": "Main",
+          "text": "July 2, 2024"
+        },
+        {
+          "block_id": "BLOCK-0398",
+          "source_page": "Main",
+          "text": "As of July 1, 2024, a total of 48 illnesses have been reported from 24 states including AL (1), AZ (6), CA (1), CO (1), FL (1), GA (3), IN (5), IA (3), KY (3), MD (1), MN (1), MO (1), MT (1), NV (1), NJ (2), NY (1), NC (3), ND (1), OH (2), OK (1), PA (2), SC (4), SD (1), and TN (2). Forty-six (46) of the 48 people have reported seeking medical care; Twenty-seven (27) have been hospitalized. There is one (1) potentially associated death under investigation."
+        },
+        {
+          "block_id": "BLOCK-0399",
+          "source_page": "Main",
+          "text": "This advisory will be updated as additional information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0397",
+        "BLOCK-0398",
+        "BLOCK-0399"
+      ],
+      "stage_source_sha256": "aa221866463da9ad8dadfa35f9d79747f89181314a0ec86c47f2c86709c5c969"
+    },
+    {
+      "source_order": 12,
+      "report_date": "2024-07-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0394",
+          "source_page": "Main",
+          "text": "July 9, 2024"
+        },
+        {
+          "block_id": "BLOCK-0395",
+          "source_page": "Main",
+          "text": "As of July 8, 2024, a total of 58 illnesses have been reported from 27 states. 50 of the 58 people have reported seeking medical care, 30 have been hospitalized, and there is one potentially associated death under investigation."
+        },
+        {
+          "block_id": "BLOCK-0396",
+          "source_page": "Main",
+          "text": "This advisory will be updated as additional information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0394",
+        "BLOCK-0395",
+        "BLOCK-0396"
+      ],
+      "stage_source_sha256": "5873225aff986f31cace92cbc86763167d9f7a0fcef2c310feb91c2fb97bca8f"
+    },
+    {
+      "source_order": 11,
+      "report_date": "2024-07-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0389",
+          "source_page": "Main",
+          "text": "July 16, 2024"
+        },
+        {
+          "block_id": "BLOCK-0390",
+          "source_page": "Main",
+          "text": "As of July 15, 2024, a total of 69 illnesses have been reported from 28 states. Sixty (60) of the 69 people have reported seeking medical care, 36 have been hospitalized, and there is one potentially associated death under investigation."
+        },
+        {
+          "block_id": "BLOCK-0391",
+          "source_page": "Main",
+          "text": "FDA is aware that recalled Diamond Shruumz-brand products are still on the shelves at several smoke/vape shops, and at retailers that sell hemp-derived products such as cannabidiol (CBD) or delta-8 tetrahydrocannabinol (delta-8 THC). FDA is monitoring the firm’s recall to assess its effectiveness."
+        },
+        {
+          "block_id": "BLOCK-0392",
+          "source_page": "Main",
+          "text": "FDA is working with the National Association of Convenience Stores and the National Smoke Shop Association to increase awareness of the recall. All Diamond Shruumz-brand products have been recalled and should not be available for sale. Consumers should not purchase or consume any Diamond Shruumz-brand products. If you have seen a store continuing to sell recalled Diamond Shruumz-brand products, you can report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0393",
+          "source_page": "Main",
+          "text": "This advisory will be updated as additional information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-0389",
+        "BLOCK-0390",
+        "BLOCK-0391",
+        "BLOCK-0392",
+        "BLOCK-0393"
+      ],
+      "stage_source_sha256": "d97b311ffa9ae52b47d986f954a1339489d8376070b4caa1ddbfa3a459e5d740"
+    },
+    {
+      "source_order": 10,
+      "report_date": "2024-07-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0387",
+          "source_page": "Main",
+          "text": "July 23, 2024"
+        },
+        {
+          "block_id": "BLOCK-0388",
+          "source_page": "Main",
+          "text": "As of July 22, 2024, a total of 74 illnesses have been reported from 28 states. Sixty-two (62) of the 74 people have reported seeking medical care, 38 have been hospitalized, and there are two potentially associated deaths under investigation."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0387",
+        "BLOCK-0388"
+      ],
+      "stage_source_sha256": "4e04cda5fde3087124238f6ce2d2598549a26af3122d237f2d622f7a2d4fc5d9"
+    },
+    {
+      "source_order": 9,
+      "report_date": "2024-07-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0382",
+          "source_page": "Main",
+          "text": "July 30, 2024"
+        },
+        {
+          "block_id": "BLOCK-0383",
+          "source_page": "Main",
+          "text": "On July 30,2024, FDA published a list of store names and locations known to sell Diamond Shruumz-brand products. This comes after FDA received numerous reports of retailers continuing to sell the recalled products."
+        },
+        {
+          "block_id": "BLOCK-0384",
+          "source_page": "Main",
+          "text": "All Diamond Shruumz-brand products have been recalled and should not be sold. Consumers should not purchase any Diamond Shruumz-brand products. If you know of a retailer (online or in-person) continuing to sell recalled Diamond Shruumz-brand product, you can report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0385",
+          "source_page": "Main",
+          "text": "A list of store names and locations is available and will be updated as additional stores are identified."
+        },
+        {
+          "block_id": "BLOCK-0386",
+          "source_page": "Main",
+          "text": "As of July 29, 2024, a total of 78 illnesses have been reported from 28 states. Sixty-five (65) of the 78 people have reported seeking medical care, 40 have been hospitalized, and there are two potentially associated deaths under investigation."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 10,
+      "stage_id": "R10",
+      "source_block_ids": [
+        "BLOCK-0382",
+        "BLOCK-0383",
+        "BLOCK-0384",
+        "BLOCK-0385",
+        "BLOCK-0386"
+      ],
+      "stage_source_sha256": "65fcc982f3f179faaf564d691e9f7e28b05c4fd842bb657ce7b81c71692c8b52"
+    },
+    {
+      "source_order": 8,
+      "report_date": "2024-08-06",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0379",
+          "source_page": "Main",
+          "text": "August 6, 2024"
+        },
+        {
+          "block_id": "BLOCK-0380",
+          "source_page": "Main",
+          "text": "On August 2, 2024, FDA published an updated list of store names and locations known to sell Diamond Shruumz-brand products. All Diamond Shruumz-brand products have been recalled and should not be available for sale. If you know of a retailer (online or in-person) continuing to sell recalled Diamond Shruumz-brand product, you can report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0381",
+          "source_page": "Main",
+          "text": "As of August 2, 2024, a total of 113 illnesses have been reported from 28 states; 42 have been hospitalized, and there are two potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 11,
+      "stage_id": "R11",
+      "source_block_ids": [
+        "BLOCK-0379",
+        "BLOCK-0380",
+        "BLOCK-0381"
+      ],
+      "stage_source_sha256": "4287d2a5fc65cfdd956692890568cf66dc2eebedbcdea8632bdb7ce79bcc66ad"
+    },
+    {
+      "source_order": 7,
+      "report_date": "2024-08-08",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0375",
+          "source_page": "Main",
+          "text": "August 8, 2024"
+        },
+        {
+          "block_id": "BLOCK-0376",
+          "source_page": "Main",
+          "text": "As previously reported, FDA and state and local partners have collected multiple samples of Diamond Shruumz-brand products for testing and analysis. Sample analysis is ongoing; however, as of August 8, 2024, test results are available for 19 Diamond Shruumz-brand Chocolate Bars and have been summarized in the Sample Results section below. Samples of the Diamond Shruumz-brand Cones and Gummies have also been collected and testing and analysis is ongoing."
+        },
+        {
+          "block_id": "BLOCK-0377",
+          "source_page": "Main",
+          "text": "On August 2, 2024, FDA published an updated list of store names and locations known to sell Diamond Shruumz-brand products. All Diamond Shruumz-brand products have been recalled and should not be available for sale. If you identify a retailer (online or in-person) continuing to sell recalled Diamond Shruumz-brand product, please report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0378",
+          "source_page": "Main",
+          "text": "As of August 2, 2024, a total of 113 illnesses have been reported from 28 states; 42 have been hospitalized, and there are two potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 12,
+      "stage_id": "R12",
+      "source_block_ids": [
+        "BLOCK-0375",
+        "BLOCK-0376",
+        "BLOCK-0377",
+        "BLOCK-0378"
+      ],
+      "stage_source_sha256": "35b181955d1627fc82ca7ebae13f3836d02d0cfbd75fe1a2d6d8c79ef576be8b"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2024-08-14",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0372",
+          "source_page": "Main",
+          "text": "August 14, 2024"
+        },
+        {
+          "block_id": "BLOCK-0373",
+          "source_page": "Main",
+          "text": "As previously reported, FDA and state and local partners have collected multiple samples of Diamond Shruumz-brand products for testing and analysis. Sample analysis is ongoing; however, as of August 8, 2024, test results are available for 19 Diamond Shruumz-brand Chocolate Bars and have been summarized in the Sample Results section below. Samples of the Diamond Shruumz-brand Cones and Gummies have also been collected and testing and analysis is ongoing."
+        },
+        {
+          "block_id": "BLOCK-0374",
+          "source_page": "Main",
+          "text": "As of August 9, 2024, a total of 130 illnesses have been reported from 29 states; 53 have been hospitalized, and there are two potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 13,
+      "stage_id": "R13",
+      "source_block_ids": [
+        "BLOCK-0372",
+        "BLOCK-0373",
+        "BLOCK-0374"
+      ],
+      "stage_source_sha256": "125b2f0f4154bcd7ac57c50a077377e2452e493e9525efbb6f09eccd47016f59"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2024-08-21",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0368",
+          "source_page": "Main",
+          "text": "August 21, 2024"
+        },
+        {
+          "block_id": "BLOCK-0369",
+          "source_page": "Main",
+          "text": "As of August 21, 2024, test results are available for 22 Diamond Shruumz-brand Chocolate Bars and have been summarized in the Sample Results section below. Additional analysis for the Diamond Shruumz-brand Chocolate Bars is ongoing. Samples of the Diamond Shruumz-brand Cones and Gummies have also been collected and testing and analysis is ongoing."
+        },
+        {
+          "block_id": "BLOCK-0370",
+          "source_page": "Main",
+          "text": "On August 20, 2024, FDA published an updated list of store names and locations known to sell Diamond Shruumz-brand products. All Diamond Shruumz-brand products have been recalled and should not be available for sale. If you know of a retailer (online or in-person) continuing to sell recalled Diamond Shruumz-brand product, you can report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0371",
+          "source_page": "Main",
+          "text": "As of August 16, 2024, a total of 145 illnesses have been reported from 29 states; 59 have been hospitalized, and there are two potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 14,
+      "stage_id": "R14",
+      "source_block_ids": [
+        "BLOCK-0368",
+        "BLOCK-0369",
+        "BLOCK-0370",
+        "BLOCK-0371"
+      ],
+      "stage_source_sha256": "d5ff13c331b5e423c676c31cdc283cf6d6a4eb59fd0ac3dfb7ffe5d51fff167a"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2024-09-05",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0365",
+          "source_page": "Main",
+          "text": "September 5, 2024"
+        },
+        {
+          "block_id": "BLOCK-0366",
+          "source_page": "Main",
+          "text": "As of September 4, 2024, test results are available for 10 Diamond Shruumz-brand Infused Cones and have been summarized in the Sample Results section below."
+        },
+        {
+          "block_id": "BLOCK-0367",
+          "source_page": "Main",
+          "text": "As of August 30, 2024, a total of 158 illnesses have been reported from 32 states; 63 have been hospitalized, and there are two potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 15,
+      "stage_id": "R15",
+      "source_block_ids": [
+        "BLOCK-0365",
+        "BLOCK-0366",
+        "BLOCK-0367"
+      ],
+      "stage_source_sha256": "d7d424d1a4927bf4f005e8f7ff1098014e92704f1f9655bd86c8869293a72ad6"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2024-09-18",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0363",
+          "source_page": "Main",
+          "text": "September 18, 2024"
+        },
+        {
+          "block_id": "BLOCK-0364",
+          "source_page": "Main",
+          "text": "As of September 13, 2024, a total of 169 illnesses have been reported from 33 states; 66 have been hospitalized, and there are two potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 16,
+      "stage_id": "R16",
+      "source_block_ids": [
+        "BLOCK-0363",
+        "BLOCK-0364"
+      ],
+      "stage_source_sha256": "a0663d1feef2baebcafa351554028804a823b31b165868e9fc350a423515f096"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2024-10-03",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0361",
+          "source_page": "Main",
+          "text": "October 3, 2024"
+        },
+        {
+          "block_id": "BLOCK-0362",
+          "source_page": "Main",
+          "text": "As of September 27, 2024, a total of 175 illnesses have been reported from 33 states; 70 have been hospitalized, and there are three potentially associated deaths."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 17,
+      "stage_id": "R17",
+      "source_block_ids": [
+        "BLOCK-0361",
+        "BLOCK-0362"
+      ],
+      "stage_source_sha256": "ba94901de1eef7e6990cebb6eae016ba7a12e4500b7a95cd4dfc366eb3f109e0"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-11-15",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-NEW-0000",
+          "source_page": "Main",
+          "text": "Sample Product Image from the Investigation of Illnesses Related to Diamond Shruumz-Brand Microdosing Chocolate Bars (June 2024)"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Images of Additional Products"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "All flavors of Diamond Shruumz-brand products have been recalled :"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Microdosing Chocolate Bars"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Infused Cones"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Micro-Dose and Mega-Dose/Extreme Gummies"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "These products have been recalled and should no longer be available for sale; however, they have a long shelf life. Consumers should check their homes and discard any Diamond Shruumz-brand products."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "People who became ill after eating Diamond Shruumz-brand products reported a variety of severe symptoms including seizures, central nervous system depression (loss of consciousness, confusion, sleepiness), agitation, abnormal heart rates, hyper/hypotension, nausea, and vomiting."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "All Diamond Shruumz-brand products have been recalled and should no longer be available for sale. These products were available online and in person at a variety of retail locations nationwide including smoke/vape shops, and at retailers that sell hemp-derived products such as cannabidiol (CBD) or delta-8 tetrahydrocannabinol (delta-8 THC)."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "FDA is aware recalled Diamond Shruumz-brand products may still be available for sale at several smoke/vape shops, and at retailers that sell hemp-derived products such as cannabidiol (CBD) or delta-8 tetrahydrocannabinol (delta-8 THC). All Diamond Shruumz-brand products have been recalled and should not be sold. Consumers should not purchase any Diamond Shruumz-brand products. If you know of a retailer (online or in-person) continuing to sell recalled Diamond Shruumz-brand product, you can report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "A list of store names and locations where the recalled products were available for retail sale is included in the recall announcement . There may be additional retailers not included on this list that are continuing to sell the recalled product. This list will be updated as additional stores are identified."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Ended. FDA’s response to this investigation has transitioned to post-incident actions and activities."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Consumers should not buy or eat any flavor of Diamond Shruumz-brand Chocolate Bars, Cones, or Gummies."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Consumers should check their homes and discard these products or return them to the company for a refund."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "These products may appeal to children and teenagers. Parents and caregivers should consider discussing the information in this advisory with their children and take extra care to avoid these products being consumed by younger people."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Retailers should not sell or distribute any flavor of Diamond Shruumz-brand Chocolate Bars, Cones, or Gummies, and should hold the product in a secure location and contact the recalling company to initiate the return and refund."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "If you become ill after consuming these products, please contact your healthcare provider and/or call the Poison Help Line at 1-800-222-1222. Let them know you have recently consumed the Diamond Shruumz-brand Chocolate Bars, Cones, and/or Gummies."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Healthcare providers should report these illnesses to their local health department and/or the Poison Help Line ."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "November 15, 2024"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "The FDA has transitioned from its initial response activities managed by FDA’s Coordinated Outbreak Response & Evaluation (CORE) Network, to identify the source and to contain the event to minimize illness. The agency is now focused on post-incident response actions and activities, which may include additional surveillance, as well as prevention and compliance activities."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "On October 18, 2024, FDA published an updated list of store names and locations known to sell Diamond Shruumz-brand products. All Diamond Shruumz-brand products have been recalled and should not be available for sale. If you know of a retailer (online or in-person) continuing to sell recalled Diamond Shruumz-brand product, you can report this information to FDA ."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "As of October 31, 2024, CDC’s investigation identified a total of 180 illnesses* reported from 34 states; 73 people have been hospitalized, and there are three (3) potentially associated deaths."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "As of November 4, 2024, test results are available for 22 Diamond Shruumz-brand gummies. Testing for the presence of compounds in Diamond Shruumz-brand products has been completed and the results have been summarized in the Sample Results section below. CORE’s investigation is complete, and the agency is now focused on post-incident actions and activities."
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Total Illnesses: 180 *"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Total number of cases among people who reportedly ate a Diamond Shruumz product : 118"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "Total number of cases among people who reportedly ate a mushroom chocolate bar of an unspecified brand : 36"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Total number of cases among people who reportedly ate a mushroom chocolate bar of a non-Diamond Shruumz-brand : 26"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Hospitalizations: 73 Potentially Associated Deaths: 3 States with Cases: AL (8), AZ (13), CA (3), CO (1), FL (6), GA (21), IA (6), ID (4), IL (2), IN (8), KS (5), KY (11), MD (2), MI (2), MN (3), MO (1), MT (3), NC (12), ND (3), NJ (3), NV (2), NY (2), OH (6), OK (1), OR (1), PA (2), SC (12), SD (1), TN (9), TX (19), VA (2), WA (2), WI (1), WV (3)"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "* The case definition used by state health departments for the reported illnesses is as follows: Illness with moderate or major clinical effects, or death, occurring in a person who ate any Diamond Shruumz product (chocolate bars, cones, gummies or other) or another chocolate product marketed as containing mushrooms, during January 1, 2024, through the present."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Sample Results"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "November 15, 2024"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "As part of their recall announcement, Prophet Premium Blends, LLC indicated that Diamond Shruumz-brand products contain muscimol. To date, FDA has tested 22 samples of Chocolate Bars, 10 Infused Cones, 22 Gummies, and one raw ingredient that was reportedly used in the manufacturing of some Diamond Shruumz-brand products. Nine (9) of the 22 Chocolate Bars, five (5) of the 10 Infused Cones, and the raw ingredient were found to contain muscimol. Muscimol does not appear in all products and cannot explain all the symptoms reported by ill people who consumed the Diamond Shruumz-brand products."
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "In addition to muscimol, FDA analyses of Diamond Shruumz-brand Chocolate Bar, Infused Cone, and Gummies samples identified the presence of the following compounds:"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Acetylpsilocin (also known as 4-acetoxy-N,N-dimethyltryptamine, 4-acetoxy-DMT, O-acetylpsilocin or psilacetin) was found in nine (9) Chocolate Bar samples, five (5) Infused Cone samples, and 14 Gummies samples;"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Psilocin, a Schedule I-controlled substance, was found in four (4) Chocolate Bar samples, five (5) Infused Cone samples, and 14 Gummies samples;"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Pregabalin, a prescription drug, was found in three (3) Chocolate Bar samples, five (5) Infused Cone samples, and four (4) Gummies samples;"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Desmethoxyyangonin, dihydrokavain, and kavain (kavalactones found in the kava plant), were all present together in 18 Chocolate Bar samples, all 10 of the Infused Cone samples, and 11 Gummies samples;"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Ibotenic acid and muscimol were detected in the raw ingredient that was reportedly used in the manufacturing of some Diamond Shruumz-brand products."
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "Results in the table below show different compounds present in different flavors of Chocolate Bars, Infused Cones, and Gummies, but even for the same flavor of the Diamond Shruumz-brand product, there may be variations in what compounds are present."
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "Although these compounds individually have known effects when ingested, there is less research on the interactions between these compounds when ingested together. FDA and CDC medical officers are interpreting these test results to understand the health risks of ingesting these chemical substances and to determine the appropriate next steps."
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "Testing for the presence of compounds in Diamond Shruumz-brand products is complete, and the results have been summarized in the table below. Six (6) of the 22 Diamond-Shruumz-brand gummies collected for analysis tested negative for the compounds/chemicals listed in the table below; these six (6) samples have been excluded from the table. Additionally, 10 of the Diamond-Shruumz-brand products that were collected for analysis, which included various flavors of Chocolate Bars, Infused Cones, and Gummies, tested negative for the presence of cannabis-associated cannabinoids."
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "Product Sample Testing Results (includes results available as of 11/04/2024)"
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "Please note, each row on the table is a separate Diamond Shruumz-brand product sample that was collected and analyzed."
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "Compounds/Chemical Present"
+        },
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "Product Type"
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "Flavor"
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "Muscimol"
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "Acetylpsilocin"
+        },
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "Psilocin"
+        },
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "Pregabalin"
+        },
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "Desmethoxyyangonin"
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "Dihydrokavain"
+        },
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "Kavain"
+        },
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0069",
+          "source_page": "Main",
+          "text": "Birthday Cake"
+        },
+        {
+          "block_id": "BLOCK-0070",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0071",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0072",
+          "source_page": "Main",
+          "text": "Birthday Cake"
+        },
+        {
+          "block_id": "BLOCK-0073",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0074",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0075",
+          "source_page": "Main",
+          "text": "Birthday Cake"
+        },
+        {
+          "block_id": "BLOCK-0076",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0077",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0078",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0079",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0080",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0081",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0082",
+          "source_page": "Main",
+          "text": "Birthday Cake"
+        },
+        {
+          "block_id": "BLOCK-0083",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0084",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0085",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0086",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0087",
+          "source_page": "Main",
+          "text": "Cinnamon"
+        },
+        {
+          "block_id": "BLOCK-0088",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0089",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0090",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "Cinnamon"
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "Cinnamon"
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0101",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0102",
+          "source_page": "Main",
+          "text": "Chocolate Bar*"
+        },
+        {
+          "block_id": "BLOCK-0103",
+          "source_page": "Main",
+          "text": "Cookie Butter"
+        },
+        {
+          "block_id": "BLOCK-0104",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0105",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0106",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0107",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0108",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0109",
+          "source_page": "Main",
+          "text": "Cookie Butter"
+        },
+        {
+          "block_id": "BLOCK-0110",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0111",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0112",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0113",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0114",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0115",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0116",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0117",
+          "source_page": "Main",
+          "text": "Cookie Butter"
+        },
+        {
+          "block_id": "BLOCK-0118",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0119",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0120",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0121",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0122",
+          "source_page": "Main",
+          "text": "Chocolate Bar*"
+        },
+        {
+          "block_id": "BLOCK-0123",
+          "source_page": "Main",
+          "text": "Cookies N Cream"
+        },
+        {
+          "block_id": "BLOCK-0124",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0125",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0126",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0127",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0128",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0129",
+          "source_page": "Main",
+          "text": "Cookies N Cream"
+        },
+        {
+          "block_id": "BLOCK-0130",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0131",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0132",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0133",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0134",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0135",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0136",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0137",
+          "source_page": "Main",
+          "text": "Cookies N Cream"
+        },
+        {
+          "block_id": "BLOCK-0138",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0139",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0140",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0141",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0142",
+          "source_page": "Main",
+          "text": "Cookies N Cream"
+        },
+        {
+          "block_id": "BLOCK-0143",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0144",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0145",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0146",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0147",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0148",
+          "source_page": "Main",
+          "text": "Dark Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0149",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0150",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0151",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0152",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0153",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0154",
+          "source_page": "Main",
+          "text": "Dark Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0155",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0156",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0157",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0158",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0159",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0160",
+          "source_page": "Main",
+          "text": "Dark Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0161",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0162",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0163",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0164",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0165",
+          "source_page": "Main",
+          "text": "Dark Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0166",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0167",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0168",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0169",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0170",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0171",
+          "source_page": "Main",
+          "text": "Fruity Cereal"
+        },
+        {
+          "block_id": "BLOCK-0172",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0173",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0174",
+          "source_page": "Main",
+          "text": "Fruity Cereal"
+        },
+        {
+          "block_id": "BLOCK-0175",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0176",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0177",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0178",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0179",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0180",
+          "source_page": "Main",
+          "text": "Fruity Cereal"
+        },
+        {
+          "block_id": "BLOCK-0181",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0182",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0183",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0184",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0185",
+          "source_page": "Main",
+          "text": "Chocolate Bar"
+        },
+        {
+          "block_id": "BLOCK-0186",
+          "source_page": "Main",
+          "text": "Fruity Cereal"
+        },
+        {
+          "block_id": "BLOCK-0187",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0188",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0189",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0190",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0191",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0192",
+          "source_page": "Main",
+          "text": "Strawberry Cheesecake"
+        },
+        {
+          "block_id": "BLOCK-0193",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0194",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0195",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0196",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0197",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0198",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0199",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0200",
+          "source_page": "Main",
+          "text": "Strawberry Cheesecake"
+        },
+        {
+          "block_id": "BLOCK-0201",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0202",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0203",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0204",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0205",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0206",
+          "source_page": "Main",
+          "text": "Double Chocolate Chip"
+        },
+        {
+          "block_id": "BLOCK-0207",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0208",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0209",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0210",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0211",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0212",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0213",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0214",
+          "source_page": "Main",
+          "text": "Double Chocolate Chip"
+        },
+        {
+          "block_id": "BLOCK-0215",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0216",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0217",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0218",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0219",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0220",
+          "source_page": "Main",
+          "text": "Mint Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0221",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0222",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0223",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0224",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0225",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0226",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0227",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0228",
+          "source_page": "Main",
+          "text": "Mint Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0229",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0230",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0231",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0232",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0233",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0234",
+          "source_page": "Main",
+          "text": "Sprinkles"
+        },
+        {
+          "block_id": "BLOCK-0235",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0236",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0237",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0238",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0239",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0240",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0241",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0242",
+          "source_page": "Main",
+          "text": "Sprinkles"
+        },
+        {
+          "block_id": "BLOCK-0243",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0244",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0245",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0246",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0247",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0248",
+          "source_page": "Main",
+          "text": "Cookies & Cream"
+        },
+        {
+          "block_id": "BLOCK-0249",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0250",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0251",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0252",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0253",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0254",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0255",
+          "source_page": "Main",
+          "text": "Infused Cone"
+        },
+        {
+          "block_id": "BLOCK-0256",
+          "source_page": "Main",
+          "text": "Cookies & Cream"
+        },
+        {
+          "block_id": "BLOCK-0257",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0258",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0259",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0260",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0261",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0262",
+          "source_page": "Main",
+          "text": "Sour Apple Peach"
+        },
+        {
+          "block_id": "BLOCK-0263",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0264",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0265",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0266",
+          "source_page": "Main",
+          "text": "Sour Apple Peach"
+        },
+        {
+          "block_id": "BLOCK-0267",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0268",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0269",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0270",
+          "source_page": "Main",
+          "text": "Blue Raz Watermelon"
+        },
+        {
+          "block_id": "BLOCK-0271",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0272",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0273",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0274",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0275",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0276",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0277",
+          "source_page": "Main",
+          "text": "Blue Razz Euphoria"
+        },
+        {
+          "block_id": "BLOCK-0278",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0279",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0280",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0281",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0282",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0283",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0284",
+          "source_page": "Main",
+          "text": "Strawberry Kiwi"
+        },
+        {
+          "block_id": "BLOCK-0285",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0286",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0287",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0288",
+          "source_page": "Main",
+          "text": "Grape Lemonade"
+        },
+        {
+          "block_id": "BLOCK-0289",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0290",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0291",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0292",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0293",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0294",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0295",
+          "source_page": "Main",
+          "text": "Grape Lemonade"
+        },
+        {
+          "block_id": "BLOCK-0296",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0297",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0298",
+          "source_page": "Main",
+          "text": "Rainbow"
+        },
+        {
+          "block_id": "BLOCK-0299",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0300",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0301",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0302",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0303",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0304",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0305",
+          "source_page": "Main",
+          "text": "Rainbow"
+        },
+        {
+          "block_id": "BLOCK-0306",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0307",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0308",
+          "source_page": "Main",
+          "text": "Radical Rainbow"
+        },
+        {
+          "block_id": "BLOCK-0309",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0310",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0311",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0312",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0313",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0314",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0315",
+          "source_page": "Main",
+          "text": "Hawaiian Punch"
+        },
+        {
+          "block_id": "BLOCK-0316",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0317",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0318",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0319",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0320",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0321",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0322",
+          "source_page": "Main",
+          "text": "Lucid Lemon Lime"
+        },
+        {
+          "block_id": "BLOCK-0323",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0324",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0325",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0326",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0327",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0328",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0329",
+          "source_page": "Main",
+          "text": "Lucid Lemon Lime"
+        },
+        {
+          "block_id": "BLOCK-0330",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0331",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0332",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0333",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0334",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0335",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0336",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0337",
+          "source_page": "Main",
+          "text": "Peach Paradise"
+        },
+        {
+          "block_id": "BLOCK-0338",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0339",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0340",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0341",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0342",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0343",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0344",
+          "source_page": "Main",
+          "text": "Peach Paradise"
+        },
+        {
+          "block_id": "BLOCK-0345",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0346",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0347",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0348",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0349",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0350",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0351",
+          "source_page": "Main",
+          "text": "Gummies"
+        },
+        {
+          "block_id": "BLOCK-0352",
+          "source_page": "Main",
+          "text": "Watermelon Wonderland"
+        },
+        {
+          "block_id": "BLOCK-0353",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0354",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0355",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0356",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0357",
+          "source_page": "Main",
+          "text": "✔"
+        },
+        {
+          "block_id": "BLOCK-0358",
+          "source_page": "Main",
+          "text": "* Two (2) of the chocolate bars tested above were samples collected from complainants."
+        },
+        {
+          "block_id": "BLOCK-0359",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0001",
+          "source_page": "Main",
+          "text": "Sample Product Image from the Investigation of Illnesses Related to Diamond Shruumz-Brand Microdosing Chocolate Bars, Cones, & Gummies (June 2024)"
+        },
+        {
+          "block_id": "BLOCK-NEW-0002",
+          "source_page": "Main",
+          "text": "Sample Product Image from the Investigation of Illnesses Related to Diamond Shruumz-Brand Microdosing Chocolate Bars (June 2024)"
+        },
+        {
+          "block_id": "BLOCK-NEW-0003",
+          "source_page": "Main",
+          "text": "Sample Product Image from the Investigation of Illnesses Related to Diamond Shruumz-Brand Microdosing Chocolate Bars (June 2024)"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update. Same-date subsection merged into this stage.",
+      "stage_order": 18,
+      "stage_id": "R18",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-NEW-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058",
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062",
+        "BLOCK-0063",
+        "BLOCK-0064",
+        "BLOCK-0065",
+        "BLOCK-0066",
+        "BLOCK-0067",
+        "BLOCK-0068",
+        "BLOCK-0069",
+        "BLOCK-0070",
+        "BLOCK-0071",
+        "BLOCK-0072",
+        "BLOCK-0073",
+        "BLOCK-0074",
+        "BLOCK-0075",
+        "BLOCK-0076",
+        "BLOCK-0077",
+        "BLOCK-0078",
+        "BLOCK-0079",
+        "BLOCK-0080",
+        "BLOCK-0081",
+        "BLOCK-0082",
+        "BLOCK-0083",
+        "BLOCK-0084",
+        "BLOCK-0085",
+        "BLOCK-0086",
+        "BLOCK-0087",
+        "BLOCK-0088",
+        "BLOCK-0089",
+        "BLOCK-0090",
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095",
+        "BLOCK-0096",
+        "BLOCK-0097",
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100",
+        "BLOCK-0101",
+        "BLOCK-0102",
+        "BLOCK-0103",
+        "BLOCK-0104",
+        "BLOCK-0105",
+        "BLOCK-0106",
+        "BLOCK-0107",
+        "BLOCK-0108",
+        "BLOCK-0109",
+        "BLOCK-0110",
+        "BLOCK-0111",
+        "BLOCK-0112",
+        "BLOCK-0113",
+        "BLOCK-0114",
+        "BLOCK-0115",
+        "BLOCK-0116",
+        "BLOCK-0117",
+        "BLOCK-0118",
+        "BLOCK-0119",
+        "BLOCK-0120",
+        "BLOCK-0121",
+        "BLOCK-0122",
+        "BLOCK-0123",
+        "BLOCK-0124",
+        "BLOCK-0125",
+        "BLOCK-0126",
+        "BLOCK-0127",
+        "BLOCK-0128",
+        "BLOCK-0129",
+        "BLOCK-0130",
+        "BLOCK-0131",
+        "BLOCK-0132",
+        "BLOCK-0133",
+        "BLOCK-0134",
+        "BLOCK-0135",
+        "BLOCK-0136",
+        "BLOCK-0137",
+        "BLOCK-0138",
+        "BLOCK-0139",
+        "BLOCK-0140",
+        "BLOCK-0141",
+        "BLOCK-0142",
+        "BLOCK-0143",
+        "BLOCK-0144",
+        "BLOCK-0145",
+        "BLOCK-0146",
+        "BLOCK-0147",
+        "BLOCK-0148",
+        "BLOCK-0149",
+        "BLOCK-0150",
+        "BLOCK-0151",
+        "BLOCK-0152",
+        "BLOCK-0153",
+        "BLOCK-0154",
+        "BLOCK-0155",
+        "BLOCK-0156",
+        "BLOCK-0157",
+        "BLOCK-0158",
+        "BLOCK-0159",
+        "BLOCK-0160",
+        "BLOCK-0161",
+        "BLOCK-0162",
+        "BLOCK-0163",
+        "BLOCK-0164",
+        "BLOCK-0165",
+        "BLOCK-0166",
+        "BLOCK-0167",
+        "BLOCK-0168",
+        "BLOCK-0169",
+        "BLOCK-0170",
+        "BLOCK-0171",
+        "BLOCK-0172",
+        "BLOCK-0173",
+        "BLOCK-0174",
+        "BLOCK-0175",
+        "BLOCK-0176",
+        "BLOCK-0177",
+        "BLOCK-0178",
+        "BLOCK-0179",
+        "BLOCK-0180",
+        "BLOCK-0181",
+        "BLOCK-0182",
+        "BLOCK-0183",
+        "BLOCK-0184",
+        "BLOCK-0185",
+        "BLOCK-0186",
+        "BLOCK-0187",
+        "BLOCK-0188",
+        "BLOCK-0189",
+        "BLOCK-0190",
+        "BLOCK-0191",
+        "BLOCK-0192",
+        "BLOCK-0193",
+        "BLOCK-0194",
+        "BLOCK-0195",
+        "BLOCK-0196",
+        "BLOCK-0197",
+        "BLOCK-0198",
+        "BLOCK-0199",
+        "BLOCK-0200",
+        "BLOCK-0201",
+        "BLOCK-0202",
+        "BLOCK-0203",
+        "BLOCK-0204",
+        "BLOCK-0205",
+        "BLOCK-0206",
+        "BLOCK-0207",
+        "BLOCK-0208",
+        "BLOCK-0209",
+        "BLOCK-0210",
+        "BLOCK-0211",
+        "BLOCK-0212",
+        "BLOCK-0213",
+        "BLOCK-0214",
+        "BLOCK-0215",
+        "BLOCK-0216",
+        "BLOCK-0217",
+        "BLOCK-0218",
+        "BLOCK-0219",
+        "BLOCK-0220",
+        "BLOCK-0221",
+        "BLOCK-0222",
+        "BLOCK-0223",
+        "BLOCK-0224",
+        "BLOCK-0225",
+        "BLOCK-0226",
+        "BLOCK-0227",
+        "BLOCK-0228",
+        "BLOCK-0229",
+        "BLOCK-0230",
+        "BLOCK-0231",
+        "BLOCK-0232",
+        "BLOCK-0233",
+        "BLOCK-0234",
+        "BLOCK-0235",
+        "BLOCK-0236",
+        "BLOCK-0237",
+        "BLOCK-0238",
+        "BLOCK-0239",
+        "BLOCK-0240",
+        "BLOCK-0241",
+        "BLOCK-0242",
+        "BLOCK-0243",
+        "BLOCK-0244",
+        "BLOCK-0245",
+        "BLOCK-0246",
+        "BLOCK-0247",
+        "BLOCK-0248",
+        "BLOCK-0249",
+        "BLOCK-0250",
+        "BLOCK-0251",
+        "BLOCK-0252",
+        "BLOCK-0253",
+        "BLOCK-0254",
+        "BLOCK-0255",
+        "BLOCK-0256",
+        "BLOCK-0257",
+        "BLOCK-0258",
+        "BLOCK-0259",
+        "BLOCK-0260",
+        "BLOCK-0261",
+        "BLOCK-0262",
+        "BLOCK-0263",
+        "BLOCK-0264",
+        "BLOCK-0265",
+        "BLOCK-0266",
+        "BLOCK-0267",
+        "BLOCK-0268",
+        "BLOCK-0269",
+        "BLOCK-0270",
+        "BLOCK-0271",
+        "BLOCK-0272",
+        "BLOCK-0273",
+        "BLOCK-0274",
+        "BLOCK-0275",
+        "BLOCK-0276",
+        "BLOCK-0277",
+        "BLOCK-0278",
+        "BLOCK-0279",
+        "BLOCK-0280",
+        "BLOCK-0281",
+        "BLOCK-0282",
+        "BLOCK-0283",
+        "BLOCK-0284",
+        "BLOCK-0285",
+        "BLOCK-0286",
+        "BLOCK-0287",
+        "BLOCK-0288",
+        "BLOCK-0289",
+        "BLOCK-0290",
+        "BLOCK-0291",
+        "BLOCK-0292",
+        "BLOCK-0293",
+        "BLOCK-0294",
+        "BLOCK-0295",
+        "BLOCK-0296",
+        "BLOCK-0297",
+        "BLOCK-0298",
+        "BLOCK-0299",
+        "BLOCK-0300",
+        "BLOCK-0301",
+        "BLOCK-0302",
+        "BLOCK-0303",
+        "BLOCK-0304",
+        "BLOCK-0305",
+        "BLOCK-0306",
+        "BLOCK-0307",
+        "BLOCK-0308",
+        "BLOCK-0309",
+        "BLOCK-0310",
+        "BLOCK-0311",
+        "BLOCK-0312",
+        "BLOCK-0313",
+        "BLOCK-0314",
+        "BLOCK-0315",
+        "BLOCK-0316",
+        "BLOCK-0317",
+        "BLOCK-0318",
+        "BLOCK-0319",
+        "BLOCK-0320",
+        "BLOCK-0321",
+        "BLOCK-0322",
+        "BLOCK-0323",
+        "BLOCK-0324",
+        "BLOCK-0325",
+        "BLOCK-0326",
+        "BLOCK-0327",
+        "BLOCK-0328",
+        "BLOCK-0329",
+        "BLOCK-0330",
+        "BLOCK-0331",
+        "BLOCK-0332",
+        "BLOCK-0333",
+        "BLOCK-0334",
+        "BLOCK-0335",
+        "BLOCK-0336",
+        "BLOCK-0337",
+        "BLOCK-0338",
+        "BLOCK-0339",
+        "BLOCK-0340",
+        "BLOCK-0341",
+        "BLOCK-0342",
+        "BLOCK-0343",
+        "BLOCK-0344",
+        "BLOCK-0345",
+        "BLOCK-0346",
+        "BLOCK-0347",
+        "BLOCK-0348",
+        "BLOCK-0349",
+        "BLOCK-0350",
+        "BLOCK-0351",
+        "BLOCK-0352",
+        "BLOCK-0353",
+        "BLOCK-0354",
+        "BLOCK-0355",
+        "BLOCK-0356",
+        "BLOCK-0357",
+        "BLOCK-0358",
+        "BLOCK-0359",
+        "BLOCK-NEW-0001",
+        "BLOCK-NEW-0002",
+        "BLOCK-NEW-0003"
+      ],
+      "stage_source_sha256": "8e140b74d06f13f401da5ed60d02625a05828ef0a59a00c9bfce6490c42b2897"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1039",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021",
+  "frozen_source_path": "t1/frozen_sources/case-1039.txt",
+  "frozen_source_sha256": "5e100680ba7052120de9ce73462999e9a92e0d957cdc22fd1379150126178f05",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 0,
+      "report_date": "2022-02-21",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "February 21, 2022"
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "As a part of routine sampling, the Michigan Department of Agriculture and Rural Development (MDARD) collected a product sample of Fresh Express Sweet Hearts salad mix with a Use-By-Date of December 8, 2021 for testing. The sample tested positive for Listeria monocytogenes and subsequent whole genome sequencing (WGS) analysis determined that the Listeria monocytogenes present in the samples matches the strain that has caused illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "In response to the sample results and the ongoing outbreak investigation, Fresh Express voluntarily ceased production at the Streamwood, IL, facility and initiated a recall of certain varieties of its branded and private label salad products produced at the company’s Streamwood, Illinois facility. The recall includes all Use-By Dates of fresh salad items with product codes Z324 through Z350. Product codes are located on the front of the packages below the Use-By Date, as shown above. No other Fresh Express products are subject to recall. A full list of recalled products is available on FDA’s website."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "FDA and CDC are currently investigating two separate Listeria outbreaks linked to packaged salad. This outbreak is linked to packaged salads produced by Fresh Express. The other outbreak is linked to packaged salads produced by Dole . These investigations are ongoing, and additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022"
+      ],
+      "stage_source_sha256": "d1c33a8f83114b1a5a954563216e4bccba3612be47962eb3861ef41fe89851ac"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated a multistate outbreak of Listeria monocytogenes infections. According to the CDC, as of March 8, 2022, this outbreak has ended."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "On December 20, 2021, Fresh Express voluntarily recalled certain varieties of its branded and private label salad products produced at the company’s Streamwood, Illinois, facility."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On March 8, 2022, CDC announced this outbreak is over. The product is past expiration and should no longer be available to consumers. Therefore, there are no recommendations for consumers, retailers, or suppliers."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "FDA recommends that anyone who received recalled products use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Packaged Salad"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Case Count"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "People infected with the outbreak strain of Listeria monocytogenes by state of residence, as of March 8, 2022 (n=10)"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Total Illnesses: 10 Hospitalizations: 10 Deaths: 1 Last Illness Onset: October 19, 2021 States with Cases: IL, MA, MI, NJ, NY, OH, PA, VA"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010"
+      ],
+      "stage_source_sha256": "49416322e33a28a5840d085b22ea4526f53f0baaa945990277f38aea4da2e8c0"
+    }
+  ]
+}

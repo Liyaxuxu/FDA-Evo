@@ -1,0 +1,129 @@
+# CASE 1273 reviewed source
+Title: Outbreak Investigation of E. coli O121:H19: Organic Carrots (November 2024) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o121h19-organic-carrots-november-2024
+Source blocks SHA256: 2badae30c2c9842133c97e748afe873cd4508a5a479b8b4a1afb04a012a1963d
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Product Images
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple sizes and brands of bagged organic whole and baby carrots.
+[BLOCK-0003 | role=report_evidence] On November 21, 2024, the recall expanded to include additional bag sizes for organic whole carrots.
+[BLOCK-0004 | role=report_evidence] Additional recalls were conducted by companies that used or repackaged recalled carrots that may have been supplied by Grimmway Farms.
+[BLOCK-0005 | role=report_evidence] A full list of recalled products is below.
+[BLOCK-0006 | role=report_evidence] These products are no longer available for sale in stores.
+[BLOCK-0007 | role=report_evidence] Symptoms of E. coli
+[BLOCK-0008 | role=report_evidence] Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting. Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later.
+[BLOCK-0009 | role=report_evidence] The severity or presence of certain symptoms may depend on the type of pathogenic E. coli that is causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems.
+[BLOCK-0010 | role=report_evidence] Stores Affected
+[BLOCK-0011 | role=report_evidence] These products were sold nationwide and are no longer available for sale in stores.
+[BLOCK-0012 | role=report_evidence] Status
+[BLOCK-0013 | role=report_evidence] Ended
+[BLOCK-0014 | role=report_evidence] Recommendation
+[BLOCK-0015 | role=report_evidence] These products are past shelf life and are no longer available for sale.
+[BLOCK-0016 | role=report_evidence] Consumers, retailers, and distributors should check their refrigerators and freezers and should not use or eat recalled organic whole or baby carrots.
+[BLOCK-0017 | role=report_evidence] Retailers, distributors, and consumers should follow FDA’s safe handling and cleaning and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination.
+[BLOCK-0018 | role=report_evidence] Contact your healthcare provider if you think you may have symptoms of an of an E. coli infection after eating organic carrots.
+[BLOCK-0019 | role=report_evidence] Current Update
+[BLOCK-0020 | role=report_evidence] December 18, 2024
+[BLOCK-0021 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Shiga toxin-producing E. coli O121:H19 infections linked to organic whole and baby carrots supplied by Grimmway Farms of Bakersfield, California. According to CDC, as of December 18, 2024, this outbreak is over. There was a total of 48 illnesses in 19 states and one reported death. Of 47 people with information available, 20 were hospitalized and one developed hemolytic uremic syndrome, a serious condition that can cause kidney failure.
+[BLOCK-0022 | role=report_evidence] FDA conducted inspections at Grimmway Farms and collected environmental samples. Two environmental samples collected outside were positive for Shiga toxin-producing E. coli (STEC). Although both strains of E. coli detected in the samples are capable of causing human illness, neither match the strain of E. coli causing illnesses in this outbreak. The strain of E. coli causing illnesses in this outbreak was not found in environmental samples; however, epidemiologic and traceback evidence shows that recalled carrots were the likely source of illnesses in this outbreak.
+[BLOCK-0023 | role=report_evidence] FDA is working with Grimmway Farms on corrective and preventive actions.
+[BLOCK-0024 | role=report_evidence] FDA’s investigation is complete.
+[BLOCK-0025 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0026 | role=report_evidence] Case Count
+[BLOCK-0027 | role=report_evidence] Total Illnesses: 48
+[BLOCK-0028 | role=report_evidence] Hospitalizations: 20
+[BLOCK-0029 | role=report_evidence] Deaths: 1
+[BLOCK-0030 | role=report_evidence] Last Illness Onset: November 10, 2024
+[BLOCK-0031 | role=report_evidence] States with Cases: AR, CA, CO, MA, MI, MN, MO, NC, NJ, NY, OH, OR, PA, SC, TX, UT, VA, WA, WY
+[BLOCK-0032 | role=report_evidence] Product Distribution: Nationwide
+[BLOCK-0033 | role=report_evidence] International Distribution: Canada, Colombia, Hong Kong, and the United Arab Emirates
+[BLOCK-0045 | role=report_evidence] Recalled Products
+[BLOCK-0046 | role=report_evidence] On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged organic whole and baby carrots and contacted their distributing customers. Recalled products were shipped directly to retail distribution centers nationwide in the United States and Puerto Rico. On November 21, 2024, the recall expanded to include additional bag sizes for organic whole carrots under the following labels:
+[BLOCK-0047 | role=report_evidence] Bunny Luv: 50-lb
+[BLOCK-0048 | role=report_evidence] Cal-Organic: 15-lb and 50-lb
+[BLOCK-0049 | role=report_evidence] Good & Gather:1-lb
+[BLOCK-0050 | role=report_evidence] These products are no longer in grocery stores but may be in consumers' refrigerators or freezers.
+[BLOCK-0051 | role=report_evidence] Organic whole carrots , which do not have a best-if-used-by date printed on the bag, but were available for purchase at retail stores from August 14 through October 23, 2024:
+[BLOCK-0052 | role=report_evidence] The bolded bag sizes below reflect additions to the existing November 16, 2024, voluntary recall.
+[BLOCK-ADD-1786031655582-1 | role=report_evidence] [TABLE BLOCK-ADD-TABLE-1273-01]
+Section: Recalled Products
+Rows and columns reconstructed from the original HTML table:
+
+| Label | Bag Sizes | Sample Product Image |
+| --- | --- | --- |
+| 365 | 1lb, 2lb, 5lb | [IMAGE: 365 Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/365-1lb-Org-Cello-555x279.jpg?itok=xX8cnap3] |
+| Bunny Luv | 1lb, 2lb, 5lb, 10lb, 25lb, 50lb | [IMAGE: Bunny Luv Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Bunny-Luv-Organic-Cello-2lb-e1731795864405-555x244.jpg?itok=4IJqsflz] |
+| Cal-Organic | 1lb, 2lb, 5lb, 6lb, 10lb, 15lb , 25lb, 50lb | [IMAGE: Cal-Organic Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Cal-Organic-Cello-1lb-Front-e1731796248308-555x221.jpg?itok=-S78nr1L] |
+| Compliments | 2lb | [IMAGE: Compliments Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Compliments-2lb-Org-Cello-e1731796733217.jpg?itok=9lsX03q1] |
+| Full Circle | 1lb, 2lb, 5lb | [IMAGE: Full Circle Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Full-Circle-1lb-Org-Cello-e1731796896823.jpeg?itok=g1VJrHbV] |
+| Good & Gather | 1lb , 2lb | [IMAGE: Good & Gather Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Good-Gather-1lb-Org-Cello-e1731797130538.jpg?itok=vHu--NuE] |
+| GreenWise | 1lb, 25lbs | [IMAGE: GreenWise Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/GreenWise-1-lb-Cello-Organic-e1731797335134.jpg?itok=FhYy_HGW] |
+| Marketside | 2lb | [IMAGE: Marketside Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Marketside-2lb-Org-Cello.jpg-e1731797527253-555x225.png?itok=q9e5E4h5] |
+| Nature's Promise | 1lb, 5lb | [IMAGE: Nature's Promise Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/natures-promise-organic-carrots-1-lb-cello-e1731797744165-555x203.jpg?itok=lK6yym_s] |
+| O Organics | 1lb, 2lb, 5lb, 10lb | [IMAGE: O-Organic Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/O-Organic-Cello5lb-555x415.jpg?itok=CZVDTn55] |
+| President's Choice | 2lb | [IMAGE: President's Choice Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Presidents-Choice-2lb-org-Cello-e1731798076601-555x235.png?itok=HXcd8U4A] |
+| Simple Truth | 1lb, 2lb, 5lb | [IMAGE: Simple Truth Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/STO-Org-Cello-2lb.jpg?itok=Uo6jrEI-] |
+| Trader Joe's | 1lb | [IMAGE: Trader Joe's Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/TJ-1lb-Cello-Baby-Design-555x274.jpg?itok=EiHVd-O8] |
+| Wegmans | 1lb, 2lb, 5lb | [IMAGE: Wegmans Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/wegmans-Org-Cello-1lb.jpg?itok=4ibgDp13] |
+| Wholesome Pantry | 1lb, 2lb, 5lb | [IMAGE: Wholesome Pantry Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Wholesome-Pantry-1lb-Cello-e1731799130991.jpg?itok=bm_v132D] |
+[BLOCK-ADD-1786031989853-3 | role=report_evidence] Organic baby carrots with best-if-used-by-dates ranging from September 11 through November 12, 2024:
+[BLOCK-ADD-1786032017451-4 | role=report_evidence] [TABLE BLOCK-ADD-TABLE-1273-02]
+Section: Recalled Products
+Rows and columns reconstructed from the original HTML table:
+
+| Label | Bag Sizes | Best if used by: From | Best if used by: Through | Sample Product Image |
+| --- | --- | --- | --- | --- |
+| 365 | 12oz, 1lb, 2lb | 9/11/24 | 11/02/24 | [IMAGE: 365 Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/365-1lb-Org-Baby-555x431.jpg?itok=QPNj1UHW] |
+| Bunny Luv | 1lb, 2lb, 3lb, 5lb | 9/11/24 | 11/12/24 | [IMAGE: Bunny Luv Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Bunny-Luv-Organic-Baby-1lb-Front-e1731795924269-555x442.jpg?itok=fYCfn_f2] |
+| Cal-Organic | 12oz, 1lb, 2lb, 2pk/2lbs | 9/11/24 | 11/02/24 | [IMAGE: Cal-Organic Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Cal-Organic-Baby-2lb-Front-e1731796290388-555x374.jpg?itok=4JpZpJMo] |
+| Compliments | 1lb | 9/14/24 | 10/24/24 | [IMAGE: Compliments Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Compliments-1lb-Org-Baby-e1731796769633.jpg?itok=EqkuLlLf] |
+| Full Circle | 1lb | 9/14/24 | 10/24/24 | [IMAGE: Full Circle Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Full-Circle-1lb-Org-Baby.jpeg?itok=ysg7oHFP] |
+| Good & Gather | 12oz, 1lb | 9/14/24 | 11/02/24 | [IMAGE: Good & Gather Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Good-Gather-1-lb-Org-Baby.jpg?itok=nPanKi5u] |
+| GreenWise | 1lb | 9/11/24 | 10/26/24 | [IMAGE: GreenWise Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/GreenWise-1-lb-Baby-Organic-e1731797302469-555x429.jpg?itok=ZnSvkXnY] |
+| Grimmway Farms | 25 lb bag | 9/11/24 | 10/03/24 |  |
+| Kroger | 2lb | 9/14/24 | 11/02/24 |  |
+| LIDL | 1lb | 9/16/24 | 11/07/24 |  |
+| Marketside | 12oz, 1lb, 2lb | 9/11/24 | 11/02/24 | [IMAGE: Marketside Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Marketside-2lb-Org-Baby.jpg?itok=G3z6hoq1] |
+| Nature's Promise | 1lb | 9/13/24 | 10/25/24 | [IMAGE: Nature's Promise Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/natures-promise-organic-carrots-1-lb-baby-e1731797712488-555x438%20%281%29.jpg?itok=bfhDKdlO] |
+| O Organics | 12oz, 1lb, 2lb | 9/11/24 | 11/02/24 | [IMAGE: O-Organic Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/O-Organic-Baby-1lb.jpg?itok=GARLjMWO] |
+| President's Choice | 1lb, 2lb | 9/11/24 | 11/02/24 | [IMAGE: President's Choice Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Presidents-Choice-1lb-org-Baby-e1731798022906-458x555.png?itok=yKTEJojS] |
+| Raley’s | 1lb | 9/14/24 | 10/23/24 | [IMAGE: Raley’s Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Raleys-1lb-Org-Baby-e1731798227941-555x445.jpg?itok=fARFqUaM] |
+| Simple Truth | 1lb | 9/14/24 | 10/20/24 | [IMAGE: Simple Truth Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/STO-Org-Baby-1lb_0.png?itok=mL6wUdob] |
+| Sprouts | 1lb, 2lb | 9/13/24 | 11/04/24 | [IMAGE: Sprouts Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Sprouts-1lb-Baby-Organic.jpg?itok=wBiIwiSC] |
+| Trader Joe's | 1lb | 9/13/24 | 11/04/24 | [IMAGE: Trader Joe's Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/TJ-1lb-Org-Baby-Design-e1731798921635-555x434.jpg?itok=rHGt54jI] |
+| Wegmans | 12oz, 1lb, 2lb | 9/14/24 | 11/02/24 | [IMAGE: Wegmans Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Wegmans-Org-Baby-1lb.jpg?itok=oI3MsJs7] |
+| Wholesome Pantry | 1lb, 2lb | 9/16/24 | 11/07/24 | [IMAGE: Wholesome Pantry Baby Carrots \| https://www.fda.gov/files/styles/square_1_1_225_x_225/public/Wholesome-Pantry-1lb-Org-e1731799171398.jpg?itok=encML3kY] |
+[BLOCK-0174 | role=report_evidence] Additional recalls are being conducted by companies that used or repackaged recalled carrots supplied by Grimmway Farms:
+[BLOCK-0175 | role=report_evidence] 4Earth Farms – multiple brands (added 11/29/2024)
+[BLOCK-0176 | role=report_evidence] Fabalish Inc. Kickin’ Carrot Falafel Bites (added 11/21/2024)
+[BLOCK-0177 | role=report_evidence] Whole Foods Market Organic Carrot Sticks and Organic Carrots & Celery Sticks (added 11/21/2024)
+[BLOCK-0178 | role=report_evidence] International Distribution
+[BLOCK-0179 | role=report_evidence] The Grimmway Farms recall impacts markets outside of the United States. Customer information provided by Grimmway Farms shows that the recalled products were also distributed to customers in Canada, Colombia, Hong Kong, and the United Arab Emirates. Grimmway Farms has directly notified international customers who received recalled products. For additional information, international officials and customers can visit the company’s recall announcement .
+[BLOCK-0180 | role=report_evidence] Previous Updates
+[BLOCK-0181 | role=report_evidence] November 29, 2024
+[BLOCK-0182 | role=report_evidence] On November 26, 2024, 4Earth Farms of Commerce, California, recalled multiple brands of Organic Vegetable Medley, Conventional Vegetable Medley, and Organic Whole Carrots. The recall was initiated after 4Earth Farms was notified by Grimmway Farms, Inc. that carrots used in the Vegetable Medleys and Whole Organic Carrots may have been contaminated with E. coli O121:H19.
+[BLOCK-0183 | role=report_evidence] These products are likely no longer available for sale in stores but could be in people’s homes.
+[BLOCK-0184 | role=report_evidence] November 22, 2024
+[BLOCK-0185 | role=report_evidence] On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged, organic whole and baby carrots and contacted their distributing customers. Recalled products were shipped directly to retail distribution centers nationwide in the United States and Puerto Rico. These products should no longer be in grocery stores but may be in consumers' refrigerators or freezers.
+[BLOCK-0186 | role=report_evidence] On November 21, 2024, the recall expanded to include additional bag sizes for organic whole carrots under the following labels:
+[BLOCK-0187 | role=report_evidence] Bunny Luv: 50-lb
+[BLOCK-0188 | role=report_evidence] Cal-Organic: 15-lb and 50-lb
+[BLOCK-0189 | role=report_evidence] Good & Gather: 1-lb
+[BLOCK-0190 | role=report_evidence] A full list of recalled products is below. These products are likely no longer available for sale in stores but could be in people’s homes.
+[BLOCK-0191 | role=report_evidence] FDA’s investigation is ongoing and more information will be provided as it becomes available.
+[BLOCK-0192 | role=report_evidence] November 21, 2024
+[BLOCK-0193 | role=report_evidence] On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged, organic whole and baby carrots and contacted their distributing customers. Recalled products were shipped directly to retail distribution centers nationwide in the United States and Puerto Rico. These products should no longer be in grocery stores but may be in consumers' refrigerators or freezers.
+[BLOCK-0194 | role=report_evidence] The Grimmway Farms recall also impacts markets outside of the United States. Customer information provided by Grimmway Farms shows that the recalled products were also distributed to customers in Canada, Colombia, Hong Kong, and the United Arab Emirates. Grimmway Farms has directly notified international customers who received recalled products. For additional information, international officials and customers can visit the company’s recall announcement .
+[BLOCK-0195 | role=report_evidence] Additional recalls are being conducted by companies that used or repackaged recalled carrots that may have been supplied by Grimmway Farms:
+[BLOCK-0196 | role=report_evidence] Fabalish Inc. Kickin’ Carrot Falafel Bites
+[BLOCK-0197 | role=report_evidence] Whole Foods Market Organic Carrot Sticks and Organic Carrots & Celery Sticks
+[BLOCK-0198 | role=report_evidence] FDA’s investigation is ongoing and more information will be provided as it becomes available.
+[BLOCK-0199 | role=report_evidence] November 17, 2024
+[BLOCK-0200 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Shiga toxin-producing E. coli O121:H19 infections linked to organic whole and baby carrots supplied by Grimmway Farms of Bakersfield, California.
+[BLOCK-0201 | role=report_evidence] State and local public health officials are interviewing people about the foods they ate in the week before they got sick. Of the 27 people interviewed, 26 (96%) reported eating carrots.
+[BLOCK-0202 | role=report_evidence] FDA’s traceback investigation identified Grimmway Farms as the common supplier of organic whole and baby carrots in this outbreak. On November 16, 2024, Grimmway Farms initiated a voluntary recall of multiple quantities and brands of bagged organic whole and baby carrots and contacted their distributing customers. The retail-packaged organic whole carrots were in stores for purchase from August 14 through October 23, 2024. The organic baby carrots have different best-if-used-by-dates ranging from September 11 through November 12, 2024. A full list of recalled products is below.
+[BLOCK-0203 | role=report_evidence] Although product is likely no longer on the market, carrots can last a long time when refrigerated or frozen. Consumers should check their refrigerators and freezers and discard these recalled products. Distributors and retailers that may have received recalled bagged organic whole and baby carrots should follow the recommendations above and contact their customers.
+[BLOCK-0204 | role=report_evidence] FDA is working with the firm to determine the source of contamination and whether additional products are affected. This advisory will be updated as information becomes available.

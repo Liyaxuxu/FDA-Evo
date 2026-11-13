@@ -1,0 +1,1790 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1233",
+  "title": "Investigation of Illnesses: Diamond Shruumz-Brand Chocolate Bars, Cones, & Gummies (June 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 8,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0436"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0436"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0436"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No formal recall is established by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0435"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0433"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 10,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0433"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0433"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No formal recall is established by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0432"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0429"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 16,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0429"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0429"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No formal recall is established by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0427"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 16,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0415"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0414"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 16,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "carried_forward",
+          "source_stage_id": "R3",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0402"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0401"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0402"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 48,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0398"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 27,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0398"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0398"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Cumulative implicated product carried forward; recall-only products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 58,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0395"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 30,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0395"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Cumulative implicated product carried forward; recall-only products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 69,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0390"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 36,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0390"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0390"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0392"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0392"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0391",
+            "BLOCK-0392"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 74,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0388"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 38,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0388"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0388"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Cumulative implicated product carried forward; recall-only products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R10": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 78,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0386"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 40,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0386"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "carried_forward",
+          "source_stage_id": "R9",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0384"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0384"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0383",
+            "BLOCK-0384"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R11": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 113,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0381"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 42,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0381"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0381"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0380"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0380"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0380"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R12": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 113,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R12",
+          "evidence_ids": [
+            "BLOCK-0378"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 42,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R12",
+          "evidence_ids": [
+            "BLOCK-0378"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R12",
+          "evidence_ids": [
+            "BLOCK-0378"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R12",
+          "evidence_ids": [
+            "BLOCK-0377"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R12",
+          "evidence_ids": [
+            "BLOCK-0377"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R12",
+          "evidence_ids": [
+            "BLOCK-0377"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R13": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 130,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0374"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 53,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0374"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0374"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R12",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0373"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R12",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R14": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 145,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0371"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 59,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0371"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0371"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0370"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0369",
+            "BLOCK-0370"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0370"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R15": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 158,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0367"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 63,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0367"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0367"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R14",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0366"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R14",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R16": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 169,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R16",
+          "evidence_ids": [
+            "BLOCK-0364"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 66,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R16",
+          "evidence_ids": [
+            "BLOCK-0364"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R16",
+          "evidence_ids": [
+            "BLOCK-0364"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R14",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R15",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Cumulative implicated product carried forward; recall-only products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R14",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R17": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 175,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R17",
+          "evidence_ids": [
+            "BLOCK-0362"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 70,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R17",
+          "evidence_ids": [
+            "BLOCK-0362"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R17",
+          "evidence_ids": [
+            "BLOCK-0362"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R14",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R15",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "Cumulative implicated product carried forward; recall-only products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R14",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R18": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 180,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R18",
+          "evidence_ids": [
+            "BLOCK-0026",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 73,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R18",
+          "evidence_ids": [
+            "BLOCK-0026",
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R18",
+          "evidence_ids": [
+            "BLOCK-0026",
+            "BLOCK-0033"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R18",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0025"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Diamond Shruumz chocolate bars",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz cones",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Diamond Shruumz gummies",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R18",
+          "evidence_ids": [
+            "BLOCK-0016",
+            "BLOCK-0026"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Chocolate Bars",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Cones",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Gummies",
+              "recalling_company": "Prophet Premium Blends, LLC",
+              "brands": [
+                "Diamond Shruumz"
+              ],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R18",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0006",
+            "BLOCK-0010",
+            "BLOCK-0011",
+            "BLOCK-0012",
+            "BLOCK-0019",
+            "BLOCK-0025",
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    }
+  }
+}

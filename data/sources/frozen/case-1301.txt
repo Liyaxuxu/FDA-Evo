@@ -1,0 +1,44 @@
+# CASE 1301 reviewed source
+Title: Outbreak Investigation of Salmonella: Eggs (August 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-august-2025
+Source blocks SHA256: 1b12bac57fe68ad28d3bebb46ceeb19303a292062c0de9f15d19d66665bb95f3
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Product Images
+[BLOCK-0001 | role=report_evidence] Product:
+[BLOCK-0002 | role=report_evidence] On August 27, 2025, Country Eggs, LLC recalled large, brown, cage-free "sunshine/omega-3 golden” yolk eggs under the brand names Nagatoshi Produce, Misuho, Nijiya Markets, and Country Eggs.
+[BLOCK-0003 | role=report_evidence] This outbreak appears to be over. Product causing illness is no longer on the market.
+[BLOCK-0004 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0005 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0006 | role=report_evidence] Stores affected
+[BLOCK-0007 | role=report_evidence] Large brown cage free "sunshine/omega-3 golden” yolk eggs sourced from Country Eggs, LLC, were delivered to grocery stores and food service distributors in California and Nevada between June 16 and July 9 and should no longer be on the market.
+[BLOCK-0008 | role=report_evidence] Status
+[BLOCK-0009 | role=report_evidence] Ended
+[BLOCK-0010 | role=report_evidence] Recommendation
+[BLOCK-0011 | role=report_evidence] Product linked to illness should no longer be on the market.
+[BLOCK-0012 | role=report_evidence] Consumers, restaurants, and retailers who purchased or received the recalled eggs , including wholesale eggs, should carefully clean and sanitize any surfaces or containers that the recalled eggs touched.
+[BLOCK-0013 | role=report_evidence] Wash hands, utensils, and surfaces with hot, soapy water before and after handling raw eggs and raw egg-containing foods.
+[BLOCK-0014 | role=report_evidence] Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with this product to reduce the risk of cross-contamination.
+[BLOCK-0015 | role=report_evidence] Read through FDA’s egg safety information for additional advice on how to buy, store, and serve eggs.
+[BLOCK-0016 | role=report_evidence] Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection, after eating eggs.
+[BLOCK-0017 | role=report_evidence] Current Update
+[BLOCK-0018 | role=report_evidence] November 20, 2025
+[BLOCK-0019 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Enteritidis infections linked to large, brown, cage-free "sunshine/omega-3 golden” yolk eggs sourced from Country Eggs, LLC, of Lucerne Valley, CA. On November 20, CDC reported that this outbreak appears to be over.
+[BLOCK-0020 | role=report_evidence] Based on epidemiological information collected by CDC, a total of 105 people infected with the outbreak strain of Salmonella have been reported from 14 states. Illnesses started on dates ranging from January 7, 2025, to August 14, 2025. 38 of 42 ill persons with information available reported exposure to eggs or an egg-containing dish before becoming ill. There have been 19 hospitalizations, and no deaths have been reported.
+[BLOCK-0021 | role=report_evidence] After reviewing epidemiological and traceback information, FDA initiated an inspection at Country Eggs, LLC, that included environmental sample collection. Of the samples collected, three of the environmental samples tested positive for Salmonella that matched the strain causing illnesses in this outbreak by whole genome sequencing (WGS) analysis.
+[BLOCK-0022 | role=report_evidence] FDA is working with the firm on corrective actions. FDA’s outbreak investigation is complete.
+[BLOCK-0023 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0024 | role=report_evidence] Case Counts
+[BLOCK-0025 | role=report_evidence] Total Illnesses: 105 Hospitalizations: 19 Deaths: 0 Last Illness Onset: August 14, 2025 States with Cases: AZ, CA, FL, GA, HI, IA, MN, NC, NE, NM, NV, NY, PA, WA Product Distribution: CA, NV *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states
+[BLOCK-0034 | role=report_evidence] Product Images
+[BLOCK-0035 | role=report_evidence] Product Details
+[BLOCK-0036 | role=report_evidence] Large brown cage free "sunshine/omega-3 golden” yolk eggs sourced from Country Eggs, LLC, between June 16, 2025, and July 9, 2025, with a code on the carton of No. CA-7695 and sell by dates ranging from 7/1/25 - 9/18/25 printed on the packaging. The recalled eggs were sold at retail stores under the brands Nagatoshi Produce, Misuho, Nijiya Markets, and Country Eggs in California and Nevada. The eggs are packed in fiber or plastic cartons, with the above codes printed on one side of the carton.
+[BLOCK-0037 | role=report_evidence] These eggs were also packed as large brown “sunshine/omega-3 golden” yolk (1/15 Dozen fresh eggs bulk) for foodservice with the same carton code and sell by dates.
+[BLOCK-0038 | role=report_evidence] Previous Updates
+[BLOCK-0039 | role=report_evidence] August 28, 2025
+[BLOCK-0040 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Enteritidis infections linked to large brown cage free "sunshine/omega-3 golden” yolk eggs sourced from Country Eggs, LLC, of Lucerne Valley, CA.
+[BLOCK-0041 | role=report_evidence] Based on epidemiological information collected by CDC, a total of 95 people infected with the outbreak strain of Salmonella have been reported from 14 states. Illnesses started on dates ranging from January 7, 2025, to July 26, 2025. 33 of 36 ill persons with information available reported exposure to eggs or an egg-containing dish before becoming ill. There have been 18 hospitalizations, and no deaths have been reported.
+[BLOCK-0042 | role=report_evidence] As part of this investigation, FDA conducted traceback based on where ill people reported shopping or eating eggs/egg-containing dishes during the timeframe of interest, and Country Eggs, LLC, was identified as a common supplier.
+[BLOCK-0043 | role=report_evidence] Additionally, in response to this investigation, Country Eggs, LLC agreed to recall large brown cage free "sunshine/omega-3 golden” yolk eggs under the brand names Nagatoshi Produce, Misuho, Nijiya Markets, and Country Eggs, that could potentially be in peoples' homes. Consumers should check their refrigerators for the recalled eggs and refer to the Country Eggs, LLC, recall announcement for more information.

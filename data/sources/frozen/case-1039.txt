@@ -1,0 +1,24 @@
+# CASE 1039 reviewed source
+Title: Outbreak Investigation of Listeria monocytogenes: Fresh Express Packaged Salad (December 2021) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021
+Source blocks SHA256: 6571982f900822addc64a7435eb34735d1baa42dbd9911508b41274d8c922d95
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated a multistate outbreak of Listeria monocytogenes infections. According to the CDC, as of March 8, 2022, this outbreak has ended.
+[BLOCK-0001 | role=report_evidence] On December 20, 2021, Fresh Express voluntarily recalled certain varieties of its branded and private label salad products produced at the company’s Streamwood, Illinois, facility.
+[BLOCK-0002 | role=report_evidence] Recommendation
+[BLOCK-0003 | role=report_evidence] On March 8, 2022, CDC announced this outbreak is over. The product is past expiration and should no longer be available to consumers. Therefore, there are no recommendations for consumers, retailers, or suppliers.
+[BLOCK-0004 | role=report_evidence] FDA recommends that anyone who received recalled products use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces.
+[BLOCK-0005 | role=report_evidence] Product Images
+[BLOCK-0006 | role=report_evidence] Map of U.S. Distribution of Recalled Packaged Salad
+[BLOCK-0007 | role=report_evidence] Case Count
+[BLOCK-0008 | role=report_evidence] People infected with the outbreak strain of Listeria monocytogenes by state of residence, as of March 8, 2022 (n=10)
+[BLOCK-0009 | role=report_evidence] Case Counts
+[BLOCK-0010 | role=report_evidence] Total Illnesses: 10 Hospitalizations: 10 Deaths: 1 Last Illness Onset: October 19, 2021 States with Cases: IL, MA, MI, NJ, NY, OH, PA, VA
+[BLOCK-0018 | role=report_evidence] Previous Updates
+[BLOCK-0019 | role=report_evidence] February 21, 2022
+[BLOCK-0020 | role=report_evidence] As a part of routine sampling, the Michigan Department of Agriculture and Rural Development (MDARD) collected a product sample of Fresh Express Sweet Hearts salad mix with a Use-By-Date of December 8, 2021 for testing. The sample tested positive for Listeria monocytogenes and subsequent whole genome sequencing (WGS) analysis determined that the Listeria monocytogenes present in the samples matches the strain that has caused illnesses in this outbreak.
+[BLOCK-0021 | role=report_evidence] In response to the sample results and the ongoing outbreak investigation, Fresh Express voluntarily ceased production at the Streamwood, IL, facility and initiated a recall of certain varieties of its branded and private label salad products produced at the company’s Streamwood, Illinois facility. The recall includes all Use-By Dates of fresh salad items with product codes Z324 through Z350. Product codes are located on the front of the packages below the Use-By Date, as shown above. No other Fresh Express products are subject to recall. A full list of recalled products is available on FDA’s website.
+[BLOCK-0022 | role=report_evidence] FDA and CDC are currently investigating two separate Listeria outbreaks linked to packaged salad. This outbreak is linked to packaged salads produced by Fresh Express. The other outbreak is linked to packaged salads produced by Dole . These investigations are ongoing, and additional information will be provided as it becomes available.

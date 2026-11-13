@@ -1,0 +1,258 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1031",
+  "title": "Outbreak Investigation of Salmonella Oranienburg: Whole, Fresh Onions (October 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-oranienburg-whole-fresh-onions-october-2021",
+  "frozen_source_path": "t1/frozen_sources/case-1031.txt",
+  "frozen_source_sha256": "d11d8dcd6c3dab9fc4b8120d26ec66afc973d93fab43b9b793ac369fcb8629ab",
+  "stage_count": 7,
+  "stages": [
+    {
+      "source_order": 5,
+      "report_date": "2021-10-20",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "October 20, 2021"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Oranienburg infections linked to whole, fresh onions. FDA’s traceback investigation is ongoing but has identified ProSource Inc. (also known as ProSource Produce, LLC) of Hailey, Idaho as a source of potentially contaminated whole, fresh onions imported from the State of Chihuahua, Mexico. ProSource Inc. has agreed to voluntarily recall red, yellow, and white onions imported from the State of Chihuahua, Mexico, with import dates from July 1, 2021 through August 27, 2021."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Epidemiological data collected by investigators from the CDC and state and local partners identified 20 illness clusters at restaurants where onions were served. Information from these clusters shows that many ill people ate raw onions. Investigators worked to identify a common food item eaten by all of the sick people in an effort to identify the source of the outbreak."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "State officials collected food items from some of the restaurants where sick people ate. The outbreak strain of Salmonella Oranienburg was found in a sample taken from a takeout condiment cup containing cilantro and lime. The sick person reported that the condiment container also contained onions, but none were left in the cup when it was tested. Because multiple food items were present in the container and in the sample that was tested, it is not possible to know which food item was contaminated."
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation identified ProSource Inc. as a common supplier for many of the restaurants that sick people reported eating at, including the restaurant where the sample from the condiment cup containing cilantro, lime, and previously onions, was collected."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036"
+      ],
+      "stage_source_sha256": "b6318a9d8ee3d01cebc57c84f59ff6138b3809dda2b29a358fb9b113d5e8284b"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2021-10-21",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "October 21, 2021"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation identified Keeler Family Farms as an additional common supplier of onions from the State of Chihuahua, Mexico for many of the restaurants where sick people reported eating. When FDA met with the firm, the firm agreed to voluntarily recall all red, yellow, and white onions imported from the State of Chihuahua, Mexico, from July 1, 2021, through August 31, 2021. More information regarding their recall will be provided once it is available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0030",
+        "BLOCK-0031"
+      ],
+      "stage_source_sha256": "352e6d7145d7cff4cc9890d52e8abe9e88b2d79b35ab6adb5550a5eb72566022"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2021-10-27",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "October 27, 2021"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "On October 22, 2021, Keeler Family Farms issued a voluntary recall of red, yellow, and white whole, fresh onions imported from the State of Chihuahua, Mexico, from July 1, 2021, through August 25, 2021, when the last shipment of onions from the State of Chihuahua, Mexico was received by the firm. These onions contain a label that is marked as “MVP (product of MX)”. Additional details regarding the recalled product are available on the Keeler Family Farms’ recall announcement."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "On October 20, 2021, ProSource Produce LLC issued a voluntary recall of red, yellow, and white whole, fresh onions imported from the State of Chihuahua, Mexico, with import dates from July 1, 2021, through August 31, 2021. A full list of recalled product information is available in ProSource Produce LLC’s recall announcement."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029"
+      ],
+      "stage_source_sha256": "06a7267229457c55365f05cfa817ce2c1d0c740686d036b0078fd0ad9f0c4b01"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2021-10-29",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "October 29, 2021"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "FDA has posted a list of additional recalls being conducted by retailers that may have received recall onions from ProSource Produce LLC and Keeler Family Farms. This list includes recalls conducted by companies that further processed the onions by using them as ingredients in new products or by repackaging them."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "As of October 29, the CDC is reporting that there are 808 illnesses across 37 states and Puerto Rico. The Canadian Food Inspection Agency has issued an advisory for recalled onions that were imported to Canada . To date, there are no illnesses in Canada linked to this outbreak."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026"
+      ],
+      "stage_source_sha256": "be1c1cb9039c41841e9754a466c86d75720706cb1cfdbf096677cf2dc309190a"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2021-11-02",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "November 2, 2021"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "On November 2, 2021 FDA published a list of retail establishments that received product recalled by Keeler Family Farms and on October 29, 2021 FDA published a list of retail establishments that received product recalled by ProSource Produce LL C. These lists represent the best information currently available to the FDA; however, they may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product. It is important that you use the product-specific information, available on the Keeler Family Farms recall announcement and the ProSource Produce LLC recall announcement , in addition to these lists of retail stores, when you check the food you have to see if it has been recalled."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0022",
+        "BLOCK-0023"
+      ],
+      "stage_source_sha256": "eb00b4ab7291f8afbae78125af42e6f95f6b31ac7440a84203cb20206b6288d9"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2021-11-12",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "November 12, 2021"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "As of November 12, 2021, CDC reports that there are 892 illnesses in 38 states and Puerto Rico."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0020",
+        "BLOCK-0021"
+      ],
+      "stage_source_sha256": "bfda05f7210d43614254c7940df52127604104a1e12261ba522741c977909932"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, and state and local partners, investigated a multistate outbreak of Salmonella Oranienburg infections linked to whole, fresh onions imported from the State of Chihuahua, Mexico, in cooperation with the Mexican competent authorities. As of February 2, 2022, CDC has declared this outbreak over. CDC reports that there were 1040 illnesses in 39 states, Washington, D.C., and Puerto Rico."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "In September 2021, as part of the ongoing investigation to determine the product causing illnesses, the FDA import operations implemented enhanced screening for Salmonella for onions imported into the United States, but no samples were collected because the growing season had ended and onions were no longer being imported from the State of Chihuahua, Mexico."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "As a result of this outbreak, the FDA initiated onsite domestic investigations as well as Foreign Supplier Verification Program (FSVP) inspections of domestic firms who imported onions from the State of Chihuahua, Mexico. By inspecting these U.S. importers, FDA can determine if they are in compliance with applicable FSVP requirements, including performing certain risk-based activities to verify that imported foods meet U.S. safety standards."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "While the outbreak has ended, FDA continues to work closely with Mexican competent authorities through the established Food Safety Partnership to investigate potential source(s) of contamination within the implicated region and to proactively implement prevention strategies ahead of the next growing season. FDA also intends to consider using additional tools, such as import screening and sampling, for onions grown and harvested in the State of Chihuahua, Mexico during the next growing season."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "CDC has announced the outbreak is over. There are no recommendations for consumers, retailers, or suppliers."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Total Illnesses: 1,040 Hospitalizations: 260 Deaths: 0 Last illness onset: January 1, 2022 States with Cases: AL, AR, CA, CO, CT, DC, FL, GA, HI, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, ND, NE, NJ, NM, NY, OH, OK, OR, PA, PR, SC, SD, TN, TX, UT, VA, WA, WI, WV Product Distribution: Nationwide"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008"
+      ],
+      "stage_source_sha256": "9cb0e42167b8a0fc1a2910e8bdb624b32c4c63476c9dfb17d34f2502a19ea71c"
+    }
+  ]
+}

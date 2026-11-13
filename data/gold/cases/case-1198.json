@@ -1,0 +1,2624 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1198",
+  "title": "Investigation of Elevated Lead & Chromium Levels: Cinnamon Applesauce Pouches (November 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0206"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "The firm agreed to recall, but formal recall initiation is not yet reported. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "WanaBana apple cinnamon fruit puree pouches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0206"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches regardless of expiration"
+            }
+          ],
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0201"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0202",
+            "BLOCK-0203"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "WanaBana apple cinnamon fruit puree pouches",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Schnucks cinnamon-flavored applesauce pouches and variety pack",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Weis cinnamon applesauce pouches",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0201",
+            "BLOCK-0202"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0202",
+            "BLOCK-0203"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 22,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0195"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "WanaBana apple cinnamon fruit puree pouches",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "Schnucks cinnamon-flavored applesauce pouches and variety pack",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "Weis cinnamon applesauce pouches",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0194",
+            "BLOCK-0195"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 34,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0184"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cinnamon used in the recalled pouches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0183",
+            "BLOCK-0185",
+            "BLOCK-0187"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 52,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0177"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cinnamon used in the recalled pouches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 57,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0171"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cinnamon used in the recalled pouches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 64,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0161"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cinnamon used in the recalled pouches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R8": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 65,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R8",
+          "evidence_ids": [
+            "BLOCK-0154"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "cinnamon used in the recalled pouches",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R4",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R9": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 65,
+          "value_source": "carried_forward",
+          "source_stage_id": "R8",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0143",
+            "BLOCK-0144",
+            "BLOCK-0147"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R10": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 69,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R10",
+          "evidence_ids": [
+            "BLOCK-0139"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R11": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 82,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R11",
+          "evidence_ids": [
+            "BLOCK-0135"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R12": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 82,
+          "value_source": "carried_forward",
+          "source_stage_id": "R11",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R9",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R13": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 82,
+          "value_source": "carried_forward",
+          "source_stage_id": "R11",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0117",
+            "BLOCK-0120",
+            "BLOCK-0121",
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R14": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 87,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R14",
+          "evidence_ids": [
+            "BLOCK-0113"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R15": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 89,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R15",
+          "evidence_ids": [
+            "BLOCK-0109"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R16": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R16",
+          "evidence_ids": [
+            "BLOCK-0105"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R17": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "carried_forward",
+          "source_stage_id": "R16",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R18": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "carried_forward",
+          "source_stage_id": "R16",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R19": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "carried_forward",
+          "source_stage_id": "R16",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R20": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "carried_forward",
+          "source_stage_id": "R16",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R21": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "carried_forward",
+          "source_stage_id": "R16",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R22": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R22",
+          "evidence_ids": [
+            "BLOCK-0073"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R23": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R23",
+          "evidence_ids": [
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R24": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R24",
+          "evidence_ids": [
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R25": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "carried_forward",
+          "source_stage_id": "R24",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "No new FDA complaint/adverse-event total is stated; the most recent FDA total is carried forward."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R26": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 90,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R26",
+          "evidence_ids": [
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": "FDA complaint/adverse-event reporting series; CDC uses a separate, non-additive reporting system."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree pouches manufactured in Ecuador and sold under WanaBana, Weis, and Schnucks brands",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "ground cinnamon supplied by Negasmart to Austrofoods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "WanaBana Smoothie Mango Passionfruit Banana puree",
+              "association_status": "UNDER_INVESTIGATION"
+            },
+            {
+              "product_name": "WanaBana Organic Mango Puree",
+              "association_status": "UNDER_INVESTIGATION"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R13",
+          "evidence_ids": [
+            "BLOCK-0144"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/. | GC-009 (2026-10-18): products tested as possible sources stay implicated despite negative results unless explicitly ruled out (rules 5-7)."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Apple Cinnamon Fruit Puree Pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "WanaBana"
+              ],
+              "recall_scope": "all pouches, including three-packs; regardless of expiration date and lot code"
+            },
+            {
+              "product_name": "cinnamon-flavored applesauce pouches and variety pack",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Schnucks"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            },
+            {
+              "product_name": "cinnamon applesauce pouches",
+              "recalling_company": "WanaBana LLC",
+              "brands": [
+                "Weis"
+              ],
+              "recall_scope": "certain products identified in the firm recall"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    }
+  }
+}

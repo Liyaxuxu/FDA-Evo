@@ -1,0 +1,320 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1305",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Ready-to-Eat Foods (May 2025) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-ready-eat-foods-may-2025",
+  "frozen_source_path": "t1/frozen_sources/case-1305.txt",
+  "frozen_source_sha256": "4ba2a445cc71fa6ad6219187e830e4572af949a137a7eb6862cea8c84bb1b3ed",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2025-05-10",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0480",
+          "source_page": "Main",
+          "text": "May 10, 2025"
+        },
+        {
+          "block_id": "BLOCK-0481",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Listeria monocytogenes infections linked to Ready-to-Eat (RTE) foods, or products that do not need additional cooking, produced by Fresh & Ready Foods LLC of San Fernando, CA."
+        },
+        {
+          "block_id": "BLOCK-0482",
+          "source_page": "Main",
+          "text": "FDA and CDC began investigating this cluster in 2024, however, there was not enough evidence in the previous investigation to identify a source for the outbreak. The investigation was reopened in April 2025 after FDA investigators found Listeria in environmental samples collected from Fresh & Ready Foods, LLC during a routine surveillance inspection. Whole genome sequencing (WGS) analysis confirmed that the strain of Listeria found at Fresh & Ready Foods, LLC matches the strain of Listeria causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0483",
+          "source_page": "Main",
+          "text": "Additionally, based on epidemiological information provided by CDC, state and local public health officials interviewed people about the foods they ate before they got sick. Of the six people for whom information is available, all six (100%) were hospitalized and later became sick with Listeria . Records reviewed from facilities indicated that ready-to-eat foods made by Fresh & Ready Foods, LLC were confirmed to have been served in at least three of these facilities. As of May 9, 2025, a total of 10 people infected with the outbreak strain of Listeria monocytogenes have been reported from two states. All 10 people have been hospitalized."
+        },
+        {
+          "block_id": "BLOCK-0484",
+          "source_page": "Main",
+          "text": "In response to this investigation, Fresh & Ready Foods, LLC voluntarily recalled several of their Ready-to-Eat (RTE) foods, or products that do not need additional cooking, including sandwiches and snack items. The recalled products are identified by the “Use By” dates from 4/22/2025 to 05/19/2025 and include the following brand names:"
+        },
+        {
+          "block_id": "BLOCK-0485",
+          "source_page": "Main",
+          "text": "Fresh & Ready Foods"
+        },
+        {
+          "block_id": "BLOCK-0486",
+          "source_page": "Main",
+          "text": "City Point Market Fresh Food to Go"
+        },
+        {
+          "block_id": "BLOCK-0487",
+          "source_page": "Main",
+          "text": "Fresh Take Crave Away"
+        },
+        {
+          "block_id": "BLOCK-0488",
+          "source_page": "Main",
+          "text": "The recalled products were distributed between 04/18/2025 and 04/28/2025 and sold in Arizona, California, Nevada, and Washington at a variety of locations including retailers and food service locations such as hospitals, hotels, convenience stores, airports, and airlines."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0480",
+        "BLOCK-0481",
+        "BLOCK-0482",
+        "BLOCK-0483",
+        "BLOCK-0484",
+        "BLOCK-0485",
+        "BLOCK-0486",
+        "BLOCK-0487",
+        "BLOCK-0488"
+      ],
+      "stage_source_sha256": "00e4984f91c259cc84c81309ae8b621246f8d80772e3e22c8899bc45a68021d1"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2025-07-24",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0475",
+          "source_page": "Main",
+          "text": "July 24, 2025"
+        },
+        {
+          "block_id": "BLOCK-0476",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Listeria monocytogenes infections linked to recalled Ready-to-Eat (RTE) foods, or products that do not need additional cooking, produced by Fresh & Ready Foods, LLC of San Fernando, CA."
+        },
+        {
+          "block_id": "BLOCK-0477",
+          "source_page": "Main",
+          "text": "CDC announced that the outbreak is over. CDC reports a total of 10 illnesses in two states. There has been a total of 10 hospitalizations and one death attributed to listeriosis."
+        },
+        {
+          "block_id": "BLOCK-0478",
+          "source_page": "Main",
+          "text": "FDA is working with Fresh & Ready Foods on corrective and preventive actions."
+        },
+        {
+          "block_id": "BLOCK-0479",
+          "source_page": "Main",
+          "text": "FDA’s outbreak investigation is complete."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0475",
+        "BLOCK-0476",
+        "BLOCK-0477",
+        "BLOCK-0478",
+        "BLOCK-0479"
+      ],
+      "stage_source_sha256": "e0a1ad708b00b9bdb358fc258bf94177e5ae8612a6f44d540267b6beb5b6eb23"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2025-12-05",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On May 10, 2025, Fresh & Ready Foods, LLC recalled several Ready-to-Eat (RTE) foods, or products that do not need additional cooking, including sandwiches, and snack items. The recalled products were identified by the “Use By” dates from 4/22/2025 to 5/19/2025 and include the following brand names:"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Fresh & Ready Foods"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "City Point Market Fresh Food to Go"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Fresh Take Crave Away"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "These products are no longer available for sale in stores."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Symptoms of Listeriosis ( Listeria Infection)"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms usually start within two weeks of eating food contaminated with Listeria but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include a fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "The recalled products are no longer available for sale in stores."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "The recalled foods are past shelf life and are no longer available for sale."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Foodservice customers, retailers and consumers who purchased or received the recalled products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "If you or your family member have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Recommendations for At-Risk Groups"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have symptoms of a Listeria infection."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "December 5, 2025"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "This outbreak was declared over, and FDA's investigation was completed in July 2025."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "On September 5, 2025, the U.S. Food & Drug Administration (FDA) issued a Warning Letter to Compass Group USA for conditions observed during an inspection of their Fresh & Ready Foods, LLC manufacturing facility. This inspection was initiated as part of the multistate foodborne outbreak investigation of Listeria monocytogenes linked to Ready-to-Eat (RTE) foods manufactured at Fresh & Ready Foods, LLC of San Fernando, CA."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Total Illnesses: 10 Hospitalizations: 10 Deaths: 1 Last Specimen Collection Date: 9/9/2024 States with Cases: CA, NV"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Product Distribution*: AZ, CA, NV, and WA *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-ADD-TABLE-1305-01",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1305-01]"
+        },
+        {
+          "block_id": "BLOCK-0473",
+          "source_page": "Main",
+          "text": "Product Images"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0037",
+        "BLOCK-ADD-TABLE-1305-01",
+        "BLOCK-0473"
+      ],
+      "stage_source_sha256": "9fa7376d7f8e1ef703a36c52be076ce19fc3292816ae061af3d587f251e437ec"
+    }
+  ]
+}

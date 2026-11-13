@@ -1,0 +1,248 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1311",
+  "title": "Outbreak Investigation of Salmonella: Pistachio Cream (June 2025) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-pistachio-cream-june-2025",
+  "frozen_source_path": "t1/frozen_sources/case-1311.txt",
+  "frozen_source_sha256": "580cde80cf1126c572229422973edc40a8f730bbcd264c52fa311c0617b6c0ce",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2025-06-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "June 13, 2025"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Oranienburg infections linked to Emek-brand Pistachio Cream manufactured by Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti in Turkey and imported to wholesale distributors, restaurants, and food service locations in the United States."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "FDA was notified by the Minnesota Department of Health about a cluster of Salmonella illnesses and two Salmonella positive samples of Emek-brand Pistachio Cream product that matched clinical cases by whole genome sequencing (WGS) in this outbreak. As of June 13, 2025, a total of four cases infected with the outbreak strain of Salmonella have been reported from two states. Of the four cases with information available, all four (100%) reported eating pistachio cream. Three of the four cases reported eating pistachio cream at the same restaurant."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Retailers, restaurants, and distributors that purchased Emek-brand Pistachio Cream with a use-by date of October 19, 2026 (TETT: 19/10/26 (DD/MM/YY)) and production code PNO: 241019 should not serve, sell, or further distribute product. FDA is working to determine where the affected Emek-brand Pistachio Cream was sold in the United States and if other lots or products were impacted."
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing. Additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041"
+      ],
+      "stage_source_sha256": "c7edf3b6af3142c38b0d9bd8ff120b7dc525d76999ee455610f501a755d8a9ff"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2025-07-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "July 16, 2025"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners are investigating illnesses in a multistate outbreak of Salmonella Oranienburg infections linked to pistachio cream manufactured by Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti in Turkey."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "As part of FDA’s investigation, state partners at the Minnesota Department of Agriculture (MDA) and the Maryland Department of Health (MDH) collected additional samples of other Emek-brand products containing pistachio cream that were available for sale at World Market retail locations. Retail samples of Emek Spread Pistachio Cacao Cream with Kadayif have tested positive for Salmonella . Additional testing is underway to determine if the strains of Salmonella found in these products are linked to illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "In response to this investigation, World Market has initiated a recall of 9.7- oz Emek Spread Pistachio Cacao Cream with Kadayif . This product was sold in 9.7- oz glass jars with BATCH NO: 250401, UPC number 8 69652 10130 1, and a best before date of APRIL 01 2027."
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "FDA is working to determine a possible source of contamination and if additional recalls of Emek products are necessary. Additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036"
+      ],
+      "stage_source_sha256": "760547b38eaa4f259c7400e88f46c9c8de3ab770196890f75046f168649c59bb"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2025-08-21",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Products:"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On July 14, 2025, World Market, LLC initiated a recall of Emek Spread Pistachio Cacao Cream with Kadayif products sold at World Market retail locations. Emek Spread Pistachio Cacao Cream with Kadayif was sold in 9.7-oz glass jars with BATCH NO: 250401, UPC number 8 69652 10130 1, and a best before date of APRIL 01 2027. This product was recalled in response to sampling conducted as part of this investigation. Sample results were positive for Salmonella . These products should no longer be available for sale in stores."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On May 13, 2025, FDA issued an advisory for a 5-kilogram white tub of Emek-brand Pistachio Cream with a use-by date of October 19, 2026 (TETT: 19/10/26 (DD/MM/YY)) and production code PNO: 241019. This product should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella infection:"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled Emek Spread Pistachio Cacao Cream with Kadayif and Emek Pistachio Cream should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Recalled Emek Spread Pistachio Cacao Cream with Kadayif and Emek Pistachio Cream should no longer be for sale; however, this product has a long shelf life. Consumers should not eat or serve recalled products and should check their homes for recalled product and discard."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Retailers, restaurants, distributors, and consumers should follow FDA’s safe handling and cleaning recommendations and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Contact your health care provider if you have symptoms of a Salmonella infection."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "August 21, 2025"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Oranienburg infections linked to Emek Pistachio Cream manufactured by Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti in Turkey. A total of four cases infected with the outbreak strain of Salmonella were reported from two states. CDC has declared the outbreak over."
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "On July 16, 2025, World Market initiated a recall of 9.7-oz Emek Spread Pistachio Cacao Cream with Kadayif after Salmonella was detected in retail samples collected by state partners. Whole genome sequencing (WGS) revealed that the strain of Salmonella detected in retail samples does not match the outbreak strain. Recalled product that tested positive for Salmonella should no longer be available for sale. In addition to sampling conducted by state partners, FDA collected import samples of Emek-brand products containing pistachio cream. Salmonella was detected in Emek Spread Pistachio Cacao Cream with Kadayif as well as Emek Pistachio Cream. WGS revealed that the strain of Salmonella detected in the import samples does not match the outbreak strain. Products that tested positive for Salmonella were not distributed and should not be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Products from Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti have been placed on Import Alert 99-43 , and FDA and state partners are conducting follow up activities with the firm and their importers to address this issue."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "FDA’s outbreak investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Total Illnesses: 4 Hospitalizations: 1 Deaths: 0 Last Illness Onset: May 19, 2025 States with Cases: MN, NJ"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Recalled Product Images"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0030"
+      ],
+      "stage_source_sha256": "a0a9dc9ed1a90ee848edacecf6eb158038882d57ec30e169c8f0a707c282e1de"
+    }
+  ]
+}

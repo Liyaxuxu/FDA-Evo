@@ -1,0 +1,41 @@
+# CASE 1300 reviewed source
+Title: Outbreak Investigation of Salmonella: Eggs (June 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-june-2025
+Source blocks SHA256: 313553be9d992bca71e73e945fe9c01726e95f5475da86bb04154cfceef1039d
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Product
+[BLOCK-0001 | role=report_evidence] Recalled brown cage-free eggs and brown certified organic eggs were sold under multiple brand names at restaurants and retailers. The recalled eggs are past expiration and should no longer be available for sale.
+[BLOCK-0002 | role=report_evidence] Symptoms of Salmonella infection
+[BLOCK-0003 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0004 | role=report_evidence] Stores Affected
+[BLOCK-0005 | role=report_evidence] Recalled brown cage-free eggs and brown certified organic eggs are past expiration and should no longer be available for sale at retail stores.
+[BLOCK-0006 | role=report_evidence] Status
+[BLOCK-0007 | role=report_evidence] Ended
+[BLOCK-0008 | role=report_evidence] Recommendations
+[BLOCK-0009 | role=report_evidence] Recalled eggs are past expiration and should no longer be available for sale. Always wash hands, utensils, and surfaces with hot, soapy water before and after handling raw eggs and raw egg-containing foods. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with raw or undercooked eggs to reduce the risk of cross-contamination.
+[BLOCK-0010 | role=report_evidence] Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection, after eating eggs.
+[BLOCK-0011 | role=report_evidence] Current Update
+[BLOCK-0012 | role=report_evidence] July 10, 2025
+[BLOCK-0013 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Enteritidis infections linked to recalled brown cage-free eggs and brown certified organic eggs supplied by August Egg Company, of Hilmar, CA.
+[BLOCK-0014 | role=report_evidence] A total of 134 people infected with the outbreak strain of Salmonella have been reported from 10 states. There have been 38 hospitalizations, and one death. CDC has declared the outbreak to be over.
+[BLOCK-0015 | role=report_evidence] As part of this investigation, FDA conducted an inspection with environmental sampling at cage-free laying houses used by August Egg Company. Three environmental samples from this inspection were positive for Salmonella and found to match the strain of Salmonella causing illnesses in this outbreak by whole genome sequencing (WGS) analysis. Eggs supplied by this facility were already included in the recall from August Egg Company and should no longer be available for sale.
+[BLOCK-0016 | role=report_evidence] At this time, all recalled eggs should be off the market and beyond shelf life. FDA is working with both firms on corrective and preventive actions.
+[BLOCK-0017 | role=report_evidence] FDA’s outbreak investigation is complete.
+[BLOCK-0018 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0019 | role=report_evidence] Product Distribution Map
+[BLOCK-0020 | role=report_evidence] Case Counts
+[BLOCK-0021 | role=report_evidence] Total Illnesses: 134 Hospitalizations: 38 Deaths: 1 Last Illness Onset: June 6, 2025 States with Cases: AZ, CA, CO, KS, KY, NE, NJ, NV, UT, WA Product Distribution*: AZ, CA, IL, IN, NE, NM, NV, WA, WY
+[BLOCK-0022 | role=report_evidence] *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states
+[BLOCK-0030 | role=report_evidence] Product Details
+[BLOCK-ADD-TABLE-1300-01 | role=report_evidence] The recalled eggs had a printed Julian Date between “32” and “126” followed by a plant code number “P-6562” or “CA-5330” on the egg carton or package. The recalled eggs sold at retail stores were packed in fiber or plastic cartons, with the above codes printed on one side of the carton. Refer to the August Egg Company Recall press for more information.
+[BLOCK-0031 | role=report_evidence] The recalled eggs had a printed Julian Date between “32” and “126” followed by a plant code number “P-6562” or “CA-5330” on the egg carton or package. The recalled eggs sold at retail stores were packed in fiber or plastic cartons, with the above codes printed on one side of the carton. Refer to the August Egg Company Recall press for more information.
+[BLOCK-0123 | role=report_evidence] Previous Updates
+[BLOCK-0124 | role=report_evidence] June 5, 2025
+[BLOCK-0125 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Enteritidis infections linked to brown cage free eggs and brown certified organic eggs supplied by August Egg Company, Hilmar, CA.
+[BLOCK-0126 | role=report_evidence] Based on epidemiological information collected by CDC, a total of 79 people infected with the outbreak strain of Salmonella have been reported from seven states. Illnesses started on dates ranging from February 24, 2025, to May 17, 2025. Twenty-seven of 30 cases with information available reported exposure to eggs or an egg containing dish before becoming ill. There have been 21 hospitalizations, and no deaths have been reported.
+[BLOCK-0127 | role=report_evidence] As part of this investigation, FDA conducted traceback based on where ill people reported shopping or eating eggs/egg-containing dishes during the timeframe of interest, and August Egg Company was identified as a common supplier. FDA also conducted an inspection and collected environmental samples at August Egg Company’s processing facility. Two samples from this inspection were positive for Salmonella and found to be a Whole Genome Sequencing (WGS) match to the strain of Salmonella causing illnesses in this outbreak.
+[BLOCK-0128 | role=report_evidence] August Egg Company began diverting all eggs to an egg breaker in May 2025. This breaking facility processes eggs to eliminate the Salmonella risk.
+[BLOCK-0129 | role=report_evidence] Additionally, in response to this investigation, August Egg Company agreed to recall all brown cage free eggs and brown certified organic eggs that could potentially be in peoples' homes. Consumers should check their refrigerators for the recalled eggs and should return it to their place of purchase for a full refund. Refer to August Egg Company’s recall announcement for more information.

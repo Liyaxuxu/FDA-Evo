@@ -1,0 +1,68 @@
+# CASE 1007 reviewed source
+Title: Outbreak Investigation of Salmonella Weltevreden: Frozen Pre-cooked Shrimp (April 2021) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-weltevreden-frozen-pre-cooked-shrimp-april-2021
+Source blocks SHA256: 9374c3303c7f00c190195ad41644ac64af167536b21cbd73edf78c8d8fcef291
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Weltevreden infections linked to the consumption of frozen cooked shrimp manufactured by Avanti Frozen Foods of India.
+[BLOCK-0001 | role=report_evidence] As of September 21, 2021, CDC announced that the outbreak is over. There are a total of nine illnesses in four states. The last illness onset date was July 17, 2021.
+[BLOCK-0002 | role=report_evidence] Based on FDA’s completed traceback investigation and sample results, the frozen cooked shrimp manufactured by Avanti Frozen Foods of India were linked to this outbreak. The FDA worked with Avanti Frozen Foods of India to ensure that potentially contaminated frozen cooked shrimp were removed from the market.
+[BLOCK-0003 | role=report_evidence] On August 13, 2021, Avanti Frozen Foods of India expanded its recall of frozen cooked shrimp to include frozen cooked shrimp products imported into the U.S. from November 2020 to May 2021. Since Avanti Frozen Foods expanded its recall, downstream recalls have been initiated for sushi products containing recalled shrimp, sold in the state of California:
+[BLOCK-0004 | role=report_evidence] Genji Pacific LLC.
+[BLOCK-0005 | role=report_evidence] Mai Cuisine Inc.
+[BLOCK-0006 | role=report_evidence] Mai Franchising Inc.
+[BLOCK-0007 | role=report_evidence] Recommendation
+[BLOCK-0008 | role=report_evidence] Recalled frozen shrimp should no longer be available for sale; however, these products have a long shelf life, and consumers, restaurants, and retailers should check their freezers and should throw away recalled shrimp. The expanded recall from August 17, 2021 includes the following brands:
+[BLOCK-0009 | role=report_evidence] BIG RIVER
+[BLOCK-0010 | role=report_evidence] 365
+[BLOCK-0011 | role=report_evidence] AHOLD
+[BLOCK-0012 | role=report_evidence] CENSEA
+[BLOCK-0013 | role=report_evidence] COS
+[BLOCK-0014 | role=report_evidence] CWNO BRAND
+[BLOCK-0015 | role=report_evidence] FIRST STREET
+[BLOCK-0016 | role=report_evidence] NATURE’S PROMISE
+[BLOCK-0017 | role=report_evidence] HARBOR BANKS
+[BLOCK-0018 | role=report_evidence] HOS
+[BLOCK-0019 | role=report_evidence] MEIJER
+[BLOCK-0020 | role=report_evidence] SANDBAR
+[BLOCK-0021 | role=report_evidence] SEA COVE
+[BLOCK-0022 | role=report_evidence] WATERFRONT BISTRO
+[BLOCK-0023 | role=report_evidence] WELLSLEYFARMS
+[BLOCK-0024 | role=report_evidence] WFNOBRANDS
+[BLOCK-0025 | role=report_evidence] FOODLION
+[BLOCK-0026 | role=report_evidence] HANNAFORD
+[BLOCK-0027 | role=report_evidence] Please check the expanded recall announcement for full product descriptions.
+[BLOCK-0028 | role=report_evidence] Previously recalled shrimp should no longer be available for sale; however, these products have a long shelf life, and consumers, restaurants, and retailers should check their freezers and should throw away any previously recalled shrimp. The initial recall includes the following brands:
+[BLOCK-0029 | role=report_evidence] CENSEA
+[BLOCK-0030 | role=report_evidence] CHICKEN OF THE SEA
+[BLOCK-0031 | role=report_evidence] HONEST CATCH
+[BLOCK-0032 | role=report_evidence] CWNO
+[BLOCK-0033 | role=report_evidence] HANNAFORD
+[BLOCK-0034 | role=report_evidence] WATERFRONT BISTRO
+[BLOCK-0035 | role=report_evidence] OPEN ACRES
+[BLOCK-0036 | role=report_evidence] 365
+[BLOCK-0037 | role=report_evidence] MEIJER
+[BLOCK-0038 | role=report_evidence] Please check the initial recall announcement for full product descriptions.
+[BLOCK-0039 | role=report_evidence] Anyone who received recalled shrimp should use extra vigilance in cleaning and sanitizing any surfaces that may have come in contact with the recalled product, to reduce the risk of cross contamination.
+[BLOCK-0040 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0041 | role=report_evidence] Case Counts
+[BLOCK-0042 | role=report_evidence] Total Illnesses: 9 Hospitalizations: 3 Deaths: 0 Last Illness Onset: 7/17/2021 States with Cases: AZ (2), MI (2), NV (4), RI (1) Product Distribution: Nationwide
+[BLOCK-0053 | role=report_evidence] Previous Updates
+[BLOCK-0054 | role=report_evidence] August 17, 2021
+[BLOCK-0055 | role=report_evidence] Since July 21, 2021, additional cases have been identified in this outbreak and this investigation was reopened. At least one ill person consumed shrimp that were not a part of the Avanti Frozen Foods of India’s initial recall. Due to this new information, on August 10, 2021 the FDA asked the firm to expand its initial recall to prevent additional illnesses. On August 13, 2021, Avanti Frozen Foods of India expanded its recall of frozen cooked shrimp to include frozen cooked shrimp products imported into the U.S. from November 2020 to May 2021. Since Avanti Frozen Foods expanded its recall, downstream recalls have been initiated for sushi products containing recalled shrimp, sold in the state of California:
+[BLOCK-0056 | role=report_evidence] Genji Pacific LLC.
+[BLOCK-0057 | role=report_evidence] Mai Cuisine Inc.
+[BLOCK-0058 | role=report_evidence] Mai Franchising Inc.
+[BLOCK-0059 | role=report_evidence] August 11, 2021
+[BLOCK-0060 | role=report_evidence] Since July 21, 2021, additional cases have been identified in this outbreak. At least one ill person consumed shrimp that are not a part of the current recall. Due to this new information, on August 10, 2021 the FDA asked the firm to expand their current recall to prevent additional illnesses, but. As of August 11, 2021, the firm has not initiated an expanded recall. FDA is continuing discussions with the firm and will provide more updates when available.
+[BLOCK-0061 | role=report_evidence] The current recall includes the following brands: CENSEA, CHICKEN OF THE SEA, HONEST CATCH, CWNO, HANNAFORD, WATERFRONT BISTRO, OPEN ACRES, 265, and MEIJER. Please check the recall announcement for full product descriptions.
+[BLOCK-0062 | role=report_evidence] FDA will share additional product information as soon as it becomes available, including if there are additional products and production dates to avoid.
+[BLOCK-0063 | role=report_evidence] July 21, 2021
+[BLOCK-0064 | role=report_evidence] On 7/21/2021, the CDC announced that this outbreak is over. Recalled shrimp should no longer be available for sale; however, these products have a long shelf life, and consumers, restaurants, and retailers should check their freezers and should throw away any recalled shrimp. Anyone who received recalled shrimp should use extra vigilance in cleaning and sanitizing any surfaces that may have come in contact with the recalled product, to reduce the risk of cross contamination.
+[BLOCK-0065 | role=report_evidence] June 25, 2021
+[BLOCK-0066 | role=report_evidence] A positive import sample combined with epidemiological and traceback evidence indicate that this outbreak is linked to frozen cooked shrimp manufactured by Avanti Frozen Foods. FDA’s traceback investigation identified a common shipment of shrimp that could have been consumed by ill people. The product from this shipment was all sold thawed at retail and is no longer available for sale. Due to the potential for contamination with Salmonella , on June 25, 2021, Avanti Frozen Foods recalled certain frozen cooked, peeled, deveined shrimp products imported into the U.S. from December 2020 to February 2021. Recalled shrimp were sold under various brand names and package sizes, including shrimp packaged with cocktail sauce. A full list of recalled brands and product information is available in the recall announcement .
+[BLOCK-0067 | role=report_evidence] The FDA is working with the firm to determine if there are additional shrimp that have been affected and should be recalled. Additional information will be provided as it becomes available.
+[BLOCK-0068 | role=report_evidence] On January 26, 2021, an import sample of Avanti Frozen Foods shrimp was collected as a routine part of the FDA’s Imported Seafood Compliance Program. Analysis of the sample showed the presence of Salmonella Weltevreden. At the time, there were no known associated illnesses or closely related isolates of this strain. In March 2021, as a result of the positive test, this shipment was refused admission into the U.S. and was destroyed, and the importing firm was added to Import Alert 16-81 , which allows the FDA to detain product without physical examination due to the presence of Salmonella .
+[BLOCK-0069 | role=report_evidence] In April 2021, three clinical isolates collected from ill people were reported to be closely related to the isolates collected from the import sample. As of June 25, 2021, there are now 6 clinical isolates from ill people that are genetic matches to the Salmonella collected from the import sample. Five of the six ill people were interviewed to determine the foods they ate before becoming sick, and all five ill people report eating shrimp. Based on purchase locations and purchase dates available for four ill people, FDA’s traceback investigation identified a common shipment of shrimp that could have been consumed by ill people. The product from this shipment was all sold thawed at retail. This thawed product is past expiration and no longer available for sale.

@@ -1,0 +1,448 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1172",
+  "title": "Outbreak Investigation of Listeria: Ice Cream (August 2023) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-ice-cream-august-2023",
+  "frozen_source_path": "t1/frozen_sources/case-1172.txt",
+  "frozen_source_sha256": "83b03a0776911dec70e94cacb4ff73a765953ea52f531be2180cda18790e0bfc",
+  "stage_count": 5,
+  "stages": [
+    {
+      "source_order": 4,
+      "report_date": "2023-08-10",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "August 10, 2023"
+        },
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC), in collaboration with state and local partners, are investigating an outbreak of Listeria monocytogenes infections potentially linked to Soft Serve On The Go cups produced by Real Kosher Ice Cream of Brooklyn, NY."
+        },
+        {
+          "block_id": "BLOCK-0069",
+          "source_page": "Main",
+          "text": "Based on epidemiological data provided by CDC, both sick people reported eating Soft Serve On The Go vanilla chocolate ice cream before getting sick. The Pennsylvania Department of Agriculture collected an unopened sample of Soft Serve On The Go from an ill person’s home. This sample was reported as positive for Listeria monocytogenes . Whole Genome Sequencing (WGS) analysis is still pending to determine whether this is the same strain of Listeria causing illness in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0070",
+          "source_page": "Main",
+          "text": "In response to these findings, Real Kosher Ice Cream has been cooperating with the FDA investigation and voluntarily recalled all flavors of Soft Serve On The Go 8-oz cups. This product was distributed to retailers in CA, CO, CT, DC, DE, FL, IL, MA, MD, MI, MN, NC, NH, NJ, NY, OH, OR, PA, VA, WV. Real Kosher Ice Cream has temporarily stopped production of these products."
+        },
+        {
+          "block_id": "BLOCK-0071",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0067",
+        "BLOCK-0068",
+        "BLOCK-0069",
+        "BLOCK-0070",
+        "BLOCK-0071"
+      ],
+      "stage_source_sha256": "696b05bf45505448455329afbec52a4eba7517f697a2d7a5a8dd4bb46a7c6a53"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2023-08-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "August 22, 2023"
+        },
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC), in collaboration with state and local partners, are investigating an outbreak of Listeria monocytogenes infections linked to Soft Serve On The Go cups produced by Real Kosher Ice Cream of Brooklyn, NY."
+        },
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "The Pennsylvania Department of Agriculture collected an unopened sample of Soft Serve On The Go from an ill person’s home. This sample was reported as positive for Listeria monocytogenes . Whole Genome Sequencing (WGS) analysis confirmed that the strain of Listeria found in the sample from the patient’s home matches the strain of Listeria causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "Additionally, product sampling was conducted by the New York State Department of Agriculture and Markets at Real Kosher Ice Cream’s manufacturing location. Five finished product samples of Soft Serve On The Go Vanilla Chocolate ice cream were reported as positive for Listeria monocytogenes . WGS analysis confirmed that the strain of Listeria found in these products matches the outbreak strain."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0063",
+        "BLOCK-0064",
+        "BLOCK-0065",
+        "BLOCK-0066"
+      ],
+      "stage_source_sha256": "f27a20156b4ad6e71d2f8863e4e5f1e5d9534e13a01794c1dae2a0ee2098011f"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2023-09-01",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "September 1, 2023"
+        },
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC), in collaboration with state and local partners, are investigating an outbreak of Listeria monocytogenes infections linked to products manufactured at The Ice Cream House facility in Brooklyn, NY."
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "In response to this investigation, Ice Cream House of Brooklyn, NY, has voluntarily recalled all dairy and non-dairy products bearing the Ice Cream House logo that were manufactured in the Brooklyn, NY, facility. This is the same facility where recalled Soft Serve On The Go Ice Cream cups were manufactured. Product and environmental sampling was conducted by the New York City Department of Health and Mental Hygiene at the Ice Cream House manufacturing facility. An Ice Cream House mini dessert cigar novelty ice cream product and several environmental samples were reported as positive for Listeria monocytogenes . WGS analysis confirmed that the strain of Listeria found in these samples matches the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "All products manufactured at this facility have been recalled. The Ice Cream House has temporarily halted production and ceased retail service at this facility."
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing. Updates to this advisory will be provided as information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0058",
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062"
+      ],
+      "stage_source_sha256": "b6201aa2df67b149ad43cedd7a1fa5b7ab144e75ea48fe44c5488a40a6418898"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2023-10-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "October 26, 2023"
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Listeria monocytogenes infections linked to recalled dairy and non-dairy products with the Ice Cream House logo sold at Ice Cream House and Real Kosher Ice Cream."
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "FDA and state partners collected several samples at the Ice Cream House facility located in Brooklyn, NY. WGS analysis confirmed that the strain of Listeria monocytogenes found in these samples matches the outbreak strain. As of October 26, 2023, CDC announced that the outbreak is over. CDC reports a total of two illnesses in two states. The last illness onset was in May 2023."
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "Since the recall, the company has taken corrective actions and is now back in operation. The company started placing a label that includes a lot code on their products. FDA’s investigation is complete."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057"
+      ],
+      "stage_source_sha256": "737f326906c1aca4e88d22af0b0e045899864fef3a80aca170f4a8f2712a7ce4"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2024-10-07",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "The Ice Cream House has voluntarily recalled all dairy and non-dairy products with the Ice Cream House logo . Recalled products include dairy and non-dairy (parve):"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Real Kosher Ice Cream has voluntarily recalled all flavors of Soft Serve On The Go 8-oz ice cream cups"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Additional recall information is available on the recall notices above."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Ice Cream House products: Recalled products with the Ice Cream House brand were sold at the Ice Cream House storefront in Brooklyn, NY, and at retail supermarkets in NJ, NY, OH."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Real Kosher Ice Cream Soft Serve On The Go cups: Recalled products were sold to multiple retailers in CA, CO, CT, DC, DE, FL, IL, MA, MD, MI, MN, NC, NH, NJ, NY, OH, OR, PA, VA, WV."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Symptoms of Listeriosis ( Listeria Infection)"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Illness can occur within a few hours or as long as two to three days after eating contaminated food. More severe forms of listeriosis may take anywhere from three days to three months to develop. Mild symptoms may include a fever, muscle aches, nausea, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "This outbreak appears to be over; however, consumers should check their freezers for recalled ice cream and non-dairy [parve] frozen dessert products and should throw the recalled product away. Options to return recalled product can be found in the recall notice from Real Kosher Ice Cream and Ice Cream House ."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers who purchased or received any recalled ice cream products should follow FDA’s safe handling and cleaning advice and use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination. Listeria can survive temperatures at or below freezing and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Since the recall, the company started placing a label that includes a lot code on their products. If consumers have products in their freezers without a lot code, they should be thrown out."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Recommendation for At-Risk Groups:"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have symptoms of a Listeria infection."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "October 7, 2024"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "On September 24, 2024, The U.S. Food & Drug Administration (FDA) issued a Warning Letter to Ice Cream House, LLC."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Soft Serve On The Go Ice Cream Cups"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Ice Cream House Dairy and Non-Dairy Products"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Total Illnesses: 2 Hospitalizations: 2 Deaths: 0 Last Patient Sample Collection Date: June 29, 2023 States with Cases: PA, NY Ice Cream House Product Distribution: NJ, NY, OH Real Kosher Soft Serve On the Go Distribution: CA, CO, CT, DC, DE, FL, IL, MA, MD, MI, MN, NC, NH, NJ, NY, OH, OR, PA, VA, WV"
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "Ice Cream House has voluntarily recalled all dairy and non-dairy (parve) products with the Ice Cream House logo including:"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "ice creams"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "cakes"
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "pies"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "logs"
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "novelty items with the “Ice Cream House” logo"
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "A full list of all recalled Ice Cream House Products is available on the firm’s recall notice"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "Real Kosher Ice Cream has voluntarily recalled the following products:"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "Soft Serve On The Go Vanilla Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Soft Serve On The Go Razzle"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Soft Serve On The Go Caramel"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Soft Serve On The Go Parve Vanilla Chocolate"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Soft Serve On The Go Sorbet Strawberry Mango"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Soft Serve On The Go Lite Peanut Butter"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Throw the product away or return to place of purchase for a full refund. Consumers with questions may contact Real Kosher Ice Cream’s Soft Serve On The Go team at: 845-668-4346 or info@softserveonthego.com. Monday through Friday 9am to 5 pm ET."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052"
+      ],
+      "stage_source_sha256": "6a34ae53fba20a04c798c91654d3c8b5d052d4595db1f908168893eb6b126f65"
+    }
+  ]
+}

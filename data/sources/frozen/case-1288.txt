@@ -1,0 +1,44 @@
+# CASE 1288 reviewed source
+Title: Outbreak Investigation of Salmonella: Mini Pastries (January 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-mini-pastries-january-2025
+Source blocks SHA256: c57e8f7aaefb5a5c201da8ba04d55e6fc16eec86f0ef8a63d6d3330659adaaa8
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Images of Additional Products
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] Recalled Sweet Cream-brand mini pastries with best by dates from 2025/06/17 through 2025/11/15 (June 17 - November 15, 2025).
+[BLOCK-0003 | role=report_evidence] The food service customers who received the recalled product have been contacted directly by the distributing firms, and the recalled product should no longer be available for sale.
+[BLOCK-0004 | role=report_evidence] Symptoms of Salmonella Infection:
+[BLOCK-0005 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0006 | role=report_evidence] Stores Affected
+[BLOCK-0007 | role=report_evidence] Recalled mini pastries were distributed in FL, NJ, NY, and PA to food service locations such as hotel cafes, bakeries, institutions, and restaurants. The mini pastries were also served at catered events. The firm directly notified customers who received the recalled product, and the recalled product should no longer be available for sale.
+[BLOCK-0008 | role=report_evidence] Status
+[BLOCK-0009 | role=report_evidence] Ended
+[BLOCK-0010 | role=report_evidence] Recommendation
+[BLOCK-0011 | role=report_evidence] The recalled product should no longer be available for sale; however, food service customers who received the recalled product should follow FDA’s safe handling and cleaning recommendations and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled products to reduce the risk of cross-contamination.
+[BLOCK-0012 | role=report_evidence] Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection.
+[BLOCK-0013 | role=report_evidence] Current Update
+[BLOCK-0014 | role=report_evidence] March 20, 2025
+[BLOCK-0015 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Salmonella infections linked to recalled Sweet Cream-brand mini pastry products with best by dates from 2025/06/17 through 2025/11/15 (June 17 - November 15, 2025).
+[BLOCK-0016 | role=report_evidence] As of March 14, 2025, a total of 18 people infected with the outbreak strain of Salmonella have been reported from 7 states. Of the 12 people for whom information is available, one person has been hospitalized. No deaths have been reported. Of the 7 people interviewed, 5 (71%) reported eating pastries.
+[BLOCK-0017 | role=report_evidence] Under the Laboratory Flexible Funding Model (LFFM) program, the Communicable Disease Service within the New Jersey Department of Health (NJDOH), collaborated with the City of Paterson Division of Health and the Public Health and Environmental Laboratories to collect and analyze Sweet Cream-brand mini pastry samples from a warehouse that received the recalled product. Three samples tested positive for Salmonella and are a Whole Genome Sequencing (WGS) match to the outbreak strain.
+[BLOCK-0018 | role=report_evidence] To further protect public health and prevent violative product from entering the U.S., FDA has added Mini Patisserie Ready to Eat (RTE) pastries from the Italian manufacturer, Sweet Cream S.R.L.S., to the Red List of Import Alert #99-19 , “Detention Without Physical Examination of Food Products Due to the Presence of Salmonella .” This import alert informs FDA field staff that they may detain shipments of these pastries from Sweet Cream S.R.L.S. without physical examination.
+[BLOCK-0019 | role=report_evidence] FDA’s investigation is complete.
+[BLOCK-0020 | role=report_evidence] Product Distribution Map
+[BLOCK-0021 | role=report_evidence] Case Counts
+[BLOCK-0022 | role=report_evidence] Total Illnesses: 18 Hospitalizations: 1 Deaths: 0 Last Illness Onset: December 26, 2024 States with Cases: CA, IL, MA, NC, NJ, NY, and PA Product Distribution*: FL, NJ, NY, and PA *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states
+[BLOCK-0030 | role=report_evidence] Product Images
+[BLOCK-0031 | role=report_evidence] Recalled Product(s)
+[BLOCK-0032 | role=report_evidence] Importations Piu Che Dolci Inc. initiated a recall of all Sweet Cream-brand mini pastry products with best by dates from 2025/06/17 through 2025/11/15 (June 17- November 15, 2025).
+[BLOCK-0033 | role=report_evidence] Pastries were sold to foodservice locations and may have been sold individually or in smaller packages, with or without a label that may not bear the same brand, product name, or best by date. Consumers who are unsure if they have purchased the recalled products are advised to contact their retailer.
+[BLOCK-0034 | role=report_evidence] International Distribution
+[BLOCK-0035 | role=report_evidence] The recalled product was manufactured in Italy and exported into the United States by Importations Piu Che Dolci Inc. of Quebec, Canada.
+[BLOCK-0036 | role=report_evidence] Previous Updates
+[BLOCK-0037 | role=report_evidence] February 6, 2025
+[BLOCK-0038 | role=report_evidence] The FDA and CDC, in collaboration with state, local, and international partners, are investigating illnesses in a multistate outbreak of Salmonella Enteritidis infections linked to Sweet Cream-brand mini pastries manufactured in Italy and exported into the United States by Importations Piu Che Dolci Inc. of Quebec, Canada.
+[BLOCK-0039 | role=report_evidence] On January 21, 2025, FDA was notified about an outbreak of Salmonella in the United States, which is the same strain investigated in Canada. Canadian Food Inspection Agency (CFIA) informed FDA that their investigation linked their outbreak to Sweet Cream-brand mini pastries, and Importations Piu Che Dolci Inc. initiated a recall of all Sweet Cream-brand mini pastry products with best by dates from 2025/06/17 through 2025/11/15 (June 17- November 15, 2025).
+[BLOCK-0040 | role=report_evidence] The recalled products were imported by two distributors in the U.S. who were contacted about the recall. One distributor had no product on hand, and the second distributor quarantined all product on hand and informed all of their downstream customers of the recall. As part of this investigation, FDA conducted traceback for one of the U.S. cases and identified that they were served recalled Sweet Cream-brand mini pastries at a restaurant prior to becoming sick. The restaurant received the pastries from one of the U.S. distributors.
+[BLOCK-0041 | role=report_evidence] As of January 29, 2025, a total of 18 people infected with the outbreak strain of Salmonella have been reported from seven states. Of the 18 people for whom information is available, one person has been hospitalized. No deaths have been reported. Of the 5 people interviewed, 3 (60%) reported eating pastries.
+[BLOCK-0042 | role=report_evidence] Food service customers who received the recalled product have been contacted directly. FDA is continuing to work with Importations Piu Che Dolci Inc. and their U.S. customers to determine the distribution of this product and if additional downstream recalls are necessary. The recalled product should no longer be available for sale, and there does not appear to be a continued public health risk for consumers.

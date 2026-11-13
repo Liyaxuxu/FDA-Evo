@@ -1,0 +1,47 @@
+# CASE 1141 reviewed source
+Title: Outbreak Investigation of Salmonella: Flour (April 2023) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-flour-april-2023
+Source blocks SHA256: 4a34c4c855e1b9e2bd2f6e347344a8046dbd734f080b6884972df98952b3b7dc
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-NEW-0000 | role=report_evidence] Sample Product Images from the Outbreak Investigation of Salmonella: Flour (April 2023)
+[BLOCK-0000 | role=report_evidence] Additional Images
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] Two-, five- and 10-pound bags of Gold Medal Unbleached and Bleached All Purpose Flour with “Better if Used by” dates of March 27, 2024, and March 28, 2024.
+[BLOCK-0003 | role=report_evidence] Recalled product codes are listed on the firm’s press and below .
+[BLOCK-0004 | role=report_evidence] FDA’s investigation is complete; CDC declares outbreak over.
+[BLOCK-0005 | role=report_evidence] Stores Affected
+[BLOCK-0006 | role=report_evidence] Distributed Nationwide
+[BLOCK-0007 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0008 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0009 | role=report_evidence] Status
+[BLOCK-0010 | role=report_evidence] Ended
+[BLOCK-0011 | role=report_evidence] Recommendation
+[BLOCK-0012 | role=report_evidence] Consumers, restaurants, and retailers should not eat, sell, or serve recalled Gold Medal flour. Recalled products should be thrown away.
+[BLOCK-0013 | role=report_evidence] Check your home for recalled flour. If you cannot tell if your flour is part of the recall, do not use it.
+[BLOCK-0014 | role=report_evidence] Contact your healthcare provider if you think you may have symptoms of a Salmonella infection after eating recalled flour.
+[BLOCK-0015 | role=report_evidence] Flour Safety Tips
+[BLOCK-0016 | role=report_evidence] Due to the potential for contamination, never eat any raw flour, dough, or cake mix that is supposed to be cooked or baked.
+[BLOCK-0017 | role=report_evidence] Always wash hands, work surfaces, and utensils thoroughly after contact with flour, raw dough, or batter.
+[BLOCK-0018 | role=report_evidence] Keep raw food or dough separate from other foods while preparing them to prevent any possible contamination from spreading. Be aware that flour or baking mix may spread easily due to its powdery nature.
+[BLOCK-0019 | role=report_evidence] Current Update
+[BLOCK-0020 | role=report_evidence] June 7, 2023
+[BLOCK-0021 | role=report_evidence] The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Infantis infections linked to recalled gold medal unbleached and bleached flour with “Better if Used by” dates of March 27, 2024, and March 28, 2024.
+[BLOCK-0022 | role=report_evidence] As of June 7, 2023, CDC announced that the outbreak is over. CDC reports a total of 14 illnesses in 13 states. The last illness onset was May 2, 2023. FDA’s investigation is complete.
+[BLOCK-0023 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-NEW-0001 | role=report_evidence] CDC Case Count Map - Salmonella Infantis
+[BLOCK-0024 | role=report_evidence] Case Counts
+[BLOCK-0025 | role=report_evidence] Total Illnesses: 14 Hospitalizations: 3 Deaths: 0 Last Illness Onset: May 2, 2023 States with Cases: CA (1), IL (2), IA (1), MN (1), MO (1), NE (1), NJ (1), NY (1), OH (1), OR (1), TN (1), VA (1), WA (1) Product Distribution: Nationwide
+[BLOCK-0033 | role=report_evidence] Recalled Products
+[BLOCK-0034 | role=report_evidence] More information about recalled products is available on FDA’s website .
+[BLOCK-0035 | role=report_evidence] Previous Update
+[BLOCK-0036 | role=report_evidence] May 1, 2023
+[BLOCK-0037 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating an outbreak of Salmonella Infantis infections linked to Gold Medal brand flour produced by General Mills of Minneapolis, MN.
+[BLOCK-0038 | role=report_evidence] Based on epidemiological data collected by CDC, five of nine cases report exposure to raw Gold Medal brand flour and seven of eight cases report consuming raw dough or batter. FDA’s traceback investigation identified a single production facility of the flour consumed by patients. FDA initiated an inspection at the General Mills Kansas City, MO facility and collected retain product samples. One sample was found to be positive for Salmonella , and subsequent analysis by Whole Genome Sequencing (WGS) found that the Salmonella in the positive sample matched the strain of Salmonella making people sick in this outbreak.
+[BLOCK-0039 | role=report_evidence] On April 28, 2023, General Mills announced a voluntary nationwide recall of two-, five- and 10-pound bags of its Gold Medal Unbleached and Bleached All Purpose Flour with a “better if used by” date of March 27, 2024, and March 28, 2024. This recall affects two date codes of Gold Medal Unbleached All Purpose Flour in the five- and ten-pound bags and two date codes of Gold Medal Bleached All Purpose Flour in the two- and five-pound bags.
+[BLOCK-0040 | role=report_evidence] No other types of Gold Medal Flour are affected by this recall at this time.
+[BLOCK-0041 | role=report_evidence] The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.
+[BLOCK-0042 | role=report_evidence] Product Images
+[BLOCK-NEW-0002 | role=report_evidence] Sample Product Images from the Outbreak Investigation of Salmonella: Flour (April 2023)

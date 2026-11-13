@@ -1,0 +1,121 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1025",
+  "title": "Outbreak Investigation of Salmonella Thompson: Seafood (October 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-thompson-seafood-october-2021",
+  "frozen_source_path": "t1/frozen_sources/case-1025.txt",
+  "frozen_source_sha256": "3da520a7d0899b9d9e7342e29eb033f311815f7f8262acca77dc1dff0200b5b6",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 0,
+      "report_date": "2021-10-08",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "October 8, 2021"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Salmonella Thompson infections linked to seafood manufactured or processed by Northeast Seafood Products, Inc. of Denver, CO. According to CDC, the majority of sick people are either Colorado residents or reported traveling to Colorado during the week they got sick. Only two people did not report traveling to Colorado during the week they got sick."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "CDC’s analysis of epidemiological information indicates that seafood is the leading hypothesis for the cause of illnesses linked to this outbreak. FDA’s traceback investigation identified Northeast Seafood Products, Inc. as a common distributor among illness subclusters. As part of this outbreak investigation, environmental samples were collected from Northeast Seafood Products, Inc. On 10/7/2021, environmental samples collected from Northeast Seafood Products, Inc. were reported positive for Salmonella Thompson and were determined to be a match to the outbreak strain through whole genome sequencing."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "On 10/8/2021, Northeast Seafood Products, Inc. recalled Haddock, Monkfish, Bone-in Trout, Grouper, Red Snapper, Red Rock Cod, Ocean Perch, Pacific Cod, Halibut, Coho Salmon, Atlantic Salmon Portions, Lane Snapper, Tilapia, All Natural Salmon Fillet, Pacific Sole, and Farm Raised Striped Bass. These products were sold to restaurant and Albertsons, Safeway, and Sprouts supermarkets in Colorado. The Pacific Cod sold through Sprouts is not being recalled. A full list of recalled products is available on FDA’s website. At this time, Northeast Seafood Products, Inc. has temporarily shut down production."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019"
+      ],
+      "stage_source_sha256": "205a3716194199a88b7d3808efd8f2ba20b361294caca67b725ad6d1df15d264"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Salmonella Thompson infections linked to seafood manufactured or processed by Northeast Seafood Products, Inc. of Denver, CO. As of 12/6/2021, the CDC has declared this outbreak over. According to CDC, the majority of sick people were either Colorado residents or reported traveling to Colorado in the week before they got sick."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation identified Northeast Seafood Products, Inc. as a common distributor among illness subclusters. As part of this outbreak investigation, environmental samples were collected from Northeast Seafood Products, Inc. On 10/7/2021, environmental samples collected from Northeast Seafood Products, Inc. were reported positive for Salmonella Thompson and were determined to be a match to the outbreak strain through whole genome sequencing."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On 10/8/2021, Northeast Seafood Products, Inc. recalled Haddock, Monkfish, Bone-in Trout, Grouper, Red Snapper, Red Rock Cod, Ocean Perch, Pacific Cod, Halibut, Coho Salmon, Atlantic Salmon Portions, Lane Snapper, Tilapia, All Natural Salmon Fillet, Pacific Sole, and Farm Raised Striped Bass. These products were sold to restaurant and Albertsons, Safeway, and Sprouts supermarkets in Colorado. The Pacific Cod sold through Sprouts is not being recalled. A full list of recalled products is available on FDA’s website ."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers should not eat, sell, or serve any recalled seafood. Recalled seafood was sold fresh and would be past shelf-life unless it was frozen after purchase. FDA recommends that anyone who might have purchased or received recalled product, check their freezers and throw away recalled product."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "A full list of recalled products is available on FDA’s website ."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Northeast Seafood Products"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Total Illnesses: 115 Hospitalizations: 20 Deaths: 0 Last Illness Onset: September 7, 2021 States with Cases: AZ (1), CA (1), CO (93), CT (1), IA (1), MN (2), MO (1), NE (2), NJ (2), PA (1), TX (2), VA (3), WA (1), WI (2), WY (2) Product Distribution*: CO *States with confirmed distribution; product could have been distributed further"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009"
+      ],
+      "stage_source_sha256": "c44eff546ade70b9dfe6855fa63c14473514d57574ede0e976c82892a17b4bab"
+    }
+  ]
+}

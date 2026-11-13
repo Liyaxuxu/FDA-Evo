@@ -1,0 +1,212 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1048",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Dole Packaged Salad (December 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-dole-packaged-salad-december-2021",
+  "frozen_source_path": "t1/frozen_sources/case-1048.txt",
+  "frozen_source_sha256": "3ac457ce1b6187e403b9e7377946b42cd6bc741b8b51059f98e7c9cb04c1d6b0",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2021-12-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "December 23, 2021"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Listeria monocytogenes infections potentially linked to Dole packaged leafy greens. According to the CDC, as of December 22, 2021, 16 people infected with the outbreak strain of Listeria monocytogenes have been reported from 13 states. Illnesses started on dates ranging from August 16, 2014 to October 17, 2021 (one case occurred in 2014 and the remaining cases occurred between 2018 and 2021)."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "CDC investigated this outbreak in 2019 and 2020 but was unable to gather enough data to identify the source in the past. CDC reopened the investigation in November 2021 when four new illnesses were reported since the end of August."
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "In October 2021, as a part of routine retail sampling, the Georgia Department of Agriculture collected a product sample of prepackaged salad mix from a grocery store for testing. The sample tested positive for Listeria monocytogenes . In response to the sample results, Dole initiated a recall of packaged garden salads in October 2021. These products are now past their “Best if Used By” dates. The positive sample was later sent for whole genome sequencing (WGS) analysis; and in December 2021, WGS analysis was completed. The results show that the Listeria monocytogenes in the product sample was a match to the outbreak strain. FDA is conducting an inspection at the facility that produced the product that tested positive for Listeria monocytogenes ."
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "The Michigan Department of Agriculture and Rural Development also recently initiated retail sampling of Dole products in their state as part of this investigation. One product containing lettuce from the Dole facility in Yuma, AZ, tested positive for Listeria monocytogenes . WGS analysis showed that the Listeria monocytogenes in the product sample is also a match to the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "In response to the sample analyses and the ongoing outbreak investigation, Dole has agreed to voluntarily suspend operations at both the Bessemer City, NC, facility and Yuma, AZ, facility and has voluntarily recalled all products and brands from those facilities. Those products have production lot codes beginning with either the letter “N” or “Y” in the upper right-hand corner of the package and Best if Used By dates from November 30, 2021 to January 8, 2022."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "This recall does not include whole head packaged lettuce. A full list of recalled products is available on FDA's website."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "FDA and CDC are currently investigating two separate Listeria outbreaks linked to packaged salads. This outbreak is linked to packaged salads produced by Dole. The other outbreak is linked to packaged salads produced by Fresh Express . These investigations are ongoing, and additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034"
+      ],
+      "stage_source_sha256": "e75ea52882134e83ff4d18e2204444f60c462d4033712c8c8f34c242a3cc7248"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-02-01",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "February 1, 2022"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Listeria monocytogenes infections linked to Dole packaged leafy greens by epidemiologic, laboratory, and traceback data. According to the CDC, as of February 1, 2022, 17 people infected with the outbreak strain of Listeria monocytogenes have been reported from 13 states. Illnesses started on dates ranging from August 16, 2014, to December 30, 2021 (one case occurred in 2014 and the remaining cases occurred between 2018 and 2021). CDC investigated this outbreak in 2019 and 2020 but was unable to gather enough data to identify the source in the past. CDC reopened the investigation in November 2021 after reports of new illnesses."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "FDA sent investigators to multiple Dole processing facilities to conduct on-site inspections while at the same time Dole initiated their own investigation. On December 22, 2021, Dole voluntarily recalled all products and brands from their Bessemer City, NC, and Yuma, AZ, facilities. On January 7, 2022, as a result of continued investigations, Dole issued a voluntary recall of additional products after Dole detected the presence of Listeria monocytogenes on equipment used in the harvesting of the raw iceberg lettuce also used in finished products processed in the Dole Springfield, OH, and Soledad, CA, facilities. These products were shipped throughout the United States and several provinces in Canada. FDA analyzed the positive sample collected by Dole from the harvesting equipment. Results from FDA’s WGS analysis showed that the strain of Listeria monocytogenes found on the harvesting equipment matches the strain causing illnesses in this outbreak."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026"
+      ],
+      "stage_source_sha256": "2d4f1a20d1fdf44c6f8b20b959358330f80ea55a77d0bfbaa3974eeb9f50ef6e"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Listeria monocytogenes infections linked to Dole packaged leafy greens. A total of 18 people infected with the outbreak strain of Listeria monocytogenes were reported from 13 states. According to the CDC, as of April 4, 2022, this outbreak has ended."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "FDA sent investigators to multiple Dole processing facilities to conduct on-site inspections and Dole conducted a root cause analysis of their own in an effort to determine the potential source of contamination for this outbreak. Continued investigation conducted by Dole detected the presence of Listeria on a piece of equipment in their Yuma, AZ, facility. FDA conducted WGS analysis of an isolate shared by Dole, and the results confirmed that this isolate of Listeria matched the strain causing illness in this outbreak and also matched the strain of Listeria found in a positive product sample collected by the Michigan Department of Agriculture and Rural Development, as reported on December 23, 2021. Dole decommissioned and later dismantled this piece of equipment."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "As reported on February 1, 2022, following the initial voluntary recall issued by Dole on December 22, 2021 , Dole detected the presence of Listeria monocytogenes on equipment used in the harvesting of the iceberg lettuce that was also used in finished products processed in the Dole Springfield, OH, and Soledad, CA, facilities. This finding prompted a subsequent voluntary recall on January 7, 2022 ."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "FDA analyzed the positive samples collected by Dole from the harvesting equipment. Results from FDA’s Whole Genome Sequencing (WGS) analysis showed that the strain of Listeria found on the harvesting equipment matched the strain causing illnesses in this outbreak. Dole decommissioned the harvester and it was later dismantled. Product on hold that was included in the December 2021 recall was later tested by Dole and tested positive for the strain of Listeria monocytogenes that caused illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "During the investigation, operations at the Bessemer City, NC, and Yuma, AZ, facilities were temporarily halted for deep cleaning, sanitization, and verification swabbing, and have since resumed."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Epidemiologic, laboratory, and traceback data indicated that leafy greens produced by Dole were the source of this multistate outbreak. Dole cooperated with FDA inspectors, undertook a root cause analysis, and shared results of its root cause analysis with FDA. FDA plans to continue to work with industry, federal partners, state and local regulators, academia, and others to address the safety of leafy greens by advancing work in prevention, response, and addressing knowledge gaps."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "On April 4, 2022, CDC announced this outbreak is over. The product is past expiration and is no longer available to consumers. Therefore, there are no specific recommendations for consumers, retailers, or suppliers."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "In general, FDA recommends that anyone who received recalled products use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Packaged Salad"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Total Illnesses: 18 Hospitalizations: 16 Deaths: 3 Last illness onset: January 15, 2022 States with Cases: IA, ID, MD, MI, MN, NC, NV, OH, OR, PA, TX, UT, WI Product Distribution*: AL, AZ, CA, CO, CT, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, ND, NE, NV, NY, OH, OK, OR, PA, SC, TN, TX, VA, WA, WI"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "*Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Who to Contact"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "CDC Outbreak Page"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0021",
+        "BLOCK-0022"
+      ],
+      "stage_source_sha256": "bcd9cc34abddd572225080dc0aa8efb34e72b937e8de94ad1588209b13463532"
+    }
+  ]
+}

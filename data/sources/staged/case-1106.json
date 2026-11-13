@@ -1,0 +1,628 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1106",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Brie and Camembert Soft Cheese Products (September 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-brie-and-camembert-soft-cheese-products-september-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1106.txt",
+  "frozen_source_sha256": "423b509e2748c2397c1cbdfae3e4747fb8c2dade3b0fd38b4a38269c04312f95",
+  "stage_count": 5,
+  "stages": [
+    {
+      "source_order": 3,
+      "report_date": "2022-09-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "September 30, 2022"
+        },
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Listeria monocytogenes infections linked to Brie and Camembert soft cheese products manufactured by Old Europe Cheese, Inc. of Benton Harbor, MI, and sold at various retailers under multiple labels and brands, including Reny Picot."
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "Based on epidemiologic information provided by CDC, of the five patients with information available, four (80%) report eating Brie or Camembert cheese prior to illness. FDA, with assistance from the Michigan Department of Agriculture and Rural Development, has initiated an inspection at the Old Europe Cheese, Inc. facility in Michigan, which includes sample collection and analysis. Analysis of environmental samples collected at the facility showed the presence of Listeria monocytogenes . Whole Genome Sequencing (WGS) analysis determined that the Listeria strain found in the facility matches the Listeria strain causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "Old Europe Cheese, Inc. has voluntarily recalled multiple brands of Brie and Camembert cheeses produced at their Michigan facility in response to investigation findings. The firm has also halted production and distribution of their Brie and Camembert products from the Michigan facility and is working with FDA on corrective actions. Consumers, restaurants, and retailers should not eat, sell, or serve recalled products and should throw them away; this includes Best By Dates ranging from September 28, 2022 to December 14, 2022, and all flavors and quantities. A full list of recalled products and stores that potentially sold these products is available below and on the firm's recall."
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine if additional products are potentially contaminated. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0096",
+        "BLOCK-0097",
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100"
+      ],
+      "stage_source_sha256": "d99c3645e882d87354cc4c8a77d350ce6e5e66421ff47901dcc486d748615d27"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2022-10-06",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "October 6, 2022"
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Listeria monocytogenes infections linked to Brie and Camembert soft cheese products, including all baked Brie cheeses, manufactured by Old Europe Cheese, Inc. of Benton Harbor, MI, and sold at various retailers under multiple labels and brands."
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "On September 30, 2022, Old Europe Cheese, Inc. voluntarily recalled multiple brands of Brie and Camembert cheeses produced at their Michigan facility and on October 5, 2022 expanded their recall to include multiple brands of baked Brie products. The firm has also halted production and distribution of their Brie and Camembert products from the Michigan facility and is working with FDA on corrective actions. Consumers, restaurants, and retailers should not eat, sell, or serve recalled products and should throw them away; this includes Best By Dates ranging from September 28, 2022 to December 14, 2022, and all flavors and quantities."
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "An expanded list of recalled products and stores that potentially sold these products is available below and on the firm's recall. Swiss American has also issued a voluntary recall of their St. Louis Brie products sourced from Old Europe Cheese Inc.’s Michigan facility. A full list of their products can be found on the firm’s recall notice ."
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine if additional products are potentially contaminated. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095"
+      ],
+      "stage_source_sha256": "252d8aa94019e69a3ae815bed67863c2bb16ba7c737308806fbdf489f5e5c0a7"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-11-01",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0086",
+          "source_page": "Main",
+          "text": "November 1, 2022"
+        },
+        {
+          "block_id": "BLOCK-0087",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Listeria monocytogenes infections linked to Brie and Camembert soft cheese products, including all of their baked Brie cheeses, manufactured by Old Europe Cheese, Inc. of Benton Harbor, MI, and sold at various retailers under multiple labels and brands."
+        },
+        {
+          "block_id": "BLOCK-0088",
+          "source_page": "Main",
+          "text": "On September 30, 2022, Old Europe Cheese, Inc. voluntarily recalled multiple brands of Brie and Camembert cheeses produced at their Michigan facility and on October 5, 2022, expanded their recal l to include multiple brands of baked Brie products. On October 28, 2022, an initial list of retail establishments in Alabama, Louisiana, Maine, Massachusetts, Michigan, New Hampshire, Rhode Island, and Vermont that received recalled bulk Brie and Camembert cheese from Old Europe Cheese, Inc. was added to the firm’s recall notification."
+        },
+        {
+          "block_id": "BLOCK-0089",
+          "source_page": "Main",
+          "text": "An expanded list of recalled products and stores that potentially sold these products is available below and on the firm's recall."
+        },
+        {
+          "block_id": "BLOCK-0090",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine if additional products are potentially contaminated. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0086",
+        "BLOCK-0087",
+        "BLOCK-0088",
+        "BLOCK-0089",
+        "BLOCK-0090"
+      ],
+      "stage_source_sha256": "07e3b7e44a866abe0a7958f573d0f83f251cfbc852f996eb65bbfa3b90d516b3"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-11-10",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0081",
+          "source_page": "Main",
+          "text": "November 10, 2022"
+        },
+        {
+          "block_id": "BLOCK-0082",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Listeria monocytogenes infections linked to Brie and Camembert soft cheese products, including all baked Brie cheeses, manufactured by Old Europe Cheese, Inc. of Benton Harbor, MI, and sold at various retailers under multiple labels and brands."
+        },
+        {
+          "block_id": "BLOCK-0083",
+          "source_page": "Main",
+          "text": "On September 30, 2022, Old Europe Cheese, Inc. voluntarily recalled multiple brands of Brie and Camembert cheeses produced at their Michigan facility and on October 5, 2022 expanded their recall to include multiple brands of baked Brie products. On November 4, 2022, the firm’s recall notification was updated to include an expanded list of retail establishments that received recalled bulk Brie and Camembert cheese from Old Europe Cheese, Inc."
+        },
+        {
+          "block_id": "BLOCK-0084",
+          "source_page": "Main",
+          "text": "The list of recalled products and stores that potentially sold these products is available below and on the firm's recall."
+        },
+        {
+          "block_id": "BLOCK-0085",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing to determine if additional products are potentially contaminated. Updates to this advisory will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0081",
+        "BLOCK-0082",
+        "BLOCK-0083",
+        "BLOCK-0084",
+        "BLOCK-0085"
+      ],
+      "stage_source_sha256": "06a36f920e839a647c0b27c0acbd7ccfd6e1bdbd4ce6e024d3150f7980440cb2"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Listeria monocytogenes infections linked to Brie and Camembert soft cheese products, including baked Brie cheeses, manufactured by Old Europe Cheese, Inc. of Benton Harbor, MI, and sold at various retailers under multiple labels and brands."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "As of December 9, 2022, CDC announced that the outbreak is over with a total of six illnesses in six states."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On September 30, 2022, Old Europe Cheese, Inc. voluntarily recalled multiple brands of Brie and Camembert cheeses produced at their Michigan facility and on October 5, 2022 expanded their recall to include multiple brands of baked Brie products. On November 4, 2022, the firm’s recall notification was updated to include an expanded list of retail establishments that received recalled bulk Brie and Camembert cheese from Old Europe Cheese, Inc. The list of recalled products and stores that potentially sold these products is available below and on the firm's recall."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On March 17, 2023, FDA issued a Warning Letter to Old Europe Cheese, Inc. following an inspection initiated as part of the multistate outbreak investigation."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Recalled products are no longer available for sale, but the recalled baked Brie products may have been sold frozen or purchased and later frozen by consumers, so consumers should check their freezers for any recalled Old Europe Cheese, Inc. products, including baked brie, with Best By Dates ranging from September 28, 2022, to December 14, 2022. If you have recalled frozen Old Europe Cheese products in your freezer, do not eat or serve them and throw them away."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Follow FDA’s safe handling and cleaning advice and use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination, including retailers who repackaged bulk recalled cheese. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Total Illnesses: 6 Hospitalizations: 5 Deaths: 0 Last illness onset: August 5, 2022 States with Cases: CA, GA, MA, MI, NJ, TX Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers should not eat, sell, or serve recalled products listed below and should throw them away; this includes Best By Dates ranging from September 28, 2022, to December 14, 2022, and all flavors and quantities. A more detailed list of products is available on the firm’s recall."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Baked Brie Products:"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Culinary Tour Plain Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Culinary Tour Cranberry Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "La Bonne Vie Plain Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "La Bonne Vie Cranberry Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "LIDL Plain Baked Brie Clamshell"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "LIDL Cranberry Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "LIDL Fig Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Primo Taglio Plain Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Reny Picot Plain Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Reny Picot Cranberry Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "Reny Picot Apple Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Reny Picot Fig Baked Brie"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Brie and Camembert Brands:"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Reny Picot"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Black Bear"
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Block & Barrel"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "Charmant"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "Cobblestone"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "Culinary Tour"
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Fredericks"
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Fresh Thyme"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Glenview Farms"
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "Good & Gather"
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Heinen’s"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "Joan of Arc"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "La Bonne Vie"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Lidl Preferred Selection"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Life in Provence"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Matrie’d"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Market 32"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Metropolitan"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Prestige"
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "Primo Taglio"
+        },
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "Red Apple Cheese"
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "St. Randeaux"
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "Taste of Inspiration"
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "St. Rocco"
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "Trader Joe"
+        },
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "St. Louis Brie (Swiss American)"
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "The products were distributed from August 01, 2022, through September 28, 2022, and were available at supermarkets, and wholesale and retail stores nationwide and in Mexico. Retailers include:"
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "Albertsons"
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "Athenian Foods"
+        },
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "Fresh Thyme"
+        },
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "Giant Foods"
+        },
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "Harding’s"
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "Lidl"
+        },
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "Market Basket"
+        },
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "Meijer"
+        },
+        {
+          "block_id": "BLOCK-0069",
+          "source_page": "Main",
+          "text": "Price Chopper"
+        },
+        {
+          "block_id": "BLOCK-0070",
+          "source_page": "Main",
+          "text": "Raley’s"
+        },
+        {
+          "block_id": "BLOCK-0071",
+          "source_page": "Main",
+          "text": "Safeway"
+        },
+        {
+          "block_id": "BLOCK-0072",
+          "source_page": "Main",
+          "text": "Save Mart"
+        },
+        {
+          "block_id": "BLOCK-0073",
+          "source_page": "Main",
+          "text": "Shaw’s"
+        },
+        {
+          "block_id": "BLOCK-0074",
+          "source_page": "Main",
+          "text": "Stop & Shop"
+        },
+        {
+          "block_id": "BLOCK-0075",
+          "source_page": "Main",
+          "text": "Sprouts"
+        },
+        {
+          "block_id": "BLOCK-0076",
+          "source_page": "Main",
+          "text": "Whole Foods"
+        },
+        {
+          "block_id": "BLOCK-0077",
+          "source_page": "Main",
+          "text": "This list may not include all retail establishments that have received the recalled product or may include retail establishments that did not actually receive the recalled product."
+        },
+        {
+          "block_id": "BLOCK-0078",
+          "source_page": "Main",
+          "text": "For recalled bulk Brie and Camembert: Here is a list of retail establishments that received recalled bulk Brie and Camembert cheese from Old Europe Cheese, Inc. This repackaged product is likely no longer available for sale and past expiration; however, consumers should note that these products may not bear the original labeling and product information indicating that is it an Old Europe Cheese, Inc. product."
+        },
+        {
+          "block_id": "BLOCK-0079",
+          "source_page": "Main",
+          "text": "If you are unsure of what brand your Brie or Camembert cheese is, or if it is a recalled Old Europe Cheese, Inc. product, ask your retailer or throw it away."
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053",
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058",
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062",
+        "BLOCK-0063",
+        "BLOCK-0064",
+        "BLOCK-0065",
+        "BLOCK-0066",
+        "BLOCK-0067",
+        "BLOCK-0068",
+        "BLOCK-0069",
+        "BLOCK-0070",
+        "BLOCK-0071",
+        "BLOCK-0072",
+        "BLOCK-0073",
+        "BLOCK-0074",
+        "BLOCK-0075",
+        "BLOCK-0076",
+        "BLOCK-0077",
+        "BLOCK-0078",
+        "BLOCK-0079"
+      ],
+      "stage_source_sha256": "30b071ece3725f12db8c9613c3a26d0aba38fe33bf8b2e366e1fdc6e41d7b90d"
+    }
+  ]
+}

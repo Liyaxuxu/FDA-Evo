@@ -1,0 +1,614 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "E-435502",
+  "title": "Outbreak Investigation of Salmonella Enteritidis: Peaches (August 2020) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-enteritidis-peaches-august-2020",
+  "frozen_source_path": "t1/frozen_sources/case-E-435502.txt",
+  "frozen_source_sha256": "b322ff1d1a190883c90bcb66c0f6d90e2a4cbd6baa1835795f22c0c426dd7645",
+  "stage_count": 9,
+  "stages": [
+    {
+      "source_order": 7,
+      "report_date": "2020-08-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0257",
+          "source_page": "Main",
+          "text": "August 19, 2020"
+        },
+        {
+          "block_id": "BLOCK-0258",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Enteriditis infections. State officials from the Minnesota Department of Health reported that many of the people sick with the same strain of Salmonella Enteritidis, confirmed by Whole Genome Sequencing (WGS), had purchased Wawona-brand bagged peaches from ALDI prior to becoming ill."
+        },
+        {
+          "block_id": "BLOCK-0259",
+          "source_page": "Main",
+          "text": "In response to FDA investigators, ALDI reported to FDA that potentially affected bagged peaches were shipped to CT, IA, IL, KY, MA, MI, MN, ND, NH, NY, OH, RI, SD, VT, WI, and WV. ALDI also reported to FDA that the sole supplier of the bagged peaches to stores reported by cases during the timeframe of interest was Wawona Packing Company, LLC. FDA’s traceback investigation is ongoing to identify the source of this outbreak and to determine if potentially contaminated product has been shipped to additional retailers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0257",
+        "BLOCK-0258",
+        "BLOCK-0259"
+      ],
+      "stage_source_sha256": "f2b6a4973d31db2b826d6b752135a95e8e67377d5f0cd6bab02a0a19928f605c"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2020-08-21",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0252",
+          "source_page": "Main",
+          "text": "August 21, 2020"
+        },
+        {
+          "block_id": "BLOCK-0253",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Enteriditis infections. State officials from the Minnesota Department of Health reported that many of the people sick with the same strain of Salmonella Enteritidis, confirmed by Whole Genome Sequencing (WGS), had purchased Wawona-brand bagged peaches from ALDI prior to becoming ill."
+        },
+        {
+          "block_id": "BLOCK-0254",
+          "source_page": "Main",
+          "text": "In its recall press release , issued on August 19, 2020, ALDI reported that potentially affected bagged peaches were shipped to at least CT, FL, IA, IL, KY, MA, MD, MI, MN, ND, NH, NY, OH, PA, RI, SD, VA, VT, WI, and WV. ALDI also reported to FDA that the sole supplier of the bagged peaches to stores reported by cases during the timeframe of interest was Wawona Packing Company, LLC. Target stores also recalled multiple varieties of peaches."
+        },
+        {
+          "block_id": "BLOCK-0255",
+          "source_page": "Main",
+          "text": "FDA and CDC presented existing epidemiological evidence to Wawona Packing Company, LLC. and on August 21, 2020, Wawona Packing Company LLC. voluntarily recalled bagged Wawona-brand peaches distributed from June 1 to present in multiple states ."
+        },
+        {
+          "block_id": "BLOCK-0256",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation is ongoing to identify the source of this outbreak and to determine if potentially contaminated product has been shipped to additional retailers. CDC reports that epidemiologic evidence indicates that peaches are the likely source of this outbreak. FDA is working closely with CDC and state partners to determine if peaches not packaged in bags are also a source of illness."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0252",
+        "BLOCK-0253",
+        "BLOCK-0254",
+        "BLOCK-0255",
+        "BLOCK-0256"
+      ],
+      "stage_source_sha256": "483cea18fc4c1f52ccbfea71f9edd01ff677e0d2f2131d490f00237e06862d68"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2020-08-22",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0248",
+          "source_page": "Main",
+          "text": "August 22, 2020"
+        },
+        {
+          "block_id": "BLOCK-0249",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Enteritidis infections."
+        },
+        {
+          "block_id": "BLOCK-0250",
+          "source_page": "Main",
+          "text": "FDA and CDC presented existing epidemiological evidence to Prima Wawona and on August 21, 2020, Prima Wawona voluntarily recalled bagged Wawona-brand peaches distributed from June 1, 2020 until August 19, 2020 in multiple states. On August 22, 2020, the firm expanded that recall to include bulk, or loose, peaches distributed nationwide from June 1, 2020 until August 3, 2020."
+        },
+        {
+          "block_id": "BLOCK-0251",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation is working to identify the source of this ongoing outbreak, whether additional peaches are affected, and to determine if potentially contaminated product has been shipped to additional retailers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0248",
+        "BLOCK-0249",
+        "BLOCK-0250",
+        "BLOCK-0251"
+      ],
+      "stage_source_sha256": "696f3961a3c578512cc7997f918ceabc1e03d83e5982ebed59bc1da5176635f9"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2020-08-24",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0244",
+          "source_page": "Main",
+          "text": "August 24, 2020"
+        },
+        {
+          "block_id": "BLOCK-0245",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, is investigating a multistate outbreak of Salmonella Enteritidis infections."
+        },
+        {
+          "block_id": "BLOCK-0246",
+          "source_page": "Main",
+          "text": "On August 23, 2020, the Public Health Agency of Canada and the Canadian Food Inspection Agency issued public health and consumer advisories reporting cases in Canada associated with this outbreak and warning consumers to avoid eating recalled Prima Wawona peaches."
+        },
+        {
+          "block_id": "BLOCK-0247",
+          "source_page": "Main",
+          "text": "FDA's traceback investigation is working to identify the source of this ongoing outbreak, whether additional peaches are affected, and to determine if potentially contaminated product has been shipped to additional retailers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0244",
+        "BLOCK-0245",
+        "BLOCK-0246",
+        "BLOCK-0247"
+      ],
+      "stage_source_sha256": "f2bf72b557d0a5ebaa53604c10fb599f1157230322ebc0c429e18fc58b2e318f"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2020-08-27",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0241",
+          "source_page": "Main",
+          "text": "August 27, 2020"
+        },
+        {
+          "block_id": "BLOCK-0242",
+          "source_page": "Main",
+          "text": "On August 26, 2020, ALDI issued an expanded recall to include bagged and bulk, or loose peaches distributed to select stores in multiple states. On August 27, 2020, additional retailers were added to the list of recalls."
+        },
+        {
+          "block_id": "BLOCK-0243",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation is working to identify the source of this ongoing outbreak, whether additional peaches are affected, and to determine if potentially contaminated product has been shipped to additional retailers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0241",
+        "BLOCK-0242",
+        "BLOCK-0243"
+      ],
+      "stage_source_sha256": "10277a1a355c6a3ed498491e9da83a9ead4eaedb1834e864bfba0219a4153d94"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2020-08-28",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0238",
+          "source_page": "Main",
+          "text": "August 28, 2020"
+        },
+        {
+          "block_id": "BLOCK-0239",
+          "source_page": "Main",
+          "text": "As of August 28, 2020, Canada , Singapore , and New Zealand have issued recalls of Prima Wawona peaches. Information received by FDA indicates that recalled Wawona peaches were shipped to foreign consignees in Australia, Canada, China, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Panama, the Philippines, Singapore, Taiwan, and the United Arab Emirates. FDA is sharing distribution information directly with foreign food safety authorities in these jurisdictions."
+        },
+        {
+          "block_id": "BLOCK-0240",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation is working to identify the source of this ongoing outbreak, whether additional peaches are affected, and to determine if potentially contaminated product has been shipped to additional retailers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0238",
+        "BLOCK-0239",
+        "BLOCK-0240"
+      ],
+      "stage_source_sha256": "e1ed19c5be76e04348e6abb2ad45f14cc6b53c5ab6be72ab679bfbd327d6f811"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2020-10-15",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0234",
+          "source_page": "Main",
+          "text": "October 15, 2020"
+        },
+        {
+          "block_id": "BLOCK-0235",
+          "source_page": "Main",
+          "text": "FDA investigators, as well as California state officials, inspected four Prima Wawona cold storage and/or packing facilities identified through traceback. Investigators also collected environmental and/or product samples from identified facilities. All samples from these facilities were reported as negative for Salmonella."
+        },
+        {
+          "block_id": "BLOCK-0236",
+          "source_page": "Main",
+          "text": "FDA investigators also collected a sample of peach tree leaves and peaches. Four out of 40 subsamples of leaves and peaches collected from the orchard were reported positive for Salmonella; however, further analysis of the sample determined that the positive sample result did not match the outbreak strain and therefore does not explain the illnesses associated with this outbreak. Based on the positive Salmonella finding, Prima Wawona acted quickly to prevent potentially affected product from reaching the market."
+        },
+        {
+          "block_id": "BLOCK-0237",
+          "source_page": "Main",
+          "text": "Although CDC has declared that the outbreak is over, FDA will continue its investigation and is working with the firm to evaluate the efficacy of their food safety measures and develop corrective steps to prevent future contamination events. FDA will communicate any findings that could assist future prevention efforts."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0234",
+        "BLOCK-0235",
+        "BLOCK-0236",
+        "BLOCK-0237"
+      ],
+      "stage_source_sha256": "cbb19cdbecfcea9c50f21c123aa5ca87cae8e057b02fd1d1da5e2b818b44bd3e"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2020-10-16",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0229",
+          "source_page": "Main",
+          "text": "October 16, 2020"
+        },
+        {
+          "block_id": "BLOCK-0230",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, Canadian, state and local partners, has been investigating a multistate outbreak of Salmonella Enteritidisinfections linked to peaches packed or supplied by Prima Wawona or Wawona Packing Company."
+        },
+        {
+          "block_id": "BLOCK-0231",
+          "source_page": "Main",
+          "text": "The multistate outbreak of Salmonella Enteritidis infections linked to peaches from Prima Wawona that were sold in several regions of the United States and Canada, investigated by the FDA, along with CDC and Canadian, state, and local partners, is over. As of October 16, 2020, CDC reported a total of 101 cases across 17 states. This outbreak resulted in recalls of bagged and bulk, or loose, peaches packed or distributed by Prima Wawona. FDA also worked to publicly disclose international distribution of recalled product from Prima Wawona in an effort to facilitate the swift removal of all potentially affected product from the international market. More information about international distribution of the recalled product can be found in the previously published table below ."
+        },
+        {
+          "block_id": "BLOCK-0232",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation, which included 18 cases across eight states, identified multiple distributors, packing facilities, and orchards that supplied peaches during the time period of interest. Investigators from FDA, the California Department of Public Health (CDPH) and the California Department of Food and Agriculture (CDFA) visited Wawona packing facilities and/or orchards that likely supplied peaches to Prima Wawona during the timeframe of interest. FDA’s traceback investigation is ongoing; however, the cause and source of the outbreak has not yet been determined."
+        },
+        {
+          "block_id": "BLOCK-0233",
+          "source_page": "Main",
+          "text": "Thus far, in an effort to investigate several possible pathways of contamination, FDA has completed over 570 product and environmental sample analyses from multiple facility locations and/or peach orchards, including environmental swabs, peaches and peach tree leaf samples. At this time, sample collection and analysis is underway related to additional peach orchards. A genetic match to the outbreak strain has yet to be identified in any of the samples collected, although a different serogroup of Salmonella was detected in one sample collected and analyzed during the investigation. No peaches linked to the positive sample ever reached the marketplace. Although the outbreak is being declared over, FDA will continue its investigation and will communicate any findings that could assist future prevention efforts."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-0229",
+        "BLOCK-0230",
+        "BLOCK-0231",
+        "BLOCK-0232",
+        "BLOCK-0233"
+      ],
+      "stage_source_sha256": "b4b8a1ca69c992dc42d8f4cae383a4e6562e8797931ac9601ed28862b4e1dc35"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "On June 11, 2021, the U.S. Food and Drug Administration (FDA) released a report on its investigation of the Salmonella Enteritidis outbreak in Peaches . The FDA and multiple state and federal partners investigated an outbreak of Salmonella Enteritidis infections that were linked to the consumption of peaches during the summer of 2020. In total, the outbreak caused 101 reported illnesses across 17 states, including 28 hospitalizations."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "The FDA conducted this investigation in conjunction with the U.S. Centers for Disease Control and Prevention (CDC), state partners, and Canadian public health officials between August and October 2020. While investigators did not find the outbreak strain, and the strains of Salmonella found during this outbreak were not linked to any clinical illnesses, the investigational findings reinforce the FDA’s concern about the potential impact that adjacent land uses can have on the safety of produce."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "The FDA views the implementation of appropriate science- and risk-based measures to reduce the potential for contamination of peaches and other produce as the most effective and practicable means to improve the safety of fresh produce, especially when measures are tailored to the specific practices and conditions on individual farms. The FDA encourages all growers to be cognizant of and assess risks that may be posed by adjacent and nearby land uses, including for the potential impact of dust exposure. The FDA also recognizes the interconnection between people, animals, plants, and their shared environment when it comes to public health outcomes, and we encourage collaboration among various groups in the broader agricultural community (e.g., produce growers, those managing animal operations, state and federal government agencies, and academia) to address this issue."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "For additional information:"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "FDA Releases Investigation Findings Following Summer 2020 Outbreak Linked to Peaches"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Factors Potentially Contributing to the Contamination of Peaches Implicated in the Summer 2020 Outbreak of Salmonella Enteritidis"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Recall Information (Updated October 16, 2020)"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled Peaches"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "On August 22, 2020, Prima Wawona recalled bagged and bulk, or loose, peaches that they supplied to retailers nationwide."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "The firm’s press states it is recalling “bulk/loose peaches distributed and sold from June 1 through August 3 and its bagged Wawona and Wawona Organic peaches distributed and sold from June 1 through August 19th because the products could possibly be contaminated with Salmonella .”"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "The bagged peaches were distributed and sold in supermarkets with the following product codes:"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Wawona Peaches – 033383322001"
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Wawona Organic Peaches – 849315000400"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Prima® Peaches – 766342325903"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Organic Marketside Peaches – 849315000400"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Kroger Peaches – 011110181749"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Wegmans Peaches – 077890490488"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "For bagged peaches, the product codes may be found at the bottom of each package. All affected peaches may be found in stores nationwide."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Retailers that received recall product from Prima Wawona or Wawona Packing Company include, but are not limited to:"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "ALDI"
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "ALDI's recall has expanded to include bagged and loose Wawona brand peaches in multiple states"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "Festival Foods"
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Food Lion"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Hannaford"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Kroger recall , including the following affiliated retailers:"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Jay-C"
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "King Soopers"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "City Market"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Fry's"
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "Ralphs"
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "Food 4 Less"
+        },
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "Foods Co."
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "Smiths"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Stop & Shop"
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "Target"
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "Walmart"
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Wegmans"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "Wegmans is also recalling in-store produced bakery items containing recalled peaches"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "The bulk/loose peaches supplied by Prima Wawona are sold in grocery stores in a variety of formats, typically bins where consumers may select their own fruit and may have the following stickers with PLU numbers on them: 4037, 4038, 4044, 4401, 94037, 94038, 94044, 94401. Please note that not all peaches with these PLU codes are supplied by Prima Wawona. If you are unsure of the brand or variety of your loose peaches, you can contact your retailer or supplier, or throw them out."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "Recalls have also been initiated by companies that sold peaches or products containing recalled peaches."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Russ Davis Wholesale"
+        },
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "Recalling peach salsa and gift baskets made from recalled Prima Wawona peaches"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "Below is a list of consignees that the FDA had reason to believe received peaches from Prima Wawona that shipped or distributed to countries outside the United States. It is possible that this list may not include all such consignees who may have received the peaches. However, this list represents the best information currently available to the FDA:"
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "International Distribution Information as of 8/28/2020"
+        },
+        {
+          "block_id": "BLOCK-ADD-TABLE-E-435502-01",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-E-435502-01]"
+        },
+        {
+          "block_id": "BLOCK-0212",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0213",
+          "source_page": "Main",
+          "text": "View larger images"
+        },
+        {
+          "block_id": "BLOCK-0214",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0215",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0216",
+          "source_page": "Main",
+          "text": "Total Illnesses: 101 Hospitalizations: 28 Deaths: 0 Last illness onset Date: August 27, 2020 States with Cases: CA, CT, IA, KS, KY, MD, MI, MN, MO, NJ, NY, OH, PA, VA, VT, WI Product Distribution*: Nationwide"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030",
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040",
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-ADD-TABLE-E-435502-01",
+        "BLOCK-0212",
+        "BLOCK-0213",
+        "BLOCK-0214",
+        "BLOCK-0215",
+        "BLOCK-0216"
+      ],
+      "stage_source_sha256": "767eb0cdccb8148e45317bdca74db7040b576b735c6a41850e21927cf1dbf80e"
+    }
+  ]
+}

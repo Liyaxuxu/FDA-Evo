@@ -1,0 +1,48 @@
+# CASE 1215 reviewed source
+Title: Outbreak Investigation of E. coli O157:H7: Raw Cheddar Cheese (February 2024) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-february-2024
+Source blocks SHA256: d2af9bb4ef2552a6f097c844eb0ff0577ce9134969d25eb7aa40ffbafff5e0de
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Images of Additional Products
+[BLOCK-0001 | role=report_evidence] Products:
+[BLOCK-0002 | role=report_evidence] All sizes of RAW FARM-brand Raw Cheddar cheese blocks, Original Flavor and Cheddar with added Jalapeno Flavor, with best by dates through 10/4/2024
+[BLOCK-0003 | role=report_evidence] All sizes of RAW FARM-brand Raw Cheddar shredded cheese, Original Flavor and Cheddar with added Jalapeno Flavor, with best by dates through 5/10/2024
+[BLOCK-0004 | role=report_evidence] Symptoms of E. coli :
+[BLOCK-0005 | role=report_evidence] Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later. Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting.
+[BLOCK-0006 | role=report_evidence] The severity or presence of certain symptoms may depend on the type of pathogenic E. coli causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems.
+[BLOCK-0007 | role=report_evidence] Stores Affected
+[BLOCK-0008 | role=report_evidence] Sold at retailers nationwide.
+[BLOCK-0009 | role=report_evidence] Status
+[BLOCK-0010 | role=report_evidence] CDC declares outbreak over as of March 26, 2024.
+[BLOCK-0011 | role=report_evidence] Recommendations:
+[BLOCK-0012 | role=report_evidence] Do not eat, sell, or serve all sizes of RAW FARM-brand Raw Cheddar cheese blocks (with best by dates through 10/4/2024) and shredded cheese (with best by dates through 5/10/2024).
+[BLOCK-0013 | role=report_evidence] Check your refrigerators and freezers for all sizes of RAW FARM-brand Raw Cheddar cheese blocks (with best by dates through 10/4/2024) and shredded cheese (with best by dates through 5/10/2024) and throw them away.
+[BLOCK-0014 | role=report_evidence] If you froze a product without the original packaging and can’t identify the brand or best by date, throw it away.
+[BLOCK-0015 | role=report_evidence] Consumers, restaurants, and retailers who purchased or received all sizes of RAW FARM-brand Raw Cheddar cheese blocks (with best by dates through 10/4/2024) and shredded cheese (with best by dates through 5/10/2024), including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination.
+[BLOCK-0016 | role=report_evidence] Due to the range in severity of illness, people should consult their health care provider if they suspect that they have developed symptoms that resemble an E. coli infection.
+[BLOCK-0017 | role=report_evidence] Current Update
+[BLOCK-0018 | role=report_evidence] March 26, 2024
+[BLOCK-0019 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated a multistate outbreak of E. coli O157:H7 linked to all sizes of RAW FARM-brand Raw Cheddar cheese blocks (with best by dates through 10/4/2024) and shredded cheese (with best by dates through 5/10/2024).
+[BLOCK-0020 | role=report_evidence] As part of this investigation, officials in CO, CA, and UT collected various RAW FARM-brand products for testing, and all samples were negative for E. coli . While E. coli has not been found in product samples, epidemiologic evidence shows that RAW FARM-brand Raw Cheddar cheese made by RAW FARM, LLC is the likely source of this outbreak.
+[BLOCK-0021 | role=report_evidence] As of March 26, 2024, CDC announced that the outbreak is over. CDC reports a total of 11 illnesses in five states. There has been a total of five hospitalizations; two developed hemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure. No deaths were reported. The last illness onset date was February 5, 2024. FDA’s outbreak investigation is closed.
+[BLOCK-0022 | role=report_evidence] FDA and CDC will continue to monitor for additional illnesses, and this investigation may be reopened if additional cases are identified.
+[BLOCK-0023 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0024 | role=report_evidence] Case Counts
+[BLOCK-0025 | role=report_evidence] Total Illnesses: 11 Hospitalizations: 5 Deaths: 0 Last Sample Collection Dates: February 5, 2024 States with Cases: CA, CO, NJ, TX, UT Product Distribution: Nationwide
+[BLOCK-0033 | role=report_evidence] Previous Update
+[BLOCK-0034 | role=report_evidence] February 28, 2024
+[BLOCK-0035 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are continuing to investigate a multistate outbreak of E. coli O157:H7.
+[BLOCK-0036 | role=report_evidence] As this investigation is ongoing, FDA and CDC continue to recommend that people do not eat, sell, or serve RAW FARM-brand Raw Cheddar cheese made by RAW FARM, LLC, of Fresno, CA. State and local public health officials have interviewed people about the foods they ate in the week before they became sick. Nearly all sick people, seven out of nine (78%), reported eating RAW FARM-brand Raw Cheddar cheese and this continues to show these cheeses are the likely source of this outbreak. E. coli can cause an infection that may lead to serious kidney problems. Anyone who ate the raw cheeses and has symptoms of E. coli infection should contact their healthcare provider.
+[BLOCK-0037 | role=report_evidence] As of February 28, 2024, a total of 11 confirmed infections have been reported from five states, including CA (4), CO (3), NJ (1), TX (1), and UT (2). Whole genome sequencing analysis of E. coli isolates from ill people shows that they are all closely related genetically to each other. This means that people in this outbreak are likely to share a common source of infection. Five patients have been hospitalized; two developed hemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure. No deaths have been reported.
+[BLOCK-0038 | role=report_evidence] Health officials in CO, CA, and UT have collected various RAW FARM-brand products for testing, including Raw Milk, Raw Butter, Raw Cheddar cheese, and Raw Kefir. So far, no product samples have detected E. coli. While E. coli has not been found in product samples, epidemiologic evidence shows that RAW FARM-brand Raw Cheddar cheese made by RAW FARM, LLC is the likely source of this outbreak. Additional testing is ongoing.
+[BLOCK-0039 | role=report_evidence] In response to this investigation, on February 16, 2024, RAW FARM, LLC initiated a recall of certain lots of RAW FARM-brand Raw Cheddar cheese currently within shelf life. On February 26, 2024, RAW FARM, LLC withdrew their voluntary recall.
+[BLOCK-0040 | role=report_evidence] The investigation is ongoing, and FDA will update this advisory should additional consumer safety information become available.
+[BLOCK-0041 | role=report_evidence] February 16, 2024
+[BLOCK-0042 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating a multistate outbreak of E. coli O157:H7 infections linked to RAW FARM-brand Raw Cheddar cheese made by RAW FARM, LLC, of Fresno, CA.
+[BLOCK-0043 | role=report_evidence] As of February 16, 2024, a total of 10 confirmed infections have been reported from four states, including CA (4), CO (3), TX (1), and UT (2). Whole genome sequencing analysis of E. coli isolates from ill people shows that they are all closely related genetically to each other. This means that people in this outbreak are likely to share a common source of infection. Four patients have been hospitalized; one developed hemolytic uremic syndrome (HUS), a serious condition that can lead to kidney failure. No deaths have been reported.
+[BLOCK-0044 | role=report_evidence] State and local public health officials have interviewed people about the foods they ate in the week before they became ill. Six (75%) ill people reported consuming RAW FARM- brand Raw Cheddar cheese. Epidemiologic evidence shows that RAW FARM- brand Raw Cheddar cheese made by RAW FARM, LLC are the likely source of this outbreak.
+[BLOCK-0045 | role=report_evidence] In response to this investigation, on February 16, 2024, RAW FARM, LLC initiated a recall of certain lots of RAW FARM- brand Raw Cheddar cheese currently within shelf life. FDA is continuing to work with the firm to remove additional product from the market.
+[BLOCK-0046 | role=report_evidence] The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.

@@ -1,0 +1,127 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1115",
+  "title": "Outbreak Investigation of E. coli O121:H19 Frozen Falafel (October 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o121h19-frozen-falafel-october-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1115.txt",
+  "frozen_source_sha256": "d6f8a2fa57afb7acb245ccd6f07d82c9c75b48cb617b3082d076f8be653e50f0",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 0,
+      "report_date": "2022-10-11",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "October 11, 2022"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Based on epidemiologic information provided by CDC and interviews conducted by state and local public health officials, of 18 people interviewed, 15 reported shopping at ALDI stores. Among these 15 people who reported shopping at ALDI stores, 6 reported eating Earth Grown brand frozen falafel purchased from ALDI in the week before getting sick."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "On October 6, 2022, the manufacturer of Earth Grown frozen falafel, Cuisine Innovations, initiated a voluntary recall. Recalled products include Earth Grown vegan traditional falafel and garlic & herb falafel distributed and sold exclusively by ALDI. Additional information on recalled products is available in the firm’s recall notice."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "On October 6, 2022, ALDI removed any remaining Earth Grown frozen falafel from stores."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021"
+      ],
+      "stage_source_sha256": "0b30055393bd8ade7310feb12f9414116942671833695d22ad51f1524fe9e9de"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of E. coli O121:H19 infections linked to Earth Grown frozen falafel."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "As of December 1, 2022, CDC announced that the outbreak is over. There have been a total of 24 illnesses in six states. The last illness onset was October 24, 2022."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On October 7, 2022, the Michigan Department of Agriculture and Rural Development collected Earth Grown frozen falafel for testing from a sick person’s home. Whole Genome Sequencing done at the Michigan Department of Health & Human Services showed that the E. coli strain in the falafel sample was closely related to the strain causing illness in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On October 6, 2022, the manufacturer of Earth Grown frozen falafel, Cuisine Innovations, initiated a voluntary recall. Recalled products include Earth Grown vegan traditional falafel and garlic & herb falafel distributed and sold exclusively by ALDI. Additional information on recalled products is available in the firm’s recall notice."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "These items are no longer available for sale but were sold frozen and have a long shelf-life of 18 months, so consumers should check their freezers for any recalled Earth Grown vegan traditional falafel and garlic & herb falafel that was sold by ALDI. If you have recalled frozen falafel in your freezer, do not eat or serve them."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Total Illnesses: 24 Hospitalizations: 5 Deaths: 0 Last illness onset: October 24, 2022 States with Cases: FL (2), IA (2), KS (1), MI (13), OH (1), WI (5) Product Distribution: Nationwide"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010"
+      ],
+      "stage_source_sha256": "fadb32acb80cad589331518655237f71e83bc3f5c9dae2423253844ed5a06219"
+    }
+  ]
+}

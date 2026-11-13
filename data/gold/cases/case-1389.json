@@ -1,0 +1,216 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1389",
+  "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen GreenWise-brand organic blueberries",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0018",
+            "BLOCK-0019",
+            "BLOCK-0020"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GreenWise-brand organic blueberries",
+              "recalling_company": "Frutas y Hortalizas del Sur S.A.",
+              "brands": [
+                "GreenWise"
+              ],
+              "recall_scope": "10 oz; lot code 60401; Best by February 9, 2028"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0021"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 12,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-NEW-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 4,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-NEW-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-NEW-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-NEW-0002",
+            "BLOCK-NEW-0003",
+            "BLOCK-NEW-0004",
+            "BLOCK-NEW-0005",
+            "BLOCK-NEW-0006"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic frozen blueberries from Frutas y Hortalizas del Sur S.A.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "GreenWise Organic Whole Blueberries",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "GreenWise Organic Whole Mixed Berries",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-NEW-0015",
+            "BLOCK-NEW-0002",
+            "BLOCK-NEW-0003",
+            "BLOCK-NEW-0004",
+            "BLOCK-NEW-0005",
+            "BLOCK-NEW-0006",
+            "BLOCK-NEW-0007"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "GreenWise-brand organic blueberries",
+              "recalling_company": "Frutas y Hortalizas del Sur S.A.",
+              "brands": [
+                "GreenWise"
+              ],
+              "recall_scope": "10 oz; lot code 60401; Best by February 9, 2028"
+            },
+            {
+              "product_name": "GreenWise Organic Whole Blueberries",
+              "recalling_company": "Publix",
+              "brands": [
+                "GreenWise"
+              ],
+              "recall_scope": "all lots; 10 oz UPC 41415-06453 and 48 oz UPC 41415-12053"
+            },
+            {
+              "product_name": "GreenWise Organic Whole Mixed Berries",
+              "recalling_company": "Publix",
+              "brands": [
+                "GreenWise"
+              ],
+              "recall_scope": "all lots; 10 oz UPC 41415-06753 and 48 oz UPC 41415-12153"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-NEW-0002",
+            "BLOCK-NEW-0003",
+            "BLOCK-NEW-0004",
+            "BLOCK-NEW-0005",
+            "BLOCK-NEW-0006",
+            "BLOCK-NEW-0007"
+          ],
+          "evidence_exempt": false,
+          "note": "累计保留7月3日 Frutas y Hortalizas del Sur S.A. 的单批次召回，并另列7月29日 Publix 对全部批次两类 GreenWise 产品的扩大召回。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1273",
+  "title": "Outbreak Investigation of E. coli O121:H19: Organic Carrots (November 2024) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "27 people were interviewed; the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0202"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic whole and baby carrots supplied by Grimmway Farms",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0200",
+            "BLOCK-0201",
+            "BLOCK-0202"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "available at retail August 14 through October 23, 2024"
+            },
+            {
+              "product_name": "bagged organic baby carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "best-if-used-by dates September 11 through November 12, 2024"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0202"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "27 people were interviewed; the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0193",
+            "BLOCK-0195",
+            "BLOCK-0196",
+            "BLOCK-0197"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic whole and baby carrots supplied by Grimmway Farms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Grimmway Farms carrots",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0202",
+            "BLOCK-0193",
+            "BLOCK-0195",
+            "BLOCK-0196",
+            "BLOCK-0197"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "available at retail August 14 through October 23, 2024"
+            },
+            {
+              "product_name": "bagged organic baby carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "best-if-used-by dates September 11 through November 12, 2024"
+            },
+            {
+              "product_name": "Kickin’ Carrot Falafel Bites",
+              "recalling_company": "Fabalish Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrot Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrots & Celery Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0202",
+            "BLOCK-0193",
+            "BLOCK-0195",
+            "BLOCK-0196",
+            "BLOCK-0197"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "27 people were interviewed; the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0185",
+            "BLOCK-0186",
+            "BLOCK-0187",
+            "BLOCK-0188",
+            "BLOCK-0189"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic whole and baby carrots supplied by Grimmway Farms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Grimmway Farms carrots",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "available at retail August 14 through October 23, 2024"
+            },
+            {
+              "product_name": "bagged organic baby carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "best-if-used-by dates September 11 through November 12, 2024"
+            },
+            {
+              "product_name": "Kickin’ Carrot Falafel Bites",
+              "recalling_company": "Fabalish Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrot Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrots & Celery Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Bunny Luv"
+              ],
+              "recall_scope": "50-lb"
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Cal-Organic"
+              ],
+              "recall_scope": "15-lb and 50-lb"
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Good & Gather"
+              ],
+              "recall_scope": "1-lb"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0202",
+            "BLOCK-0196",
+            "BLOCK-0197",
+            "BLOCK-0185",
+            "BLOCK-0186",
+            "BLOCK-0187",
+            "BLOCK-0188",
+            "BLOCK-0189"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "27 people were interviewed; the total outbreak count is not stated."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0182"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic whole and baby carrots supplied by Grimmway Farms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Grimmway Farms carrots",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "available at retail August 14 through October 23, 2024"
+            },
+            {
+              "product_name": "bagged organic baby carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "best-if-used-by dates September 11 through November 12, 2024"
+            },
+            {
+              "product_name": "Kickin’ Carrot Falafel Bites",
+              "recalling_company": "Fabalish Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrot Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrots & Celery Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Bunny Luv"
+              ],
+              "recall_scope": "50-lb"
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Cal-Organic"
+              ],
+              "recall_scope": "15-lb and 50-lb"
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Good & Gather"
+              ],
+              "recall_scope": "1-lb"
+            },
+            {
+              "product_name": "Organic Vegetable Medley",
+              "recalling_company": "4Earth Farms",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Conventional Vegetable Medley",
+              "recalling_company": "4Earth Farms",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Whole Carrots",
+              "recalling_company": "4Earth Farms",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0202",
+            "BLOCK-0196",
+            "BLOCK-0197",
+            "BLOCK-0186",
+            "BLOCK-0187",
+            "BLOCK-0188",
+            "BLOCK-0189",
+            "BLOCK-0182"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 48,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0021",
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 20,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0021",
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0021",
+            "BLOCK-0029"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "organic whole and baby carrots supplied by Grimmway Farms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products containing or repackaging recalled Grimmway Farms carrots",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0021",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "bagged organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "available at retail August 14 through October 23, 2024"
+            },
+            {
+              "product_name": "bagged organic baby carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [],
+              "recall_scope": "best-if-used-by dates September 11 through November 12, 2024"
+            },
+            {
+              "product_name": "Kickin’ Carrot Falafel Bites",
+              "recalling_company": "Fabalish Inc.",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrot Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Carrots & Celery Sticks",
+              "recalling_company": "Whole Foods Market",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Bunny Luv"
+              ],
+              "recall_scope": "50-lb"
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Cal-Organic"
+              ],
+              "recall_scope": "15-lb and 50-lb"
+            },
+            {
+              "product_name": "organic whole carrots",
+              "recalling_company": "Grimmway Farms",
+              "brands": [
+                "Good & Gather"
+              ],
+              "recall_scope": "1-lb"
+            },
+            {
+              "product_name": "Organic Vegetable Medley",
+              "recalling_company": "4Earth Farms",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Conventional Vegetable Medley",
+              "recalling_company": "4Earth Farms",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "Organic Whole Carrots",
+              "recalling_company": "4Earth Farms",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049",
+            "BLOCK-0174",
+            "BLOCK-0175",
+            "BLOCK-0176",
+            "BLOCK-0177"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

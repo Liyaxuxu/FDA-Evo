@@ -1,0 +1,366 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "995",
+  "title": "Outbreak Investigation of Listeria monocytogenes – Hispanic-style Fresh and Soft Cheeses (February 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-hispanic-style-fresh-and-soft-cheeses-february-2021",
+  "frozen_source_path": "t1/frozen_sources/case-995.txt",
+  "frozen_source_sha256": "de889bba255dad010295c7af292c8bc3cc85cdc5059e0fb2d6239d931d2c360e",
+  "stage_count": 7,
+  "stages": [
+    {
+      "source_order": 5,
+      "report_date": "2021-02-12",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "February 12, 2021"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections potentially linked to Hispanic-style fresh and soft cheeses."
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "FDA has initiated an investigation and is collecting information to try to determine the source of the outbreak. Although the investigation is ongoing, CDC’s analysis of epidemiologic information indicates that Hispanic-style fresh and soft cheeses are the leading hypotheses for the cause of the illnesses. No specific type or brand of cheese has been confirmed as the source of illness. CDC reported that seven people infected with the outbreak strain of Listeria monocytogenes have been reported in Connecticut, Maryland, New York, and Virginia. Six of the seven ill people are Hispanic. Of the four people interviewed, three reported eating at least one type of Hispanic-style fresh and soft cheeses, and all three reported eating queso fresco."
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "FDA is in the beginning stages of this investigation, and there may be additional products impacted by this outbreak. As this outbreak investigation continues, the FDA will provide additional updates as more information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053"
+      ],
+      "stage_source_sha256": "29e77c50a81461ccedb860c99da9468fb91d18a19dcaca000ecfca483fc9b1aa"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2021-02-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "February 17, 2021"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections potentially linked to Hispanic-style fresh and soft cheeses."
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "FDA has initiated an investigation and is collecting information to try to determine the source of the outbreak. Although the investigation is ongoing, CDC’s analysis of epidemiologic information indicates that Hispanic-style fresh and soft cheeses are the leading hypotheses for the cause of the illnesses. No specific type or brand of cheese has been confirmed as the source of illness. CDC reported that seven people infected with the outbreak strain of Listeria monocytogenes have been reported in Connecticut, Maryland, New York, and Virginia. Six of the seven ill people are Hispanic. Of the four people interviewed, three reported eating at least one type of Hispanic-style fresh and soft cheeses, and each of the three reported eating queso fresco."
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "As part of this outbreak investigation, the Connecticut Department of Public Health collected product samples of El Abuelito-brand Hispanic-style fresh and soft cheeses from a store where a sick person bought cheeses. Sample analysis showed the presence of Listeria monocytogenes in samples of El Abuelito Queso Fresco sold in 10 oz packages, marked as Lot A027 with an expiration date of 02/26/2021. Samples are currently undergoing Whole Genome Sequencing (WGS) analysis to determine if the Listeria monocytogenes found in these samples is a match to the outbreak strain. At this time, there is not enough evidence to determine if this outbreak is linked to El Abuelito Queso Fresco."
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "FDA and state partners are working with the firm to recall the affected lot and to determine if additional products should be recalled. Additional information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049"
+      ],
+      "stage_source_sha256": "43fd3c23ebd9cf855d37599aaa3c9628ec3536da25814080d360da904b0a6cc5"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2021-02-19",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "February 19, 2021"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "The FDA, along with the CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections linked to queso fresco cheeses made by El Abuelito Cheese, Inc."
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "As part of this outbreak investigation, the Connecticut Department of Public Health collected product samples of El Abuelito-brand Hispanic-style fresh and soft cheeses from a store where a sick person bought cheeses. Sample analysis showed the presence of Listeria monocytogenes in samples of El Abuelito Queso Fresco sold in 10 oz packages, marked as Lot A027 with an expiration date of 02/26/2021. On 2/19/2021 , Whole Genome Sequencing (WGS) analysis conducted by the Connecticut State Laboratory determined that the Listeria monocytogenes found in the samples is a match to the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "On 2/19/2021, El Abuelito Cheese, Inc. of Paterson, NJ recalled all Queso Fresco products with “sell by” dates through 03/28/21. Products include El Abuelito, Rio Grande, and Rio Lindo brand queso frescos, distributed to CT, MD, NC, NJ, NY, PA, and VA. A full list of recalled products is included below. At this time, El Abuelito Cheese, Inc. has ceased production and distribution of all products."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044"
+      ],
+      "stage_source_sha256": "4844c7c61cdf7ce67fd2336775dc507171f316042957a0575c99560b912cb0f9"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2021-02-24",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "February 24, 2021"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections linked to queso fresco cheeses made by El Abuelito Cheese, Inc."
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "As part of this outbreak investigation, the Connecticut Department of Public Health collected product samples of El Abuelito-brand Hispanic-style fresh and soft cheeses from a store where a sick person bought cheeses. On 2/19/2021, Whole Genome Sequencing (WGS) analysis conducted by the Connecticut State Laboratory determined that the Listeria monocytogenes found in the samples is a match to the outbreak strain. On 2/19/2021 , El Abuelito Cheese, Inc. of Paterson, NJ recalled all Queso Fresco products with “sell by” dates through 03/28/21. Products include El Abuelito, Rio Grande, and Rio Lindo brand queso frescos, distributed to CT, MD, NC, NJ, NY, PA, and VA. A full list of recalled products is included below. At this time, El Abuelito Cheese, Inc. has ceased production and distribution of all products."
+        },
+        {
+          "block_id": "BLOCK-0040",
+          "source_page": "Main",
+          "text": "Out of an abundance of caution, and due to the severity of Listeria infection, the FDA is expanding its warning to include all El Abuelito brand cheeses until more information is known. According to the firm’s website , this includes queso fresco, Oaxaca cheese, cotija cheese, and crema. The FDA is working with the firm to recall any additional products that could be contaminated and has initiated an on-site inspection of the facility. Updates will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039",
+        "BLOCK-0040"
+      ],
+      "stage_source_sha256": "1bc3af4605b16e98a379dab2d9a3a9ffa09be5557a90742d89eec547f110efca"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2021-02-26",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "February 26, 2021"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections linked to queso fresco cheeses made by El Abuelito Cheese, Inc."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "As part of this outbreak investigation, the Connecticut Department of Public Health collected product samples of El Abuelito-brand Hispanic-style fresh and soft cheeses from a store where a sick person bought cheeses. On 2/19/2021 , Whole Genome Sequencing (WGS) analysis conducted by the Connecticut State Laboratory determined that the Listeria monocytogenes found in the samples is a match to the outbreak strain. At this time, El Abuelito Cheese, Inc. has ceased production and distribution of all products processed or handled in the same facility as the Queso Fresco."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "The FDA has initiated an on-site inspection of the facility. On 2/24/2021, the firm notified customers via letter that it was expanding the recall announced on 2/19/2021. The expanded recall includes El Abuelito, Rio Grande, and Rio Lindo brand queso frescos. It also includes El Abuelito-brand Quesillo (Oaxaca, string cheese), and Requeson (Ricotta) cheeses that are manufactured or handled in the same facility as the Queso Fresco products linked to this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "At this time, FDA is recommending that in addition to the recalled queso fresco cheeses, consumers, restaurants, and retailers should not eat, sell, or serve any El Abuelito-brand Quesillo (Oaxaca, string cheese) or Requeson (Ricotta) cheeses."
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "The FDA’s recommendation does not include any additional products with the El Abuelito Cheese, Inc. label because they are not manufactured or handled in the same facility; this includes El Abuelito Meat, Inc., Panela cheese, cotija cheese, mole, crema centroamericana, and crema mexicana. Updates will be provided as they become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035",
+        "BLOCK-0036"
+      ],
+      "stage_source_sha256": "6ed6cb85467a663571e19640a71c183f7d467b5a3b46e6645d64ed9106c9be48"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2021-03-09",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "March 9, 2021"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Listeria monocytogenes infections linked to queso fresco cheeses made by El Abuelito Cheese, Inc."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "On 2/19/2021, El Abuelito Cheese, Inc. announced their initial recall of products, and on 2/27/2021, they announced the expansion of their recall to cover additional products that are manufactured or handled in the same facility as the Queso Fresco products linked to this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "On 3/9/2021, the FDA received confirmation that recalled cheeses were also distributed to Rhode Island. States with confirmed distribution now include: AL, CT, FL, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, MS, NC, NJ, NY, NE, OH, PA, RI, SC, TN, VA, and WI. View additional recall information ."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030"
+      ],
+      "stage_source_sha256": "a58bc208f737eb7d0263d3d0f00c05d1b20db9e8c7e28848ab94f47b36f8e462"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, investigated a multistate outbreak of Listeria monocytogenes infections linked to queso fresco cheeses made by El Abuelito Cheese, Inc. On 5/14/2021, the CDC announced that this outbreak is over."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recalled Queso Fresco, Quesillo (Oaxaca, string cheese), or Requeson (ricotta) cheeses are past shelf life and should no longer be available."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "FDA recommends that anyone who received recalled products use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "People who are pregnant, are age 65 or over, or have a weakened immune system should not eat any soft cheeses unless they are made with pasteurized milk. Consumers at higher risk for Listeria illness should be aware that although pasteurization of milk kills Listeria , soft cheeses made from pasteurized milk can still become contaminated and have caused Listeria outbreaks, including this one."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recall Information"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "On 2/19/2021, El Abuelito Cheese, Inc. announced their initial recall of products, and on 2/27/2021, they announced the expansion of their recall to cover additional products. The recall announcements include the full product list and descriptions."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers should not eat, sell, or serve any recalled Queso Fresco, Quesillo (Oaxaca, string cheese), or Requeson (ricotta) cheeses."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "The firm’s recall does not include any additional products with the El Abuelito Cheese, Inc. label because they are not manufactured or handled in the same facility; this includes El Abuelito Meat, Inc., panela cheese, cotija cheese, mole, crema centroamericana, and crema mexicana. Updates will be provided as they become available."
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "FDA has posted lists of retailers that may have received Hispanic-styles cheeses from the El Abuelito Cheese, Inc. facility in Paterson N.J. It is possible that these lists may not include all retailers who have received these cheeses; however, these lists represents the best information currently available to the FDA."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Retail Establishments that Received El Abuelito Brand Queso Fresco, Quesillo, and Requeson Products"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Retail Establishments that Received Private Label Brand Queso Fresco (Rio Grande, Rio Lindo), Quesillo (El Viejito, El Paisano, El Sabrosito, La Cima, Quesos Finos, San Carlos, Ideal Brands), and Requeson Products (El Viejito)"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Queso Fresco, Quesillo, and Requeson Cheeses"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Total Illnesses: 13 Hospitalizations: 12 Deaths: 1 Last Illness Date: 3/17/2021 States with Cases: CT (1), MD (5), NY (4), and VA (3) Product Distribution*: AL, CT, FL, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, MS, NC, NJ, NY, NE, OH, PA, RI, SC, TN, VA, WI *States with confirmed distribution; product could have been distributed further"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017"
+      ],
+      "stage_source_sha256": "3177a34a149f0659dddc6932a06d779c907e742261a517eea5b4fa3dcbd671f7"
+    }
+  ]
+}

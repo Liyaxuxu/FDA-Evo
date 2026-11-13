@@ -1,0 +1,43 @@
+# CASE 1190 reviewed source
+Title: Outbreak Investigation of Salmonella: Onions (October 2023) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-onions-october-2023
+Source blocks SHA256: f8b22bf8f98f755f75c4575e5dcb3e44dc323bf4ae34ec1ca771b7f7a45517a7
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Images
+[BLOCK-0001 | role=report_evidence] Product
+[BLOCK-0002 | role=report_evidence] Recalled Gills Onions-brand diced yellow onions, diced onions & celery, diced mirepoix, and diced red onions with use-by dates in August 2023.
+[BLOCK-0003 | role=report_evidence] The US Food and Drug Administration’s (FDA) investigation is complete; the Centers for Disease Control and Prevention (CDC) declares the outbreak over.
+[BLOCK-0004 | role=report_evidence] Stores Affected
+[BLOCK-0005 | role=report_evidence] Recalled Gills Onions were sold to foodservice and institutions nationwide and in Canada. The firm has directly notified foodservice customers who received recalled product.
+[BLOCK-0006 | role=report_evidence] Recalled product was sold to retailers in Arizona, California, Idaho, Montana, Oregon, and Washington.
+[BLOCK-0007 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0008 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0009 | role=report_evidence] Status
+[BLOCK-0010 | role=report_evidence] Ended
+[BLOCK-0011 | role=report_evidence] Recommendation
+[BLOCK-0012 | role=report_evidence] Consumers should not eat, sell, or serve recalled onions and should check their freezers if they froze recalled products. Full descriptions of recalled products sold to retailers in AZ, CA, ID, MT, OR, and WA can be found in the recall announcement .
+[BLOCK-0013 | role=report_evidence] Direct customers, including restaurants, institutions, and retailers will be contacted by the company and should check their refrigerators and freezers and throw away recalled onions.
+[BLOCK-0014 | role=report_evidence] Contact your healthcare provider if you think you may have symptoms of a Salmonella infection after eating recalled onions.
+[BLOCK-0015 | role=report_evidence] Current Update
+[BLOCK-0016 | role=report_evidence] December 13, 2023
+[BLOCK-0017 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, investigated an outbreak of Salmonella infections linked to recalled diced onions under the Gills Onions brand name.
+[BLOCK-0018 | role=report_evidence] As part of this investigation, FDA collected multiple water, environmental, and product samples from the farm that supplied the contaminated onions to Gills Onions. Six of the samples, three water and three environmental, were positive for Salmonella spp. Whole Genome Sequencing (WGS) analysis confirmed that the strain of Salmonella found in isolates associated with three of the samples matched the same strain of Salmonella causing illnesses in this outbreak. Additional Salmonella isolates from the samples were detected, and CDC identified people who got sick with these strains of Salmonella . FDA and CDC partners reviewed the available data; however, there was not enough epidemiologic or traceback evidence to implicate a product or source of contamination for those illnesses.
+[BLOCK-0019 | role=report_evidence] As of December 4, 2023, CDC announced that the outbreak is over. CDC reports a total of 80 illnesses in 23 states. There has been a total of 18 hospitalizations and one death associated with this incident. The last illness onset was November 11, 2023. FDA’s investigation is complete.
+[BLOCK-0020 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0021 | role=report_evidence] Map of U.S. Distribution of Recalled Onions Sold at Retail
+[BLOCK-0022 | role=report_evidence] Case Counts
+[BLOCK-0023 | role=report_evidence] Total Illnesses: 80 Hospitalizations: 18 Deaths: 1 Last Illness Onset: November 11, 2023 States with Cases: AZ, CA, CO, GA, ID, IL, IN, IA, KY, MA, MI, MT, NY, ND, OH, OR, TN, TX, UT, VA, WA, WI, WY Foodservice Product Distribution*: Nationwide and Canada Retail Product Distribution*: AZ, CA, ID, MT, OR, WA *Distribution has been confirmed for locations listed, but product could have been distributed further.
+[BLOCK-0030 | role=report_evidence] Product Images
+[BLOCK-0031 | role=report_evidence] Recalled Product
+[BLOCK-0032 | role=report_evidence] In response to this investigation, Gills Onions has voluntarily recalled diced yellow onion, diced onions & celery, diced mirepoix, and diced red onions. A full list of recalled retail products, including lot numbers, lot codes, and names of retail outlets can be found in the recall announcement .
+[BLOCK-0033 | role=report_evidence] International Distribution for Recalled Products
+[BLOCK-0034 | role=report_evidence] The recall impacts markets outside of the United States. Customer information provided by the firm shows that product was also distributed to foodservice customers to Canada. The firm has directly notified foodservice customers who received recalled product.
+[BLOCK-0035 | role=report_evidence] Previous Update
+[BLOCK-0036 | role=report_evidence] October 24, 2023
+[BLOCK-0037 | role=report_evidence] The U.S. Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC), in collaboration with state and local partners, are investigating an outbreak of Salmonella Thompson infections linked to fresh diced onions from Gills Onions of Oxnard, California.
+[BLOCK-0038 | role=report_evidence] Based on epidemiological data collected by CDC, 14 of 19 cases with information available reported exposure to fresh diced onions before becoming ill. Additionally, based on traceback data collected by FDA, FDA determined that onions processed at Gills Onions were available at points of service where people ate prior to becoming ill.
+[BLOCK-0039 | role=report_evidence] In response to this investigation, Gills Onions has voluntarily recalled diced yellow onion, diced onions & celery, diced mirepoix, and diced red onions.
+[BLOCK-0040 | role=report_evidence] The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.

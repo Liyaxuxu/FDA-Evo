@@ -1,0 +1,210 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "989",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Peaches, Plums, & Nectarines (November 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "plums",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "nectarines (stone fruit)",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0043",
+            "BLOCK-0044"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "recalling_company": "HMC Farms",
+              "brands": [],
+              "recall_scope": "sold in retail stores from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023"
+            },
+            {
+              "product_name": "plums",
+              "recalling_company": "HMC Farms",
+              "brands": [],
+              "recall_scope": "sold in retail stores from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023"
+            },
+            {
+              "product_name": "nectarines",
+              "recalling_company": "HMC Farms",
+              "brands": [],
+              "recall_scope": "sold in retail stores from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0045"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 11,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0024",
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 10,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0024",
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0024",
+            "BLOCK-0027"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "recalled peaches",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "recalled plums",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "recalled nectarines (stone fruit)",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0022",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "peaches",
+              "recalling_company": "HMC Group Marketing, Inc.",
+              "brands": [],
+              "recall_scope": "sold in retail stores nationally from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023"
+            },
+            {
+              "product_name": "plums",
+              "recalling_company": "HMC Group Marketing, Inc.",
+              "brands": [],
+              "recall_scope": "sold in retail stores nationally from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023"
+            },
+            {
+              "product_name": "nectarines",
+              "recalling_company": "HMC Group Marketing, Inc.",
+              "brands": [],
+              "recall_scope": "sold in retail stores nationally from May 1, 2022 through November 15, 2022 and from May 1, 2023 through November 15, 2023"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

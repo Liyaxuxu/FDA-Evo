@@ -1,0 +1,176 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1003",
+  "title": "Outbreak Investigation of Salmonella: Jule's Cashew Brie (April 2021) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-jules-cashew-brie-april-2021",
+  "frozen_source_path": "t1/frozen_sources/case-1003.txt",
+  "frozen_source_sha256": "808d21afb4df35e47d7e153f9c638eceb04355a2755ed49c0f3765c8d09cb069",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2021-04-23",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "April 23, 2021"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners are investigating a multistate outbreak of Salmonella Duisburg infections linked to the consumption of Jule’s Cashew Brie, a vegan, or plant-based cheese alternative. The firm, Jule’s Foods of Carlsbad, California, is conducting a voluntary recall of all varieties of Jule’s Foods products."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "CDC identified an outbreak of five Salmonella Duisburg illnesses, which is considered a rare Salmonella serotype. All samples taken from ill patients are highly related according to Whole Genome Sequencing (WGS) analysis, or DNA fingerprinting of the pathogen. Of the five people interviewed, three (60%) reported eating Jule’s Truffle Cashew Brie– the only common product identified."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "California Department of Public Health and Tennessee Department of Health state investigators collected samples of Jule’s Cashew Brie (including Cashew Brie (Classic), Truffle Cashew Brie, and Black Garlic Cashew Brie) from various retail locations. Preliminary results indicated that the Jule’s Cashew Brie products collected and analyzed in California may have been contaminated with Salmonella . Additional analysis subsequently confirmed the presence of Salmonella and additional analysis is ongoing to determine if the type of Salmonella found in these products matches the outbreak strain."
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Based on these preliminary sample results, on April 21, 2021, the firm agreed to voluntarily recall all Jule’s Cashew Brie products. These tested products were sold on the firm’s website and in select retail locations. Additional distribution information is included in the firm’s recall announcement and below. Additionally, as a precaution the firm is also recalling its plant-based dairy alternative Jule’s Spinach Artichoke Dip and Jule’s Vegan Ranch Dressing. These products were sold directly to customers via the internet."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026",
+        "BLOCK-0027"
+      ],
+      "stage_source_sha256": "908498fc304bee2015d6384e9048f832cc9007d588dacd2c9e0946fc2069d726"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2021-05-07",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "May 7, 2021"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC and state and local partners, are investigating a multistate outbreak of Salmonella Duisburg and Salmonella Urbana infections linked to the consumption of Jule’s Cashew Brie, a vegan, or plant-based cheese alternative. On April 23, 2021, Jule’s Foods of Carlsbad, California, conducted a voluntary recall of all varieties of Jule’s Foods products. As of May 7, 2021, CDC announced that seven people infected with the outbreak strains of Salmonella Duisburg and Salmonella Urbana have been reported from three states."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "As part of this investigation, investigators from the Tennessee Department of Health (TDH) and the California Department of Public Health (CDPH) collected product samples of Jule’s Cashew Brie. Whole Genome Sequencing (WGS) analysis, or DNA fingerprinting, conducted independently by both TDH and CDPH determined that the samples of Jule’s Cashew Brie were contaminated with the same strain of Salmonella Urbana that made people sick."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "FDA investigators collected samples of several ingredients, in-process (or aging) products, and finished cashew-based products at the Jule’s Foods facility. Samples of un-opened, raw cashews collected from the Jule’s Foods facility also tested positive for the same strain of Salmonella Urbana as the TDH and CDPH product samples and two California clinical isolates."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "Based on FDA traceback investigation and these sample results, the cashews have been identified as the likely source of contamination in the Jule’s Cashew Brie products. The FDA is working with the firm that supplied the cashews to ensure that all potentially contaminated product has been withdrawn from the market. When notified about the potential contamination of their product by the FDA, the firm that supplied cashews to Jule’s Foods contacted their customers to request that the product be removed from use. The firm reported that it does not sell products directly to consumers."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022"
+      ],
+      "stage_source_sha256": "3b9c70bee7052d2da6f1273533f18cb6c8a8356d0aeca6635ff9bce1024e4769"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, state and local partners, investigated a multistate outbreak of Salmonella infections linked to the consumption of Jule’s Cashew Brie, a vegan, or plant-based cheese alternative. On April 23, 2021, Jule’s Foods of Carlsbad, California, conducted a voluntary recall of all varieties of Jule’s Foods products."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "As of July 7, 2021, CDC announced that the outbreak is over. There are a total of 20 illnesses in four states. Two additional strains of Salmonella , Salmonella Typhimurium and Salmonella Chester, have been linked to this outbreak. The illnesses of Salmonella Chester have the same genetic fingerprint as Salmonella found in a sample of Jule’s Cashew Brie collected by the California Department of Public Health (CDPH)."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Illnesses of Salmonella Duisburg and Salmonella Urbana have been previously reported and are linked to this outbreak. Other strains of Salmonella have been identified in raw and finished product samples and environmental samples but have not been linked to illnesses."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Based on FDA traceback investigation and sample results, the cashews used by Jule’s Foods have been identified as the likely source of contamination in the Jule’s Cashew Brie products. The FDA worked with the cashew supplier to ensure that potentially contaminated product was removed from the market and that the supplier implemented corrective actions."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "CDC announced that the outbreak is over. There are no recommendations for consumers, restaurants, or retailers."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Jule's Foods Products"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Total Illnesses: 20 Hospitalizations: 5 Deaths: 0 Last Illness Onset: May 9, 2021 States with Cases: CA (15), FL (2), MD (1), TN (2) Product Distribution*: Arkansas, California, Colorado, Connecticut, Florida, Louisiana, Maryland, Minnesota, Nevada, New York, New Jersey, Ohio, Oregon, Pennsylvania, Rhode Island, Tennessee, Texas *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010"
+      ],
+      "stage_source_sha256": "976260d56aed56634ae48b0bfd106c6efe9fa542109873c5c5d72da0a7bc9eda"
+    }
+  ]
+}

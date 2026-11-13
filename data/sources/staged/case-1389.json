@@ -1,0 +1,367 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1389",
+  "title": "Outbreak Investigation of E. coli O145:H28: Frozen Blueberries (July 2026) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o145h28-frozen-blueberries-july-2026",
+  "frozen_source_path": "t1/frozen_sources/case-1389.txt",
+  "frozen_source_sha256": "9dfc7922c30cfc655a9611fcd5ba971989d18acaabcc6a282be9453bc3ce9ae8",
+  "stage_count": 2,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2026-07-06",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "July 6, 2026"
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O145:H28 infections linked to frozen GreenWise brand-organic blueberries recalled by Frutas y Hortalizas del Sur S.A, of San Carlos, Chile."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "On July 1, 2026, the Florida Department of Health (FDOH) notified CDC partners about an ongoing investigation into a cluster of E. coli O145 illnesses. Based on interviews with sick people, frozen GreenWise-brand organic blueberries sold at Publix were identified as the leading food item of interest in this outbreak. Florida state partners shared their findings with Publix Headquarters and, in response, Publix immediately conducted an internal stop sale of frozen GreenWise-brand organic blueberries at their stores."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC and FDOH state partners, a total of twelve people infected with the outbreak strain of E. coli have been reported from two states. Illnesses started on dates ranging from May 11, 2026, to June 5, 2026. Seven of 9 (78%) cases interviewed reported eating frozen blueberries. Of which, 5 specified GreenWise- brand organic frozen blueberries purchased from Publix. There have been four hospitalizations, and no deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "In response to this investigation, on July 3, 2026, Frutas y Hortalizas del Sur S.A., San Carlos, Chile recalled frozen GreenWise-brand organic blueberries, sold in 10-oz packages with a printed lot code of 60401 and Best by Date of February 9, 2028. The recalled product was shipped to Publix retail stores in Alabama, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, and Virginia. Consumers should check their freezers for the recalled product and should not consume it. The product should be discarded or returned to the place of purchase."
+        },
+        {
+          "block_id": "BLOCK-NEW-0030",
+          "source_page": "Main",
+          "text": "FDA and state partners are actively working to determine the source of contamination. Additional products may be added to this advisory as the investigation continues. This advisory will be updated as new information becomes available."
+        },
+        {
+          "block_id": "BLOCK-0036",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0031",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453"
+        },
+        {
+          "block_id": "BLOCK-NEW-0032",
+          "source_page": "Main",
+          "text": "A 10-ounce (284 g) bag of GreenWise Organic Whole Blueberries. The cream-colored package features the GreenWise brand name, the USDA Organic seal, and a photograph of fresh blueberries in a wooden bowl with blueberry branches in the background."
+        },
+        {
+          "block_id": "BLOCK-NEW-0033",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053"
+        },
+        {
+          "block_id": "BLOCK-NEW-0034",
+          "source_page": "Main",
+          "text": "A 48-ounce (3 lb / 1.36 kg) bag of GreenWise Organic Whole Blueberries. The large cream-colored bag displays the GreenWise brand name, the USDA Organic seal, and a photograph of blueberries in a wooden bowl with decorative berry branches."
+        },
+        {
+          "block_id": "BLOCK-NEW-0035",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753"
+        },
+        {
+          "block_id": "BLOCK-NEW-0036",
+          "source_page": "Main",
+          "text": "A 10-ounce (284 g) bag of GreenWise Organic Whole Mixed Berries. The cream-colored package features the GreenWise brand name, the USDA Organic seal, and text listing the contents: blackberries, blueberries, raspberries, and strawberries, alongside a photograph of the assorted fresh berries."
+        },
+        {
+          "block_id": "BLOCK-NEW-0037",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153"
+        },
+        {
+          "block_id": "BLOCK-NEW-0038",
+          "source_page": "Main",
+          "text": "A 48-ounce (3 lb / 1.36 kg) bag of GreenWise Organic Whole Mixed Berries. The large cream-colored bag displays the GreenWise brand name, the USDA Organic seal, and text listing the contents: blackberries, blueberries, raspberries, and strawberries, with a corresponding photograph of the assorted berries"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-NEW-0030",
+        "BLOCK-0036",
+        "BLOCK-NEW-0031",
+        "BLOCK-NEW-0032",
+        "BLOCK-NEW-0033",
+        "BLOCK-NEW-0034",
+        "BLOCK-NEW-0035",
+        "BLOCK-NEW-0036",
+        "BLOCK-NEW-0037",
+        "BLOCK-NEW-0038"
+      ],
+      "stage_source_sha256": "c925b3efe6840f71977e2aed4ced4dc929972caaadba1f7a01ec605d93b22f3c"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-07-30",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-NEW-0000",
+          "source_page": "Main",
+          "text": "Two large GreenWise Organic frozen berry product bags side by side. The left bag is GreenWise Organic Whole Blueberries (48 oz / 3 lb / 1.36 kg) with a cream-colored label and an image of fresh blueberries in a bowl. The right bag is GreenWise Organic Whole Mixed Berries (48 oz / 3 lb / 1.36 kg) with the same cream-colored label and an image of assorted berries including blueberries, blackberries, raspberries, and strawberries. Both bags display the USDA Organic seal."
+        },
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-NEW-0001",
+          "source_page": "Main",
+          "text": "Product (updated 7/30/2026)"
+        },
+        {
+          "block_id": "BLOCK-NEW-0002",
+          "source_page": "Main",
+          "text": "On July 29, 2026, Publix announced that it recalled all lots of GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries. Recalled products include:"
+        },
+        {
+          "block_id": "BLOCK-NEW-0003",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453"
+        },
+        {
+          "block_id": "BLOCK-NEW-0004",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053"
+        },
+        {
+          "block_id": "BLOCK-NEW-0005",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753"
+        },
+        {
+          "block_id": "BLOCK-NEW-0006",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153"
+        },
+        {
+          "block_id": "BLOCK-NEW-0007",
+          "source_page": "Main",
+          "text": "On July 3, 2026, Frutas y Hortalizas del Sur S.A. recalled a single lot of frozen GreenWise-brand organic blueberries in 10-oz packages with printed lot code of 60401 (printed on package as 6 040 01) and Best by Date of February 9, 2028."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Symptoms of E. coli Infection :"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms begin anywhere from a few days after consuming contaminated food or up to nine days later. Symptoms include severe stomach cramps, diarrhea, fever, nausea, and/or vomiting."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "The severity or presence of certain symptoms may depend on the type of pathogenic E. coli causing the infection. Some infections can cause severe bloody diarrhea and lead to life-threatening conditions, such as a type of kidney failure called hemolytic uremic syndrome (HUS), or the development of high blood pressure, chronic kidney disease, and neurologic problems."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Stores affected:"
+        },
+        {
+          "block_id": "BLOCK-NEW-0008",
+          "source_page": "Main",
+          "text": "Recalled product was shipped to Publix retail stores throughout 8 states including Alabama, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, and Virginia."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Status:"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ongoing"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendations:"
+        },
+        {
+          "block_id": "BLOCK-NEW-0009",
+          "source_page": "Main",
+          "text": "Do not eat, sell, or serve recalled GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries."
+        },
+        {
+          "block_id": "BLOCK-NEW-0010",
+          "source_page": "Main",
+          "text": "Check your freezers for recalled berries and throw them away or return the product to the place of purchase. If you froze a product without the original packaging and can’t tell if it’s part of the recall, throw it away."
+        },
+        {
+          "block_id": "BLOCK-NEW-0011",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, retailers, and foodservice customers who purchased or received recalled berries, including wholesale products, should carefully clean and sanitize any surfaces or containers that it touched. Follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-NEW-0012",
+          "source_page": "Main",
+          "text": "Retailers that received recalled berries and repackaged them for individual sale should not sell them and should remove the products from the market."
+        },
+        {
+          "block_id": "BLOCK-NEW-0013",
+          "source_page": "Main",
+          "text": "Consult your health care provider immediately if you ate recalled GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries and have any symptoms that resemble an E. coli infection."
+        },
+        {
+          "block_id": "BLOCK-NEW-0014",
+          "source_page": "Main",
+          "text": "July 30, 2026"
+        },
+        {
+          "block_id": "BLOCK-NEW-0015",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of E. coli O145:H28 infections linked to organic frozen blueberries from Frutas y Hortalizas del Sur S.A., of San Carlos, Chile."
+        },
+        {
+          "block_id": "BLOCK-NEW-0016",
+          "source_page": "Main",
+          "text": "Publix proactively recalled all lots of GreenWise Organic Frozen Whole Blueberries and Whole Mixed Berries due to potential E. coli contamination. The recalled product was shipped to Publix retail stores throughout 8 states including Alabama, Florida, Georgia, Kentucky, North Carolina, South Carolina, Tennessee, and Virginia. As of the end of June 2026, Publix immediately conducted an internal stop sale of frozen GreenWise Organic Whole Blueberries and Whole Mixed Berries. These products remain unavailable for sale."
+        },
+        {
+          "block_id": "BLOCK-NEW-0017",
+          "source_page": "Main",
+          "text": "Customers who have purchased the following frozen GreenWise products are reminded not to consume them, and the product(s) should be discarded or returned to Publix for a full refund."
+        },
+        {
+          "block_id": "BLOCK-NEW-0018",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Blueberries, 10-ounce, UPC 41415-06453"
+        },
+        {
+          "block_id": "BLOCK-NEW-0019",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Blueberries, 48-ounce, UPC 41415-12053"
+        },
+        {
+          "block_id": "BLOCK-NEW-0020",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Mixed Berries, 10-ounce, UPC 41415-06753"
+        },
+        {
+          "block_id": "BLOCK-NEW-0021",
+          "source_page": "Main",
+          "text": "GreenWise Organic Whole Mixed Berries, 48-ounce, UPC 41415-12153"
+        },
+        {
+          "block_id": "BLOCK-NEW-0022",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA conducted a remote regulatory assessment (a remote inspection) of Frutas y Hortalizas del Sur S.A., San Carlos, Chile, and collected records from the firm to better understand their procedures and hazard controls, or abilities to prevent food from becoming contaminated. Based on inspection findings, FDA had concerns about at least one other lot of blueberries that was used in additional frozen GreenWise products. Publix has recalled such products, as indicated above."
+        },
+        {
+          "block_id": "BLOCK-NEW-0023",
+          "source_page": "Main",
+          "text": "Additionally, FDA has concerns about other products from Frutas y Hortalizas del Sur S.A. that have not entered the U.S. market. FDA has communicated its concerns to the firm. FDA has added products from Frutas y Hortalizas del Sur S.A, of San Carlos, Chile to Import Alert 99-35 . Frozen blueberries from this firm that are offered for entry into the United States may be detained without physical examination. The firm may submit documentation demonstrating that they have resolved the conditions that gave rise to the appearance of a violation for frozen blueberries."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "FDA and state partners are actively working to determine the source of contamination. Additional products may be added to this advisory as the investigation continues. This advisory will be updated as new information becomes available."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-NEW-0024",
+          "source_page": "Main",
+          "text": "A choropleth map of the United States showing the number of sick people by state. A legend indicates that a light green color represents 1 sick person and a darker green represents 11 sick people. Florida is shaded in darker green, indicating 11 sick people. Georgia is shaded in light green, indicating 1 sick person. All other states are shaded in gray, indicating no reported cases."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Product Distribution Map"
+        },
+        {
+          "block_id": "BLOCK-NEW-0025",
+          "source_page": "Main",
+          "text": "Distribution of recalled products have been confirmed for states shown below, but product could have been distributed further, reaching additional states."
+        },
+        {
+          "block_id": "BLOCK-NEW-0026",
+          "source_page": "Main",
+          "text": "Map of the United States with eight southeastern states highlighted in blue: Virginia (VA), Kentucky (KY), Tennessee (TN), North Carolina (NC), South Carolina (SC), Alabama (AL), Georgia (GA), and Florida (FL). All other states are shown in gray.\""
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-NEW-0027",
+          "source_page": "Main",
+          "text": "Total Illnesses: 12 Hospitalizations: 4 Deaths: 0 Last Illness Onset: June 5, 2026 States with Cases: FL, GA Product Distribution: AL, FL, GA, KY, NC, SC, TN, VA."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-NEW-0000",
+        "BLOCK-0000",
+        "BLOCK-NEW-0001",
+        "BLOCK-NEW-0002",
+        "BLOCK-NEW-0003",
+        "BLOCK-NEW-0004",
+        "BLOCK-NEW-0005",
+        "BLOCK-NEW-0006",
+        "BLOCK-NEW-0007",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-NEW-0008",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-NEW-0009",
+        "BLOCK-NEW-0010",
+        "BLOCK-NEW-0011",
+        "BLOCK-NEW-0012",
+        "BLOCK-NEW-0013",
+        "BLOCK-NEW-0014",
+        "BLOCK-NEW-0015",
+        "BLOCK-NEW-0016",
+        "BLOCK-NEW-0017",
+        "BLOCK-NEW-0018",
+        "BLOCK-NEW-0019",
+        "BLOCK-NEW-0020",
+        "BLOCK-NEW-0021",
+        "BLOCK-NEW-0022",
+        "BLOCK-NEW-0023",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-NEW-0024",
+        "BLOCK-0024",
+        "BLOCK-NEW-0025",
+        "BLOCK-NEW-0026",
+        "BLOCK-0026",
+        "BLOCK-NEW-0027"
+      ],
+      "stage_source_sha256": "c8b09cb0b503214f8765f8c3aba86cb3aef5c6bbb2ae660081ea761c88becd69"
+    }
+  ]
+}

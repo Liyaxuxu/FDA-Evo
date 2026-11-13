@@ -1,0 +1,355 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1127",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Enoki Mushrooms (November 2022) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 2,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0054"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "enoki mushrooms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "imported enoki mushrooms distributed by Utopia Foods, Inc.",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0053",
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Enoki Mushrooms",
+              "recalling_company": "Utopia Foods, Inc.",
+              "brands": [],
+              "recall_scope": "200g packages; imported from China; original recall issued December 13, 2022 and shipped nationwide; expansion covers clear and blue packages marked Best before 03/02/2023 or 03.09.23, distributed January 6–13, 2023 in NY, NJ, and CT"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0056",
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0048"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0050"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "enoki mushrooms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "imported enoki mushrooms distributed by Utopia Foods, Inc.",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0047",
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Enoki Mushrooms",
+              "recalling_company": "Utopia Foods, Inc.",
+              "brands": [],
+              "recall_scope": "200g packages; imported from China; original recall issued December 13, 2022 and shipped nationwide; expansion covers clear and blue packages marked Best before 03/02/2023 or 03.09.23, distributed January 6–13, 2023 in NY, NJ, and CT"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0050"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0038"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "enoki mushrooms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "imported enoki mushrooms distributed by Utopia Foods, Inc.",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "enoki mushrooms produced by Shandong Youhe Biotechnology Co. and distributed by Sun Hong Foods, Inc.",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0036",
+            "BLOCK-0037",
+            "BLOCK-0038",
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Enoki Mushrooms",
+              "recalling_company": "Utopia Foods, Inc.",
+              "brands": [],
+              "recall_scope": "200g packages; imported from China; original recall issued December 13, 2022 and shipped nationwide; expansion covers clear and blue packages marked Best before 03/02/2023 or 03.09.23, distributed January 6–13, 2023 in NY, NJ, and CT"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "The Utopia recall expansion is restated without changing the recalled product or its scope. The Sun Hong action is a safety alert, not a recall."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 5,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0022"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0004"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "enoki mushrooms",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "imported enoki mushrooms distributed by Utopia Foods, Inc.",
+              "association_status": "SUSPECTED"
+            },
+            {
+              "product_name": "enoki mushrooms produced by Shandong Youhe Biotechnology Co. and distributed by Sun Hong Foods, Inc.",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0004",
+            "BLOCK-0005"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Enoki Mushrooms",
+              "recalling_company": "Utopia Foods, Inc.",
+              "brands": [],
+              "recall_scope": "200g packages; imported from China; original recall issued December 13, 2022 and shipped nationwide; expansion covers clear and blue packages marked Best before 03/02/2023 or 03.09.23, distributed January 6–13, 2023 in NY, NJ, and CT"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R2",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "The final page restates the Utopia recall expansion but gives no new recalled-product scope. The broader statement about more than 20 recalls since 2020 is not specific to this outbreak."
+        }
+      }
+    }
+  }
+}

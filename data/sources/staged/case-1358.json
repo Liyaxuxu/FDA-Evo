@@ -1,0 +1,710 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1358",
+  "title": "Outbreak Investigation of Salmonella: Moringa Leaf Powder (January 2026) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026",
+  "frozen_source_path": "t1/frozen_sources/case-1358.txt",
+  "frozen_source_sha256": "ef35d4e2178eb7d24a737ace1e4cf78933805a88e6b067b704cf9379cf44f168",
+  "stage_count": 9,
+  "stages": [
+    {
+      "source_order": 8,
+      "report_date": "2026-01-14",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "January 14, 2026"
+        },
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Typhimurium infections linked to Live it Up-brand Super Greens dietary supplement powder produced by Superfoods, Inc. doing business as (dba) Live it Up of New York, NY."
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC, a total of 45 people infected with the outbreak strain of Salmonella have been reported from 21 states. Illnesses started on dates ranging from August 22, 2025, to December 30, 2025. Sixteen of 20 ill persons with information available reported consuming Live it Up-brand Super Greens dietary supplement powder before becoming ill. There have been 12 hospitalizations, and no deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "FDA has recommended that Superfoods, Inc. dba Live it Up recall Live it Up-brand Super Greens dietary supplement powder (original and wild berry flavor) products from the market. On January 14, 2026, the firm agreed to initiate a voluntary recall. Consumers and retailers who purchased Live it Up-brand Super Greens dietary supplement powder with expiration dates from 08/2026 to 01/2028 should not eat, sell, or serve this product and should throw it away or return it to the place of purchase."
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "To determine a source of contamination, FDA is conducting a traceback investigation of products ill people reported consuming before becoming ill and is working with state partners to sample products of concern. Additional products may be contaminated, and this advisory will be updated as more information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0096",
+        "BLOCK-0097",
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100"
+      ],
+      "stage_source_sha256": "6dbf177d18b7b9e1ccc8fd301ef6179f02913d8246ad5c8c00309045363eef3a"
+    },
+    {
+      "source_order": 7,
+      "report_date": "2026-01-15",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0088",
+          "source_page": "Main",
+          "text": "January 15, 2026"
+        },
+        {
+          "block_id": "BLOCK-0089",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Typhimurium infections linked to Live it Up-brand Super Greens dietary supplement powder produced by Superfoods, Inc. doing business as (dba) Live it Up of New York, NY."
+        },
+        {
+          "block_id": "BLOCK-0090",
+          "source_page": "Main",
+          "text": "On January 15, 2026, Superfoods, Inc. recalled all Live it Up-brand Super Greens dietary supplement powder with expiration dates from 08/2026 to 01/2028. The recall includes the following products:"
+        },
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "Live it Up Super Greens, NET WT 8.5 oz (240g) with UPC 860013190804."
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "Live it Up Super Greens, 30 – 0.28oz (8g) sticks, NET WT. 8.47 oz (240g) with UPC 850077468063"
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "Live it Up Super Greens, Wild Berry, NET WT 8.5OZ (240g), with UPC 860013190811"
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "Live it Up Super Greens, Wild Berry, 30 – 0.32oz (9g) Sticks, NET WT. 9.52oz (270g), with UPC 850077468070"
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "Consumers and retailers who purchased recalled Live it Up-brand Super Greens products should not eat, sell, or serve this product and should throw it away. FDA is determining if additional recalls are necessary and will update this advisory as more information becomes available. In addition, FDA is conducting a traceback investigation of products ill people reported consuming before becoming ill and is working with state partners to sample products of concern. FDA’s investigation is ongoing."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0088",
+        "BLOCK-0089",
+        "BLOCK-0090",
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095"
+      ],
+      "stage_source_sha256": "950aba75da9ea279fb48db816f592125da35073120442359e74088c8dc95a096"
+    },
+    {
+      "source_order": 6,
+      "report_date": "2026-01-29",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0082",
+          "source_page": "Main",
+          "text": "January 29, 2026"
+        },
+        {
+          "block_id": "BLOCK-0083",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Typhimurium and Salmonella Newport infections linked to recalled Why Not Natural Pure Organic Moringa Green Superfood capsules and recalled Live it Up-brand Super Greens dietary supplement powder."
+        },
+        {
+          "block_id": "BLOCK-0084",
+          "source_page": "Main",
+          "text": "Since the last update on January 15, 2026, a total of 20 new illnesses have been reported, including a new outbreak strain of Salmonella Newport. As of January 29, 2026, CDC reported a total of 65 people from 28 states that have been infected with one of the outbreak strains of Salmonella . Of the 40 people interviewed, 35 (88%) reported eating a product containing moringa leaf powder, including 31 who reported Live it Up Super Greens supplement powders only, 3 who reported Why Not Natural moringa powder capsules only, and 1 person who reported consuming both products. There have been 14 hospitalizations, and no deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0085",
+          "source_page": "Main",
+          "text": "FDA’s traceback investigation revealed a common manufacturer between Live it Up-brand Super Greens and Why Not Natural Pure Organic Moringa Green Superfood capsules that used moringa leaf powder in both products. Epidemiologic and traceback evidence showed that moringa leaf powder is the source of contamination in this outbreak, and lot # A25G051 of Why Not Natural Pure Organic Moringa Green Superfood capsules with expiration date 07/2028 may be contaminated with the strains of Salmonella making people sick in this outbreak. On January 24, 2026, Art Monkey LLC dba Why Not Natural of Houston, TX stopped the sale of Pure Organic Moringa Green Superfood capsules and initiated a recall of lot # A25G051 on January 28, 2026. FDA is working with the firms to determine a root cause of the contamination and remove affected products from the market."
+        },
+        {
+          "block_id": "BLOCK-0086",
+          "source_page": "Main",
+          "text": "On January 20, 2026, Superfoods, Inc. expanded their recall of Live it Up-brand Super Greens product to include nationwide distribution of recalled product, including Puerto Rico, Guam, and the U.S. Virgin Islands, as well as international distribution to consumers in the United Kingdom. On January 26, 2026, Superfoods, Inc.’s recall press was updated to make changes to the net weight of recalled Live it Up-brand Super Greens Wild Berry products. See the recall notice for more information."
+        },
+        {
+          "block_id": "BLOCK-0087",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing. This advisory will be updated as more information becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0082",
+        "BLOCK-0083",
+        "BLOCK-0084",
+        "BLOCK-0085",
+        "BLOCK-0086",
+        "BLOCK-0087"
+      ],
+      "stage_source_sha256": "dd23f89fe47c891a7d823c6382ca98b11058ddba39008d695736d8315e578ce7"
+    },
+    {
+      "source_order": 5,
+      "report_date": "2026-03-17",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0073",
+          "source_page": "Main",
+          "text": "March 17, 2026"
+        },
+        {
+          "block_id": "BLOCK-0074",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Typhimurium and Salmonella Newport infections linked to recalled dietary supplements containing moringa leaf powder."
+        },
+        {
+          "block_id": "BLOCK-0075",
+          "source_page": "Main",
+          "text": "As of March 17, 2026, CDC reported a total of 97 people from 32 states that have been infected with one of the outbreak strains of Salmonella. Of the 67 people interviewed, 59 (88%) reported eating a product containing moringa leaf powder, including 55 who reported Live it Up-brand Super Greens supplement powders only, 3 who reported Why Not Natural moringa powder capsules only, and 1 person who reported consuming both products. There were 26 hospitalizations, and no deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0076",
+          "source_page": "Main",
+          "text": "The products linked to illnesses in this outbreak have a long shelf life. FDA is reminding consumers and retailers to not eat, sell, or serve recalled Why Not Natural Pure Organic Moringa Green Superfood capsules (lot # A25G051 and expiration date 07/2028) or recalled Live it Up-brand Super Greens dietary supplement powder (original or wild berry flavor) with expiration dates from 08/2026 to 01/2028. Consumers should throw these products away and may request a refund by contacting the respective company. Retailers should discontinue sales of recalled product. As part of this investigation, FDA and state partners collected product and ingredient samples for analysis. Sample analysis detected the outbreak strains of Salmonella Typhimurium or Newport in six samples."
+        },
+        {
+          "block_id": "BLOCK-0077",
+          "source_page": "Main",
+          "text": "FDA detected the outbreak strain of Salmonella Newport in two moringa leaf powder ingredient samples and the outbreak strain of Salmonella Typhimurium in one opened product sample of Why Not Natural Pure Organic Moringa Green Superfood capsules."
+        },
+        {
+          "block_id": "BLOCK-0078",
+          "source_page": "Main",
+          "text": "Three state partners detected the outbreak strain of Salmonella Typhimurium in three state samples."
+        },
+        {
+          "block_id": "BLOCK-0079",
+          "source_page": "Main",
+          "text": "The Illinois Department of Public Health and the Wisconsin Department of Health Services each detected the outbreak strain in opened Live it Up-brand Super Greens product samples."
+        },
+        {
+          "block_id": "BLOCK-0080",
+          "source_page": "Main",
+          "text": "The Minnesota Departments of Agriculture and Health detected the outbreak strain of Salmonella in an unopened Live it Up-brand Super Greens product sample."
+        },
+        {
+          "block_id": "BLOCK-0081",
+          "source_page": "Main",
+          "text": "Sampled products contaminated with Salmonella have been recalled and should no longer be for sale. Consumers should check their homes for recalled products and throw these products away. FDA’s outbreak investigation is complete."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0073",
+        "BLOCK-0074",
+        "BLOCK-0075",
+        "BLOCK-0076",
+        "BLOCK-0077",
+        "BLOCK-0078",
+        "BLOCK-0079",
+        "BLOCK-0080",
+        "BLOCK-0081"
+      ],
+      "stage_source_sha256": "8be97735b41981652c3cc506b016bc9049a4f060ce319bc8b42ee6962d885a42"
+    },
+    {
+      "source_order": 4,
+      "report_date": "2026-05-27",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0065",
+          "source_page": "Main",
+          "text": "May 27, 2026"
+        },
+        {
+          "block_id": "BLOCK-0066",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, reopened a multistate outbreak investigation of Salmonella Typhimurium and Salmonella Newport infections linked to recalled dietary supplements containing imported moringa leaf powder due to the addition of new cases and exposure information."
+        },
+        {
+          "block_id": "BLOCK-0067",
+          "source_page": "Main",
+          "text": "Since the investigation was closed on March 17, 2026, 22 new illnesses from 4 states have been reported. The investigation has since been reopened, and as of May 27, 2026, a total of 119 people infected with one of the outbreak strains of Salmonella have been reported from 36 states since the investigation began. Whole genome sequencing (WGS) showed that bacteria from sick people’s samples are closely related genetically. Illnesses started on dates ranging from August 22, 2025, to April 26, 2026. Of 109 people with information available, 32 have been hospitalized. No deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0068",
+          "source_page": "Main",
+          "text": "Of the 79 people interviewed, including some of the 22 new cases, 70 (89%) reported eating a product containing moringa leaf powder, including 60 who reported Live it Up Super Greens supplement powders only, 5 who reported Why Not Natural moringa powder capsules only, 1 person who reported consuming both Live it Up Super Greens supplement powder and Why Not Natural moringa powder capsules, and 4 who reported TNVitamins moringa powder capsules only."
+        },
+        {
+          "block_id": "BLOCK-0069",
+          "source_page": "Main",
+          "text": "On May 26, 2026, Total Nutrition Inc. of Deer Park, NY, recalled :"
+        },
+        {
+          "block_id": "BLOCK-0070",
+          "source_page": "Main",
+          "text": "Tnvitamins-brand Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg (120 capsules) lot 2507199 EXP 09/2027, lot 2512-304 EXP 02/2028, and lot 2793 EXP 02/2028"
+        },
+        {
+          "block_id": "BLOCK-0071",
+          "source_page": "Main",
+          "text": "Doctor’s Pride Complete Green Superfood Ultra Potent Moringa 10,000 mg (120 capsules) Lot: 2507199 Exp. 09/2027"
+        },
+        {
+          "block_id": "BLOCK-0072",
+          "source_page": "Main",
+          "text": "FDA is conducting additional traceback of the supply chain to identify the source of the outbreak. Additionally, FDA is working with state and local partners to sample products and determine if additional products may be contaminated. FDA will update this advisory with new information as it becomes available. FDA’s investigation is ongoing."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 5,
+      "stage_id": "R5",
+      "source_block_ids": [
+        "BLOCK-0065",
+        "BLOCK-0066",
+        "BLOCK-0067",
+        "BLOCK-0068",
+        "BLOCK-0069",
+        "BLOCK-0070",
+        "BLOCK-0071",
+        "BLOCK-0072"
+      ],
+      "stage_source_sha256": "8d0bbb2f080c8178f11071a1a92bbd3c003cd2963428811ed4fd5133387bcdb9"
+    },
+    {
+      "source_order": 3,
+      "report_date": "2026-06-03",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0054",
+          "source_page": "Main",
+          "text": "June 3, 2026"
+        },
+        {
+          "block_id": "BLOCK-0055",
+          "source_page": "Main",
+          "text": "On June 2, 2026, Total Nutrition Inc., of Deer Park, NY, expanded their recall to include an additional lot of TNVitamins and Doctor’s Pride-brand moringa capsules. The expanded recall includes:"
+        },
+        {
+          "block_id": "BLOCK-0056",
+          "source_page": "Main",
+          "text": "TNVitamins-brand Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg (120 capsules)"
+        },
+        {
+          "block_id": "BLOCK-0057",
+          "source_page": "Main",
+          "text": "Lot 2507199 EXP 09/2027"
+        },
+        {
+          "block_id": "BLOCK-0058",
+          "source_page": "Main",
+          "text": "Lot 2512-304 EXP 02/2028"
+        },
+        {
+          "block_id": "BLOCK-0059",
+          "source_page": "Main",
+          "text": "Lot 2793 EXP 02/2028"
+        },
+        {
+          "block_id": "BLOCK-0060",
+          "source_page": "Main",
+          "text": "Lot 2748 EXP 07/2027 (newly added)"
+        },
+        {
+          "block_id": "BLOCK-0061",
+          "source_page": "Main",
+          "text": "Doctor’s Pride Complete Green Superfood Ultra Potent Moringa 10,000 mg (120 capsules)"
+        },
+        {
+          "block_id": "BLOCK-0062",
+          "source_page": "Main",
+          "text": "Lot 2507199 Exp. 09/2027"
+        },
+        {
+          "block_id": "BLOCK-0063",
+          "source_page": "Main",
+          "text": "Lot 2748 EXP 07/2027 (newly added)"
+        },
+        {
+          "block_id": "BLOCK-0064",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing. This advisory will be updated with new information, as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 6,
+      "stage_id": "R6",
+      "source_block_ids": [
+        "BLOCK-0054",
+        "BLOCK-0055",
+        "BLOCK-0056",
+        "BLOCK-0057",
+        "BLOCK-0058",
+        "BLOCK-0059",
+        "BLOCK-0060",
+        "BLOCK-0061",
+        "BLOCK-0062",
+        "BLOCK-0063",
+        "BLOCK-0064"
+      ],
+      "stage_source_sha256": "6605ee260241124875f423fcab2a847f59f4a23937e6a025533402ba960ce461"
+    },
+    {
+      "source_order": 2,
+      "report_date": "2026-06-12",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0041",
+          "source_page": "Main",
+          "text": "June 12, 2026"
+        },
+        {
+          "block_id": "BLOCK-0042",
+          "source_page": "Main",
+          "text": "On June 11, 2026, Total Nutrition Inc., of Deer Park, NY, expanded their recall a second time to include additional lots of TNVitamins and Doctor’s Pride moringa powder capsules. The recall includes the following products:"
+        },
+        {
+          "block_id": "BLOCK-0043",
+          "source_page": "Main",
+          "text": "TNVitamins Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg (120 capsules)"
+        },
+        {
+          "block_id": "BLOCK-0044",
+          "source_page": "Main",
+          "text": "Lot 2507199 EXP 09/2027"
+        },
+        {
+          "block_id": "BLOCK-0045",
+          "source_page": "Main",
+          "text": "Lot 2512-304 EXP 02/2028"
+        },
+        {
+          "block_id": "BLOCK-0046",
+          "source_page": "Main",
+          "text": "Lot 2793 EXP 02/2028"
+        },
+        {
+          "block_id": "BLOCK-0047",
+          "source_page": "Main",
+          "text": "Lot 2748 EXP 07/2027"
+        },
+        {
+          "block_id": "BLOCK-0048",
+          "source_page": "Main",
+          "text": "Lot 2725 EXP 04/2027 (newly added)"
+        },
+        {
+          "block_id": "BLOCK-0049",
+          "source_page": "Main",
+          "text": "Lot 2503104 EXP 04/2027 (newly added)"
+        },
+        {
+          "block_id": "BLOCK-0050",
+          "source_page": "Main",
+          "text": "Doctor’s Pride Complete Green Superfood Ultra Potent Moringa 10,000 mg (120 capsules)"
+        },
+        {
+          "block_id": "BLOCK-0051",
+          "source_page": "Main",
+          "text": "Lot 2507199 Exp. 09/2027"
+        },
+        {
+          "block_id": "BLOCK-0052",
+          "source_page": "Main",
+          "text": "Lot 2748 EXP 07/2027"
+        },
+        {
+          "block_id": "BLOCK-0053",
+          "source_page": "Main",
+          "text": "Lot 2725 EXP 04/2027 (newly added)"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 7,
+      "stage_id": "R7",
+      "source_block_ids": [
+        "BLOCK-0041",
+        "BLOCK-0042",
+        "BLOCK-0043",
+        "BLOCK-0044",
+        "BLOCK-0045",
+        "BLOCK-0046",
+        "BLOCK-0047",
+        "BLOCK-0048",
+        "BLOCK-0049",
+        "BLOCK-0050",
+        "BLOCK-0051",
+        "BLOCK-0052",
+        "BLOCK-0053"
+      ],
+      "stage_source_sha256": "5768407a81c12716198306392a963c575d785a5302e921df46f2b9f642b0ef8c"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2026-06-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-ADD-1786024912559-10",
+          "source_page": "Main",
+          "text": "June 30, 2026"
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024917263-11",
+          "source_page": "Main",
+          "text": "As part of the outbreak investigation FDA collected and analyzed samples from an ingredient supplier of Total Nutrition Inc. Two ingredient samples tested positive for Salmonella, but did not match the outbreak strain. While not connected to the outbreak, these ingredients do contain Salmonella, and as a result Total Nutrition Inc. recalled TNVitamins Organic Moringa Capsules 1,200 mg lot 2800 Exp: 2/2028 and TNVitamins-brand 100% Moringa Powder lot 2782 Exp: 5/2028."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024923167-12",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and this advisory will be updated with additional information as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 8,
+      "stage_id": "R8",
+      "source_block_ids": [
+        "BLOCK-ADD-1786024912559-10",
+        "BLOCK-ADD-1786024917263-11",
+        "BLOCK-ADD-1786024923167-12"
+      ],
+      "stage_source_sha256": "ae4e076b52b09b16ad8597a229e486ce166912dbe908af624e67dea386840f77"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2026-07-22",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Additional Product Images"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Products"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled products containing imported moringa leaf powder from India should no longer be available for sale. Consumers should check their homes for recalled products and throw these products away or contact the company to request a refund."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Total Nutrition Inc. recalled :"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "TNVitamins-brand 100% Organic Moringa Capsules 1,200 mg lot 2800 EXP: 2/2028"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "TNVitamins-brand 100% Moringa Powder lot 2782 Exp: 5/2028"
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "TNVitamins-brand Ultra Potent Complete Green Superfood Moringa capsules 10,000 mg (120 capsules) lot 2507199 EXP 09/2027, lot 2512-304 EXP 02/2028, lot 2793 EXP 02/2028, lot 2748 EXP 07/2027, lot 2725 EXP 04/2027, and lot 2503104 EXP 04/2027"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Doctor’s Pride Complete Green Superfood Ultra Potent Moringa 10,000 mg (120 capsules) lot: 2507199 EXP 09/2027, lot 2748 EXP 07/2027, and lot 2725 EXP 04/2027"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Why Not Natural Pure Organic Moringa Green Superfood capsules with lot # A25G051 and expiration date 07/2028 marked on the bottom of the bottle have been recalled ."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "All Live it Up-brand Super Greens dietary supplement powder, including both original and wild berry flavors, with lots beginning with the letter “A” and all stick pack products with expiration dates from 08/2026 to 01/2028 have been recalled."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Symptoms of Salmonella Infection"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Stores affected"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Recalled dietary supplements with moringa leaf powder were primarily sold online at the TNVitamins, Doctor’s Pride, Live it Up, and Why Not Natural company websites, and other online sites, including Amazon, eBay, and Walmart."
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Ended"
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0017",
+          "source_page": "Main",
+          "text": "Recalled products should no longer be available for sale. Consumers and retailers should not eat, sell, or serve recalled TNVitamins, Doctor’s Pride, Why Not Natural, or Live it Up-brand dietary supplements containing moringa leaf powder. These products have a long shelf-life, so consumers should check their homes for recalled dietary supplements and should throw these products away or can contact the company to request a refund."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "Consumers and retailers who purchased or received recalled dietary supplements should carefully clean and sanitize any surfaces or containers that the products touched. Follow FDA’s safe handling and cleaning advice and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "Contact your healthcare provider if you think you may have developed symptoms of a Salmonella infection after consuming dietary supplements with moringa leaf powder."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024788577-2",
+          "source_page": "Main",
+          "text": "July 22, 2026"
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024794255-3",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Typhimurium, Salmonella Newport, and Salmonella Richmond infections linked to recalled dietary supplements containing moringa leaf powder imported from India."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024798416-4",
+          "source_page": "Main",
+          "text": "Based on additional epidemiologic and genetic information, CDC included additional illnesses of Salmonella Richmond in this outbreak. As of July 22, 2026, a total of 131 people infected with one of the outbreak strains of Salmonella have been reported from 38 states. Illnesses started on dates ranging from August 22, 2025, to June 14, 2026. Of 121 people with information available, 36 were hospitalized, and no deaths were reported. CDC has declared the outbreak over."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024802703-5",
+          "source_page": "Main",
+          "text": "Of the 84 ill people interviewed during the entire outbreak, 74 (88%) reported eating a product containing moringa leaf powder, including 63 who reported Live it Up Super Greens supplement powders only, 5 who reported Why Not Natural moringa powder capsules only, 1 person who reported consuming both Live it Up Super Greens supplement powder and Why Not Natural moringa powder capsules products, and 5 who reported TNVitamins moringa powder capsules only."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024806951-6",
+          "source_page": "Main",
+          "text": "The products linked to illnesses in this outbreak have a long shelf life. FDA is reminding consumers and retailers to not eat, sell, or serve recalled products containing moringa leaf powder. Consumers should throw these products away and may request a refund by contacting the recalling company."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024811127-7",
+          "source_page": "Main",
+          "text": "As part of the investigation, FDA and state partners from Illinois, Massachusetts, Minnesota, South Dakota, and Wisconsin collected finished product and ingredient samples from sick people’s homes and firms in the supply chain. A total of 12 samples tested positive for Salmonella, and 11 samples detected at least one of the outbreak strains of Salmonella during whole genome sequencing analysis."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024816406-8",
+          "source_page": "Main",
+          "text": "To further protect public health, FDA has increased screening of imported moringa powder from India for Salmonella. FDA continues to work with industry and federal partners to safeguard dietary supplements containing moringa leaf powder in the United States."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786024820256-9",
+          "source_page": "Main",
+          "text": "FDA’s outbreak investigation is complete."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "Total Illnesses: 119 (22 new) Hospitalizations: 32 (6 new) Deaths: 0 Last Illness Onset: April 26, 2026 States with Cases: AK, AL, AR, CA, CT, DE, FL, GA, IA, ID, IL, KY, MA, ME, MI, MN, MO, NC, ND, NE, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI Product Distribution: Nationwide, including Puerto Rico, Guam, and the Virgin Islands"
+        },
+        {
+          "block_id": "BLOCK-0037",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0038",
+          "source_page": "Main",
+          "text": "International Distribution"
+        },
+        {
+          "block_id": "BLOCK-0039",
+          "source_page": "Main",
+          "text": "The Live it Up Super Greens recall impacts markets outside the United States. Customer information provided by the firm shows that recalled product was sold to consumers in the United Kingdom. The recalled product was also sold to consumers located nationwide in the United States, including Puerto Rico, Guam, and Virgin Islands."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 9,
+      "stage_id": "R9",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0017",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-ADD-1786024788577-2",
+        "BLOCK-ADD-1786024794255-3",
+        "BLOCK-ADD-1786024798416-4",
+        "BLOCK-ADD-1786024802703-5",
+        "BLOCK-ADD-1786024806951-6",
+        "BLOCK-ADD-1786024811127-7",
+        "BLOCK-ADD-1786024816406-8",
+        "BLOCK-ADD-1786024820256-9",
+        "BLOCK-0026",
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0037",
+        "BLOCK-0038",
+        "BLOCK-0039"
+      ],
+      "stage_source_sha256": "f758b9c9315f55b571afedae329a2196da045b2c29d9d86bbe9342f81808fedf"
+    }
+  ]
+}

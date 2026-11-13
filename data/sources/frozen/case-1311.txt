@@ -1,0 +1,43 @@
+# CASE 1311 reviewed source
+Title: Outbreak Investigation of Salmonella: Pistachio Cream (June 2025) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-pistachio-cream-june-2025
+Source blocks SHA256: 480c7024f9fddfc95a6d865a4505a6dee0bf4a0e9ed555c416df3e9d6b28774e
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Additional Product Images
+[BLOCK-0001 | role=report_evidence] Products:
+[BLOCK-0002 | role=report_evidence] On July 14, 2025, World Market, LLC initiated a recall of Emek Spread Pistachio Cacao Cream with Kadayif products sold at World Market retail locations. Emek Spread Pistachio Cacao Cream with Kadayif was sold in 9.7-oz glass jars with BATCH NO: 250401, UPC number 8 69652 10130 1, and a best before date of APRIL 01 2027. This product was recalled in response to sampling conducted as part of this investigation. Sample results were positive for Salmonella . These products should no longer be available for sale in stores.
+[BLOCK-0003 | role=report_evidence] On May 13, 2025, FDA issued an advisory for a 5-kilogram white tub of Emek-brand Pistachio Cream with a use-by date of October 19, 2026 (TETT: 19/10/26 (DD/MM/YY)) and production code PNO: 241019. This product should no longer be available for sale.
+[BLOCK-0004 | role=report_evidence] Symptoms of Salmonella infection:
+[BLOCK-0005 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella , and the symptoms usually last four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0006 | role=report_evidence] Stores Affected
+[BLOCK-0007 | role=report_evidence] Recalled Emek Spread Pistachio Cacao Cream with Kadayif and Emek Pistachio Cream should no longer be available for sale.
+[BLOCK-0008 | role=report_evidence] Status
+[BLOCK-0009 | role=report_evidence] Ended
+[BLOCK-0010 | role=report_evidence] Recommendations
+[BLOCK-0011 | role=report_evidence] Recalled Emek Spread Pistachio Cacao Cream with Kadayif and Emek Pistachio Cream should no longer be for sale; however, this product has a long shelf life. Consumers should not eat or serve recalled products and should check their homes for recalled product and discard.
+[BLOCK-0012 | role=report_evidence] Retailers, restaurants, distributors, and consumers should follow FDA’s safe handling and cleaning recommendations and use extra care in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination.
+[BLOCK-0013 | role=report_evidence] Contact your health care provider if you have symptoms of a Salmonella infection.
+[BLOCK-0014 | role=report_evidence] Current Update
+[BLOCK-0015 | role=report_evidence] August 21, 2025
+[BLOCK-0016 | role=report_evidence] FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Salmonella Oranienburg infections linked to Emek Pistachio Cream manufactured by Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti in Turkey. A total of four cases infected with the outbreak strain of Salmonella were reported from two states. CDC has declared the outbreak over.
+[BLOCK-0017 | role=report_evidence] On July 16, 2025, World Market initiated a recall of 9.7-oz Emek Spread Pistachio Cacao Cream with Kadayif after Salmonella was detected in retail samples collected by state partners. Whole genome sequencing (WGS) revealed that the strain of Salmonella detected in retail samples does not match the outbreak strain. Recalled product that tested positive for Salmonella should no longer be available for sale. In addition to sampling conducted by state partners, FDA collected import samples of Emek-brand products containing pistachio cream. Salmonella was detected in Emek Spread Pistachio Cacao Cream with Kadayif as well as Emek Pistachio Cream. WGS revealed that the strain of Salmonella detected in the import samples does not match the outbreak strain. Products that tested positive for Salmonella were not distributed and should not be available for sale.
+[BLOCK-0018 | role=report_evidence] Products from Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti have been placed on Import Alert 99-43 , and FDA and state partners are conducting follow up activities with the firm and their importers to address this issue.
+[BLOCK-0019 | role=report_evidence] FDA’s outbreak investigation is complete.
+[BLOCK-0020 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0021 | role=report_evidence] Case Counts
+[BLOCK-0022 | role=report_evidence] Total Illnesses: 4 Hospitalizations: 1 Deaths: 0 Last Illness Onset: May 19, 2025 States with Cases: MN, NJ
+[BLOCK-0030 | role=report_evidence] Recalled Product Images
+[BLOCK-0031 | role=report_evidence] Previous Update
+[BLOCK-0032 | role=report_evidence] July 16, 2025
+[BLOCK-0033 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners are investigating illnesses in a multistate outbreak of Salmonella Oranienburg infections linked to pistachio cream manufactured by Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti in Turkey.
+[BLOCK-0034 | role=report_evidence] As part of FDA’s investigation, state partners at the Minnesota Department of Agriculture (MDA) and the Maryland Department of Health (MDH) collected additional samples of other Emek-brand products containing pistachio cream that were available for sale at World Market retail locations. Retail samples of Emek Spread Pistachio Cacao Cream with Kadayif have tested positive for Salmonella . Additional testing is underway to determine if the strains of Salmonella found in these products are linked to illnesses in this outbreak.
+[BLOCK-0035 | role=report_evidence] In response to this investigation, World Market has initiated a recall of 9.7- oz Emek Spread Pistachio Cacao Cream with Kadayif . This product was sold in 9.7- oz glass jars with BATCH NO: 250401, UPC number 8 69652 10130 1, and a best before date of APRIL 01 2027.
+[BLOCK-0036 | role=report_evidence] FDA is working to determine a possible source of contamination and if additional recalls of Emek products are necessary. Additional information will be provided as it becomes available.
+[BLOCK-0037 | role=report_evidence] June 13, 2025
+[BLOCK-0038 | role=report_evidence] The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Salmonella Oranienburg infections linked to Emek-brand Pistachio Cream manufactured by Emek Dogal Saglik Urunleri Iklim Gida Insaat San Tic Ltd Sti in Turkey and imported to wholesale distributors, restaurants, and food service locations in the United States.
+[BLOCK-0039 | role=report_evidence] FDA was notified by the Minnesota Department of Health about a cluster of Salmonella illnesses and two Salmonella positive samples of Emek-brand Pistachio Cream product that matched clinical cases by whole genome sequencing (WGS) in this outbreak. As of June 13, 2025, a total of four cases infected with the outbreak strain of Salmonella have been reported from two states. Of the four cases with information available, all four (100%) reported eating pistachio cream. Three of the four cases reported eating pistachio cream at the same restaurant.
+[BLOCK-0040 | role=report_evidence] Retailers, restaurants, and distributors that purchased Emek-brand Pistachio Cream with a use-by date of October 19, 2026 (TETT: 19/10/26 (DD/MM/YY)) and production code PNO: 241019 should not serve, sell, or further distribute product. FDA is working to determine where the affected Emek-brand Pistachio Cream was sold in the United States and if other lots or products were impacted.
+[BLOCK-0041 | role=report_evidence] FDA’s investigation is ongoing. Additional information will be provided as it becomes available.

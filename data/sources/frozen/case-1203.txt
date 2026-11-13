@@ -1,0 +1,60 @@
+# CASE 1203 reviewed source
+Title: Outbreak Investigation of Salmonella: Cantaloupes (November 2023) | FDA
+Canonical URL: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cantaloupes-november-2023
+Source blocks SHA256: edae02af47382586398e90e8cc94b8ed6a8a4ae2c8d0d6ea1398ad44be4f7fef
+
+Excluded blocks are omitted. Corrected blocks use the reviewer-supplied text.
+
+# Source page: Main
+[BLOCK-0000 | role=report_evidence] Products and Stores Affected (Updated on 1/19/2024)
+[BLOCK-0001 | role=report_evidence] Recalled whole and pre-cut cantaloupes and recalled product containing pre-cut cantaloupes were sold or distributed from September to early December 2023 and should be past shelf-life. Consumers who froze cantaloupe products should check if they are part of the recalls. If you are unsure of where your cantaloupes are from, you should discard them.
+[BLOCK-0002 | role=report_evidence] Recalled whole cantaloupe from the following brands:
+[BLOCK-0003 | role=report_evidence] Whole fresh cantaloupes with a label on the cantaloupe that says “Malichita” or “Rudy”, “4050”, and “Product of Mexico/produit du Mexique”.
+[BLOCK-0004 | role=report_evidence] Retailers and wholesalers would have received recalled whole melons from Sofia Produce doing business as TruFresh in boxes labeled “Malichita” or “Rudy”, or from Crown Jewels Produce in boxes labeled “Malichita/Z Farms”, or from Pacific Trellis in corrugated cartons with certain lot codes.
+[BLOCK-0005 | role=report_evidence] Recalled pre-cut cantaloupe and products containing pre-cut cantaloupes (products made from recalled whole cantaloupes) can be found on the Major Recalls Page .
+[BLOCK-0006 | role=report_evidence] Symptoms of Salmonella Infection
+[BLOCK-0007 | role=report_evidence] Illness usually occurs within 12 to 72 hours after eating contaminated food and usually lasts four to seven days. Symptoms include diarrhea, fever, and abdominal cramps. Children younger than five, the elderly, and people with weakened immune systems are more likely to have severe infections.
+[BLOCK-0008 | role=report_evidence] Status
+[BLOCK-0009 | role=report_evidence] Ended
+[BLOCK-0010 | role=report_evidence] Recommendation
+[BLOCK-0011 | role=report_evidence] Consumers, restaurants, retailers, and wholesalers should not eat, sell, or serve recalled cantaloupe or recalled products containing cantaloupe.
+[BLOCK-0012 | role=report_evidence] Recalled whole and pre-cut cantaloupes and recalled product containing pre-cut cantaloupes were sold or distributed from September to early December 2023 and should be past shelf-life. Consumers who froze cantaloupe products should check if they are part of the recalls. If you are unsure of where your cantaloupes are from, you should discard them.
+[BLOCK-0013 | role=report_evidence] Anyone who purchased or received recalled cantaloupes should follow FDA’s safe handling and cleaning advice and use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with recalled products to reduce the risk of cross-contamination.
+[BLOCK-0014 | role=report_evidence] Pre-cut fruit manufacturers should ensure proper cleaning and sanitizing of food contact surfaces and evaluate the need to recall additional product due to the potential for cross-contamination in the processing facility.
+[BLOCK-0015 | role=report_evidence] Contact your healthcare provider if you think you may have symptoms of a Salmonella infection after eating recalled cantaloupe.
+[BLOCK-0016 | role=report_evidence] Current Update
+[BLOCK-0017 | role=report_evidence] January 19, 2024
+[BLOCK-0018 | role=report_evidence] The FDA and CDC, in collaboration with Canadian, state and local partners, investigated an outbreak of Salmonella infections linked to recalled cantaloupe.
+[BLOCK-0019 | role=report_evidence] As part of this investigation, FDA and industry partners worked together to collect and analyze samples of cantaloupe. Two of the samples were positive for Salmonella Sundsvall, and Whole Genome Sequencing (WGS) analysis confirmed that the strain of Salmonella found in isolates associated with these two samples matched the same strain of Salmonella found in ill people. One isolate tested positive for Salmonella Newport; however, it was not associated with the outbreak. Industry’s cooperation in collecting and sharing samples with FDA for further analysis provided additional information that helped resolve this outbreak.
+[BLOCK-0020 | role=report_evidence] As of January 19, 2024, CDC announced that the outbreak is over. CDC reports a total of 407 illnesses in 44 states. There has been a total of 158 hospitalizations and 6 deaths associated with this incident. The last illness onset was December 25, 2023. FDA’s investigation is complete.
+[BLOCK-0021 | role=report_evidence] Case Count Map Provided by CDC
+[BLOCK-0022 | role=report_evidence] Case Counts
+[BLOCK-0023 | role=report_evidence] Total Illnesses: 407 Hospitalizations: 158 Deaths: 6 Last Illness Onset: 12/25/2023 States with Cases: AK, AR, AZ, CA, CO, CT, FL, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY Product Distribution: Nationwide and Canada
+[BLOCK-0031 | role=report_evidence] Product Images – Recalled Whole Cantaloupe
+[BLOCK-0032 | role=report_evidence] Product Images – Recalled Cut Cantaloupe and Products Containing Cantaloupe
+[BLOCK-0033 | role=report_evidence] More information about recalled products and additional product images can be found on the Major Recall Page .
+[BLOCK-0034 | role=report_evidence] Previous Updates
+[BLOCK-0035 | role=report_evidence] December 15, 2023
+[BLOCK-0036 | role=report_evidence] FDA has been notified of additional recalls of pre-cut products made from recalled cantaloupes and has posted a compiled list of these recalls on the FDA website. Since the last update, Stop & Shop initiated a recall of TruFresh cantaloupe that was purchased between the dates of Oct. 23 – Nov. 11, 2023.
+[BLOCK-0037 | role=report_evidence] As of, December 15, 2023, CDC reported 302 cases from 42 states, with a latest onset date of November 28, 2023. Based on epidemiological data collected by CDC, 107 of 145 cases report exposure to cantaloupe and 56 people specifically report eating pre-cut cantaloupe.
+[BLOCK-0038 | role=report_evidence] The investigation is ongoing to determine whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.
+[BLOCK-0039 | role=report_evidence] December 7, 2023
+[BLOCK-0040 | role=report_evidence] FDA has been notified of additional recalls of pre-cut products made from recalled cantaloupes and has posted a compiled list of these recalls on the FDA website . On November 30, 2023, Cut Fruit Express initiated a recall of cantaloupe chunks and fruit mixes containing cantaloupe. On December 5, 2023, TGD Cuts, LLC has initiated a recall of the specific fresh-cut fruit cup, clamshell and tray products listed below because they contain cantaloupe from TruFresh.
+[BLOCK-0041 | role=report_evidence] As of, December 7, 2023, CDC reported 230 cases from 38 states, with a latest onset date of November 20, 2023. Based on epidemiological data collected by CDC, 78 of 105 cases report exposure to cantaloupe and 42 people specifically report eating pre-cut cantaloupe.
+[BLOCK-0042 | role=report_evidence] The investigation is ongoing to determine whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.
+[BLOCK-0043 | role=report_evidence] November 30, 2023
+[BLOCK-0044 | role=report_evidence] FDA has received additional recalls of pre-cut products made from recalled cantaloupes and has posted a compiled list of these recalls on the FDA website . This list will be updated as the agency receives notifications of new recalls. If you cannot tell if your cantaloupe, including pre-cut cantaloupe or products containing pre-cut cantaloupe is part of the recall, do not eat or use it and throw it away.
+[BLOCK-0045 | role=report_evidence] On November 27, 2023, Kwik Trip initiated a recall of fresh-cut fruit cup and tray products containing cantaloupe with sell-by dates of November 4, 2023 through December 3, 2023 because cantaloupes recalled by TrueFresh were used as raw materials in these products.
+[BLOCK-0046 | role=report_evidence] On November 28, 2023, Bix Produce recalled Grab N’ Go containers of cut cantaloupe and mixed fruit cups with sell-by dates of October 25, 2023 and October 26, 2023 because products were derived from cantaloupes that are involved in the Malachita cantaloupe recall.
+[BLOCK-0047 | role=report_evidence] On November 29, 2023, GHGA recalled pre-cut fruit products made from whole cantaloupe subject to the TrueFresh recall. Recalled products were distributed to Kroger stores in AL and GA, Sprout’s Farmers Market stores in AL, GA, NC, and SC, and Trader Joe’s stores in AL, FL, GA, SC, and TN and have “sell-by” dates from 10/28/23 – 11/8/23.
+[BLOCK-0048 | role=report_evidence] As of November 28, 2023, CDC reported 117 cases from 34 states, with a latest onset date of November 14, 2023. Based on epidemiological data collected by CDC, 40 of 52 cases report exposure to cantaloupe and 19 people specifically report eating pre-cut cantaloupe.
+[BLOCK-0049 | role=report_evidence] Since the last update on November 24, CDC has added a second strain of Salmonella (Oranienburg) to this outbreak investigation after the Canadian Food Inspection Agency found this strain in a sample of Malichita brand cantaloupes. Two people in the United States are infected with the outbreak strain of Salmonella Oranienburg.
+[BLOCK-0050 | role=report_evidence] The investigation is ongoing to determine whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.
+[BLOCK-0051 | role=report_evidence] November 27, 2027
+[BLOCK-0052 | role=report_evidence] On November 24, Pacific Trellis initiated a recall of whole fresh cantaloupes distributed between October 18 - 26 in California, Illinois, Oklahoma, Texas, and Wisconsin, and sold in various retail supermarkets.
+[BLOCK-0053 | role=report_evidence] November 24, 2023
+[BLOCK-0054 | role=report_evidence] On November 22, 2023, Crown Jewels Produce issued a recall of whole fresh cantaloupes, Sofia Produce expanded their recall of fresh whole cantaloupe, and CF Dallas initiated a recall of fresh cut fruit products made from whole cantaloupe subject to the Sofia Produce recall. As of November 24, 2023, CDC reported 99 cases from 32 states, with a latest onset date of November 10, 2023. The investigation is ongoing to determine whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.
+[BLOCK-0055 | role=report_evidence] November 17, 2023
+[BLOCK-0056 | role=report_evidence] The U.S. Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC), in collaboration with Canadian, and U.S. state and local partners, are investigating an outbreak of Salmonella Sundsvall infections. Whole Genome Sequencing analysis shows that clinical isolates from the ill people in Canada , are genetically related to the ill people in the United States. Canada has linked illnesses to imported cantaloupes sold under the label “Malichita”. Therefore, FDA recommends that consumers, restaurants, and retailers should not eat, sell, or serve recalled cantaloupe.
+[BLOCK-0057 | role=report_evidence] Based on epidemiological data collected by CDC, 15 of 29 cases report exposure to cantaloupe.
+[BLOCK-0058 | role=report_evidence] The investigation is ongoing to determine whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available.

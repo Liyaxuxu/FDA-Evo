@@ -1,0 +1,290 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1281",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Frozen Supplemental Shakes (February 2025) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-frozen-supplemental-shakes-february-2025",
+  "frozen_source_path": "t1/frozen_sources/case-1281.txt",
+  "frozen_source_sha256": "740c48d6b0a2c578c87989cbea6312d98b2ddab3916a0a2b2c3accbd2355f87b",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2025-02-21",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0097",
+          "source_page": "Main",
+          "text": "February 21, 2025"
+        },
+        {
+          "block_id": "BLOCK-0098",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Listeria monocytogenes infections linked to Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes."
+        },
+        {
+          "block_id": "BLOCK-0099",
+          "source_page": "Main",
+          "text": "On November 25, 2024, FDA was notified about an outbreak of Listeria monocytogenes in the United States, with many ill people residing in long-term care facilities (LTCF) prior to illness onset. FDA’s traceback investigation identified that each of the LTCF who supplied invoice information for review from 2024 to present received a frozen supplemental shake of either Lyons ReadyCare or Sysco Imperial brand. As part of this investigation, FDA collected environmental samples and found the outbreak strain of Listeria ."
+        },
+        {
+          "block_id": "BLOCK-0100",
+          "source_page": "Main",
+          "text": "According to CDC, this outbreak includes cases dating back to 2018, with 20 cases across 2024 and 2025, and is currently ongoing. Epidemiologic evidence in previous investigations were unable to identify a source of the outbreak. As of February 21, 2025, a total of 38 people infected with the outbreak strain of Listeria monocytogenes have been reported from 21 states. Of the 38 people for whom information is available, 37 people have been hospitalized. Eleven deaths have been reported. Of the 38 people for whom information is available, 34 (89%) reported living in long term care facilities or were hospitalized prior to becoming sick. Records reviewed from facilities indicated nutritional shakes were available to residents."
+        },
+        {
+          "block_id": "BLOCK-0101",
+          "source_page": "Main",
+          "text": "FDA has been informed that certain Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes are being voluntarily recalled. FDA is working with the recalling firms. FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0097",
+        "BLOCK-0098",
+        "BLOCK-0099",
+        "BLOCK-0100",
+        "BLOCK-0101"
+      ],
+      "stage_source_sha256": "535ce5dd173f190e9ca6b91d43916de2d1051349efc7444777aace081f5c9108"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2025-02-24",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0091",
+          "source_page": "Main",
+          "text": "February 24, 2025"
+        },
+        {
+          "block_id": "BLOCK-0092",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, are investigating illnesses in a multistate outbreak of Listeria monocytogenes infections linked to Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes manufactured by Prairie Farms Dairy, Inc. (“Prairie Farms”) from the Prairie Farms facility in Fort Wayne, Indiana."
+        },
+        {
+          "block_id": "BLOCK-0093",
+          "source_page": "Main",
+          "text": "On February 22, 2025, Lyons Magnus LLC recalled 4 oz. Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes. More information about the products being recalled is below."
+        },
+        {
+          "block_id": "BLOCK-0094",
+          "source_page": "Main",
+          "text": "As of February 24, 2025, a total of 38 people infected with the outbreak strain of Listeria monocytogenes have been reported from 21 states. Of the 38 people for whom information is available, 37 people have been hospitalized, and 12 deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0095",
+          "source_page": "Main",
+          "text": "As part of this investigation, FDA conducted an onsite inspection and collected environmental and product samples at Prairie Farms Dairy, Inc. in Fort Wayne, IN. Three of the environmental swabs collected from the processing area tested positive for Listeria monocytogenes . Whole Genome Sequencing analysis determined that the Listeria detected in these samples is closely related to the strain of Listeria that is causing illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0096",
+          "source_page": "Main",
+          "text": "FDA’s investigation is ongoing, and more information will be provided as it becomes available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0091",
+        "BLOCK-0092",
+        "BLOCK-0093",
+        "BLOCK-0094",
+        "BLOCK-0095",
+        "BLOCK-0096"
+      ],
+      "stage_source_sha256": "32114e01b6a60fd596c4f10a9121bada814c3d5a8c148dab3c972e5e6642c2d8"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2025-05-16",
+      "report_label": "Current Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "Images of Additional Products"
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "Product"
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "Recalled 4 oz. Lyons ReadyCare and Sysco Imperial frozen supplemental shakes manufactured by Prairie Farms Dairy Inc. (“Prairie Farms”) in Fort Wayne, IN."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "This product should no longer be available on the market. Additional information is available in the recall notice from Lyons Magnus LLC."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Symptoms of Listeriosis ( Listeria Infection)"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Symptoms usually start within two weeks after eating food contaminated with Listeria but may start as early as the same day or as late as 10 weeks after. Mild symptoms may include a fever, muscle aches, nausea, tiredness, vomiting, and diarrhea. If the more severe form of listeriosis develops, symptoms may include headache, stiff neck, confusion, loss of balance, and convulsions."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Stores Affected"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Recalled frozen supplemental shakes were distributed to foodservice customers, including hospitals and long-term care facilities nationwide."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Status"
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Ended."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Recommendations"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "The recalled product is no longer available on the market. Distributors and foodservice customers, including hospitals and long-term care facilities who purchased or received recalled Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes should not sell or serve these products. Carefully clean and sanitize any surfaces or containers that they touched and follow FDA’s safe handling and cleaning advice to reduce the risk of cross-contamination. Listeria can survive in refrigerated temperatures and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "If you or your family member have symptoms of listeriosis you should contact your health care provider to report your symptoms and receive care."
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Recommendations for At-Risk Groups"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns , adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0016",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have symptoms of a Listeria infection."
+        },
+        {
+          "block_id": "BLOCK-0018",
+          "source_page": "Main",
+          "text": "May 16, 2025"
+        },
+        {
+          "block_id": "BLOCK-0019",
+          "source_page": "Main",
+          "text": "The FDA and CDC, in collaboration with state and local partners, investigated illnesses in a multistate outbreak of Listeria monocytogenes infections linked to Lyons ReadyCare and Sysco Imperial frozen supplemental shakes manufactured by Prairie Farms from the Prairie Farms Dairy facility in Fort Wayne, Indiana."
+        },
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "In response to this investigation, Lyons Magnus LLC voluntarily recalled 4 oz. Lyons ReadyCare and Sysco Imperial frozen supplemental shakes with best by dates of 022125 to 022126 (February 21, 2025 – February 21, 2026). At this time, no recalled frozen supplemental shakes should be available on the market."
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "As of May 16, 2025, a total of 42 people from 21 states have been infected with the outbreak strain of Listeria monocytogenes . Of the 42 people with information available, 41 have been hospitalized, and 14 deaths have been reported."
+        },
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "CDC considers this outbreak over, and FDA’s outbreak investigation is closed."
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "Total Illnesses: 42 Hospitalizations: 41 Deaths: 14 Last Specimen Collection Date: March 13, 2025 States with Cases: AL, CA, CO, CT, FL, IL, IN, MD, MI, MN, MO, NC, NV, NY, OH, OK, PA, TN, TX, WA, and WV Product Distribution: Nationwide"
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Recalled Products"
+        },
+        {
+          "block_id": "BLOCK-ADD-TABLE-1281-01",
+          "source_page": "Main",
+          "text": "On February 22, 2025, Lyons Magnus LLC initiated a recall of 4 oz. Lyons ReadyCare and Sysco Imperial Frozen Supplemental Shakes."
+        },
+        {
+          "block_id": "BLOCK-ADD-1786032279581-6",
+          "source_page": "Main",
+          "text": "[TABLE BLOCK-ADD-TABLE-1281-01]"
+        },
+        {
+          "block_id": "BLOCK-0089",
+          "source_page": "Main",
+          "text": "Product Images"
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT. The visible page prefix belongs to this update.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015",
+        "BLOCK-0016",
+        "BLOCK-0018",
+        "BLOCK-0019",
+        "BLOCK-0020",
+        "BLOCK-0021",
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0033",
+        "BLOCK-ADD-TABLE-1281-01",
+        "BLOCK-ADD-1786032279581-6",
+        "BLOCK-0089"
+      ],
+      "stage_source_sha256": "288512e381fe8ae255f4a10ff26631597859cd246c51cc0b82bd156e112a6b23"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1137",
+  "title": "Outbreak Investigation of Salmonella: Sprouts (December 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-sprouts-december-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1137.txt",
+  "frozen_source_sha256": "098778c8803bf51e9995a4f509bb794cdf126eb4d082010dd3c7156b5bce087c",
+  "stage_count": 3,
+  "stages": [
+    {
+      "source_order": 1,
+      "report_date": "2022-12-30",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0022",
+          "source_page": "Main",
+          "text": "December 30, 2022"
+        },
+        {
+          "block_id": "BLOCK-0023",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners, is investigating a multistate outbreak of Salmonella Typhimurium infections. FDA’s traceback investigation is ongoing but has identified Sun Sprouts brand alfalfa sprouts grown by SunSprout Enterprises of Fremont, NE as a likely source of illnesses in this outbreak."
+        },
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "Based on the epidemiologic information provided by the CDC along with interviews conducted by state and local public health officials, the individuals identified in this outbreak reported consuming alfalfa sprouts prior to their illness onset, either at local restaurants or in their homes after purchasing from local grocery stores. Preliminary traceback evidence indicates that the restaurants and grocery stores identified in this outbreak received alfalfa sprouts from SunSprout Enterprises. Additionally, two of the individuals identified in this outbreak confirmed they had purchased Sun Sprouts brand alfalfa sprouts from their local grocery store. Whole Genome Sequencing (WGS) conducted on clinical samples collected from ill individuals identified 15 isolates that matched the outbreak strain: OK (1), NE (8), and SD (6). WGS for additional clinical isolates are still pending sequencing."
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "On December 29, 2022, SunSprout Enterprises initiated a voluntary recall of two lots (# 4211 and 5211) of raw alfalfa sprouts due to potential contamination with Salmonella . On the same day, SunSprout Enterprises expanded their voluntary recall to include two additional lots (# 3212, and 4212) of raw alfalfa sprouts. The raw alfalfa sprouts for all recalled lots (#4211, 5211, 3212, and 4212) are packaged in 4-ounce clamshells and 2.5 lb packages with best sold by dates between 12/10/2022 and 1/7/2023."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "The investigation is ongoing to determine the source of contamination and whether additional products are linked to illnesses. FDA will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0022",
+        "BLOCK-0023",
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026"
+      ],
+      "stage_source_sha256": "c4f501a35a27245cad33a92d987aca84f10e8572cdd674122a4934759fd9e5b2"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2023-02-28",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0020",
+          "source_page": "Main",
+          "text": "February 28, 2023"
+        },
+        {
+          "block_id": "BLOCK-0021",
+          "source_page": "Main",
+          "text": "As of February 28, 2023, CDC announced that the outbreak is over. CDC reports a total of 63 illnesses in eight states. The last illness onset was February 2, 2023."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0020",
+        "BLOCK-0021"
+      ],
+      "stage_source_sha256": "3cb7ab273fe3ddcdad659bdf01bbc98bb46b48234a3a326aa88e47557b1b495e"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The U.S. Food and Drug Administration (FDA), along with the Centers for Disease Control and Prevention (CDC) and state and local partners, investigated a multistate outbreak of Salmonella Typhimurium infections linked to Sun Sprouts-brand alfalfa sprouts grown by SunSprout Enterprises of Fremont, NE."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "As of February 28, 2023, CDC announced that the outbreak is over. CDC reports a total of 63 illnesses in eight states. The last illness onset was February 2, 2023."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On December 29, 2022, SunSprout Enterprises initiated a voluntary recall of two lots (# 4211 and 5211) of raw alfalfa sprouts due to potential contamination with Salmonella . On the same day, SunSprout Enterprises expanded their voluntary recall to include two additional lots (# 3212, and 4212) of raw alfalfa sprouts."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "On May 10, 2023, the FDA issued a Warning Letter to Rhodes Legacy Inc. (DBA Sun Sprouts)."
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Recalled products were sold fresh and are now past shelf-life and should no longer be available for sale."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "In general, FDA recommends that anyone who received recalled products use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination."
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "Recalled products include raw alfalfa sprouts sold in 4-ounce clamshells and 2.5-Ib packages, with best by dates between 12/10/2022 and 1/7/2023."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "Total Illnesses: 63 Hospitalizations: 10 Deaths: 0 Last illness onset: 2/2/2023 States with Cases: AZ (1), IA (6), KS (6), MO (9), NE (26), NH (1), OK (1), SD (13)"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011"
+      ],
+      "stage_source_sha256": "34d8264c0fd56b62368ba77238a8b0bf875e05bb7ca1685fe6d28995e7d7d32c"
+    }
+  ]
+}

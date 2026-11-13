@@ -1,0 +1,231 @@
+{
+  "schema_version": "reviewed_txt_stage_plan_v1",
+  "case_id": "1057",
+  "title": "Outbreak Investigation of Listeria monocytogenes: Ice Cream (July 2022) | FDA",
+  "canonical_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-ice-cream-july-2022",
+  "frozen_source_path": "t1/frozen_sources/case-1057.txt",
+  "frozen_source_sha256": "1afe38084ffc53f8e956b162c3ce5b27d65194fba22c0677c06104523f1de405",
+  "stage_count": 4,
+  "stages": [
+    {
+      "source_order": 2,
+      "report_date": "2022-07-11",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0031",
+          "source_page": "Main",
+          "text": "July 11, 2022"
+        },
+        {
+          "block_id": "BLOCK-0032",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, is assisting the Florida Department of Health (FL DOH) and Florida Department of Agriculture & Consumer Services (FDACS) in investigating an outbreak of Listeria monocytogenes infections linked to ice cream supplied by Big Olaf Creamery of Sarasota, Florida."
+        },
+        {
+          "block_id": "BLOCK-0033",
+          "source_page": "Main",
+          "text": "Based on epidemiological information collected by CDC and the FL DOH, Big Olaf ice cream products are a likely source of illness in this outbreak. A total of 23 people infected with the outbreak strain of Listeria monocytogenes have been reported from 10 states. Of the 18 people interviewed, all (100%) reported eating ice cream. Among 18 people who remembered details about the type of ice cream they ate, 10 reported eating Big Olaf Creamery brand ice cream or eating ice cream at locations that might have been supplied by Big Olaf Creamery. Twelve sick people are residents of Florida and nine reported traveling to Florida before getting sick."
+        },
+        {
+          "block_id": "BLOCK-0034",
+          "source_page": "Main",
+          "text": "FDA is concerned that retailers may still be selling Big Olaf ice cream products. Retailers should not sell or serve Big Olaf ice cream products and should throw them away. Consumers who may still have these products in their freezers should not eat or serve any Big Olaf ice cream products and should also throw the product away."
+        },
+        {
+          "block_id": "BLOCK-0035",
+          "source_page": "Main",
+          "text": "This is an ongoing investigation, and the firm has initiated a voluntary recall of its ice cream products. The FDA is continuing to work with the FL DOH and FDACS to investigate and will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 1,
+      "stage_id": "R1",
+      "source_block_ids": [
+        "BLOCK-0031",
+        "BLOCK-0032",
+        "BLOCK-0033",
+        "BLOCK-0034",
+        "BLOCK-0035"
+      ],
+      "stage_source_sha256": "38e1094e10422009494ade4edce633161791c1dcd8a3db42659dbbe1e9b1d714"
+    },
+    {
+      "source_order": 1,
+      "report_date": "2022-07-13",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0027",
+          "source_page": "Main",
+          "text": "July 13, 2022"
+        },
+        {
+          "block_id": "BLOCK-0028",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, is assisting the Florida Department of Health (FL DOH) and Florida Department of Agriculture & Consumer Services (FDACS) in investigating an outbreak of Listeria monocytogenes infections linked to ice cream supplied by Big Olaf Creamery of Sarasota, Florida."
+        },
+        {
+          "block_id": "BLOCK-0029",
+          "source_page": "Main",
+          "text": "In response to the FL DOH and FDACS outbreak investigation, Big Olaf Creamery of Sarasota, Florida ceased production and distribution of ice cream products on July 1, 2022. Big Olaf Creamery is now working to voluntarily recall all flavors and all lots of Big Olaf brand ice cream products. Big Olaf brand ice cream was sold in plastic pint size containers, plastic ½-gallon containers, and plastic 2.5-gallon tubs, scoopable. All flavors, lots, codes, and expiration dates through 6/30/2022 are included in this recall. The recalled product was sold at Big Olaf retailers in Florida as well as to consumers in restaurants and senior homes, and at one location in Fredericksburg, Ohio."
+        },
+        {
+          "block_id": "BLOCK-0030",
+          "source_page": "Main",
+          "text": "This is an ongoing investigation, and the FDA is continuing to work with the FL DOH and FDACS to investigate. FDA will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 2,
+      "stage_id": "R2",
+      "source_block_ids": [
+        "BLOCK-0027",
+        "BLOCK-0028",
+        "BLOCK-0029",
+        "BLOCK-0030"
+      ],
+      "stage_source_sha256": "9db454253fb7056a175ab0db281a10281be7ec9eebe92f0dc4f8ab23f0536433"
+    },
+    {
+      "source_order": 0,
+      "report_date": "2022-08-04",
+      "report_label": "Previous Update",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0024",
+          "source_page": "Main",
+          "text": "August 4, 2022"
+        },
+        {
+          "block_id": "BLOCK-0025",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, is assisting the Florida Department of Health (FL DOH) and Florida Department of Agriculture & Consumer Services (FDACS) in investigating an outbreak of Listeria monocytogenes infections linked to ice cream supplied by Big Olaf Creamery of Sarasota, Florida. As of August 2, 2022, CDC reports 25 illnesses in 11 states."
+        },
+        {
+          "block_id": "BLOCK-0026",
+          "source_page": "Main",
+          "text": "This is an ongoing investigation, and the FDA is continuing to work with the FL DOH and FDACS to investigate. FDA will update this advisory should additional consumer safety information become available."
+        }
+      ],
+      "segmentation_note": "Split at an explicit date heading in the reviewed TXT.",
+      "stage_order": 3,
+      "stage_id": "R3",
+      "source_block_ids": [
+        "BLOCK-0024",
+        "BLOCK-0025",
+        "BLOCK-0026"
+      ],
+      "stage_source_sha256": "df6ae64896aa6c8c9be5f36115706d89c5556614a388eddd06541e25e66c365e"
+    },
+    {
+      "source_order": -1,
+      "report_date": null,
+      "report_label": "Current page summary (undated)",
+      "source_blocks": [
+        {
+          "block_id": "BLOCK-0000",
+          "source_page": "Main",
+          "text": "The FDA, along with CDC, assisted the Florida Department of Health (FL DOH) and Florida Department of Agriculture & Consumer Services (FDACS) in the investigation of an outbreak of Listeria monocytogenes infections linked to ice cream supplied by Big Olaf Creamery of Sarasota, FL. CDC reports a total of 28 illnesses in 11 states. On November 2, 2022, CDC announced this outbreak is over."
+        },
+        {
+          "block_id": "BLOCK-0001",
+          "source_page": "Main",
+          "text": "FDACS conducted an investigation of the Big Olaf Creamery facility in Sarasota, FL and collected environmental samples from the facility and samples of finished product. FDACS performed whole genome sequencing on these samples and FL DOH identified the outbreak strain in the samples collected from the ice cream and the environment. FDA also inspected the Big Olaf Creamery facility in Sarasota, FL."
+        },
+        {
+          "block_id": "BLOCK-0002",
+          "source_page": "Main",
+          "text": "On December 9, 2022, FDA issued a Warning Letter to Big Olaf Creamery, following an inspection conducted as part of the multistate outbreak investigation."
+        },
+        {
+          "block_id": "BLOCK-0003",
+          "source_page": "Main",
+          "text": "Recommendation"
+        },
+        {
+          "block_id": "BLOCK-0004",
+          "source_page": "Main",
+          "text": "The recalled ice cream products should no longer be available for sale; however, ice cream has a long shelf life and may still be in consumers’ freezers. Consumers, restaurants, and retailers should not eat, sell, or serve any recalled Big Olaf ice cream products with expiration dates through 6/30/2022 and should throw the recalled product away."
+        },
+        {
+          "block_id": "BLOCK-0005",
+          "source_page": "Main",
+          "text": "Listeria is most likely to sicken pregnant women and newborns, adults aged 65 or older, and people with weakened immune systems. Other people can be infected with Listeria , but they rarely become seriously ill."
+        },
+        {
+          "block_id": "BLOCK-0006",
+          "source_page": "Main",
+          "text": "Call your healthcare provider right away if you have these symptoms after eating Big Olaf ice cream products:"
+        },
+        {
+          "block_id": "BLOCK-0007",
+          "source_page": "Main",
+          "text": "Pregnant women typically experience only fever, fatigue, and muscle aches. However, Listeria infection during pregnancy can lead to miscarriage, stillbirth, premature delivery, or life-threatening infection of the newborn."
+        },
+        {
+          "block_id": "BLOCK-0008",
+          "source_page": "Main",
+          "text": "People who are not pregnant may experience headache, stiff neck, confusion, loss of balance, and convulsions, in addition to fever and muscle aches."
+        },
+        {
+          "block_id": "BLOCK-0009",
+          "source_page": "Main",
+          "text": "Consumers, restaurants, and retailers who purchased or received any recalled Big Olaf ice cream products should throw the products away, follow FDA’s safe handling and cleaning advice and use extra vigilance in cleaning and sanitizing any surfaces and containers that may have come in contact with these products to reduce the risk of cross-contamination. Listeria can survive temperatures at or below freezing and can easily spread to other foods and surfaces."
+        },
+        {
+          "block_id": "BLOCK-0010",
+          "source_page": "Main",
+          "text": "Product Images"
+        },
+        {
+          "block_id": "BLOCK-0011",
+          "source_page": "Main",
+          "text": "The Big Olaf brand ice cream was sold to consumers in plastic pint size containers and plastic ½ gallon containers and was sold to independent retail stores in plastic 2.5-gallon scoopable tubs. All flavors, lots, codes, and all expiration dates through 6/30/2022 are included in this recall."
+        },
+        {
+          "block_id": "BLOCK-0012",
+          "source_page": "Main",
+          "text": "Case Count Map Provided by CDC"
+        },
+        {
+          "block_id": "BLOCK-0013",
+          "source_page": "Main",
+          "text": "Map of U.S. Distribution of Recalled Big Olaf’s Ice Cream Products"
+        },
+        {
+          "block_id": "BLOCK-0014",
+          "source_page": "Main",
+          "text": "Case Counts"
+        },
+        {
+          "block_id": "BLOCK-0015",
+          "source_page": "Main",
+          "text": "Total Illnesses: 28 Hospitalizations: 27 Deaths: 1 Fetal Loss: 1 Last illness onset: 6/24/2022 States with Cases: CO (1), FL (14), GA (1), IL (1), KS (1), NE (1), MA (2), MN (1), NJ (1), NY (4), PA (1) Product Distribution*: FL, OH *Distribution has been confirmed for states listed, but product could have been distributed further, reaching additional states"
+        }
+      ],
+      "segmentation_note": "Visible current summary preceding the Previous Updates section; no explicit report date was present.",
+      "stage_order": 4,
+      "stage_id": "R4",
+      "source_block_ids": [
+        "BLOCK-0000",
+        "BLOCK-0001",
+        "BLOCK-0002",
+        "BLOCK-0003",
+        "BLOCK-0004",
+        "BLOCK-0005",
+        "BLOCK-0006",
+        "BLOCK-0007",
+        "BLOCK-0008",
+        "BLOCK-0009",
+        "BLOCK-0010",
+        "BLOCK-0011",
+        "BLOCK-0012",
+        "BLOCK-0013",
+        "BLOCK-0014",
+        "BLOCK-0015"
+      ],
+      "stage_source_sha256": "d453c2d8703ad3927e87b21b1e13aefd3f71a5842f02f156d23921e51bc2b443"
+    }
+  ]
+}

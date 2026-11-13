@@ -1,0 +1,733 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1304",
+  "title": "Outbreak Investigation of Salmonella: Cucumbers (May 2025) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0057"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "NO",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "No formal recall is established by this stage."
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0055",
+            "BLOCK-0056"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0051",
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers",
+              "recalling_company": "Bedner Growers, Inc.",
+              "brands": [],
+              "recall_scope": "sold at Bedner's Farm Fresh Market (Boynton Beach, Delray Beach and West Palm Beach, FL) between April 29, 2025, and May 14, 2025"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0052"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-006 (2026-10-17): one record per formal recall; see GOLD_CORRECTIONS_PRODUCT_REVIEW.md."
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0046"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0045",
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers",
+              "recalling_company": "Bedner Growers, Inc.",
+              "brands": [],
+              "recall_scope": "sold at Bedner's Farm Fresh Market (Boynton Beach, Delray Beach and West Palm Beach, FL) between April 29, 2025, and May 14, 2025"
+            },
+            {
+              "product_name": "fresh cucumbers",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "vegetable trays",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole cucumbers",
+              "recalling_company": "PennRose Farms, LLC",
+              "brands": [],
+              "recall_scope": "5-pound mesh bags"
+            },
+            {
+              "product_name": "Marinated Cucumber salads",
+              "recalling_company": "Ukrop's Homestyle Foods, LLC",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0046",
+            "BLOCK-0047",
+            "BLOCK-0048",
+            "BLOCK-0049"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-006 (2026-10-17): one record per formal recall; see GOLD_CORRECTIONS_PRODUCT_REVIEW.md."
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0042",
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers",
+              "recalling_company": "Bedner Growers, Inc.",
+              "brands": [],
+              "recall_scope": "sold at Bedner's Farm Fresh Market (Boynton Beach, Delray Beach and West Palm Beach, FL) between April 29, 2025, and May 14, 2025"
+            },
+            {
+              "product_name": "fresh cucumbers",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "vegetable trays",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole cucumbers",
+              "recalling_company": "PennRose Farms, LLC",
+              "brands": [],
+              "recall_scope": "5-pound mesh bags"
+            },
+            {
+              "product_name": "Marinated Cucumber salads",
+              "recalling_company": "Ukrop's Homestyle Foods, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0043"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-006 (2026-10-17): one record per formal recall; see GOLD_CORRECTIONS_PRODUCT_REVIEW.md."
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 26,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0037",
+            "BLOCK-0038",
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers",
+              "recalling_company": "Bedner Growers, Inc.",
+              "brands": [],
+              "recall_scope": "sold at Bedner's Farm Fresh Market (Boynton Beach, Delray Beach and West Palm Beach, FL) between April 29, 2025, and May 14, 2025"
+            },
+            {
+              "product_name": "fresh cucumbers",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "vegetable trays",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole cucumbers",
+              "recalling_company": "PennRose Farms, LLC",
+              "brands": [],
+              "recall_scope": "5-pound mesh bags"
+            },
+            {
+              "product_name": "Marinated Cucumber salads",
+              "recalling_company": "Ukrop's Homestyle Foods, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products that used recalled cucumbers",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0040"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-006 (2026-10-17): one record per formal recall; see GOLD_CORRECTIONS_PRODUCT_REVIEW.md."
+        }
+      }
+    },
+    "R6": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 69,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0031"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 22,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0031"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R6",
+          "evidence_ids": [
+            "BLOCK-0031",
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers",
+              "recalling_company": "Bedner Growers, Inc.",
+              "brands": [],
+              "recall_scope": "sold at Bedner's Farm Fresh Market (Boynton Beach, Delray Beach and West Palm Beach, FL) between April 29, 2025, and May 14, 2025"
+            },
+            {
+              "product_name": "fresh cucumbers",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "vegetable trays",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole cucumbers",
+              "recalling_company": "PennRose Farms, LLC",
+              "brands": [],
+              "recall_scope": "5-pound mesh bags"
+            },
+            {
+              "product_name": "Marinated Cucumber salads",
+              "recalling_company": "Ukrop's Homestyle Foods, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products that used recalled cucumbers",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R5",
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "GC-006 (2026-10-17): one record per formal recall; see GOLD_CORRECTIONS_PRODUCT_REVIEW.md."
+        }
+      }
+    },
+    "R7": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 69,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 22,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0019"
+          ],
+          "evidence_exempt": false,
+          "note": "Transferred from the reviewed stage annotation and checked against this stage source."
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "carried_forward",
+          "source_stage_id": "R6",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers grown by Bedner Growers, Inc.",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0016"
+          ],
+          "evidence_exempt": false,
+          "note": "Only products supported as implicated by the investigation are included; recall-only downstream products are excluded. | GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "cucumbers",
+              "recalling_company": "Bedner Growers, Inc.",
+              "brands": [],
+              "recall_scope": "sold directly to consumers at Bedner's Farm Fresh Market between April 29, 2025, and May 14, 2025, and to its wholesale distributor"
+            },
+            {
+              "product_name": "fresh cucumbers",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "vegetable trays",
+              "recalling_company": "Harris Teeter",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "whole cucumbers",
+              "recalling_company": "PennRose Farms, LLC",
+              "brands": [],
+              "recall_scope": "5-pound mesh bags"
+            },
+            {
+              "product_name": "Marinated Cucumber salads",
+              "recalling_company": "Ukrop's Homestyle Foods, LLC",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products made with or repackaged from recalled Bedner Growers cucumbers",
+              "recalling_company": "",
+              "brands": [],
+              "recall_scope": ""
+            },
+            {
+              "product_name": "products that used recalled cucumbers",
+              "recalling_company": "Target",
+              "brands": [],
+              "recall_scope": ""
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R7",
+          "evidence_ids": [
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": true,
+          "note": "GC-006 (2026-10-17): one record per formal recall; see GOLD_CORRECTIONS_PRODUCT_REVIEW.md."
+        }
+      }
+    }
+  }
+}

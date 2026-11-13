@@ -1,0 +1,208 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1190",
+  "title": "Outbreak Investigation of Salmonella: Onions (October 2023) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": "Nineteen refers to cases with information available, not an explicitly reported cumulative total."
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "fresh diced onions from Gills Onions",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0037",
+            "BLOCK-0038",
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "diced yellow onion",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            },
+            {
+              "product_name": "diced onions & celery",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            },
+            {
+              "product_name": "diced mirepoix",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            },
+            {
+              "product_name": "diced red onions",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0039"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 80,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0019",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 18,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0019",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 1,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0019",
+            "BLOCK-0023"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "Gills Onions brand diced onions",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0017"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "diced yellow onion",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            },
+            {
+              "product_name": "diced onions & celery",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            },
+            {
+              "product_name": "diced mirepoix",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            },
+            {
+              "product_name": "diced red onions",
+              "recalling_company": "Gills Onions",
+              "brands": [],
+              "recall_scope": "use-by dates in August 2023"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0002",
+            "BLOCK-0032"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    }
+  }
+}

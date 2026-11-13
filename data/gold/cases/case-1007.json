@@ -1,0 +1,542 @@
+{
+  "schema_version": "fda_evo_six_variable_annotation_v1",
+  "case_id": "1007",
+  "title": "Outbreak Investigation of Salmonella Weltevreden: Frozen Pre-cooked Shrimp (April 2021) | FDA",
+  "stages": {
+    "R1": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp manufactured by Avanti Frozen Foods",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0066",
+            "BLOCK-0068",
+            "BLOCK-0069"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked, peeled, deveined shrimp products",
+              "recalling_company": "Avanti Frozen Foods",
+              "brands": [],
+              "recall_scope": "imported into the U.S. from December 2020 to February 2021; various brand names and package sizes, including shrimp packaged with cocktail sauce"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R1",
+          "evidence_ids": [
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        }
+      }
+    },
+    "R2": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 6,
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R2",
+          "evidence_ids": [
+            "BLOCK-0064"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp manufactured by Avanti Frozen Foods",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked, peeled, deveined shrimp products",
+              "recalling_company": "Avanti Frozen Foods",
+              "brands": [],
+              "recall_scope": "imported into the U.S. from December 2020 to February 2021; various brand names and package sizes, including shrimp packaged with cocktail sauce"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": ""
+        }
+      }
+    },
+    "R3": {
+      "variables": {
+        "case_count": {
+          "status": "UNCLEAR",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [
+            "BLOCK-0060"
+          ],
+          "evidence_exempt": false,
+          "note": "原文明确说出现新增病例，但没有给出新的累计总数。"
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0060",
+            "BLOCK-0061"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp manufactured by Avanti Frozen Foods",
+              "association_status": "CONFIRMED"
+            }
+          ],
+          "value_source": "carried_forward",
+          "source_stage_id": "R1",
+          "evidence_ids": [],
+          "evidence_exempt": true,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked, peeled and deveined shrimp products",
+              "recalling_company": "Avanti Frozen Foods",
+              "brands": [
+                "CENSEA",
+                "CHICKEN OF THE SEA",
+                "HONEST CATCH",
+                "CWNO",
+                "HANNAFORD",
+                "WATERFRONT BISTRO",
+                "OPEN ACRES",
+                "265",
+                "MEIJER"
+              ],
+              "recall_scope": "Recall announced on June 25, 2021; products imported into the U.S. from December 2020 to February 2021; sold under various brand names and package sizes, including some packaged with cocktail sauce."
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R3",
+          "evidence_ids": [
+            "BLOCK-0061",
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": "R3原文将当前初始召回品牌之一写作“265”，因此本阶段按原文保留265，不使用外部公告或后续阶段改写。召回于2021年6月25日宣布；产品进口时间范围为2020年12月至2021年2月。"
+        }
+      }
+    },
+    "R4": {
+      "variables": {
+        "case_count": {
+          "status": "UNCLEAR",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": "原文明确说出现新增病例，但没有给出新的累计总数。"
+        },
+        "hospitalization_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "NOT_STATED",
+          "value": null,
+          "value_source": "unknown",
+          "source_stage_id": null,
+          "evidence_ids": [],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0055"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp manufactured by Avanti Frozen Foods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0055",
+            "BLOCK-0056",
+            "BLOCK-0057",
+            "BLOCK-0058",
+            "BLOCK-0061",
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp",
+              "recalling_company": "Avanti Frozen Foods",
+              "brands": [
+                "CENSEA",
+                "CHICKEN OF THE SEA",
+                "HONEST CATCH",
+                "CWNO",
+                "HANNAFORD",
+                "WATERFRONT BISTRO",
+                "OPEN ACRES",
+                "265",
+                "MEIJER"
+              ],
+              "recall_scope": "imported into the U.S. from November 2020 to May 2021"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "recalling_company": "Genji Pacific LLC",
+              "brands": [],
+              "recall_scope": "sold in California"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "recalling_company": "Mai Cuisine Inc.",
+              "brands": [],
+              "recall_scope": "sold in California"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "recalling_company": "Mai Franchising Inc.",
+              "brands": [],
+              "recall_scope": "sold in California"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R4",
+          "evidence_ids": [
+            "BLOCK-0055",
+            "BLOCK-0056",
+            "BLOCK-0057",
+            "BLOCK-0058",
+            "BLOCK-0061",
+            "BLOCK-0066"
+          ],
+          "evidence_exempt": false,
+          "note": "R4 将初始召回扩大到 2020年11月至2021年5月；R3 已明确列出的9个品牌继续累计保留。R4 尚未给出扩展召回的完整新增品牌清单，因此不提前加入 R5 才出现的品牌；R3 原文写作“265”，本阶段继续按当时原文保留。"
+        }
+      }
+    },
+    "R5": {
+      "variables": {
+        "case_count": {
+          "status": "STATED",
+          "value": 9,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0001",
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "hospitalization_count": {
+          "status": "STATED",
+          "value": 3,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "death_count": {
+          "status": "STATED",
+          "value": 0,
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0042"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "recall_status": {
+          "status": "STATED",
+          "value": "YES",
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0008",
+            "BLOCK-0028"
+          ],
+          "evidence_exempt": false,
+          "note": ""
+        },
+        "implicated_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp manufactured by Avanti Frozen Foods",
+              "association_status": "CONFIRMED"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "association_status": "SUSPECTED"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0000",
+            "BLOCK-0002"
+          ],
+          "evidence_exempt": false,
+          "note": "GC-007 (2026-10-17): full-source audit revision; see data/gold/audit_2026-10-17/revised/."
+        },
+        "recalled_product": {
+          "status": "STATED",
+          "value": [
+            {
+              "product_name": "frozen cooked shrimp",
+              "recalling_company": "Avanti Frozen Foods",
+              "brands": [
+                "BIG RIVER",
+                "365",
+                "AHOLD",
+                "CENSEA",
+                "COS",
+                "CWNO",
+                "FIRST STREET",
+                "NATURE’S PROMISE",
+                "HARBOR BANKS",
+                "HOS",
+                "MEIJER",
+                "SANDBAR",
+                "SEA COVE",
+                "WATERFRONT BISTRO",
+                "WELLSLEYFARMS",
+                "WFNOBRANDS",
+                "FOODLION",
+                "HANNAFORD"
+              ],
+              "recall_scope": "imported into the U.S. from November 2020 to May 2021"
+            },
+            {
+              "product_name": "frozen cooked shrimp",
+              "recalling_company": "Avanti Frozen Foods",
+              "brands": [
+                "CENSEA",
+                "CHICKEN OF THE SEA",
+                "HONEST CATCH",
+                "CWNO",
+                "HANNAFORD",
+                "WATERFRONT BISTRO",
+                "OPEN ACRES",
+                "365",
+                "MEIJER"
+              ],
+              "recall_scope": "imported into the U.S. from December 2020 to February 2021"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "recalling_company": "Genji Pacific LLC",
+              "brands": [],
+              "recall_scope": "sold in California"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "recalling_company": "Mai Cuisine Inc.",
+              "brands": [],
+              "recall_scope": "sold in California"
+            },
+            {
+              "product_name": "sushi products containing recalled shrimp",
+              "recalling_company": "Mai Franchising Inc.",
+              "brands": [],
+              "recall_scope": "sold in California"
+            }
+          ],
+          "value_source": "stated_this_stage",
+          "source_stage_id": "R5",
+          "evidence_ids": [
+            "BLOCK-0003",
+            "BLOCK-0004",
+            "BLOCK-0005",
+            "BLOCK-0006",
+            "BLOCK-0008",
+            "BLOCK-0009",
+            "BLOCK-0010",
+            "BLOCK-0011",
+            "BLOCK-0012",
+            "BLOCK-0013",
+            "BLOCK-0014",
+            "BLOCK-0015",
+            "BLOCK-0016",
+            "BLOCK-0017",
+            "BLOCK-0018",
+            "BLOCK-0019",
+            "BLOCK-0020",
+            "BLOCK-0021",
+            "BLOCK-0022",
+            "BLOCK-0023",
+            "BLOCK-0024",
+            "BLOCK-0025",
+            "BLOCK-0026",
+            "BLOCK-0028",
+            "BLOCK-0029",
+            "BLOCK-0030",
+            "BLOCK-0031",
+            "BLOCK-0032",
+            "BLOCK-0033",
+            "BLOCK-0034",
+            "BLOCK-0035",
+            "BLOCK-0036",
+            "BLOCK-0037"
+          ],
+          "evidence_exempt": false,
+          "note": "R5 分开记录同一公司下两个召回范围。产品1对应 expanded recall（进口时间 2020年11月至2021年5月）并完整保留其18个品牌；产品2对应 initial recall（进口时间 2020年12月至2021年2月）并完整保留 BLOCK-0029 至 BLOCK-0037 列出的9个品牌。两个范围共有的 CENSEA、CWNO、HANNAFORD、WATERFRONT BISTRO、365 和 MEIJER 在两条记录中都保留，重复表示它们同时属于两个原文明示的范围。"
+        }
+      }
+    }
+  }
+}
